@@ -1,211 +1,265 @@
-# 香港（Hong Kong）— LENS A：室內裝修設計市場結構、規模、玩家與價格
+# 香港 室內裝修設計市場 — LENS A：市場結構、規模、玩家與定價
 
-> 研究日期：2026-10-08｜研究者：Claude（市場研究子代理）
-> 匯率假設（與 T1 市場規模校準檔一致，驗證階段須以當日官方匯率覆寫）：**1 USD = 7.80 HKD；1 USD = 31.5 TWD；故 1 HKD ≈ 0.128 USD ≈ 4.04 TWD**。所有換算皆為本人計算，非來源原數。面積換算：1 坪 = 3.3058 m²；1 ft² = 0.0929 m²；1 m² = 10.764 ft²。
->
-> **方法限制（極重要，整合者必讀）**：本輪執行時，整個工作流共享的網路搜尋額度在本代理發出第一批查詢前**已被其他代理用罄**（WebSearch 回傳「budget used up」），且本環境禁止網頁抓取（WebFetch／curl）。因此本檔**沒有任何一筆新的搜尋結果**，內容只能做兩件事：(1) 把本專案其他筆記（T1 市場規模校準、T3 法規證照、CN-A／CN-B 中國筆記、TW-A 台灣筆記）中先前以搜尋取得、且附有 URL 的香港數據**集中整理並換算**；(2) 把任務要求但本專案尚未取得的項目，逐條列為「資料缺口」並附建議查詢詞。**本檔不含任何憑記憶填入的數字**；凡任務提示中點名但無來源的公司（裝修佬、好師傅、Decor8、AB Concept、Joyce Wang、IKEA 香港、實惠、日本城等）僅列名為「待查對象」，不附任何數據。請於下一輪搜尋額度恢復後，依 §10 缺口清單補跑約 20 次搜尋，再把本檔升級。
+> 研究日期：2026-10-08。幣別換算假設（2025–2026 概略匯率）：**1 USD = 7.80 HKD；1 USD = 31.0 TWD；故 1 HKD ≈ 3.97 TWD（下文以 ≈4.0 計）**。面積換算：1 平方呎（sq ft）= 0.0929 m²；1 m² = 10.764 sq ft；1 坪 = 3.3058 m² = 35.58 sq ft。
+> 本檔僅用 ~20 次 WebSearch 且無法抓取全文，所有數字皆取自搜尋摘要並附 URL；凡標「推算」者為本研究自行計算，非來源原文。
 
 ---
 
 ## 1. 摘要
 
-1. 香港是本專案 12 個市場中**唯一有官方、按季發布、同時涵蓋住宅與商用裝修的統計數列**：政府統計處（C&SD）「建造工程完成量按季統計調查」中的「非地盤建造工程」（含小規模新建工程、樓房裝飾、樓宇修葺及保養、非地盤電器安裝及保養）**2024 年全年 HK$873 億（年減 6.0%）≈ USD 111.9 億 ≈ NT$3,526 億**；2025 年第一／二／四季分別為 HK$206／205／222 億（年減 3.9%／0.7%／3.0%），第三季未取得，全年推估約 HK$850 億【示意】。
-2. 該口徑**高估**狹義裝修市場（含小型新建與機電保養），但相對 GDP（≈USD 428 億，IMF 2025 人均 USD 56,893 × 約 750 萬人）約 **2.5–2.6%**、人均約 **USD 1,490**（≈NT$47,000），是 12 市場中人均最高者，約為台灣民間推估口徑（5,500 億／2,340 萬人 ≈ USD 746）的 2 倍。
-3. 「室內設計服務費」口徑無獨立官方數字；最接近的是香港貿發局（HKTDC）引述的**設計產業（含產品、時裝、平面等所有設計）增加值 HK$41 億（2022，年減 6%）、設計公司逾 7,000 家**，占 GDP 約 0.12%，與日本、中國、新加坡的設計服務／GDP 比（0.12–0.15%）一致。
-4. 官方數列顯示香港裝修市場 **2024–2025 連續負成長**（2024 −6.0%；2025 各季 −0.7% 至 −3.9%），與研究機構對亞太「+5–8% CAGR」的預測脫節；研究機構報告多把香港併入中國（如 Credence「China Interior Fit Out」），無香港獨立估計。
-5. 商用裝修單位成本：Cushman & Wakefield 2025 年亞太辦公室裝修成本指南，香港約 **USD 160/ft²**（≈USD 1,722/m² ≈ HK$13,400/m² ≈ NT$17.9 萬／坪），為大中華區最高、台北（中階 USD 110/ft²）的 1.45 倍；本地承包商報價區間 HK$400–1,200/ft²（低信心）。
-6. 上市設計公司樣本：梁志天設計集團（Steve Leung Design Group，2262.HK）**2025 年收入 HK$4.227 億（≈USD 5,419 萬 ≈ NT$17.1 億；2024：HK$3.677 億，+15%），股東應占溢利 HK$1,120 萬**，顯示高端設計公司仍可成長但利潤率極薄（約 2.6%）。
-7. 消費者保護面：消費者委員會（Consumer Council）2017–2023 年共接獲 **1,205 宗家居裝修投訴、涉款逾 HK$2.7 億，平均每宗約 HK$23 萬（≈NT$93 萬）**，成功追討僅 22%；消委會 2024 年 2 月建議推行標準報價單、認證計畫與 7 日冷靜期。
-8. **本輪完全缺乏**：住宅落成量、一二手成交量、樓齡分布、住宅裝修每呎單價分級、設計費行情、工期、平台用戶數、家居零售商營收、裝修公司結業案例——皆已列入 §10 缺口並附查詢詞。
+1. 香港**沒有**官方的「室內設計／住宅裝修市場」總量統計；最接近的官方口徑是政府統計處（Census and Statistics Department, C&SD）「主要承建商完成的**非地盤建造工程**」（涵蓋小規模新建、樓房裝飾、樓宇修葺保養、非地盤機電），**2025 年名義值 857 億港元（≈ 110 億美元 ≈ 3,406 億台幣），按年 −1.9%（實質 −3.1%）；2024 年 873 億港元（−6.0%）**。
+2. 住宅裝修單價：全屋裝修（連工包料）市場均價約 **1,000 港元／呎（≈ 10,760 港元／m² ≈ 35,600 港元／坪 ≈ 14.1 萬台幣／坪）**，常見區間 600–1,400 港元／呎；公屋 400–850、居屋 700–1,000、私樓 600–1,200（高端 1,500–3,800）港元／呎。2025 年報價較 2024 年上升約 8–15%（業界估計）。
+3. 商辦裝修：仲量聯行（JLL）2026 年指南中等規格寫字樓裝修成本 **200 美元／呎（1,566 港元／呎）**，按年 +1.5%；戴德梁行（Cushman & Wakefield）2026 年指南 **160 美元／呎**（按年持平，大中華區最高）；JLL 2025 年指南（2024 年均值）133 美元／呎，亞太第 4、全球第 28。
+4. 需求面：2025 年私人住宅落成 **18,450 伙（−24%）**，差餉物業估價署（RVD）預測 2026 年 16,980、2027 年 15,360 伙，新樓裝修需求走弱；但 2025 年住宅登記 **62,832 宗（一手 20,525、二手 39,821）**創 4 年新高，二手換樓帶動翻新。**存量老化**是結構性引擎：2023 年底 28,370 幢私樓樓齡 ≥30 年（佔 64%），2025 年底 ≥30 年且屬強制驗樓範圍者逾 2 萬幢。
+5. 產業結構高度碎片化：2022 年全港「設計業」機構 7,110 間、就業 18,470 人，其中「室內及傢俬設計」約佔機構數三分之一（推算約 2,400 間）；屋宇署註冊小型工程承建商（公司）第三方名錄逾 8,800 間。唯一上市純設計公司梁志天設計集團（SLD, 2262.HK）2025 年收入僅 4.23 億港元，可見龍頭市占極低。
+6. 通路：O2O 配對平台（裝修佬 DecoMan、好師傅 CoDECO、HelloToby、Pro360 等）與設計公司自媒體內容為主要獲客方式；好師傅累計工程額逾 12 億港元（2013–2025）、裝修佬服務逾 2.5 萬家庭。平台 GMV 相對整體市場仍小（<1%）。
+7. 監管：香港**無專門法規監管家居裝修公司**，消費者委員會 2024 年研究報告倡議標準報價單、認證制度等 4 項建議；投訴 2017–2023 年 1,205 宗、涉款 2.7 億港元（平均每宗約 23 萬港元）。
 
 ---
 
 ## 2. 市場規模與成長
 
-### Takeaway
-香港有 A 級官方數列（C&SD 非地盤建造工程）可作為「設計施工＋商用裝修」總量錨點（2024 年 HK$873 億，負成長），但沒有住宅／商用拆分，也沒有純設計服務的獨立統計；研究機構未對香港單獨估值。
+### 2.1 官方口徑：建造工程完成量（C&SD）
 
-### 2.1 各來源數字對照表
+| 指標 | 數值 | 年份 | 來源 | 定義／備註 |
+|---|---|---|---|---|
+| 主要承建商完成建造工程名義總值（全部） | 2,906.1 億港元（≈372.6 億美元；≈1.155 兆台幣） | 2024 | [香港統計年刊 2025](https://www.censtatd.gov.hk/en/data/stat_report/product/B1010003/att/B10100032025AN25B0100.pdf)；[2024 Q4 及全年新聞稿](https://www.info.gov.hk/gia/general/202503/11/P2025031100233.htm) | 含地盤＋非地盤，含分判商完成量，不論收款時間 |
+| 其中：**非地盤建造工程**名義總值 | **873 億港元**（≈111.9 億美元；≈3,469 億台幣），按年 −6.0% | 2024 | [C&SD 2024 Q4 及全年](https://www.info.gov.hk/gia/general/202503/11/P2025031100233.htm) | 「小規模新建工程及樓房裝飾、樓宇修葺及保養工程，和非地盤的電器設備安裝及保養工程」——最接近「裝修＋維修」的官方口徑，但含維修保養與機電，且**只涵蓋主要承建商**（小型裝修公司／個體戶多未納入） |
+| 非地盤建造工程名義總值 | **857 億港元**（≈109.9 億美元；≈3,406 億台幣），按年 −1.9%；實質 −3.1% | 2025（臨時） | [C&SD 2025 Q4 及全年](https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm) | 同上；2026 年 6 月首季發布時已修訂 2025 全年數字（[C&SD 2026 Q1](https://www.info.gov.hk/gia/general/202606/11/P2026061100218.htm)），修訂值未取得 |
+| 非地盤 季度值 | 2024 Q4：229 億港元（−2.1%）；2025 Q2：205 億港元（−0.7%） | 2024–25 | [C&SD 2024 Q4](https://www.info.gov.hk/gia/general/202503/11/P2025031100233.htm)；[2025 Q2 報告](https://www.censtatd.gov.hk/wbr/B1090002/B10900022025QQ02/att/tc/B10900022025QQ02.pdf) | |
+| 全部建造工程 季度值 | 2025 Q4：732 億港元（−6.1%，實質 −8.3%）；2026 Q1：727 億港元（+2.9%） | 2025–26 | [C&SD 2025 Q4](https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm)；[C&SD 2026 Q1](https://www.info.gov.hk/gia/general/202606/11/P2026061100218.htm) | 整體建造業 2025 下半年走弱 |
 
-| 來源 | 口徑／定義 | 年份 | 數值（原幣） | USD | TWD | 信心 |
-|---|---|---|---|---|---|---|
-| 政府統計處（Census and Statistics Department, C&SD）建造工程完成量按季統計調查 | 「非地盤建造工程」＝主要承建商在地盤以外完成的工程：小規模新建工程、樓房裝飾、樓宇修葺及保養、非地盤電器安裝及保養（住宅＋非住宅合計） | 2024 全年 | **HK$873 億（−6.0%）** | 111.9 億 | 3,526 億 | 高（官方；但口徑寬於裝修） |
-| 同上 | 同上，2025 Q1 | 2025 Q1 | HK$206 億（−3.9%） | 26.4 億 | 832 億 | 高 |
-| 同上 | 同上，2025 Q2 | 2025 Q2 | HK$205 億（−0.7%） | 26.3 億 | 828 億 | 高 |
-| 同上 | 同上，2025 Q4 | 2025 Q4 | HK$222 億（−3.0%） | 28.5 億 | 897 億 | 高 |
-| 本研究推估 | 2025 全年（Q3 未取得，以 Q1+Q2+Q4 加上約 HK$215 億 Q3 假設） | 2025 | ≈HK$850 億【示意】 | ≈109 億 | ≈3,433 億 | 低（推估） |
-| C&SD | 主要承建商完成建造工程名義總值（地盤＋非地盤，全建造業） | 2025 全年（臨時） | HK$2,866 億（−1.4%） | 367.4 億 | 11,574 億 | 高 |
-| C&SD（經文匯網轉載） | 主要承建商完成建造工程總值 | 2026 Q1 | HK$727 億（+2.9%） | 93.2 億 | 2,936 億 | 高 |
-| 香港貿易發展局（HKTDC Research）「Design Industry in Hong Kong」 | 設計產業增加值（含室內、產品、時裝、平面、多媒體等全部設計；非裝修口徑） | 2022 | HK$41 億（−6%）；設計公司 >7,000 家 | 5.26 億 | 166 億 | 中（口徑不符） |
-| Credence Research「China Interior Fit Out Market」 | 中國室內裝修 fit-out（研究機構；香港僅作為華南重點城市併入） | 2023→2032 | USD 73 億 → 154 億 | 73 億（全中國） | — | 低（非香港數字） |
+**解讀**：香港官方「非地盤」口徑 2023→2024→2025 連續下跌（−6.0%、−1.9%），反映商辦裝修放緩與公營工程週期；但此口徑**低估**住宅裝修（大量小型承建商與個體師傅不在「主要承建商」調查內）。資料下載：[data.gov.hk 表 615-66001](https://data.gov.hk/tc-data/dataset/hk-censtatd-tablechart-615-66001)。
 
-來源：
-- C&SD 2024 全年：[二零二四年第四季及全年建造工程完成量統計數字（政府新聞公報 2025-03-11）](https://www.info.gov.hk/gia/general/202503/11/P2025031100233.htm)
-- C&SD 2025 Q1：[Construction output for first quarter of 2025](https://www.censtatd.gov.hk/en/press_release_detail.html?id=5590)
-- C&SD 2025 Q2：[二零二五年第二季建造工程完成量統計數字（2025-09-11）](https://www.info.gov.hk/gia/general/202509/11/P2025091100340.htm)
-- C&SD 2025 Q4 與全年總值：[二零二五年第四季及全年建造工程完成量統計數字（2026-03-12）](https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm)
-- 2026 Q1：[文匯網 2026-06-11](https://www.wenweipo.com/a/202606/11/AP6a2a9131e4b0b49ad1bef21b.html)
-- HKTDC：[Design Industry in Hong Kong](https://research.hktdc.com/en/article/MzEzOTE1MDI5)
-- Credence：[China Interior Fit Out Market](https://www.credenceresearch.com/report/china-interior-fit-out-market)
-- 發展局（Development Bureau）表 168「主要承建商在地盤進行建造工程的總值（按工程類別）」可進一步拆出「裝修、修葺及保養」，本專案尚未開啟：[DEVB 數據頁](https://www.devb.gov.hk/tc/publications_and_press_releases/figures_and_statistics/gross_value/index.html)
+### 2.2 室內設計服務業（HKTDC 引用 C&SD）
 
-### 2.2 定義差異說明
-- **C&SD「非地盤建造工程」**是「設計施工（DB）＋商用裝修（CF）」的近似值，但**向上偏誤**來自：(a) 含「小規模新建工程」；(b) 含「非地盤電器安裝及保養」（機電維保，非裝修）；(c) 只統計「主要承建商」（受統計調查涵蓋的承建商），小型個體裝修戶與非正式工班可能**向下偏誤**。兩者方向相反，淨偏誤無法判定——整合時建議以「HK$850–873 億」作為上限區間，狹義住宅＋商用裝修可能落在其六至八成，但**此比例無來源，僅為提醒**。
-- **HKTDC 設計產業增加值 HK$41 億**是「增加值（value added）」而非「營業額」，且涵蓋所有設計分支；因此既**不等於**室內設計服務市場，也不能與 C&SD 的「工程完成總值」相加。
-- **研究機構**：本專案在 T1 校準時發現 Grand View、Mordor、IMARC、6Wresearch 等皆無香港獨立頁面（或僅付費牆），Credence 把香港併入中國 fit-out 報告；**任何「香港室內設計市場 USD X 億、CAGR Y%」的引用都應視為未驗證**。
+| 指標 | 數值 | 年份 | 來源 | 定義 |
+|---|---|---|---|---|
+| 設計業機構數 | 7,110 間 | 2022 | [HKTDC Design Industry in Hong Kong](https://research.hktdc.com/en/article/MzEzOTE1MDI5) | 全設計業（室內及傢俬、多媒體視覺平面、工業、時裝等）；來源為 C&SD《僱用及職位空缺統計季報》 |
+| 設計業就業人數 | 18,470 人（不含公務員） | 2022 | 同上 | 佔文化及創意產業就業 8.3% |
+| 室內及傢俬設計 佔設計業機構比重 | 約三分之一（2018 年為 36%） | 2022／2018 | 同上 | **推算**：7,110 × 1/3 ≈ 2,370 間（含傢俬設計，非純室內設計） |
+| 設計業就業 | 2024 年較上年略減（確切值被遮蔽） | 2024 | [Statista: HK design industry workforce](https://www.statista.com/statistics/631484/hong-kong-design-industry-workforce/) | 未能讀取數值 |
 
-### 2.3 住宅 vs 商用、新建 vs 存量占比
-- **無資料**。C&SD 新聞公報未拆分住宅／非住宅非地盤工程；DEVB 表 168 可能有「裝修、修葺及保養」細分（未開啟）。
-- 可用的替代推論：非地盤口徑本身即「存量」導向（裝飾、修葺、保養），新建部分僅限「小規模新建」；故 HK$873 億可視為**以存量為主**的數字，但比例未知。
+**未找到**室內設計服務的營收／增加值官方數字。
 
-### 2.4 鄰接市場：家居零售
-- **無資料**。任務提示中的 IKEA 香港、實惠（Pricerite）、日本城（JHC）等營收本輪未取得；本專案台灣筆記僅記錄「IKEA 台灣由香港牛奶國際（DFI）經營」（[今周刊 2019](https://www.businesstoday.com.tw/article/category/80408/post/201905220026/)），不能推及香港 IKEA 營收。
+### 2.3 商業裝修（寫字樓 fit-out）成本基準
 
-### Inferences
-- 以 2024 年 HK$873 億 ÷ 約 750 萬人 ≈ **HK$11,640／人／年（≈USD 1,490 ≈ NT$47,000）**；以 GDP ≈USD 428 億計約 **2.6%**。即使扣除三成非裝修項目，人均仍高於日本（USD 397–406）、南韓（447–511）與台灣（271–746）——反映香港高樓價、高工資與高密度商業空間翻修頻率。
-- 2024 −6.0%、2025 各季 −0.7% 至 −3.9% 的連續收縮，與同期樓價下行、寫字樓空置偏高一致（**此關聯為推論，寫字樓空置與樓價數據本輪未取得**）。
+| 來源 | 數值 | 年份／基準 | 定義 | URL |
+|---|---|---|---|---|
+| JLL《Global Office Fit-Out Costs Guide 2025》 | **133 美元／呎（約 1,040 港元／呎）**；與 2023 年持平；亞太第 4（次於東京、新加坡、雪梨）、全球第 28 | 2024 年均值 | 寫字樓裝修平均成本 | [JLL](https://www.jll.com/en-hk/newsroom/hong-kong-office-fit-out-costs-rank-4th-in-asia-pacific) |
+| JLL（2025-05 預測） | 2025 年寫字樓設計及建築開支「大幅收窄」、全年顯著下調 | 2025 | 承建商為搶單壓價 | [香港商報](https://www.hkcd.com.hk/hkcdweb/content/2025/05/20/content_8695670.html) |
+| JLL《APAC Fit-Out Guide 2026》（2026-05） | **200 美元／呎（1,566 港元／呎）**，+1.5% | 2026 | 「中等規格企業寫字樓」；關稅推高鋼、銅→機電成本，承建商降價部分抵銷 | [JLL](https://www.jll.com/en-hk/newsroom/hong-kong-office-fit-out-costs)；[中文](https://www.jll.com/zh-hk/newsroom/hong-kong-office-fit-out-costs) |
+| Cushman & Wakefield《APAC Office Fit Out Cost Guide 2026》 | **160 美元／呎**（按年持平；大中華區最高；深圳 94→87） | 2025-12 市況 | 標準企業寫字樓 fit-out | [C&W](https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office)；[報導](https://www.fitoutawards.ie/news/hong-kong-office-fit-out-costs-hold-firm-at-160-per-square-foot-as-greater-china-peers-record-declines) |
+| C&W 承建商信心調查 | 70% 受訪承建商預期 2026 年市況改善 | 2026-03 | 亞太區 | [Malay Mail／C&W](https://www.malaymail.com/news/money/mediaoutreach/2026/03/26/contractor-confidence-rises-amid-strengthening-office-demand-across-asia-pacific/456444) |
+| 本地業者（MJPM） | 全面裝修 500–800 港元／呎 | 2026 | 含空間重整、機電升級、新傢俬；方法未揭露 | [MJPM](https://www.mjpm.com.hk/blogs/office-renovation-costs-in-hong-kong/) |
 
-### Gaps
-- 住宅／商用拆分、新建／存量拆分、2025 Q3 數字、2025 全年非地盤官方合計、任何研究機構的香港獨立估值、家居零售規模——見 §10。
+**換算**：160 美元／呎 ≈ 1,722 美元／m² ≈ 13,430 港元／m² ≈ **5,690 美元／坪 ≈ 17.6 萬台幣／坪**；200 美元／呎 ≈ 2,153 美元／m² ≈ **22.1 萬台幣／坪**。JLL 與 C&W 數字不一致係因規格定義（中等規格 vs 標準）與淨／總面積口徑不同，來源未說明。
+
+### 2.4 鄰近家居零售
+
+| 指標 | 數值 | 年份 | 來源 | 定義 |
+|---|---|---|---|---|
+| 零售業總銷貨價值 | 3,805 億港元（≈487.8 億美元；≈1.51 兆台幣），+1.0%；網上銷售 +12.8% | 2025（臨時） | [C&SD 2025 年 12 月及全年零售](https://www.info.gov.hk/gia/general/202602/03/P2026020300447.htm)；[HKET](https://news.hket.com/article/4079466/%E9%A6%99%E6%B8%AF%E9%9B%B6%E5%94%AE%EF%BD%9C2025%E5%B9%B412%E6%9C%88%E9%9B%B6%E5%94%AE%E6%A5%AD%E7%B8%BD%E9%8A%B7%E8%B2%A8%E5%83%B9%E5%80%BC%E6%8C%89%E5%B9%B4%E5%8D%876.6-%E3%80%80%E5%85%A8%E5%B9%B4%E5%8D%871-) | 全零售 |
+| 「傢具及固定裝置」零售銷貨價值 按年變動 | 1 月 −26.4%；2 月 −23.9%；3 月 −17.3%；6 月 −16.3%；9 月 −17.3%；11 月 −6.1% | 2025 | [1–2 月表](https://gia.info.gov.hk/general/202503/31/P2025033100360_490777_1_1743407629423.pdf)；[3 月](https://www.info.gov.hk/gia/general/202505/02/P2025050200381.htm)；[6 月](https://www.info.gov.hk/gia/general/202507/31/P2025073100425.htm)；[9 月](https://www.info.gov.hk/gia/general/202510/31/P2025103100349.htm)；[11 月報告](https://www.censtatd.gov.hk/wbr/B1080003/B10800032025MM11/att/tc/B10800032025MM11.pdf) | 2025 年全年該類別絕對值**未取得**（在 12 月報告表 1 內） |
+| 傢俬市場收入（研究機構） | 59.4 億美元（≈463 億港元；≈1,841 億台幣）；CAGR 2.44%（2024–29）→ 2029 年約 67.0 億美元 | 2024 | [Statista Furniture – Hong Kong](https://www.statista.com/outlook/cmo/furniture/hong-kong) | Statista Consumer Market Outlook 模型估計，非官方統計 |
+| 國際家居零售（1373.HK，日本城／JHC） | 收入 25.37 億港元（−5.6%），純利 4,773 萬港元（−52.8%） | FY 截至 2025-04 | [Yahoo 財經](https://hk.finance.yahoo.com/news/%E6%97%A5%E6%9C%AC%E5%9F%8E%E5%A4%B1%E8%AD%B7%E5%9F%8E%E6%B2%B3-%E5%9C%8B%E9%9A%9B%E5%AE%B6%E5%B1%85%E9%A2%A8%E5%85%89%E4%B8%8D%E5%86%8D-231655821.html) | 家品零售龍頭；下滑歸因北上消費與內地電商 |
+
+**結論**：香港家居硬裝零售 2025 年明顯收縮（傢具類多月雙位數下跌），與住宅成交回升形成反差，顯示消費者「買樓但壓縮家居支出」或轉向內地採購。
+
+### 2.5 研究機構之區域／全球估計（僅供定義對照，非香港統計）
+
+| 機構 | 範圍 | 2025 估計 | 定義差異 | URL |
+|---|---|---|---|---|
+| Transpire Insight | 亞太室內設計市場 | 523 億美元 → 2033 年 845 億美元（CAGR ~6.1%） | 含設計＋施工服務 | [Transpire](https://www.transpireinsight.com/report/asia-pacific-interior-design-market) |
+| Grand View Research | 全球室內設計市場 | 1,857 億美元（2025）；2033 年 2,980 億美元；亞太 CAGR 5.9% | 「建造服務」分部佔 41.1% | [GVR](https://www.grandviewresearch.com/industry-analysis/interior-design-market-report) |
+| 各家全球「服務」口徑 | 520 億～3,129 億美元（2025） | 差距 6 倍 | 純設計費 vs 含 fit-out | 見 [Expert Market Research](https://www.expertmarketresearch.com/reports/interior-design-services-market)、[SkyQuest](https://www.skyquestt.com/report/interior-design-services-market) |
+
+**無任何研究機構提供香港單一市場的室內設計／裝修總額**。
+
+### 2.6 住宅 vs 商業、新建 vs 存量 比重
+- 官方無此拆分。可用代理指標：**存量翻新**需求指標（2025 年二手住宅登記 39,821 宗）約為**新建**（一手 20,525 宗＋落成 18,450 伙）的 2 倍（見第 3 節）；屋齡 ≥30 年私樓逾 2.8 萬幢。
+- 商業：非地盤工程 857 億港元中含商辦裝修，但無拆分。
 
 ---
 
 ## 3. 需求結構
 
-### Takeaway
-本輪**完全沒有**取得香港住宅落成、成交、樓齡、翻修週期、每呎單價、設計費與工期的數據；唯一可用的需求側量化線索是消委會投訴平均金額（HK$23 萬／宗）與商用裝修單位成本（C&W USD 160/ft²）。
+### 3.1 住宅落成量（Rating and Valuation Department, RVD）
 
-### 3.1 住宅供給與交易
-| 指標 | 數值 | 年份 | 來源 | 信心 |
+| 指標 | 數值 | 年份 | 來源 |
+|---|---|---|---|
+| 私人住宅落成量 | **18,450 伙**，按年 −24%；九龍 49%、新界 36%、港島 15% | 2025 | [RVD《香港物業報告 2026》初步統計](https://www.rvd.gov.hk/doc/tc/HKPR2026_Preliminary_Findings_TC.pdf) |
+| 私人住宅落成量 | **推算約 24,300 伙**（由 2025 年 −24% 倒推；原始值見 [RVD《香港物業報告 2025》](https://www.rvd.gov.hk/doc/tc/HKPR2025_Preliminary_Findings_TC.pdf)、[政府新聞稿](https://www.info.gov.hk/gia/general/202503/28/P2025032700521.htm)） | 2024 | |
+| 預測落成量 | **2026：16,980；2027：15,360 伙**（自 2025 年起含首置計劃資助出售房屋） | 2026–27 | [RVD 2026](https://www.rvd.gov.hk/doc/tc/HKPR2026_Preliminary_Findings_TC.pdf)；[星島](https://www.stheadline.com/realtime-property/3565596/%E6%A8%93%E5%B8%82%E5%8E%BB%E5%B9%B4%E5%85%A8%E9%9D%A2%E5%BE%A9%E7%94%A6-%E7%B5%82%E6%AD%A2%E4%B8%89%E5%B9%B4%E8%B7%8C%E5%8B%A2-%E6%83%9F%E5%B7%AE%E4%BC%B0%E7%BD%B2%E6%96%99%E7%A7%81%E6%A8%93%E8%90%BD%E6%88%90%E9%87%8F%E7%BA%8C%E8%B7%8C) |
+| 2025 年入住量／空置量 | 入住 19,370 伙；年底空置 56,080 伙（總存量 4.3%），其中 7,120 伙已獲佔用許可但未獲滿意紙 | 2025 | [RVD 2026](https://www.rvd.gov.hk/doc/tc/HKPR2026_Preliminary_Findings_TC.pdf) |
+| 團結香港基金預測 | 2026：16,700；2027：15,400；2026–2030 年均 17,100 伙 | 2026-04 | [OHKF 香港房屋趨勢導航 2026](https://s3.ourhkfoundation.org.hk/s3fs-public/2026-04/hong-kong-housing-landscape-navigator-2026_full-report-tc.pdf) |
+| 中原地產預測 | 2026–27 年均 1.55 萬伙，較 2024–25 均值（逾 2.1 萬）跌逾 25%；逐項目推算 2026：18,783、2027：12,236 | 2026 | [中原](https://hk.centanet.com/info/property-news/%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A/2026-2027%E5%B9%B4%E9%A0%90%E6%B8%AC%E7%A7%81%E4%BA%BA%E4%BD%8F%E5%AE%85%E8%90%BD%E6%88%90%E9%87%8F-%E5%85%A9%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B0%87%E5%9B%9E%E8%90%BD%E8%87%B31-55%E8%90%AC%E5%80%8B/190090) |
+| JLL 預測 | 2026–2028 年私人住宅落成量將減 44% | 2026 | [JLL](https://www.jll.com/zh-hk/newsroom/completion-of-new-private-housing-will-drop-44-percent-in-2026-2028) |
+| 預測誤差 | 2025 年初 OHKF／RVD 分別預測 20,100／20,862，實際 18,448，低 8%／12% | 2025 | [OHKF 2026](https://s3.ourhkfoundation.org.hk/s3fs-public/2026-04/Housing%20Supply%20Update_2026_v5_CN.pdf?ext=1) |
+
+### 3.2 住宅成交（土地註冊處 Land Registry；中原整理）
+
+| 指標 | 2024 | 2025 | 變動（推算） | 來源 |
 |---|---|---|---|---|
-| 私人住宅落成量（差餉物業估價署 RVD） | **無資料** | — | 建議查「差餉物業估價署 私人住宅 落成量 2025」「RVD Hong Kong Property Review 2026」 | — |
-| 一手／二手住宅成交量（土地註冊處 Land Registry） | **無資料** | — | 建議查「土地註冊處 住宅樓宇買賣合約 2025 全年」「一手住宅物業銷售監管局 成交 2025」 | — |
-| 樓齡 30 年以上樓宇數目（屋宇署／發展局） | **無資料** | — | 建議查「樓齡30年以上 樓宇 數目 2025 屋宇署」「樓宇更新大行動 2.0」「強制驗樓計劃 樓齡」 | — |
-| 公屋／居屋存量與翻修規定（房屋委員會） | **無資料**（T3 註明「公屋由房委會另有規定，未檢索」） | — | 建議查「房委會 公屋 裝修 規定」「居屋 裝修 費用 平均 2025」 | — |
+| 一手私人住宅登記 | 16,869 宗；2,084.7 億港元 | **20,525 宗；2,255.5 億港元**（≈289 億美元；≈8,960 億台幣） | +21.7% | [中原 2024 全年](https://hk.centanet.com/info/property-news/%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A/%E6%A8%93%E5%AE%87%E8%B2%B7%E8%B3%A3%E5%90%88%E7%B4%84%E7%99%BB%E8%A8%98%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-2024%E5%B9%B4-%E5%8F%97%E6%83%A0%E5%85%A8%E9%9D%A2%E6%92%A4%E8%BE%A3-%E6%94%BE%E5%AF%AC%E6%8C%89%E6%8F%AD-%E6%B8%9B%E6%81%AF-%E6%95%B4%E9%AB%94%E8%B2%B7%E8%B3%A3-%E4%B8%80%E6%89%8B-%E4%BA%8C%E6%89%8B%E7%A7%81%E6%A8%93%E5%AE%97%E6%95%B8%E9%BD%8A%E5%89%B53%E5%B9%B4%E6%96%B0%E9%AB%98/180539)；[中原 2025-10 分析](https://hk.centanet.com/info/property-news/%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A/%E6%A8%93%E5%AE%87%E8%B2%B7%E8%B3%A3%E5%90%88%E7%B4%84%E7%99%BB%E8%A8%98%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-2025%E5%B9%B410%E6%9C%88%E4%BB%BD-%E6%95%B4%E9%AB%94%E6%A8%93%E5%AE%87%E8%B2%B7%E8%B3%A37-190%E5%AE%97-%E5%89%B53%E5%80%8B%E6%9C%88%E9%AB%98%E4%BD%8D-%E6%96%99%E5%85%A8%E5%B9%B4%E6%95%B4%E9%AB%947-8%E8%90%AC%E5%AE%97%E7%82%BA4%E5%B9%B4%E6%96%B0%E9%AB%98-%E4%B8%80%E6%89%8B%E7%A7%81%E6%A8%93%E5%AE%97%E6%95%B8%E5%89%9B%E7%AA%81%E7%A0%B4%E5%8E%BB%E5%B9%B4%E7%B8%BD%E5%92%8C/187359) |
+| 二手私人住宅登記 | 33,794 宗；2,423.1 億港元 | **39,821 宗；2,919.3 億港元**（≈374 億美元；≈1.16 兆台幣） | +17.8% | 同上 |
+| 住宅合計 | — | **62,832 宗；5,198.3 億港元** | — | 同上（一手＋二手 = 60,346，與合計差 2,486 宗，中原未解釋；可能含居屋等補價轉售） |
+| 整體樓宇買賣（含車位、工商舖） | — | 80,702 宗；6,142.8 億港元，4 年新高 | — | [中原 2025-11 預測](https://hk.centanet.com/info/property-news/%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A/%E6%A8%93%E5%AE%87%E8%B2%B7%E8%B3%A3%E5%90%88%E7%B4%84%E7%99%BB%E8%A8%98%E9%A0%90%E6%B8%AC%E5%88%86%E6%9E%90-2025%E5%B9%B411%E6%9C%88%E4%BB%BD-%E6%95%B4%E9%AB%94%E6%A8%93%E5%AE%87%E7%BA%8C%E9%AB%98%E4%BC%81%E4%B8%83%E5%8D%83%E5%AE%97%E4%BB%A5%E4%B8%8A-%E9%A6%9611%E5%80%8B%E6%9C%88%E5%AE%97%E6%95%B8%E5%B7%B2%E8%B6%85%E8%B6%8A%E5%8E%BB%E5%B9%B4%E7%B8%BD%E5%92%8C-%E6%96%99%E5%85%A8%E5%B9%B4%E6%95%B4%E9%AB%94%E7%99%BB%E8%A8%987-8%E8%90%AC%E5%AE%97-%E5%89%B54%E5%B9%B4%E6%96%B0%E9%AB%98/187967) |
+| 官方原始表 | 土地註冊處「住宅樓宇買賣合約統計：一手及二手」 | 月度 | — | [Land Registry](https://www.landreg.gov.hk/tc/monthly/agt-primary.htm) |
 
-### 3.2 住宅裝修單價、設計費、工期
-| 指標 | 數值 | 年份 | 來源 | 信心 |
-|---|---|---|---|---|
-| 住宅裝修每呎單價（基本／中階／高階） | **無資料** | — | 建議查「香港 裝修費用 每呎 2025」「設計家 裝修 費用 2025」「裝修佬 裝修價錢 每呎」「Decor8 裝修 預算」 | — |
-| 公屋／居屋裝修平均費用 | **無資料** | — | 建議查「公屋 裝修 費用 平均 2025」「居屋 裝修 20萬」 | — |
-| 設計費行情（百分比／每呎／套餐） | **無資料** | — | 建議查「香港 室內設計 設計費 每呎」「設計費 工程費 百分比 香港」 | — |
-| 典型工期 | **無資料** | — | 建議查「香港 全屋裝修 工期 幾耐」 | — |
-| 翻修週期／頻率 | **無資料** | — | 建議查「香港 住宅 翻新 週期 年」 | — |
-| 消委會投訴案件平均涉款（**非**平均工程金額，僅爭議案件） | 約 HK$23 萬／宗（≈USD 29,500 ≈ NT$93 萬）；2017–2023 共 1,205 宗、總涉款 >HK$2.7 億（≈USD 3,460 萬 ≈ NT$10.9 億）；2023 年涉款 HK$4,700 萬（≈USD 603 萬 ≈ NT$1.9 億） | 2017–2023 | [消委會簡報 PDF](https://www.consumer.org.hk/f/initiative_detail/432464/459683/H%20-%20Presentation%20Deck%20(Chinese)_v3.pdf)；[明報 2024-02-21](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20240221/s00001/1708484500466/)；[hk01](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/992677/) | 高（數字）／低（作為均價代理） |
+**新 vs 二手比重**：2025 年宗數 一手 33%：二手 67%；金額 一手 43%：二手 57%（推算）。二手成交是存量翻新的直接領先指標。
 
-- 消委會調查另顯示 **75% 受訪裝修店稱拆牆毋須核實牆身性質**、投訴成功追討僅 22%（同上來源）——顯示市場以小型承包商為主、專業化程度參差，間接支持「高度分散」的結構判斷。
-- 本專案 T3 筆記記錄 2023 年投訴宗數在簡報（169 宗）與消委會網站（310 宗）之間不一致，整合時須開啟原文確認。
+### 3.3 住宅存量樓齡
 
-### 3.3 商用裝修單位成本
-| 指標 | 數值 | 每 m² | 每坪 | 年份 | 來源 | 信心 |
-|---|---|---|---|---|---|---|
-| Cushman & Wakefield 亞太辦公室裝修成本指南，香港（全包：含家具、機電、土建、AV/IT；中階規格） | **USD 160/ft²** ≈ HK$1,248/ft² | USD 1,722 ≈ HK$13,433 ≈ NT$54,250 | USD 5,693 ≈ NT$17.9 萬 | 2025 | [C&W 2025（APREA 轉載）](https://www.aprea.asia/knowledge-hub/asia-pacific-office-fit-out-cost-guide-2025-cushman-wakefield/)；[Commo 2025-03-06](https://commo.com.au/news/2025/03/06/office-fit-out-costs-asia-pacific-continue-rise-slower-pace-cushman-wakefield)；對照台北 USD 61/110/202：[brandspurng](https://brandspurng.com/2025/03/24/contractor-sentiment-generally-positive-as-the-worst-of-price-pressures-ease-according-to-office-fit-out-vendors-across-asia-pacific/) | 中（來自 CN-A 筆記的搜尋摘錄，未開啟原 PDF；三級分檔未取得） |
-| C&W 2026 年版（反映 2025-12 價格） | 香港數字**未取得**（僅取得新加坡 USD 140/ft²、東京 215、北京約 95、上海約 96、深圳 87） | — | — | 2026 | [C&W 2026 指南](https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office) | 缺口 |
-| JLL 2026 亞太辦公室裝修成本（亞太平均） | USD 1,550/m²，當地幣年增 2–5%（香港數字未取得） | 1,550 | 5,124 | 2026 | [JLL via cfotech](https://cfotech.asia/story/jll-warns-asia-pacific-office-fit-out-costs-keep-rising) | 高（區域）／缺口（香港） |
-| Knight Frank 2026 亞太 fit-out（香港數字未取得；台北 USD 1,593/m²、新加坡 2,029、東京 1,994） | — | — | — | 2026 | [irei](https://irei.com/publications/article/asia-pacific-office-fit-out-costs/) | 缺口（香港） |
-| 本地設計施工承包商自報辦公室 fit-out 報價 | HK$400–1,200/ft² | HK$4,306–12,917 ≈ USD 552–1,656 ≈ NT$17,400–52,200 | NT$5.7–17.2 萬 | 2026 | [rokydesign](https://rokydesign.com/integrated-design-build-office-fit-out-hong-kong/) | 低（單一承包商行銷頁） |
+| 指標 | 數值 | 時點 | 來源 |
+|---|---|---|---|
+| 私人大廈樓齡 ≥30 年 | **28,370 幢，佔私人大廈總數約 64%** | 2023 年底 | [HK01（引立法會秘書處《數據透視》）](https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/1093926/%E5%85%A8%E6%B8%AF48-%E7%A7%81%E6%A8%93%E6%A8%93%E9%BD%A1%E6%BB%BF30%E5%B9%B4-%E9%9A%A8%E6%99%82%E8%A6%81%E5%BC%B7%E5%88%B6%E9%A9%97%E6%A8%93-%E6%96%B0%E4%BE%8B%E5%A2%9E%E6%B3%95%E5%9C%98%E6%8B%9B%E6%A8%99%E9%80%8F%E6%98%8E%E5%BA%A6) |
+| 樓齡 ≥30 年私樓 | 約 2.9 萬幢，約佔六成 | 2024 年底（報道估計） | [立法會二十題 2026-05-27](https://www.info.gov.hk/gia/general/202605/27/P2026052700525.htm) |
+| 樓齡 ≥30 年且屬強制驗樓計劃涵蓋類別 | **逾 20,000 幢**；其中約 9,000 幢已獲發強制驗樓通知，獲通知者約七成樓齡 ≥50 年 | 2025 年底 | [立法會十六題 2026-02-04（發展局）](https://www.info.gov.hk/gia/general/202602/04/P2026020400370.htm) |
+| 樓齡 ≥30 年私樓 | 逾 2.7 萬幢（港島西 >5,700） | 2021 年底 | [HK01](https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/774496/%E5%85%A8%E6%B8%AF2-7%E8%90%AC%E7%A7%81%E6%A8%93%E5%B9%B4%E5%B1%8630-%E6%B8%AF%E5%B3%B6%E8%A5%BF%E6%9C%80%E5%A4%9A-9%E5%80%8B%E5%85%AC%E5%85%B1%E5%B1%8B%E9%82%A8%E6%A8%93%E9%BD%A1%E9%81%9450%E5%B9%B4)；[立法會十五題 2022](https://www.info.gov.hk/gia/general/202205/25/P2022052500326.htm) |
+| 未來 10 年達維修門檻之私樓 | 7,700 幢（競委會與廉署聯手打擊圍標） | 2025-06 | [東網](https://hk.on.cc/hk/bkn/cnt/news/20250623/bkn-20250623132907629-0623_00822_001.html) |
+| 屋宇署每年揀選強制驗樓目標樓宇 | 約 600 幢（≥30 年） | 常年 | [立法會十六題](https://www.info.gov.hk/gia/general/202602/04/P2026020400370.htm) |
+| 市建局「樓宇更新大行動 2.0」 | 第三輪放寬樓齡門檻至 30 年 | 2023 | [HK01](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/893225/%E5%B8%82%E5%BB%BA%E5%B1%80%E6%A8%93%E5%AE%87%E6%9B%B4%E6%96%B0%E5%A4%A7%E8%A1%8C%E5%8B%952-0%E6%AD%A3%E6%8E%A5%E5%8F%97%E7%AC%AC%E4%B8%89%E8%BC%AA%E7%94%B3%E8%AB%8B-%E6%94%BE%E5%AF%AC%E6%A8%93%E9%BD%A1%E9%99%90%E5%88%B6%E8%87%B330%E5%B9%B4) |
 
-- 兩個商用來源大致相容：C&W 中階 USD 160/ft² ≈ HK$1,248/ft² 落在承包商報價上緣（HK$1,200），顯示 C&W 口徑含家具、機電、AV/IT 等「全包」項目，而承包商 HK$400–800 區間應屬「基礎裝修」。
+註：2025 年「逾 2 萬幢」為強制驗樓計劃口徑（不含 ≤3 層住用樓宇），與 2023 年「28,370 幢」全私樓口徑不同，不可直接比較年變動。
 
-### Gaps
-- 住宅端全部指標（落成、成交、樓齡、單價、設計費、工期、週期）；C&W／JLL／T&T／Knight Frank 2026 香港辦公室三級成本；酒店、餐廳、零售 fit-out 單價。
+### 3.4 裝修週期／頻率與每案平均支出
+- **裝修週期／頻率：未找到任何香港官方或調查統計**（資料缺口）。
+- **每案支出**：無官方平均值。可引用的代理：消委會 2017–2023 年 1,205 宗投訴涉款 2.7 億港元，**平均每宗約 23 萬港元**（≈2.95 萬美元；≈91 萬台幣），最高達數百萬——注意這是「投訴涉款」而非平均裝修支出（[明報 2024-02-21](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20240221/s00001/1708484500466/%E6%B6%88%E5%A7%94%E6%9C%837%E5%B9%B4%E9%96%93%E6%8E%A51205%E5%AE%97%E6%B6%89%E5%AE%B6%E5%B1%85%E8%A3%9D%E4%BF%AE%E6%8A%95%E8%A8%B4-%E5%80%A1%E8%A8%82%E6%A8%99%E6%BA%96%E5%A0%B1%E5%83%B9%E5%96%AE%E5%8F%8A%E8%A8%AD%E8%AA%8D%E8%AD%89%E5%88%B6%E5%BA%A6)；[消委會研究報告](https://www.consumer.org.hk/tc/advocacy/study-report/home_renovation_study)）。
+- 業界報價指南的典型總價（2025）：公屋 250–450 呎全屋 **9.5–18 萬港元**；居屋 **15–26 萬港元**；私樓 401–600 呎 基本 **45–60 萬**、中檔 **60–80 萬港元**（[HK Create Design 2025](https://hkcreatedesign.hk/%E3%80%90%E5%85%A8%E5%B1%8B%E8%A3%9D%E4%BF%AE%E8%B2%BB%E7%94%A8%E3%80%912025-%E8%A3%9D%E4%BF%AE%E5%83%B9%E9%8C%A2%E3%80%81%E5%A0%B1%E5%83%B9%E8%A1%A8%E5%8F%8A%E8%A3%9D%E4%BF%AE%E5%85%AC%E5%8F%B8)）；公屋平均報價 15–30 萬港元（[Wanhelp 萬師傅](https://www.wanhelp.com/1103.html)）。
+- **推算**：以市場均價 1,000 港元／呎 × 典型 400 呎私樓 ≈ **40 萬港元／案**（≈5.1 萬美元；≈159 萬台幣）。
+
+### 3.5 住宅裝修單價（每呎／每 m²／每坪）
+
+| 樓型／檔次 | 港元／呎 | 港元／m²（推算） | 港元／坪（推算） | 台幣／坪（推算） | 來源 |
+|---|---|---|---|---|---|
+| 全屋裝修 市場均價 | **≈1,000**（區間 600–1,400） | 10,760 | 35,600 | 14.1 萬 | [Yahoo／Home Journal 2026](https://hk.news.yahoo.com/2026%E9%A6%99%E6%B8%AF%E8%A3%9D%E4%BF%AE%E9%A0%90%E7%AE%97%E5%85%A8%E6%94%BB%E7%95%A5-%E7%94%B1%E4%B8%8A%E8%BB%8A%E7%9B%A4%E5%88%B0%E8%B1%AA%E5%AE%85%E7%9A%84%E5%91%8E%E5%83%B9%E6%8B%86%E8%A7%A3-150016640.html)；[Home Journal EN](https://homejournal.com/2026-hong-kong-renovation-cost-guide-a-complete-breakdown-from-starter-homes-to-luxury-flats/128996/) |
+| 公屋（PRH） | 400–800（含還原費）；另一來源 600–850 | 4,300–9,150 | 14,200–30,200 | 5.6–12.0 萬 | [Wanhelp](https://www.wanhelp.com/1103.html)；[藝創 acdesign](https://www.acdesign.com.hk/price/2400/) |
+| 居屋（HOS，毛胚交樓） | 700–1,000 | 7,500–10,760 | 24,900–35,600 | 9.9–14.1 萬 | [藝創 acdesign](https://www.acdesign.com.hk/price/2400/) |
+| 私樓 基本–中檔 | 600–1,200；另一來源 900–1,200 | 6,460–12,900 | 21,300–42,700 | 8.5–17.0 萬 | [Wanhelp](https://www.wanhelp.com/1103.html)；[藝創](https://www.acdesign.com.hk/price/2400/) |
+| 私樓 高端／設計師全包 | 1,500–3,000（一條龍）；1,200–2,200（設計連監工） | 16,100–32,300 | 53,400–106,700 | 21–42 萬 | [Pro360](https://www.pro360.com.hk/zh-hk/price/interior_design) |
+| 全市場極值 | 700–3,800 | 7,500–40,900 | 24,900–135,200 | 9.9–53.7 萬 | [decoration2 裝修易](https://decoration2.com/en/renovation-cost) |
+| 價格指數（業者） | 公屋／居屋／私樓／豪宅／村屋 每呎費用，季更 | — | — | — | [Muse+ 2026 Q2 價格指數](https://www.museplus.design/pricing-index)（整合 1,000+ 內部報價＋公開數據） |
+
+**年增**：2025 年報價較 2024 年上升約 **8–15%**（人工、原材料、ENF 板材升級；師傅日薪及物料 +10–18%）（[HK Create Design](https://hkcreatedesign.hk/2025-2026-renovation-guide/)）；2026 年「與 2025 相近或微升數個百分點」（[quotationcheckhk](https://quotationcheckhk.com/%E8%A3%9D%E4%BF%AE%E5%83%B9%E6%A0%BC%E8%88%87%E5%9C%B0%E7%9B%A4%E4%BA%BA%E5%B7%A5/)）。口徑：多以實用面積計、不含活動傢俬與電器。
+
+### 3.6 設計費行情
+
+| 模式 | 行情 | 來源 |
+|---|---|---|
+| 純設計 按呎 | **30–80 港元／呎**（2026）；另篇 15–60 港元／呎，500 呎單位 0.8–3 萬港元 | [藝創 2394](https://www.acdesign.com.hk/price/2394/)；[藝創 3155](https://www.acdesign.com.hk/price/3155/) |
+| 純設計 按資歷 | 普通 80–150；中級 150–250；知名 300–500+ 港元／呎 | [Pro360](https://www.pro360.com.hk/zh-hk/price/interior_design) |
+| 個別設計師公開價 | 150 港元／呎，香港最低收費 5 萬港元 | [TIA Interior](https://www.tiainterior.com/design-fee) |
+| 工程百分比 | **10–20%**（好師傅）；5–15%；按級別 初級 5–8%／中級 8–12%／總監 12–20%／設計公司 10–15% | [好師傅 CoDECO](https://codeco.hk/zh-tw/renovation-101/%E8%A3%9D%E4%BF%AE%E9%A0%90%E7%AE%97%E2%94%82%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%BB%9E%E6%A8%A3%E6%94%B6%E8%B2%BB%EF%BC%9F%E9%99%84%E6%B5%81%E7%A8%8B%E5%8F%8A3%E5%A4%A7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85)；[裝修配對家 intermatch](https://intermatch.com.hk/articles/interior-design-fee-hk-2026) |
+| 監工費 | 工程總價 5–10% | [intermatch](https://intermatch.com.hk/articles/interior-design-fee-hk-2026) |
+| 設計連裝修套餐 | 平均 1,000 港元／呎（800–1,200）；純設計約便宜 30% | [HelloToby](https://www.hellotoby.com/zh-hk/c/%E9%A6%99%E6%B8%AF%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88%E5%B8%AB%E5%83%B9%E6%A0%BC%E8%B3%87%E8%A8%8A) |
+
+換算：30–80 港元／呎 ≈ 323–861 港元／m² ≈ **1,070–2,850 港元／坪 ≈ 4,200–11,300 台幣／坪**；150 港元／呎 ≈ 5,340 港元／坪 ≈ 21,200 台幣／坪。**主流模式是「設計連工程一條龍」，設計費內含於工程報價**，純設計收費市場相對小。
+
+### 3.7 工期
+- **未在搜尋摘要中取得可引用的典型工期數字**（Wanhelp 文章標題含「工期點計」但摘要未列數值）。列為缺口。
 
 ---
 
 ## 4. 產業結構與主要玩家
 
-### Takeaway
-香港設計供給端高度分散（HKTDC：設計公司逾 7,000 家，所有設計分支合計）；施工端受屋宇署「小型工程監管制度」規範，必須為註冊小型工程承建商。本輪僅取得一家上市設計公司（梁志天設計集團）的財務數據；平台、連鎖裝修公司、家居零售商、倒閉案例全數缺口。
+### 4.1 碎片化程度
+- 設計業機構 7,110 間（2022），室內及傢俬設計約 1/3（[HKTDC](https://research.hktdc.com/en/article/MzEzOTE1MDI5)）。
+- 屋宇署（Buildings Department）**註冊小型工程承建商（公司）**：第三方名錄列 **8,836 間**（日期未註明）（[TenderLink](https://tenderlink.hk/contractors)）；官方名冊每週一、四更新於 [data.gov.hk](https://data.gov.hk/tc-data/dataset/hk-bd-opendata-registers-of-buildings-department)；制度：187 項小型工程分 I／II／III 級，III 級 61 項為常見家居工程，個人註冊者僅可承接 III 級（[屋宇署](https://www.bd.gov.hk/en/resources/registration-guides/index_RMWC_company.html)；[MWC 小冊子](https://www.bd.gov.hk/doc/en/resources/pamphlets-and-videos/MWC_Co_e.pdf)）。
+- 電力工程另需機電工程署（EMSD）牌照；**香港目前沒有專門法規監管家居裝修公司及其服務**（[消委會](https://www.consumer.org.hk/tc/press-release/p-home-renovation-study-report)）。
+- 龍頭市占：SLD 2025 年收入 4.23 億港元，僅相當於非地盤工程 857 億的 **0.5%**（且 SLD 大部分收入來自內地）——顯示極度分散。
 
-### 4.1 家數與分散度
-| 指標 | 數值 | 年份 | 來源 | 信心 |
+### 4.2 主要玩家一覽
+
+| 公司 | 類型 | 規模／最新財務 | 商業模式／所有權 | 來源 |
 |---|---|---|---|---|
-| 設計公司數（所有設計分支） | >7,000 家；設計產業增加值 HK$41 億（−6%） | 2022 | [HKTDC](https://research.hktdc.com/en/article/MzEzOTE1MDI5) | 中 |
-| 室內設計公司數（統計處行業細分） | **無資料** | — | 建議查「統計處 室內設計 機構單位 數目」「香港 室內設計 公司 數目 2024」 | — |
-| 註冊小型工程承建商數（屋宇署名冊） | **無資料**（制度存在，名冊數字未取得） | — | 建議查「註冊小型工程承建商 名冊 數目 2025」 | — |
-| 密度推算（本人計算，口徑為全部設計公司） | 7,000 ÷ 約 750 萬人 ≈ **每萬人 9.3 家** | 2022 | 本人計算 | 低（口徑寬） |
+| **梁志天設計集團 Steve Leung Design Group（SLD, 2262.HK）** | 純設計（住宅、商業、酒店）＋室內裝飾產品貿易 | 2025 收入 **4.23 億港元**（≈5,420 萬美元；≈16.8 億台幣）+15%；股東應佔溢利 1,120 萬港元（上年 180 萬，+522%）；毛利率 38.2%；貿易收入 1.372 億（上年 9,690 萬）；剩餘合約額 5.6 億港元；淨現金 1.533 億；不派息。**2026 上半年收入 1.867 億港元（−4.1%）**，因內地房地產項目放緩。2023 年淨虧約 2,000 萬港元 | 香港上市；主要客戶為內地發展商；向產品貿易轉型 | [HKEX 2025 年報](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042200393_c.pdf)；[智通／Investing](https://cn.investing.com/news/stock-market-news/article-3269547)；[JC68](https://m.jc68.com/club/show-25539.html)；[瑞財經 中期](https://m.rccaijing.com/news-7366033996142802672.html)；[sl886 2024 預告](https://www.sl886.com/newstrading/4150602)；[TipRanks](https://www.tipranks.com/news/company-announcements/steve-leung-design-group-swings-to-stronger-profit-on-higher-revenue-and-cash-reserves) |
+| **瑞安建業 SOCAM Development（983.HK）**／Pat Davie Limited | 總承建＋室內裝修（機構客戶） | 2025 營業額 **70.1 億港元**（上年 90.5 億）；建造分部 68.82 億（−23%）；股東應佔虧損 9,200 萬；2025 新合約 67 億，結轉 205 億；**2026 上半年室內裝修營業額 +30%，佔建造營業額 >29%** | 瑞安集團旗下；港澳機構客戶（辦公、酒店、公營） | [2025 全年業績](https://newsfile.moomoo.com/public/NN-PersistNoticeAttachment/7781/20260327/12073133-0.PDF)；[2024 業績](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0327/2025032701027.pdf)；[2026 中期](https://newsfile.futunn.com/public/NN-PersistNoticeAttachment/7781/20260828/12305397-0.PDF) |
+| **國際家居零售 International Housewares Retail（1373.HK；日本城→JHC 真好城）** | 家品零售（鄰近） | FY2025（至 2025-04）收入 25.37 億港元（−5.6%），純利 4,773 萬（−52.8%）；1H FY2026（至 2025-10）收入 12.71 億（−3.9%），利潤 3,296 萬（−35.1%）；本港直營店 295 間（2023 高峰 321） | 2026-07 品牌更名 JHC 真好城；2025-07 否認結業傳聞 | [Yahoo](https://hk.finance.yahoo.com/news/%E6%97%A5%E6%9C%AC%E5%9F%8E%E5%A4%B1%E8%AD%B7%E5%9F%8E%E6%B2%B3-%E5%9C%8B%E9%9A%9B%E5%AE%B6%E5%B1%85%E9%A2%A8%E5%85%89%E4%B8%8D%E5%86%8D-231655821.html)；[HK01](https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/1086945/%E6%97%A5%E6%9C%AC%E5%9F%8E%E6%AF%8D%E4%BC%81%E5%9C%8B%E9%9A%9B%E5%AE%B6%E5%B1%85%E9%9B%B6%E5%94%AE-%E5%8D%8A%E5%B9%B4%E5%B0%91%E8%B3%BA35-%E4%B8%AD%E6%9C%9F%E6%81%AF4%E4%BB%99)；[文匯](https://www.wenweipo.com/a/202507/14/AP6874c94be4b0eba3f09a818e.html)；[unwire](https://unwire.hk/2026/07/14/japanhome-jhc-rebrand/shop_guide/) |
+| **裝修佬 HK Decoman Technology** | O2O 裝修平台（配對＋裝修 Mall 電商＋裝修學院） | 2015 成立（創辦人廖沛賢）；2018 年融資 1,000 萬港元（估值 640 萬美元，投資者為本地發展商及企業家）；2021 獲 SparkLabs Taipei 投資；累計成交額 >2,000 萬美元（約 2 億港元，2022）；每月用戶 >80 萬（日期不明）；服務 >25,000 家庭；5,000+ 案例；學院學員 >1.5 萬；**2022 進軍台灣（夯裝修 TWdecoman）** | 私人公司；平台抽成＋電商＋課程 | [裝修佬官網](https://hkdecoman.com/)；[HKSIA 簡介](http://tsf.hksia.hk/web/subpage.php?mid=405&id=1038)；[INSIDE](https://www.inside.com.tw/article/27152-decoman)；[HKET 2019](https://sme.hket.com/article/2445336/%E3%80%8C%E8%A3%9D%E4%BF%AE%E4%BD%AC%E3%80%8D%E5%89%B5%E6%A5%AD%E4%B9%8B%E9%81%93%EF%BC%9A%E5%A0%85%E6%8C%81%E3%83%BB%E5%AD%A4%E7%8D%A8%E3%83%BB%E6%8E%A8%E6%87%89%E9%85%AC)；[istartup](https://istartup.hk/braving-the-epidemic/tc/article/hk-decoman-technology.php) |
+| **好師傅 CoDECO** | 裝修配對平台（含 App 智能裝修管家） | 2013 成立（創辦人唐耀賢 Woody Tong）；**累計 >4,500 宗工程、總工程額 >12 億港元（≈1.54 億美元；≈47.7 億台幣）**（2025）；2020 年工程額 1.7 億港元；2019 年約 700 單位、1.5 億港元；約 150 組師傅團隊；融資約 1,000 萬港元（說法不一）；與中原按揭策略合作 | 私人公司；配對抽成 | [關於我們](https://codeco.hk/zh-tw/about_us/)；[12 周年](https://codeco.hk/zh-tw/p/codeco_anniversary/)；[PR Newswire 2021](https://hk.prnasia.com/story/320583-2.shtml)；[中原按揭](https://www.centamortgage.com/information/detail/%E4%B8%AD%E5%8E%9F%E6%8C%89%E6%8F%ADX%E5%A5%BD%E5%B8%AB%E5%82%85CoDECO%E8%A3%9D%E4%BF%AE%E9%85%8D%E5%B0%8D%E5%B9%B3%E5%8F%B0%E5%B1%95%E9%96%8B%E7%AD%96%E7%95%A5%E5%90%88%E4%BD%9C_181965) |
+| **AB Concept** | 高端酒店／餐飲設計工作室 | 1999 年由伍仲匡（Ed Ng）與顏學添（Terence Ngan）創辦；作品：香港四季酒店翻新（2021）、曲阜香格里拉、日本愛知 Laguna Baycourt | 私人；國際酒店業主客戶 | [明周](https://www.mpweekly.com/culture/%E9%A6%99%E6%B8%AF%E8%A8%AD%E8%A8%88-%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88-ab-concept-39773)；[Home Journal Top 10](https://homejournal.com/10-top-interior-design-firms-in-hong-kong/128344/) |
+| **Joyce Wang Studio** | 高端酒店／住宅設計 | 香港＋倫敦據點；香港置地文華東方（109 間客房翻新）、曼谷文華東方管理式住宅 | 私人 | [Home Journal](https://homejournal.com/the-new-mandarin-oriental-the-landmark-by-joyce-wang-takes-cues-from-historic-hong-kong-mansions/130881/) |
+| **鄭中設計 CCD** | 酒店設計 | 1994 年香港創立，先後在北京、上海、新加坡、東京、杜拜、墨爾本、倫敦設辦公室 | 私人；港企北上典型 | [Home Journal 中文](https://homejournal.com/zh/10%E5%A4%A7%E9%A6%99%E6%B8%AF%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88%E5%85%AC%E5%8F%B8%E6%8E%A8%E8%96%A6/128308/) |
+| **HelloToby**（Toby） | 服務配對平台（含裝修、設計） | 以內容＋報價配對獲客；發布年度裝修價格指南 | 私人 | [HelloToby 全屋裝修](https://www.hellotoby.com/zh-hk/c/%E5%85%A8%E5%B1%8B%E8%A3%9D%E4%BF%AE) |
+| **Pro360 達人網** | 服務配對平台 | 台灣 PRO360 之香港站 | 台資 | [Pro360 HK](https://www.pro360.com.hk/zh-hk/price/interior_design) |
+| **Muse+ Design** | 設計裝修公司（自編價格指數） | 整合 1,000+ 內部報價編製季度指數 | 私人 | [Muse+](https://www.museplus.design/pricing-index) |
+| **藝創室內設計 AC Design、HK Create Design、Wanhelp 萬師傅、裕利工程、雋域設計 Joinery** 等 | 中小型設計裝修公司 | 以 SEO 內容（報價指南）獲客 | 私人 | [acdesign](https://www.acdesign.com.hk/price/2400/)；[hkcreatedesign](https://hkcreatedesign.hk/2025-2026-renovation-guide/)；[wanhelp](https://www.wanhelp.com/1103.html) |
+| **IKEA 香港（牛奶公司 DFI 特許）、實惠 Pricerite** | 家居零售＋訂造傢俬／裝修配套 | **香港營收未找到**（缺口） | — | — |
 
-### 4.2 施工端結構（法規決定的市場進入門檻，詳見 HK-B 法規筆記）
-- 屋宇署（Buildings Department）小型工程監管制度（Minor Works Control System, MWCS）：187 項小型工程分三級（第 I 級 58 項、第 II 級 68 項、第 III 級 61 項）；第 I、II 級承建商必須是公司並設獲授權簽署人（AS）與技術董事（TD）；第 III 級可為個人；另有 30 項豁免工程（2020 年修例由 15 項增至 30 項）— [屋宇署 制度簡介](https://www.bd.gov.hk/tc/building-works/minor-works/introduction-to-minor-works-control-system/index.html)；[政府新聞公報 2020-05-08](https://www.info.gov.hk/gia/general/202005/08/P2020050800227.htm)；[RMWC 公司註冊指南](https://www.bd.gov.hk/en/resources/registration-guides/index_RMWC_company.html)；[RMWC 個人](https://www.bd.gov.hk/tc/resources/registration-guides/index_RMWC_individual.html)
-- 室內設計師**無法定註冊制度**；第 I 級小型工程須由「訂明建築專業人士」（AP／RSE／RGE）設計及監督 — [屋宇署 誰可進行小型工程](https://www.bd.gov.hk/tc/building-works/minor-works/minor-works-items/who-can-carry-out-minor-works/index.html)
-- 結構意涵：一般家居裝修（第 III 級）進入門檻低（個人可註冊），故住宅裝修端由大量小型承包商構成；涉及結構、消防、外牆的第 I／II 級工程才集中於有 AS／TD 的公司。
-
-### 4.3 主要玩家（僅列本專案有來源者；其餘見 4.4 待查清單）
-| 類型 | 公司 | 規模／財務 | 年份 | 商業模式／股權 | 來源 | 信心 |
-|---|---|---|---|---|---|---|
-| 純設計（高端住宅、商業、酒店） | 梁志天設計集團 Steve Leung Design Group（港交所主板 2262.HK） | 2025 年收入 **HK$4.227 億**（≈USD 5,419 萬 ≈ NT$17.1 億；2024：HK$3.677 億 ≈ USD 4,714 萬，年增 15%）；股東應占溢利 HK$1,120 萬（≈USD 144 萬；2024：HK$180 萬）；2025H1 收入 HK$1.946 億、溢利 HK$100 萬（去年同期虧 HK$740 萬） | 2024–2025 | 2000 年布局中國大陸、2018 年港交所上市；設計費＋產品／授權；大中華高端住宅與商業為主 | [HKEX 2026-03-19 全年業績](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0319/2026031900292.pdf)；[HKEX 2025-08-26 中期業績](https://www.hkexnews.hk/listedco/listconews/sehk/2025/0826/2025082600466_c.pdf)；[聯合新聞網 2025-11](https://udn.com/news/story/7241/9133143) | 高（上市公司公告，未開啟原文核對） |
-| 互聯網家裝平台（港交所上市、業務在中國大陸，**非香港市場玩家**，僅作為「香港為大中華裝修公司上市地」之例） | 齊屹科技／齊家網（1739.HK） | 2024 年營收 CNY 10.56 億（−11.07%）、淨虧 1.27 億；市值約 HK$2.36 億 | 2024–2026 | 流量平台＋自營裝修 | [網經社](https://www.100ec.cn/detail--6648193.html)；[騰訊新聞](https://news.qq.com/rain/a/20260826A0BMM200) | 中 |
-
-- 梁志天 2025 年淨利率約 2.6%（1,120 萬 ÷ 4.227 億，本人計算），顯示即使是區域龍頭設計品牌，在 2024–2025 大中華房市下行期的獲利極薄。
-
-### 4.4 任務點名但本輪**無任何數據**的待查對象（名稱來自任務提示，非研究結果）
-| 類型 | 名稱 | 建議查詢詞 |
-|---|---|---|
-| 裝修媒合／設計施工平台 | 裝修佬（DecoMan）、好師傅、Decor8、裝修MALL、設計家 | 「裝修佬 融資 用戶 數目」「好師傅 裝修平台 成交」「Decor8 裝修 平台 用戶」 |
-| 高端設計工作室（酒店、餐飲、豪宅） | AB Concept、Joyce Wang Studio | 「AB Concept 香港 設計 項目 2025」「Joyce Wang 設計 酒店」 |
-| 家居零售兼營裝修 | IKEA 香港（任務提示指由 DFI 牛奶國際經營，**本輪無香港來源**）、實惠（Pricerite）、日本城（JHC） | 「IKEA 香港 營收 DFI 年報」「實惠 Pricerite 營業額」「日本城 JHC 營收 2024」 |
-| 港交所 GEM／主板上市裝修承建商 | 本專案 T2 筆記建議以「港交所 GEM 裝修公司年報」為來源，但未執行 | 「港交所 GEM 裝修 工程 公司 年報 2025」「香港 室內裝修 承建商 上市 收入」 |
-| 2023–2026 結業、清盤、併購、募資 | — | 「香港 裝修公司 結業 2024 2025」「裝修 公司 清盤 消委會 2025」「香港 設計公司 北上 大灣區 2025」 |
-
-### Gaps
-- 前 10–20 名玩家營收排名；平台融資；倒閉案例；發展商精裝修（developer-fitted）比例；家居零售營收——全部缺口。
+### 4.3 M&A、融資、倒閉（2023–2026）
+- **M&A／融資**：未發現 2023–2026 年公開的香港室內設計／裝修公司併購或新一輪融資；裝修佬、好師傅最近公開融資皆在 2018–2021 年（見上表）。
+- **倒閉／失聯**：未找到 2023–2026 年具名的大型裝修公司結業個案。消委會投訴類別中列有「家居裝修公司失聯或倒閉」；2025 年 10 月個案：業主經中介平台配對、付逾 30 萬港元後工程爛尾、裝修公司離場近年半（[東網 2025-10-16](https://hk.on.cc/hk/bkn/cnt/news/20251016/bkn-20251016191212344-1016_00822_001.html)）。
+- **投訴統計**：2017–2023 年 1,205 宗、涉款 2.7 億港元（[消委會](https://www.consumer.org.hk/tc/advocacy/study-report/home_renovation_study)；[明報](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20240221/s00001/1708484500466/%E6%B6%88%E5%A7%94%E6%9C%837%E5%B9%B4%E9%96%93%E6%8E%A51205%E5%AE%97%E6%B6%89%E5%AE%B6%E5%B1%85%E8%A3%9D%E4%BF%AE%E6%8A%95%E8%A8%B4-%E5%80%A1%E8%A8%82%E6%A8%99%E6%BA%96%E5%A0%B1%E5%83%B9%E5%96%AE%E5%8F%8A%E8%A8%AD%E8%AA%8D%E8%AD%89%E5%88%B6%E5%BA%A6)）；2023／2024／2025 年裝修及家居維修投訴 310／378／323 宗（[hketime](https://hketime.com/topics/decoration-company-blacklist/)）；2025 年 1–9 月 293 宗，其中 106 宗涉延誤未完工（[好師傅引消委會](https://codeco.hk/zh-tw/renovation-101/2025_ConsumerCouncilCDC)）；另有來源稱 2025 年裝修投訴逾 1,500 宗（[Muse+](https://www.museplus.design/blog/choose-renovation-company-guide)）——口徑不一，以消委會原始發布為準。調解成功率僅兩成多。
+- **消費者憂慮**（消委會 2023 年調查，505 份）：工程爛尾 73%、施工質素欠佳 61%、收款後失聯 59%（[消委會新聞稿](https://www.consumer.org.hk/tc/press-release/p-home-renovation-study-report)；[英文全文](https://www.consumer.org.hk/f/initiative_detail/432464/459600/Home%20%20-%20Full%20Report_v2.pdf)）。
+- **監管工具**：海關依《商品說明條例》打擊不良營商（最高罰 50 萬港元、監禁 5 年；2021 年曾拘捕裝修公司東主）（[政府新聞稿 2021](https://www.info.gov.hk/gia/general/202111/30/P2021113000499.htm)）；小額錢債審裁處（≤7.5 萬港元）、區域法院（≤300 萬港元）。
 
 ---
 
 ## 5. 通路與獲客
 
-### Takeaway
-**本輪無任何香港通路數據**（平台用戶數、GMV、抽成、推薦／展廳／社群占比皆未取得）；僅能從消委會投訴結構推論市場以小型承包商直接承接為主。
-
-### Cited Findings
-- 消委會 2024-02-21 建議：推出標準報價單範本、承辦商認證計畫、7 日冷靜期；2017–2023 投訴 1,205 宗 — [明報](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20240221/s00001/1708484500466/)；[新報人（浸大）](https://spyan-jour.hkbu.edu.hk/2024/02/21/)。
-- 本專案 T2（商業模式）筆記對香港列為「搜尋未執行」，並指出應補的來源為港交所 GEM 裝修公司年報與平台官網 — 見 `04-research-notes/themes/T2-business-models.md` §香港列。
-
-### Inferences
-- 投訴平均 HK$23 萬且追討成功率僅 22%，暗示多數住宅案件為「屋主直接委託小型承包商、無第三方資金託管」的模式；平台若能提供託管與保固，具明確差異化空間（**推論，無平台數據佐證**）。
-
-### Gaps
-- 裝修佬／好師傅／Decor8 等平台的用戶數、案量、GMV、抽成；發展商交樓標準（精裝修比例）；IKEA／實惠的裝修服務線——見 §10。
+| 通路 | 證據 | 來源 |
+|---|---|---|
+| **O2O 配對平台** | 裝修佬：服務 >25,000 家庭、每月用戶 >80 萬（自報）；好師傅：累計 4,500 宗、12 億港元（2013–2025），年工程額 1.5–1.7 億港元（2019–2020）；HelloToby、Pro360、裝修配對家 intermatch、EcHouse、Designpedia 等 | 見 4.2 |
+| **平台 GMV 占比（推算）** | 好師傅年工程額約 1.7 億港元（2020）÷ 非地盤工程 ~850 億 ≈ 0.2%；即使加總各平台，佔整體住宅裝修亦**不足 1–2%**（推算，口徑不同僅示意） | — |
+| **平台抽成／take-rate** | **未公開**（缺口） | — |
+| **按揭／地產代理交叉銷售** | 中原按揭 × 好師傅策略合作（新買家導流） | [中原按揭](https://www.centamortgage.com/information/detail/%E4%B8%AD%E5%8E%9F%E6%8C%89%E6%8F%ADX%E5%A5%BD%E5%B8%AB%E5%82%85CoDECO%E8%A3%9D%E4%BF%AE%E9%85%8D%E5%B0%8D%E5%B9%B3%E5%8F%B0%E5%B1%95%E9%96%8B%E7%AD%96%E7%95%A5%E5%90%88%E4%BD%9C_181965) |
+| **新盤專頁** | 裝修佬設「新盤專頁」「私樓專頁」針對收樓業主 | [decoman-newproperties](https://decoman-newproperties.com/)；[私樓專頁](https://decoman-privatehousing.com/) |
+| **SEO 內容行銷** | 幾乎所有中小設計公司以「裝修費用指南／報價表」文章獲客（acdesign、HK Create、Wanhelp、Joinery、裕利、Muse+） | 見 3.5 |
+| **媒體榜單** | Home Journal「10 大香港室內設計公司」、ELLE 推介 | [Home Journal](https://homejournal.com/10-top-interior-design-firms-in-hong-kong/128344/) |
+| **發展商交樓標準** | 居屋多為毛胚交樓→必須全屋裝修；私樓一手多附基本裝修（廚廁） | [藝創](https://www.acdesign.com.hk/price/2400/) |
+| **政府補助通路（維修）** | 長者維修自住物業津貼最高 8 萬港元（≥60 歲）；免息裝修貸款已終止 | [Yahoo](https://hk.news.yahoo.com/%E9%95%B7%E8%80%85%E8%A3%9D%E4%BF%AE%E6%B4%A5%E8%B2%BC2025-%E9%95%B7%E8%80%85%E7%B6%AD%E4%BF%AE%E8%87%AA%E4%BD%8F%E7%89%A9%E6%A5%AD%E6%B4%A5%E8%B2%BC%E8%A8%88%E5%8A%832025-%E9%95%B7%E8%80%85%E7%B6%AD%E4%BF%AE%E8%87%AA%E4%BD%8F%E7%89%A9%E6%A5%AD%E6%B4%A5%E8%B2%BC%E8%A8%88%E5%8A%83%E8%B3%87%E6%A0%BC-%E9%95%B7%E8%80%85%E6%B4%A5%E8%B2%BC-023059021.html)；[1880](https://www.1880.com.hk/loan/782/) |
+| **公營樓宇維修通路** | 樓宇復修平台（市建局）提供參考單價與承建商名單 | [brplatform 參考單價](https://brplatform.org.hk/tc/cost-reference-centre/reference-unit-rate) |
+| **商辦** | 透過 JLL／C&W 等項目管理顧問（PDS）招標 | [JLL](https://www.jll.com/en-hk/newsroom/hong-kong-office-fit-out-costs) |
 
 ---
 
 ## 6. 趨勢與展望 2024–2026
 
-### Takeaway
-唯一可靠的趨勢訊號是官方數列：香港非地盤建造工程 2024 年 −6.0%、2025 年各季 −0.7% 至 −3.9%，但 2026 Q1 建造總值回升 +2.9%；成本面亞太辦公室裝修成本仍以每年 2–5%（當地幣）上升；法規面 2025–2026 有小型工程技術指引更新與《建築物條例》修訂提案。
+### 6.1 成本
+- 2025 年裝修價 +8–15%，師傅日薪及物料 +10–18%（[HK Create Design](https://hkcreatedesign.hk/2025-2026-renovation-guide/)）。
+- 磁磚、潔具、板材兩年累計 +15–20%；人工 +8–12%（資深師傅退休、年輕人不入行）（[quotationcheckhk 2026](https://quotationcheckhk.com/%E8%A3%9D%E4%BF%AE%E5%83%B9%E6%A0%BC%E8%88%87%E5%9C%B0%E7%9B%A4%E4%BA%BA%E5%B7%A5/)）；但同文引建造業總工會：2026 年地盤人工以**凍薪**為主（大型工程減少）。
+- 商辦：JLL 2026 年 +1.5%，關稅推高鋼銅→機電、IT/AV 成本；承建商壓價搶單部分抵銷（[JLL](https://www.jll.com/zh-hk/newsroom/hong-kong-office-fit-out-costs)）。Arcadis《2025 Construction Cost Handbook China & HK》提供分項單價（[Arcadis](https://media.arcadis.com/-/media/project/arcadiscom/com/perspectives/asia/publications/cch/2025/2025-cnhk-cost-handbookfinal-online.pdf?rev=1b304935c6ec425db127792f5c3703b3)）。
 
-### Cited Findings
-- 市場量：非地盤工程 2024 HK$873 億（−6.0%）— [C&SD 2025-03-11](https://www.info.gov.hk/gia/general/202503/11/P2025031100233.htm)；2025 Q1 −3.9% — [C&SD](https://www.censtatd.gov.hk/en/press_release_detail.html?id=5590)；Q2 −0.7% — [C&SD 2025-09-11](https://www.info.gov.hk/gia/general/202509/11/P2025091100340.htm)；Q4 −3.0%、全年建造總值 HK$2,866 億（−1.4%）— [C&SD 2026-03-12](https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm)；2026 Q1 建造總值 HK$727 億（+2.9%）— [文匯網](https://www.wenweipo.com/a/202606/11/AP6a2a9131e4b0b49ad1bef21b.html)。
-- 成本：JLL 2026 亞太辦公室裝修平均 USD 1,550/m²，當地幣年增 2–5% — [cfotech](https://cfotech.asia/story/jll-warns-asia-pacific-office-fit-out-costs-keep-rising)；C&W 2025 指南標題指「承包商情緒普遍正面，最壞的價格壓力已緩解」— [brandspurng](https://brandspurng.com/2025/03/24/contractor-sentiment-generally-positive-as-the-worst-of-price-pressures-ease-according-to-office-fit-out-vendors-across-asia-pacific/)。
-- 法規：屋宇署《小型工程監管制度技術指引》2024 年版於 2025-02-28 發布，2025、2026 另有修訂通函 — [屋宇署 最新消息](https://www.bd.gov.hk/en/building-works/minor-works/index_mwcs_news.html)；立法會 2026-01-28 就小型工程制度之答覆 — [政府新聞公報](https://www.info.gov.hk/gia/general/202601/28/P2026012800315.htm)；發展局 2025 年初提議修訂《建築物條例》以提高罰則、強化註冊專業人士與承建商紀律（通過與否未確認）— [DLA Piper REALWORLD](https://www.dlapiperrealworld.com/law/index.html?c=HK&t=construction)。
-- 消費者保護：消委會 2024-02 建議標準報價單、認證計畫、冷靜期（政府是否採納未確認）— [明報](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20240221/s00001/1708484500466/)。
-- 設計業：HKTDC 設計產業增加值 2022 年 −6% — [HKTDC](https://research.hktdc.com/en/article/MzEzOTE1MDI5)。
+### 6.2 樓市與利率
+- 2025 年住宅登記 4 年新高、樓價止跌（[中原](https://hk.centanet.com/info/property-news/%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A/land-registry)）；摩根大通私人銀行認為香港樓市已到或接近底部，但寫字樓供應過剩仍利淡（[J.P. Morgan](https://privatebank.jpmorgan.com/apac/zh/insights/markets-and-investing/asf/the-case-for-hong-kong-real-estate)）。
+- 1 個月 HIBOR 約 2.63%（2026-08-19）、約 2.88%（2026-09-11）；H 按實際按息約 3.25%（[wuchatprop](https://www.wuchatprop.com.hk/hibor/)；[mReferral](https://www.mreferral.com/blog/%E6%8C%89%E6%8F%AD%E5%88%A9%E7%8E%87/)）。利率下行→先刺激成交，裝修需求滯後跟上（推論）。
+- 新供應下行：2026–2028 落成量 −44%（JLL），新樓裝修需求結構性收縮；**存量翻新與公營維修**成主要增長點。
 
-### Inferences（3–5 年展望，低信心；驅動與風險皆為推論）
-- **基準情境**：裝修總量在 HK$800–900 億區間橫盤，名目成長 0–3%；驅動為樓宇老化帶來的修葺保養剛需（樓宇更新大行動、強制驗樓——**本輪未取得數據**）與商用空間升級；風險為樓價續跌抑制換樓與翻新、寫字樓高空置壓抑 fit-out。
-- **成本結構**：人工與材料通膨使「量減價升」，單位成本（C&W USD 160/ft²）維持大中華最高；設計公司利潤率承壓（梁志天 2.6%）。
-- **本輪完全未取得**：材料與工資通膨數字、利率、預製／組裝合成（MiC）在裝修的應用、AI／3D 工具採用、永續／綠色裝修、高齡化住宅改裝、設計公司北上大灣區——全部列入 §10。
+### 6.3 政策與監管驅動
+- 強制驗樓計劃（MBIS）：≥30 年樓宇逾 2 萬幢在範圍內、9,000 幢已獲通知（[立法會十六題](https://www.info.gov.hk/gia/general/202602/04/P2026020400370.htm)）；2025 年 11 月大埔宏福苑火災（該屋苑曾涉 3.3 億港元維修糾紛）後，政府加強推動樓宇維修與工程管理（[財新](https://companies.caixin.com/2025-11-27/102387266.html)；[立法會二十題 2026-05](https://www.info.gov.hk/gia/general/202605/27/P2026052700525.htm)）。
+- 競委會＋廉署打擊維修圍標；7,700 幢私樓未來 10 年達維修門檻（[東網](https://hk.on.cc/hk/bkn/cnt/news/20250623/bkn-20250623132907629-0623_00822_001.html)）。
+- 消委會 4 項建議（標準報價單、認證制度、標準合約、付款保障）尚未立法（[消委會](https://www.consumer.org.hk/tc/press-release/p-home-renovation-study-report)）。
+- CEPA：香港建築師／結構工程師可經互認在內地執業，2019 年優惠擴至全國；**室內設計師未見明文涵蓋**（[bayarea.gov.hk](https://www.bayarea.gov.hk/tc/opportunities/cepa.html)）。
+
+### 6.4 設計趨勢
+- 2026 關鍵字：智能化、慳位、耐用、健康、報價透明；訂造傢俬＋一站式全屋裝修結合（[Designpedia](https://designpedia.com.hk/latest_article/2026%E9%A6%99%E6%B8%AF%E8%A3%9D%E4%BF%AE%E5%85%A8%E6%94%BB%E7%95%A5%EF%BC%9A%E6%9C%80%E6%96%B0%E5%91%8E%E5%83%B9%E8%A1%8C%E6%83%85%E3%80%81%E9%A0%90%E7%AE%97%E5%88%86%E6%9E%90%E8%88%87%E8%B6%A8/)；[Home Journal 2026 五大趨勢](https://homejournal.com/zh/2026%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%B1%85%E8%A3%9D%E4%BF%AE%EF%BC%8C5%E5%A4%A7%E8%A8%AD%E8%A8%88%E6%80%9D%E7%B6%AD%E8%88%87%E8%B6%A8%E5%8B%A2/128586/)）。
+- 設計階段未鎖定主材者，後期升級比例達 55%（[quotationcheckhk](https://quotationcheckhk.com/%E8%A3%9D%E4%BF%AE%E5%83%B9%E6%A0%BC%E8%88%87%E5%9C%B0%E7%9B%A4%E4%BA%BA%E5%B7%A5/)）。
+- 高齡化：長者維修津貼 8 萬港元；長者友善設計成細分市場（[Designpedia 樂齡](https://designpedia.com.hk/latest_article/%E5%A6%82%E4%BD%95%E8%A8%AD%E8%A8%88%E4%B8%80%E5%80%8B%E8%AE%93%E9%95%B7%E8%80%85%E5%AE%89%E5%BF%83%E5%B1%85%E4%BD%8F%E7%9A%84%E5%AE%B6%EF%BC%9F%E6%A8%82%E9%BD%A1%E5%AE%B6%E5%B1%85%E8%A8%AD%E8%A8%88/)）。
+- **預製／模組化、AI／3D 工具在香港裝修市場的滲透：未找到可引用數據**（缺口）。
+
+### 6.5 3–5 年展望（研究者綜合判斷）
+- **基準情境**：住宅裝修總量微增（二手成交回升＋存量老化），單價年增 3–8%（人工、物料）；新樓裝修量隨落成量 2026–28 下滑 25–44%；商辦裝修 2026 回穩（70% 承建商看好）但受寫字樓空置壓制；家居零售持續受內地電商侵蝕。
+- **上行驅動**：減息、樓市回暖、MBIS／火災後維修潮、政府推動樓宇更新。
+- **下行風險**：人力老化與短缺、內地採購替代（物料與傢俬）、SLD 等高端設計公司依賴內地房地產、監管空白導致信任危機（爛尾／失聯投訴）。
 
 ---
 
 ## 7. 與台灣比較的錨點
 
-### Takeaway
-可直接比較的只有三組：(a) 官方／民間總量口徑下的人均與占 GDP 比；(b) C&W 辦公室裝修單位成本；(c) 設計公司密度（口徑不同，僅供方向）。住宅每坪單價與設計費行情因香港端缺資料**無法比較**。
-
-| 比較項 | 香港 | 台灣 | 比值（港／台） | 口徑差異與警語 | 來源 |
-|---|---|---|---|---|---|
-| 裝修相關總量 | HK$873 億（2024）≈ USD 111.9 億 ≈ NT$3,526 億（C&SD 非地盤，DB＋CF，含小型新建與機電保養） | NT$5,500 億（2025）≈ USD 174.6 億（100 室內設計依財政部推估，全口徑含家具） | 0.64× | 香港為官方、偏寬；台灣為民間推估、含家具零售 | [C&SD](https://www.info.gov.hk/gia/general/202503/11/P2025031100233.htm)；[經濟日報](https://udn.com/news/story/7241/9242628) |
-| 人均裝修支出 | ≈USD 1,490（≈NT$47,000）／人／年 | ≈USD 746（≈NT$23,500） | **2.0×** | 人口（港 750 萬、台 2,340 萬）為概略值 | 本人計算；人均 GDP 見 [Worldometers 2025](https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal) |
-| 占 GDP | 2.5–2.6% | 1.9%（5,500 億口徑）／0.7%（ABRI 住宅舊口徑） | 1.3–3.7× | 兩地口徑皆偏寬 | 同上；T1 §5.2 |
-| 設計服務／GDP | 0.12%（HKTDC 設計產業增加值 HK$41 億，2022；全設計口徑） | 無直接估計（T1 推算 0.07–0.28%） | — | 不可直接比較 | [HKTDC](https://research.hktdc.com/en/article/MzEzOTE1MDI5) |
-| 辦公室裝修成本（C&W 2025，中階全包） | USD 160/ft² ≈ USD 1,722/m² ≈ NT$17.9 萬／坪 | USD 110/ft² ≈ USD 1,184/m² ≈ NT$12.3 萬／坪（三級 61／110／202） | **1.45×** | 同一機構、同一年、同一口徑，**最可靠的比較** | [APREA](https://www.aprea.asia/knowledge-hub/asia-pacific-office-fit-out-cost-guide-2025-cushman-wakefield/)；[brandspurng](https://brandspurng.com/2025/03/24/contractor-sentiment-generally-positive-as-the-worst-of-price-pressures-ease-according-to-office-fit-out-vendors-across-asia-pacific/) |
-| 住宅裝修每坪單價 | **無資料** | 新成屋 NT$6–10 萬／坪、中古屋 10–15 萬／坪、預售客變 5–7 萬／坪（2025） | — | 香港端缺口 | [工商時報 2025-11-19](https://www.ctee.com.tw/news/20251119700015-431001) |
-| 設計費行情 | **無資料** | NT$4,500–12,000／坪（2025） | — | 香港端缺口 | [PRO360](https://www.pro360.com.tw/price/interior_design) |
-| 設計／裝修公司密度 | >7,000 家設計公司（全設計）÷ 750 萬 ≈ 每萬人 9.3 家 | 1.7 萬餘家登記室內裝修業 ÷ 2,340 萬 ≈ 每萬人 7.3 家（2026-04） | 1.3× | 港為全設計分支、台為登記裝修業；僅供方向 | [HKTDC](https://research.hktdc.com/en/article/MzEzOTE1MDI5)；[中央社 2026-04-27](https://www.cna.com.tw/news/ahel/202604270323.aspx) |
-| 設計師執業管制 | 無法定註冊；施工端 MWCS 三級註冊承建商 | 室內裝修業登記＋專業技術人員（《建築物室內裝修管理辦法》） | — | 兩地皆對「設計」本身無證照，對施工端有登記 | [屋宇署](https://www.bd.gov.hk/tc/building-works/minor-works/minor-works-items/who-can-carry-out-minor-works/index.html)；[中央社](https://www.cna.com.tw/news/ahel/202604270323.aspx) |
-| 消費糾紛 | 消委會 2017–2023 共 1,205 宗、平均 HK$23 萬／宗 | 官方無裝修分項統計（T3 缺口）；「裝修蟑螂」促使國土署研擬定型化契約 | — | — | [消委會 PDF](https://www.consumer.org.hk/f/initiative_detail/432464/459683/H%20-%20Presentation%20Deck%20(Chinese)_v3.pdf)；[聯合新聞網](https://udn.com/news/story/7321/9395294) |
-| 外資（台資）持股 | 設計公司可 100%；承建商需具港資格之 AS／TD | — | — | 詳 HK-B 筆記 | [屋宇署 RMWC 公司](https://www.bd.gov.hk/en/resources/registration-guides/index_RMWC_company.html) |
+| 錨點 | 香港數值 | 單位換算 | 來源 | 備註 |
+|---|---|---|---|---|
+| 住宅全屋裝修均價 | ≈1,000 港元／呎 | ≈10,760 港元／m²（≈1,380 美元／m²）；≈35,600 港元／坪 ≈ **14.1 萬台幣／坪**；區間 8.5–20 萬台幣／坪 | [Yahoo／Home Journal 2026](https://hk.news.yahoo.com/2026%E9%A6%99%E6%B8%AF%E8%A3%9D%E4%BF%AE%E9%A0%90%E7%AE%97%E5%85%A8%E6%94%BB%E7%95%A5-%E7%94%B1%E4%B8%8A%E8%BB%8A%E7%9B%A4%E5%88%B0%E8%B1%AA%E5%AE%85%E7%9A%84%E5%91%8E%E5%83%B9%E6%8B%86%E8%A7%A3-150016640.html) | 連工包料、實用面積、不含活動傢俬電器 |
+| 寫字樓 fit-out | 160 美元／呎（C&W）；200 美元／呎（JLL 中等規格） | 1,722–2,153 美元／m²；**17.6–22.1 萬台幣／坪** | [C&W](https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office)；[JLL](https://www.jll.com/en-hk/newsroom/hong-kong-office-fit-out-costs) | 可與 C&W／JLL 台北數字同口徑比較 |
+| 設計費 | 純設計 30–80 港元／呎；工程 10–20% | 1,070–2,850 港元／坪 ≈ **4,200–11,300 台幣／坪**；主流為一條龍內含 | [藝創](https://www.acdesign.com.hk/price/2394/)；[好師傅](https://codeco.hk/zh-tw/renovation-101/%E8%A3%9D%E4%BF%AE%E9%A0%90%E7%AE%97%E2%94%82%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%BB%9E%E6%A8%A3%E6%94%B6%E8%B2%BB%EF%BC%9F%E9%99%84%E6%B5%81%E7%A8%8B%E5%8F%8A3%E5%A4%A7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85) | |
+| 非地盤建造工程 | 857 億港元（2025） | ≈110 億美元 ≈ 3,406 億台幣 | [C&SD](https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm) | 台灣對照口徑：營造業「裝修工程業」產值或主計總處修繕支出；**人均**：若以約 750 萬人口計 ≈ 11,400 港元／人（≈4.5 萬台幣／人）——人口數未在本次搜尋取得來源，僅示意 |
+| 設計業機構密度 | 7,110 間／設計業（2022），室內及傢俬約 2,400 間（推算） | 每百萬人約 320 間設計機構（以 750 萬人口示意） | [HKTDC](https://research.hktdc.com/en/article/MzEzOTE1MDI5) | 台灣對照：建築物室內裝修業登記家數（內政部） |
+| 註冊小型工程承建商（公司） | ~8,836 間 | — | [TenderLink](https://tenderlink.hk/contractors) | 台灣對照：室內裝修業登記（約 1 萬餘家） |
+| 住宅成交 新：二手 | 2025 宗數 33%：67% | — | [中原](https://hk.centanet.com/info/property-news/%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A/%E6%A8%93%E5%AE%87%E8%B2%B7%E8%B3%A3%E5%90%88%E7%B4%84%E7%99%BB%E8%A8%98%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-2025%E5%B9%B410%E6%9C%88%E4%BB%BD-%E6%95%B4%E9%AB%94%E6%A8%93%E5%AE%87%E8%B2%B7%E8%B3%A37-190%E5%AE%97-%E5%89%B53%E5%80%8B%E6%9C%88%E9%AB%98%E4%BD%8D-%E6%96%99%E5%85%A8%E5%B9%B4%E6%95%B4%E9%AB%947-8%E8%90%AC%E5%AE%97%E7%82%BA4%E5%B9%B4%E6%96%B0%E9%AB%98-%E4%B8%80%E6%89%8B%E7%A7%81%E6%A8%93%E5%AE%97%E6%95%B8%E5%89%9B%E7%AA%81%E7%A0%B4%E5%8E%BB%E5%B9%B4%E7%B8%BD%E5%92%8C/187359) | 台灣：一手約 2–3 成 |
+| 屋齡 ≥30 年比重 | 私樓 64%（2023） | — | [HK01](https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/1093926/%E5%85%A8%E6%B8%AF48-%E7%A7%81%E6%A8%93%E6%A8%93%E9%BD%A1%E6%BB%BF30%E5%B9%B4-%E9%9A%A8%E6%99%82%E8%A6%81%E5%BC%B7%E5%88%B6%E9%A9%97%E6%A8%93-%E6%96%B0%E4%BE%8B%E5%A2%9E%E6%B3%95%E5%9C%98%E6%8B%9B%E6%A8%99%E9%80%8F%E6%98%8E%E5%BA%A6) | 台灣：全國住宅 ≥30 年約 5 成（待 Taiwan lens 核實） |
+| 傢俬市場 | 59.4 億美元（Statista 2024） | ≈1,841 億台幣 | [Statista](https://www.statista.com/outlook/cmo/furniture/hong-kong) | 可用 Statista 同口徑台灣數字比較 |
+| 龍頭純設計公司營收 | SLD 4.23 億港元（2025） | ≈16.8 億台幣 | [HKEX](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042200393_c.pdf) | 台灣無上市純室內設計公司 |
+| 市場佔 GDP | — | — | — | **未計算**：本次未取得香港 2025 年 GDP 之來源 URL（缺口） |
 
 ---
 
@@ -213,106 +267,153 @@
 
 | 指標 | 數值 | 年份 | 來源 | 定義／備註 | 信心 |
 |---|---|---|---|---|---|
-| 非地盤建造工程總值（全年） | HK$873 億（−6.0%）≈ USD 111.9 億 ≈ NT$3,526 億 | 2024 | [C&SD 2025-03-11](https://www.info.gov.hk/gia/general/202503/11/P2025031100233.htm) | 小規模新建＋樓房裝飾＋修葺保養＋非地盤機電；主要承建商 | 高 |
-| 非地盤建造工程 Q1 | HK$206 億（−3.9%）≈ USD 26.4 億 ≈ NT$832 億 | 2025 Q1 | [C&SD](https://www.censtatd.gov.hk/en/press_release_detail.html?id=5590) | 同上 | 高 |
-| 非地盤建造工程 Q2 | HK$205 億（−0.7%）≈ USD 26.3 億 ≈ NT$828 億 | 2025 Q2 | [C&SD 2025-09-11](https://www.info.gov.hk/gia/general/202509/11/P2025091100340.htm) | 同上 | 高 |
-| 非地盤建造工程 Q4 | HK$222 億（−3.0%）≈ USD 28.5 億 ≈ NT$897 億 | 2025 Q4 | [C&SD 2026-03-12](https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm) | 同上 | 高 |
-| 非地盤建造工程 全年（推估） | ≈HK$850 億 ≈ USD 109 億 ≈ NT$3,433 億【示意】 | 2025 | 本人推估（Q3 缺） | 假設 Q3 ≈ HK$215 億 | 低 |
-| 主要承建商建造工程總值（地盤＋非地盤） | HK$2,866 億（−1.4%）≈ USD 367 億 ≈ NT$1.16 兆 | 2025 | [C&SD 2026-03-12](https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm) | 全建造業，臨時數字 | 高 |
-| 建造工程總值 2026 Q1 | HK$727 億（+2.9%）≈ USD 93.2 億 ≈ NT$2,936 億 | 2026 Q1 | [文匯網](https://www.wenweipo.com/a/202606/11/AP6a2a9131e4b0b49ad1bef21b.html) | 全建造業 | 高 |
-| 設計產業增加值 | HK$41 億（−6%）≈ USD 5.26 億 ≈ NT$166 億 | 2022 | [HKTDC](https://research.hktdc.com/en/article/MzEzOTE1MDI5) | 所有設計分支；增加值非營收 | 中 |
-| 設計公司數 | >7,000 家 | 2022 | [HKTDC](https://research.hktdc.com/en/article/MzEzOTE1MDI5) | 所有設計分支 | 中 |
-| 人均 GDP（名目） | USD 56,893（2025）、59,640（2026F） | 2025 | [Worldometers（IMF WEO 2026-04 轉載）](https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal) | 轉載值 | 中 |
-| 人均裝修相關支出（推算） | ≈HK$11,640 ≈ USD 1,490 ≈ NT$47,000 | 2024 | 本人計算（873 億 ÷ 750 萬） | 人口為概略值 | 低–中 |
-| 裝修相關總量占 GDP（推算） | 2.5–2.6% | 2024–2025 | 本人計算（T1 §5.2） | 口徑偏寬 | 低–中 |
-| 辦公室裝修成本（C&W，中階全包） | USD 160/ft² ≈ USD 1,722/m² ≈ HK$13,433/m² ≈ NT$17.9 萬／坪 | 2025 | [APREA](https://www.aprea.asia/knowledge-hub/asia-pacific-office-fit-out-cost-guide-2025-cushman-wakefield/)；[Commo](https://commo.com.au/news/2025/03/06/office-fit-out-costs-asia-pacific-continue-rise-slower-pace-cushman-wakefield) | 含家具、機電、土建、AV/IT；大中華最高 | 中 |
-| 辦公室 fit-out 承包商報價 | HK$400–1,200/ft² ≈ USD 552–1,656/m² ≈ NT$5.7–17.2 萬／坪 | 2026 | [rokydesign](https://rokydesign.com/integrated-design-build-office-fit-out-hong-kong/) | 單一承包商行銷頁 | 低 |
-| 亞太辦公室裝修平均成本（JLL） | USD 1,550/m²；當地幣年增 2–5% | 2026 | [cfotech](https://cfotech.asia/story/jll-warns-asia-pacific-office-fit-out-costs-keep-rising) | 區域平均，非香港 | 高 |
-| 梁志天設計集團 收入 | HK$4.227 億（+15%）≈ USD 5,419 萬 ≈ NT$17.1 億 | 2025 | [HKEX 2026-03-19](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0319/2026031900292.pdf) | 2024：HK$3.677 億 | 高 |
-| 梁志天設計集團 股東應占溢利 | HK$1,120 萬 ≈ USD 144 萬 ≈ NT$4,520 萬；淨利率 ≈2.6% | 2025 | 同上 | 2024：HK$180 萬 | 高 |
-| 梁志天設計集團 2025H1 | 收入 HK$1.946 億、溢利 HK$100 萬（去年同期虧 HK$740 萬） | 2025H1 | [HKEX 2025-08-26](https://www.hkexnews.hk/listedco/listconews/sehk/2025/0826/2025082600466_c.pdf) | — | 高 |
-| 消委會家居裝修投訴 | 1,205 宗；總涉款 >HK$2.7 億 ≈ USD 3,460 萬 ≈ NT$10.9 億 | 2017–2023 | [消委會 PDF](https://www.consumer.org.hk/f/initiative_detail/432464/459683/H%20-%20Presentation%20Deck%20(Chinese)_v3.pdf) | 2023 年宗數簡報 169 vs 網站 310 不一致 | 高 |
-| 投訴平均涉款 | ≈HK$23 萬／宗 ≈ USD 29,500 ≈ NT$93 萬 | 2017–2023 | 同上；[明報](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20240221/s00001/1708484500466/) | 爭議案件，非市場均價 | 高 |
-| 投訴追討成功率 | 22% | 2017–2023 | 同上 | — | 高 |
-| 2023 年投訴涉款 | HK$4,700 萬 ≈ USD 603 萬 ≈ NT$1.9 億 | 2023 | 同上 | — | 高 |
-| 小型工程項目數 | 187 項（I 級 58／II 級 68／III 級 61）；豁免 30 項 | 2020 修例後 | [屋宇署](https://www.bd.gov.hk/tc/building-works/minor-works/introduction-to-minor-works-control-system/index.html) | — | 高 |
-| 技術指引 2024 年版發布日 | 2025-02-28 | 2025 | [屋宇署 最新消息](https://www.bd.gov.hk/en/building-works/minor-works/index_mwcs_news.html) | — | 高 |
+| 非地盤建造工程名義總值 | 857 億港元（−1.9%；實質 −3.1%） | 2025 | [C&SD](https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm) | 主要承建商；小規模新建＋樓房裝飾＋修葺保養＋非地盤機電；臨時數 | 高 |
+| 非地盤建造工程名義總值 | 873 億港元（−6.0%） | 2024 | [C&SD](https://www.info.gov.hk/gia/general/202503/11/P2025031100233.htm) | 同上 | 高 |
+| 全部建造工程名義總值 | 2,906 億港元 | 2024 | [統計年刊 2025](https://www.censtatd.gov.hk/en/data/stat_report/product/B1010003/att/B10100032025AN25B0100.pdf) | 地盤＋非地盤 | 高 |
+| 設計業機構／就業 | 7,110 間／18,470 人 | 2022 | [HKTDC](https://research.hktdc.com/en/article/MzEzOTE1MDI5) | 全設計業；室內及傢俬約 1/3 | 高 |
+| 寫字樓 fit-out 成本 | 200 美元／呎（1,566 港元），+1.5% | 2026 | [JLL](https://www.jll.com/en-hk/newsroom/hong-kong-office-fit-out-costs) | 中等規格企業辦公室 | 高 |
+| 寫字樓 fit-out 成本 | 160 美元／呎（持平） | 2026（2025-12 市況） | [C&W](https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office) | 標準企業辦公室 | 高 |
+| 寫字樓 fit-out 成本 | 133 美元／呎（1,040 港元） | 2024 | [JLL](https://www.jll.com/en-hk/newsroom/hong-kong-office-fit-out-costs-rank-4th-in-asia-pacific) | 平均；亞太第 4 | 高 |
+| 住宅全屋裝修均價 | ≈1,000 港元／呎（600–1,400） | 2026 | [Yahoo／Home Journal](https://hk.news.yahoo.com/2026%E9%A6%99%E6%B8%AF%E8%A3%9D%E4%BF%AE%E9%A0%90%E7%AE%97%E5%85%A8%E6%94%BB%E7%95%A5-%E7%94%B1%E4%B8%8A%E8%BB%8A%E7%9B%A4%E5%88%B0%E8%B1%AA%E5%AE%85%E7%9A%84%E5%91%8E%E5%83%B9%E6%8B%86%E8%A7%A3-150016640.html) | 媒體綜合業者報價 | 中 |
+| 公屋／居屋／私樓 每呎 | 400–850／700–1,000／600–1,200 港元 | 2026 | [Wanhelp](https://www.wanhelp.com/1103.html)；[藝創](https://www.acdesign.com.hk/price/2400/) | 業者指南 | 中 |
+| 裝修價年增 | +8–15%（2025 vs 2024） | 2025 | [HK Create Design](https://hkcreatedesign.hk/2025-2026-renovation-guide/) | 業者估計，方法不明 | 低–中 |
+| 純設計費 | 30–80 港元／呎；工程 10–20% | 2026 | [藝創](https://www.acdesign.com.hk/price/2394/)；[好師傅](https://codeco.hk/zh-tw/renovation-101/%E8%A3%9D%E4%BF%AE%E9%A0%90%E7%AE%97%E2%94%82%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%BB%9E%E6%A8%A3%E6%94%B6%E8%B2%BB%EF%BC%9F%E9%99%84%E6%B5%81%E7%A8%8B%E5%8F%8A3%E5%A4%A7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85) | 業者 | 中 |
+| 私人住宅落成 | 18,450 伙（−24%） | 2025 | [RVD](https://www.rvd.gov.hk/doc/tc/HKPR2026_Preliminary_Findings_TC.pdf) | 官方 | 高 |
+| 落成預測 | 16,980（2026）；15,360（2027） | 2026–27 | [RVD](https://www.rvd.gov.hk/doc/tc/HKPR2026_Preliminary_Findings_TC.pdf) | 官方預測；過往高估 8–12% | 中 |
+| 一手／二手住宅登記 | 20,525／39,821 宗 | 2025 | [中原引土地註冊處](https://hk.centanet.com/info/property-news/%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A/%E6%A8%93%E5%AE%87%E8%B2%B7%E8%B3%A3%E5%90%88%E7%B4%84%E7%99%BB%E8%A8%98%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-2025%E5%B9%B410%E6%9C%88%E4%BB%BD-%E6%95%B4%E9%AB%94%E6%A8%93%E5%AE%87%E8%B2%B7%E8%B3%A37-190%E5%AE%97-%E5%89%B53%E5%80%8B%E6%9C%88%E9%AB%98%E4%BD%8D-%E6%96%99%E5%85%A8%E5%B9%B4%E6%95%B4%E9%AB%947-8%E8%90%AC%E5%AE%97%E7%82%BA4%E5%B9%B4%E6%96%B0%E9%AB%98-%E4%B8%80%E6%89%8B%E7%A7%81%E6%A8%93%E5%AE%97%E6%95%B8%E5%89%9B%E7%AA%81%E7%A0%B4%E5%8E%BB%E5%B9%B4%E7%B8%BD%E5%92%8C/187359) | 金額 2,255.5／2,919.3 億港元 | 高 |
+| 私樓樓齡 ≥30 年 | 28,370 幢（64%） | 2023 底 | [HK01／立法會秘書處](https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/1093926/%E5%85%A8%E6%B8%AF48-%E7%A7%81%E6%A8%93%E6%A8%93%E9%BD%A1%E6%BB%BF30%E5%B9%B4-%E9%9A%A8%E6%99%82%E8%A6%81%E5%BC%B7%E5%88%B6%E9%A9%97%E6%A8%93-%E6%96%B0%E4%BE%8B%E5%A2%9E%E6%B3%95%E5%9C%98%E6%8B%9B%E6%A8%99%E9%80%8F%E6%98%8E%E5%BA%A6) | 全私樓口徑 | 高 |
+| ≥30 年且屬 MBIS 範圍 | >20,000 幢；9,000 幢已獲通知 | 2025 底 | [立法會十六題](https://www.info.gov.hk/gia/general/202602/04/P2026020400370.htm) | 官方 | 高 |
+| SLD 收入／溢利 | 4.23 億／1,120 萬港元 | 2025 | [HKEX 年報](https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042200393_c.pdf) | 上市公司 | 高 |
+| SOCAM 營業額 | 70.1 億港元；裝修佔建造 >29%（1H26） | 2025／1H26 | [SOCAM](https://newsfile.moomoo.com/public/NN-PersistNoticeAttachment/7781/20260327/12073133-0.PDF) | 上市公司 | 高 |
+| 國際家居零售收入 | 25.37 億港元（−5.6%） | FY2025 | [Yahoo](https://hk.finance.yahoo.com/news/%E6%97%A5%E6%9C%AC%E5%9F%8E%E5%A4%B1%E8%AD%B7%E5%9F%8E%E6%B2%B3-%E5%9C%8B%E9%9A%9B%E5%AE%B6%E5%B1%85%E9%A2%A8%E5%85%89%E4%B8%8D%E5%86%8D-231655821.html) | 上市公司 | 高 |
+| 好師傅累計工程額 | >12 億港元／>4,500 宗 | 2013–2025 | [CoDECO](https://codeco.hk/zh-tw/about_us/) | 自報 | 中 |
+| 裝修佬服務家庭 | >25,000；2018 融資 1,000 萬港元 | 至今／2018 | [hkdecoman](https://hkdecoman.com/)；[HKET](https://sme.hket.com/article/2445336/%E3%80%8C%E8%A3%9D%E4%BF%AE%E4%BD%AC%E3%80%8D%E5%89%B5%E6%A5%AD%E4%B9%8B%E9%81%93%EF%BC%9A%E5%A0%85%E6%8C%81%E3%83%BB%E5%AD%A4%E7%8D%A8%E3%83%BB%E6%8E%A8%E6%87%89%E9%85%AC) | 自報 | 中 |
+| 消委會裝修投訴 | 1,205 宗／2.7 億港元（7 年）；2025 年 323 宗 | 2017–23／2025 | [消委會](https://www.consumer.org.hk/tc/advocacy/study-report/home_renovation_study)；[hketime](https://hketime.com/topics/decoration-company-blacklist/) | 官方 | 高／中 |
+| 零售總銷貨 | 3,805 億港元（+1.0%） | 2025 | [C&SD](https://www.info.gov.hk/gia/general/202602/03/P2026020300447.htm) | 臨時 | 高 |
+| 傢俬市場（Statista） | 59.4 億美元；CAGR 2.44% | 2024 | [Statista](https://www.statista.com/outlook/cmo/furniture/hong-kong) | 模型估計 | 低–中 |
+| 1 個月 HIBOR | ≈2.63–2.88% | 2026-08／09 | [wuchatprop](https://www.wuchatprop.com.hk/hibor/) | 市場數據 | 中 |
 
 ---
 
 ## 9. 對台灣業者的啟示
 
-1. **以香港官方數列校準「台灣 5,500 億」的可信度**：香港人均裝修相關支出（官方、偏寬口徑）約 USD 1,490，是台灣民間推估口徑（USD 746）的 2 倍；考量香港人均 GDP（USD 56,893）為台灣（39,489）的 1.44 倍、樓價與工資更高，台灣 5,500 億的人均水準「不算離譜但偏上限」。集團向董事會或投資人引用台灣 TAM 時，可用「香港官方 2.6% of GDP（偏寬）、日本矢野 1.1%、台灣 1.9%（偏寬）」三點定位，避免單一數字。
-2. **商用裝修是港台最可靠的價差錨點（1.45×）**：C&W 同口徑顯示香港辦公室裝修每坪約 NT$17.9 萬 vs 台北 12.3 萬。若集團承接港資企業在台辦公室、或以台北設計中心為香港客戶出圖，報價可參照此價差；但香港施工端須透過註冊小型工程承建商（第 I／II 級需在港具資格之 AS／TD），**設計輸出比承攬輸出門檻低得多**（詳 HK-B）。
-3. **香港正處負成長週期，不是擴張時機，而是學習「存量市場」營運的樣本**：官方數列 2024 −6%、2025 各季仍跌；龍頭設計公司梁志天 2025 年收入成長 15% 但淨利率僅 2.6%。台灣 2026–2027 預售交屋潮結束後可能進入類似的「量縮、靠存量翻新與商空」階段，香港業者如何在高工資下維持毛利（設計費結構、產品授權、北上大灣區），值得作為案例追蹤（本輪未取得細節）。
-4. **消費者保護缺口是品牌切入點**：香港七年 1,205 宗投訴、平均 HK$23 萬、追討成功率僅 22%，消委會 2024 年建議的標準報價單、認證、冷靜期尚未見政府落地。台灣國土署同期也在研擬定型化契約。集團若在台灣率先採用「書面標準報價＋資金託管＋一年保固」，可同時對接兩地監管方向，並作為日後進入香港（或承接港人在台置產裝修）的信任資產。
-5. **港人在台置產的交叉需求**：香港人均裝修支出高、對設計付費習慣成熟，而本專案無法取得香港住宅每呎單價（缺口）；建議集團直接以自身接待港籍客戶的實際報價資料回填此缺口，作為「香港客群在台裝修」的定價基準（內部數據，CONFIDENTIAL）。
-6. **資料策略**：香港 C&SD 每季公布非地盤工程、DEVB 表 168 可細分「裝修、修葺及保養」，是 12 市場中最易持續追蹤的指標；建議納入集團季度市場儀表板，作為大中華商空景氣的先行觀察值。
+1. **單價錨點**：香港住宅裝修均價約 14 萬台幣／坪（連工包料），公屋也要 5.6–12 萬台幣／坪；台灣業者若以「台灣報價＋20–30%」切入香港中檔市場仍具價格競爭力，但須吸收香港人工（師傅日薪＋10–18%）與物料進口成本。
+2. **一條龍為主流、純設計費難收**：香港 80% 以上的住宅案件以「設計連工程」報價，純設計僅 30–80 港元／呎；台灣設計公司若只賣設計圖在港難以規模化，應以「設計＋訂造傢俬＋施工管理」套裝或與本地註冊小型工程承建商（RMWC）合作。
+3. **存量翻新 > 新樓**：新樓落成 2026–28 年再跌 25–44%，但 ≥30 年私樓 2.8 萬幢、二手成交佔 2/3、MBIS 與火災後維修潮；台灣業者擅長的老屋翻新（管線、結構補強、適老化）正是香港增量所在。
+4. **監管空白＝信任溢價機會**：香港無裝修專法、投訴調解成功率僅兩成、73% 消費者怕爛尾；台灣業者可用台灣「室內裝修業登記＋專業技術人員」制度、履約保證、分期付款保障作為差異化賣點。
+5. **平台通路小而分散**：裝修佬、好師傅等平台年工程額僅億元級（<1% 市場），SEO 內容與地產代理／按揭導流（中原按揭 × 好師傅）更有效；台灣 Pro360、裝修佬（夯裝修）已有兩地佈局可借力。
+6. **商辦 fit-out 對標**：香港 160–200 美元／呎（17.6–22.1 萬台幣／坪）為亞太第 4 高，台灣承建商以 C&W／JLL 同口徑台北數字對照後，可鎖定港資企業台灣辦公室或台資企業香港辦公室的跨境案源。
+7. **北上／區域化是港企出路，也是台企競品**：SLD、CCD 等港資設計公司營收大半來自內地；台灣業者在香港市場的對手不是本地小公司，而是這些有內地規模、價格可壓低的區域型設計集團。
 
 ---
 
-## 10. 資料缺口（本輪因搜尋額度為零而全部未取得；附建議查詢詞）
+## 10. 資料缺口
 
-| 缺口項目 | 嘗試情況 | 建議查詢詞／來源 |
-|---|---|---|
-| 住宅裝修每呎單價（基本／中階／高階）、公屋／居屋／私樓分級、每案均價 | 未能搜尋 | 「香港 裝修費用 每呎 2025」「設計家 裝修報價 2025」「裝修佬 裝修價錢」「居屋 公屋 裝修 費用 平均」「私樓 全屋裝修 每呎 2025」 |
-| 室內設計費行情（百分比／每呎／套餐）、典型工期、翻修週期 | 未能搜尋 | 「香港 室內設計 設計費 收費 百分比」「設計費 每呎 香港 2025」「全屋裝修 工期」 |
-| 私人住宅落成量（RVD）、一手／二手成交量（土地註冊處）、樓齡 30 年以上樓宇數、樓宇更新大行動 | 未能搜尋 | 「差餉物業估價署 私人住宅 落成量 2025」「土地註冊處 住宅 買賣合約 2025 全年」「樓齡30年以上 樓宇 數目 統計」「樓宇更新大行動 2.0 資助 2025」 |
-| C&SD 2025 Q3 非地盤數字、2025 全年官方合計；DEVB 表 168「裝修、修葺及保養」細分；住宅／非住宅拆分 | T1 已列缺口，本輪未能補 | 開啟 [C&SD 新聞稿列表](https://www.censtatd.gov.hk/en/press_release_detail.html?id=5590) 之 Q3 2025；[DEVB 表 168](https://www.devb.gov.hk/tc/publications_and_press_releases/figures_and_statistics/gross_value/index.html) |
-| 統計處「室內設計」行業機構單位數、就業人數 | 未能搜尋 | 「統計處 機構單位數目 室內設計 行業」「香港 室內設計 公司 數目 2024」「註冊小型工程承建商 數目 2025」 |
-| 前 10–20 名玩家（純設計、設計施工連鎖、零售兼營、發展商精裝、平台）營收 | 僅梁志天有數據 | 「港交所 GEM 裝修 承建商 年報 收入 2025」「AB Concept 營收」「Joyce Wang」「IKEA 香港 DFI 年報」「實惠 Pricerite 營業額」「日本城 JHC 2024 業績」 |
-| 平台用戶數／GMV／抽成（裝修佬、好師傅、Decor8、裝修MALL、設計家） | 未能搜尋 | 「裝修佬 DecoMan 融資 用戶 數目」「好師傅 成交 宗數」「Decor8 用戶」 |
-| 2023–2026 裝修公司結業、清盤、併購、募資 | 未能搜尋 | 「香港 裝修公司 結業 2024 2025」「裝修 公司 清盤 訂金 2025」「設計公司 併購 香港 2024」 |
-| C&W／JLL／T&T／Knight Frank 2026 香港辦公室三級成本；酒店、餐廳、零售 fit-out 單價 | 僅取得 C&W 2025 中階值 | 開啟 [C&W 2026 指南](https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office)；「香港 寫字樓 裝修 成本 每呎 2026 JLL」「香港 餐廳 裝修 每呎」 |
-| 材料與工資通膨（建造業工人日薪、裝修材料價格指數）、利率、MiC／預製在裝修的應用、AI／3D 工具、綠色裝修、高齡化改裝、設計公司北上大灣區 | 未能搜尋 | 「建造業 工人 平均日薪 2025 統計處」「建築材料 價格指數 2025」「香港 設計公司 北上 大灣區 2025」「香港 室內設計 行業 前景 2026」「組裝合成 裝修 應用」 |
-| 家居零售市場規模（IKEA 香港、實惠、日本城、HomeSquare 等） | 未能搜尋 | 「香港 家居 零售 市場 規模 2025」「DFI Retail Group 年報 IKEA Hong Kong」 |
-| 研究機構香港獨立估值（Mordor／IMARC／6W／Statista） | T1 顯示多併入中國或付費牆 | 「Hong Kong interior design market size 2025」「Hong Kong home renovation market report」 |
-| 消委會 2023 年投訴宗數不一致（169 vs 310）、2024–2025 最新投訴數 | T3 已列 | 開啟消委會網站投訴統計頁 |
+- **官方「室內設計／住宅裝修」市場總額**：香港無此統計；僅有「非地盤建造工程」（含維修、機電、僅主要承建商）口徑。研究機構亦無香港單一市場估計。
+- **住宅 vs 商業、新建 vs 存量 裝修金額拆分**：無。
+- **2025 年「傢具及固定裝置」零售銷貨絕對值與全年增減**：在 C&SD 12 月報告表 1 內，本次未能讀取。
+- **IKEA 香港、實惠 Pricerite 營收**：未找到（IKEA 港澳由 DFI／牛奶公司特許經營，年報未拆分）。
+- **裝修週期／頻率、典型工期**：無任何調查統計。
+- **平均每案裝修支出（住戶調查）**：消委會報告英文全文可能含消費者調查支出分布，未能讀取；僅有投訴涉款平均 23 萬港元。
+- **室內設計機構數／營收的精確值**：HKTDC 僅給全設計業；室內及傢俬設計約 1/3 為推算。
+- **屋宇署註冊小型工程承建商官方總數**：僅第三方名錄 8,836（日期不明）。
+- **平台 take-rate、月活、2023 年後融資**：裝修佬、好師傅皆未公開。
+- **2023–2026 年具名大型裝修公司倒閉／併購**：未找到；僅零星投訴個案。
+- **預製／模組化、AI／3D 工具滲透率**：無香港數據。
+- **香港 2025 年 GDP 與人口**（用於市場佔 GDP、人均支出）：本次未取得來源 URL，故未計算。
+- **2025 年非地盤工程修訂值**：C&SD 2026 年 6 月已修訂，修訂數未取得。
+- **建造業工資指數／物料價格指數**（官方）：未取得，僅有業者估計（+8–15%）。
+- **AB Concept、Joyce Wang 等私人工作室營收**：未公開。
 
 ---
 
-## 11. 來源清單（本檔實際引用；皆為本專案先前搜尋取得之 URL，未經開頁核對）
+## 11. 來源清單
 
 | # | 標題 | 機構 | 年份 | URL |
 |---|---|---|---|---|
-| 1 | 二零二四年第四季及全年建造工程完成量統計數字 | 香港政府統計處（C&SD）／政府新聞公報 | 2025 | https://www.info.gov.hk/gia/general/202503/11/P2025031100233.htm |
-| 2 | Construction output for first quarter of 2025 | 香港政府統計處（C&SD） | 2025 | https://www.censtatd.gov.hk/en/press_release_detail.html?id=5590 |
-| 3 | 二零二五年第二季建造工程完成量統計數字 | 香港政府統計處／政府新聞公報 | 2025 | https://www.info.gov.hk/gia/general/202509/11/P2025091100340.htm |
-| 4 | 二零二五年第四季及全年建造工程完成量統計數字 | 香港政府統計處／政府新聞公報 | 2026 | https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm |
-| 5 | 2026 年第一季建造工程完成量（轉載） | 文匯網 | 2026 | https://www.wenweipo.com/a/202606/11/AP6a2a9131e4b0b49ad1bef21b.html |
-| 6 | 主要承建商在地盤進行建造工程的總值（表 168） | 香港發展局（DEVB） | — | https://www.devb.gov.hk/tc/publications_and_press_releases/figures_and_statistics/gross_value/index.html |
-| 7 | Design Industry in Hong Kong | 香港貿易發展局（HKTDC Research） | 2024 | https://research.hktdc.com/en/article/MzEzOTE1MDI5 |
-| 8 | China Interior Fit Out Market | Credence Research | 2024 | https://www.credenceresearch.com/report/china-interior-fit-out-market |
-| 9 | 梁志天設計集團 2025 年全年業績公告 | 香港交易所披露易（HKEX） | 2026 | https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0319/2026031900292.pdf |
-| 10 | 梁志天設計集團 2025 年中期業績公告 | 香港交易所披露易（HKEX） | 2025 | https://www.hkexnews.hk/listedco/listconews/sehk/2025/0826/2025082600466_c.pdf |
-| 11 | 梁志天設計集團相關報導 | 聯合新聞網 | 2025 | https://udn.com/news/story/7241/9133143 |
-| 12 | 齊屹科技 2024 年營收（轉載） | 網經社 | 2025 | https://www.100ec.cn/detail--6648193.html |
-| 13 | 齊屹科技 2026 中期業績（轉載） | 騰訊新聞 | 2026 | https://news.qq.com/rain/a/20260826A0BMM200 |
-| 14 | 家居裝修服務研究簡報（中文） | 香港消費者委員會（Consumer Council） | 2024 | https://www.consumer.org.hk/f/initiative_detail/432464/459683/H%20-%20Presentation%20Deck%20(Chinese)_v3.pdf |
-| 15 | 消委會：七年接 1,205 宗裝修投訴 | 明報 | 2024 | https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20240221/s00001/1708484500466/ |
-| 16 | 消委會裝修投訴報導 | 香港01 | 2024 | https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/992677/ |
-| 17 | 消委會裝修調查報導 | 新報人（香港浸會大學） | 2024 | https://spyan-jour.hkbu.edu.hk/2024/02/21/ |
-| 18 | 小型工程監管制度簡介 | 屋宇署（Buildings Department） | — | https://www.bd.gov.hk/tc/building-works/minor-works/introduction-to-minor-works-control-system/index.html |
-| 19 | 誰可進行小型工程 | 屋宇署 | — | https://www.bd.gov.hk/tc/building-works/minor-works/minor-works-items/who-can-carry-out-minor-works/index.html |
-| 20 | 註冊小型工程承建商（公司）註冊指南 | 屋宇署 | — | https://www.bd.gov.hk/en/resources/registration-guides/index_RMWC_company.html |
-| 21 | 註冊小型工程承建商（個人）註冊指南 | 屋宇署 | — | https://www.bd.gov.hk/tc/resources/registration-guides/index_RMWC_individual.html |
-| 22 | 小型工程監管制度最新消息（技術指引 2024 年版） | 屋宇署 | 2025 | https://www.bd.gov.hk/en/building-works/minor-works/index_mwcs_news.html |
-| 23 | 《建築物（小型工程）規例》修訂新聞公報 | 政府新聞公報 | 2020 | https://www.info.gov.hk/gia/general/202005/08/P2020050800227.htm |
-| 24 | 立法會就小型工程監管制度之答覆 | 政府新聞公報 | 2026 | https://www.info.gov.hk/gia/general/202601/28/P2026012800315.htm |
-| 25 | REALWORLD Hong Kong Construction | DLA Piper | 2025 | https://www.dlapiperrealworld.com/law/index.html?c=HK&t=construction |
-| 26 | Asia Pacific Office Fit Out Cost Guide 2025（轉載） | Cushman & Wakefield via APREA | 2025 | https://www.aprea.asia/knowledge-hub/asia-pacific-office-fit-out-cost-guide-2025-cushman-wakefield/ |
-| 27 | Office fit-out costs in Asia Pacific continue to rise at slower pace | Commo（引 Cushman & Wakefield） | 2025 | https://commo.com.au/news/2025/03/06/office-fit-out-costs-asia-pacific-continue-rise-slower-pace-cushman-wakefield |
-| 28 | Contractor sentiment generally positive as worst of price pressures ease（C&W 2025） | brandspurng | 2025 | https://brandspurng.com/2025/03/24/contractor-sentiment-generally-positive-as-the-worst-of-price-pressures-ease-according-to-office-fit-out-vendors-across-asia-pacific/ |
-| 29 | Asia Pacific Office Fit Out Cost Guide 2026 | Cushman & Wakefield | 2026 | https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office |
-| 30 | JLL warns Asia Pacific office fit-out costs keep rising | cfotech（引 JLL） | 2026 | https://cfotech.asia/story/jll-warns-asia-pacific-office-fit-out-costs-keep-rising |
-| 31 | Asia-Pacific office fit-out costs（Knight Frank） | irei | 2026 | https://irei.com/publications/article/asia-pacific-office-fit-out-costs/ |
-| 32 | Integrated design-build office fit-out Hong Kong | rokydesign（承包商） | 2026 | https://rokydesign.com/integrated-design-build-office-fit-out-hong-kong/ |
-| 33 | GDP per capita Asia 2025（IMF WEO 轉載） | Worldometers | 2026 | https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal |
-| 34 | 2026 有望持續成長！裝修年產值上看 5,500 億（台灣對照） | 經濟日報 | 2025 | https://udn.com/news/story/7241/9242628 |
-| 35 | 裝修費用每坪行情（台灣對照） | 工商時報 | 2025 | https://www.ctee.com.tw/news/20251119700015-431001 |
-| 36 | 室內設計費用（台灣對照） | PRO360 | 2025 | https://www.pro360.com.tw/price/interior_design |
-| 37 | 國土署：全國室內裝修業約 1.7 萬餘家（台灣對照） | 中央社 | 2026 | https://www.cna.com.tw/news/ahel/202604270323.aspx |
-| 38 | 室內裝修定型化契約草案爭議（台灣對照） | 聯合新聞網 | 2026 | https://udn.com/news/story/7321/9395294 |
-| 39 | IKEA 台灣由牛奶國際經營（僅用於說明無香港來源） | 今周刊 | 2019 | https://www.businesstoday.com.tw/article/category/80408/post/201905220026/ |
-
-> 在地語言（繁體中文）來源：#1、#3、#4、#5、#6、#10、#11、#14–#24、#34–#39；英文來源：#2、#7、#8、#9、#25–#33。香港本地來源共 25 條（#1–#7、#9–#11、#14–#24、#32）。
+| 1 | 二零二五年第四季及全年建造工程完成量統計數字 | 政府統計處 C&SD | 2026 | https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm |
+| 2 | 二零二四年第四季及全年建造工程完成量統計數字 | C&SD | 2025 | https://www.info.gov.hk/gia/general/202503/11/P2025031100233.htm |
+| 3 | 建造工程完成量按季統計調查報告 2025 Q2 | C&SD | 2025 | https://www.censtatd.gov.hk/wbr/B1090002/B10900022025QQ02/att/tc/B10900022025QQ02.pdf |
+| 4 | 香港統計年刊 2025 年版 | C&SD | 2025 | https://www.censtatd.gov.hk/en/data/stat_report/product/B1010003/att/B10100032025AN25B0100.pdf |
+| 5 | Construction output for first quarter of 2026 | C&SD | 2026 | https://www.info.gov.hk/gia/general/202606/11/P2026061100218.htm |
+| 6 | 表 615-66001 主要承建商所完成的建造工程總值 | data.gov.hk | 2026 | https://data.gov.hk/tc-data/dataset/hk-censtatd-tablechart-615-66001 |
+| 7 | 二零二五年十二月份及全年零售業銷貨額臨時統計數字 | C&SD | 2026 | https://www.info.gov.hk/gia/general/202602/03/P2026020300447.htm |
+| 8 | 2025 年各月零售業銷貨額（1–2、3、6、9、11 月） | C&SD | 2025 | https://gia.info.gov.hk/general/202503/31/P2025033100360_490777_1_1743407629423.pdf ; https://www.info.gov.hk/gia/general/202505/02/P2025050200381.htm ; https://www.info.gov.hk/gia/general/202507/31/P2025073100425.htm ; https://www.info.gov.hk/gia/general/202510/31/P2025103100349.htm ; https://www.censtatd.gov.hk/wbr/B1080003/B10800032025MM11/att/tc/B10800032025MM11.pdf |
+| 9 | 香港零售｜2025 年 12 月零售業總銷貨價值按年升 6.6% 全年升 1% | 香港經濟日報 HKET | 2026 | https://news.hket.com/article/4079466/ |
+| 10 | Furniture – Hong Kong (Consumer Market Outlook) | Statista | 2024 | https://www.statista.com/outlook/cmo/furniture/hong-kong |
+| 11 | Design Industry in Hong Kong | 香港貿發局 HKTDC Research | 2023 | https://research.hktdc.com/en/article/MzEzOTE1MDI5 |
+| 12 | Hong Kong: design industry workforce | Statista | 2025 | https://www.statista.com/statistics/631484/hong-kong-design-industry-workforce/ |
+| 13 | Hong Kong office fit-out costs rank 4th in Asia Pacific | JLL | 2025 | https://www.jll.com/en-hk/newsroom/hong-kong-office-fit-out-costs-rank-4th-in-asia-pacific |
+| 14 | Hong Kong Office Fit-Out Costs rise 1.5% with more growth ahead | JLL | 2026 | https://www.jll.com/en-hk/newsroom/hong-kong-office-fit-out-costs |
+| 15 | 仲量聯行：香港 2025 年商廈裝修成本料下跌 | 香港商報 | 2025 | https://www.hkcd.com.hk/hkcdweb/content/2025/05/20/content_8695670.html |
+| 16 | Office Fit Out Cost Guide Asia Pacific 2026 | Cushman & Wakefield | 2026 | https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office |
+| 17 | Hong Kong office fit-out costs hold firm at $160 per sq ft | Fit Out Awards (引 C&W) | 2026 | https://www.fitoutawards.ie/news/hong-kong-office-fit-out-costs-hold-firm-at-160-per-square-foot-as-greater-china-peers-record-declines |
+| 18 | Contractor confidence rises amid strengthening office demand across APAC | Malay Mail／C&W | 2026 | https://www.malaymail.com/news/money/mediaoutreach/2026/03/26/contractor-confidence-rises-amid-strengthening-office-demand-across-asia-pacific/456444 |
+| 19 | Office Renovation Cost Hong Kong 2026 | MJPM | 2026 | https://www.mjpm.com.hk/blogs/office-renovation-costs-in-hong-kong/ |
+| 20 | 2026 香港裝修預算全攻略：由上車盤到豪宅的呎價拆解 | Yahoo 新聞／Home Journal | 2026 | https://hk.news.yahoo.com/2026%E9%A6%99%E6%B8%AF%E8%A3%9D%E4%BF%AE%E9%A0%90%E7%AE%97%E5%85%A8%E6%94%BB%E7%95%A5-%E7%94%B1%E4%B8%8A%E8%BB%8A%E7%9B%A4%E5%88%B0%E8%B1%AA%E5%AE%85%E7%9A%84%E5%91%8E%E5%83%B9%E6%8B%86%E8%A7%A3-150016640.html |
+| 21 | 2026 Hong Kong Renovation Cost Guide | Home Journal | 2026 | https://homejournal.com/2026-hong-kong-renovation-cost-guide-a-complete-breakdown-from-starter-homes-to-luxury-flats/128996/ |
+| 22 | 香港全屋裝修費用攻略 2026：公屋／私樓／居屋 | Wanhelp 萬師傅 | 2026 | https://www.wanhelp.com/1103.html |
+| 23 | 全屋大裝修價錢／室內設計師價錢／設計費模式 | 藝創室內設計 AC Design | 2026 | https://www.acdesign.com.hk/price/2400/ ; https://www.acdesign.com.hk/price/2394/ ; https://www.acdesign.com.hk/price/3155/ |
+| 24 | 2025 迎接 2026 裝修指南；全屋裝修費用 2025 | HK Create Design | 2025 | https://hkcreatedesign.hk/2025-2026-renovation-guide/ ; https://hkcreatedesign.hk/%E3%80%90%E5%85%A8%E5%B1%8B%E8%A3%9D%E4%BF%AE%E8%B2%BB%E7%94%A8%E3%80%912025-%E8%A3%9D%E4%BF%AE%E5%83%B9%E9%8C%A2%E3%80%81%E5%A0%B1%E5%83%B9%E8%A1%A8%E5%8F%8A%E8%A3%9D%E4%BF%AE%E5%85%AC%E5%8F%B8 |
+| 25 | 2026 Q2 香港裝修價格指數 | Muse+ Design | 2026 | https://www.museplus.design/pricing-index |
+| 26 | Renovation Cost Hong Kong 2026: HK$700–3,800/sq ft | decoration2 裝修易 | 2026 | https://decoration2.com/en/renovation-cost |
+| 27 | 全屋裝修費用／香港室內設計師價格資訊 | HelloToby | 2025–26 | https://www.hellotoby.com/zh-hk/c/%E5%85%A8%E5%B1%8B%E8%A3%9D%E4%BF%AE ; https://www.hellotoby.com/zh-hk/c/%E9%A6%99%E6%B8%AF%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88%E5%B8%AB%E5%83%B9%E6%A0%BC%E8%B3%87%E8%A8%8A |
+| 28 | 裝修預算│室內設計師點樣收費？ | 好師傅 CoDECO | 2025 | https://codeco.hk/zh-tw/renovation-101/%E8%A3%9D%E4%BF%AE%E9%A0%90%E7%AE%97%E2%94%82%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%BB%9E%E6%A8%A3%E6%94%B6%E8%B2%BB%EF%BC%9F%E9%99%84%E6%B5%81%E7%A8%8B%E5%8F%8A3%E5%A4%A7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85 |
+| 29 | 2025 香港室內設計價錢點樣算 | PRO360 達人網 | 2025 | https://www.pro360.com.hk/zh-hk/price/interior_design |
+| 30 | 室內設計師收費 2026 | 裝修配對家 intermatch | 2026 | https://intermatch.com.hk/articles/interior-design-fee-hk-2026 |
+| 31 | 設計費 Design Fee | TIA Interior | 2025 | https://www.tiainterior.com/design-fee |
+| 32 | 來年裝修會貴定平左？2026 最新地盤人工公價 | 免費裝修報價審核網 quotationcheckhk | 2026 | https://quotationcheckhk.com/%E8%A3%9D%E4%BF%AE%E5%83%B9%E6%A0%BC%E8%88%87%E5%9C%B0%E7%9B%A4%E4%BA%BA%E5%B7%A5/ |
+| 33 | 2026 香港裝修全攻略；樂齡家居設計 | Designpedia | 2026 | https://designpedia.com.hk/latest_article/2026%E9%A6%99%E6%B8%AF%E8%A3%9D%E4%BF%AE%E5%85%A8%E6%94%BB%E7%95%A5%EF%BC%9A%E6%9C%80%E6%96%B0%E5%91%8E%E5%83%B9%E8%A1%8C%E6%83%85%E3%80%81%E9%A0%90%E7%AE%97%E5%88%86%E6%9E%90%E8%88%87%E8%B6%A8/ |
+| 34 | 《香港物業報告 2026》初步統計數字；《2025》 | 差餉物業估價署 RVD | 2026／2025 | https://www.rvd.gov.hk/doc/tc/HKPR2026_Preliminary_Findings_TC.pdf ; https://www.rvd.gov.hk/doc/tc/HKPR2025_Preliminary_Findings_TC.pdf ; https://www.info.gov.hk/gia/general/202503/28/P2025032700521.htm |
+| 35 | 樓市去年全面復甦 惟差估署料私樓落成量續跌 | 星島日報 | 2026 | https://www.stheadline.com/realtime-property/3565596/ |
+| 36 | 香港房屋趨勢導航 2026 | 團結香港基金 OHKF | 2026 | https://s3.ourhkfoundation.org.hk/s3fs-public/2026-04/hong-kong-housing-landscape-navigator-2026_full-report-tc.pdf ; https://s3.ourhkfoundation.org.hk/s3fs-public/2026-04/Housing%20Supply%20Update_2026_v5_CN.pdf?ext=1 |
+| 37 | 2026–2027 年預測私人住宅落成量 | 中原地產研究部 | 2026 | https://hk.centanet.com/info/property-news/%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A/2026-2027%E5%B9%B4%E9%A0%90%E6%B8%AC%E7%A7%81%E4%BA%BA%E4%BD%8F%E5%AE%85%E8%90%BD%E6%88%90%E9%87%8F-%E5%85%A9%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B0%87%E5%9B%9E%E8%90%BD%E8%87%B31-55%E8%90%AC%E5%80%8B/190090 |
+| 38 | 2026 至 2028 年私人住宅落成量將減 44% | JLL | 2026 | https://www.jll.com/zh-hk/newsroom/completion-of-new-private-housing-will-drop-44-percent-in-2026-2028 |
+| 39 | 樓宇買賣合約登記統計分析（2025 年 10 月／11 月／2024 年全年／2024 Q4 一手） | 中原地產研究部 | 2025–26 | https://hk.centanet.com/info/property-news/%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A/land-registry |
+| 40 | 住宅樓宇買賣合約統計數字：一手及二手買賣 | 土地註冊處 Land Registry | 2026 | https://www.landreg.gov.hk/tc/monthly/agt-primary.htm |
+| 41 | 立法會二十題：加強推動業主進行樓宇維修 | 發展局／政府新聞處 | 2026 | https://www.info.gov.hk/gia/general/202605/27/P2026052700525.htm |
+| 42 | 立法會十六題：改善樓宇維修工程的管理 | 發展局 | 2026 | https://www.info.gov.hk/gia/general/202602/04/P2026020400370.htm |
+| 43 | 立法會十五題：舊樓的重建及更新 | 發展局 | 2022 | https://www.info.gov.hk/gia/general/202205/25/P2022052500326.htm |
+| 44 | 全港 48% 私樓樓齡滿 30 年 隨時要強制驗樓 | HK01 研數所 | 2025 | https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/1093926/ |
+| 45 | 全港 2.7 萬私樓年屆 30 | HK01 研數所 | 2022 | https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/774496/ |
+| 46 | 7700 幢私樓未來 10 年達維修門檻 競委會聯廉署打擊圍標 | 東網 on.cc | 2025 | https://hk.on.cc/hk/bkn/cnt/news/20250623/bkn-20250623132907629-0623_00822_001.html |
+| 47 | 市建局樓宇更新大行動 2.0 第三輪 放寬樓齡至 30 年 | HK01 | 2023 | https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/893225/ |
+| 48 | 梁志天設計集團 年度報告 2025 | 港交所 HKEXnews | 2026 | https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0422/2026042200393_c.pdf |
+| 49 | 梁志天設計集團發布年度業績 股東應佔溢利約 1,120 萬港元 | 智通財經／Investing.com | 2026 | https://cn.investing.com/news/stock-market-news/article-3269547 |
+| 50 | 梁志天設計集團：2025 年總收入約 4.23 億港元 | 建材之家 JC68 | 2026 | https://m.jc68.com/club/show-25539.html |
+| 51 | 梁志天設計集團中期業績（2026 上半年） | 瑞財經 | 2026 | https://m.rccaijing.com/news-7366033996142802672.html |
+| 52 | 梁志天 2024 年正面盈利預告 | sl886 | 2025 | https://www.sl886.com/newstrading/4150602 |
+| 53 | 瑞安建業 2025 全年業績／2024 業績／2026 中期 | SOCAM Development（港交所） | 2025–26 | https://newsfile.moomoo.com/public/NN-PersistNoticeAttachment/7781/20260327/12073133-0.PDF ; https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0327/2025032701027.pdf ; https://newsfile.futunn.com/public/NN-PersistNoticeAttachment/7781/20260828/12305397-0.PDF |
+| 54 | 日本城失護城河 國際家居風光不再 | Yahoo 財經 | 2025 | https://hk.finance.yahoo.com/news/%E6%97%A5%E6%9C%AC%E5%9F%8E%E5%A4%B1%E8%AD%B7%E5%9F%8E%E6%B2%B3-%E5%9C%8B%E9%9A%9B%E5%AE%B6%E5%B1%85%E9%A2%A8%E5%85%89%E4%B8%8D%E5%86%8D-231655821.html |
+| 55 | 日本城母企國際家居零售 半年少賺 35% | HK01 | 2025 | https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/1086945/ |
+| 56 | 日本城否認結業；日本城改名「真好城」 | 文匯網／unwire | 2025／2026 | https://www.wenweipo.com/a/202507/14/AP6874c94be4b0eba3f09a818e.html ; https://unwire.hk/2026/07/14/japanhome-jhc-rebrand/shop_guide/ |
+| 57 | 裝修佬官網／新盤專頁／私樓專頁 | HK Decoman | 2026 | https://hkdecoman.com/ ; https://decoman-newproperties.com/ ; https://decoman-privatehousing.com/ |
+| 58 | 裝修佬科技有限公司 簡介 | 香港軟件行業協會 HKSIA | n.d. | http://tsf.hksia.hk/web/subpage.php?mid=405&id=1038 |
+| 59 | 香港資本紛來台，「裝修佬 Decoman」正式進軍台灣 | INSIDE | 2022 | https://www.inside.com.tw/article/27152-decoman |
+| 60 | 「裝修佬」創業之道 | 香港經濟日報 中小企 | 2019 | https://sme.hket.com/article/2445336/ |
+| 61 | 裝修佬（疫市創業個案） | istartup.hk | 2020 | https://istartup.hk/braving-the-epidemic/tc/article/hk-decoman-technology.php |
+| 62 | 好師傅 關於我們／十二周年 | CoDECO | 2025 | https://codeco.hk/zh-tw/about_us/ ; https://codeco.hk/zh-tw/p/codeco_anniversary/ |
+| 63 | 「好師傅」年創過億工程總額 疫市增 50% 訂單 | 美通社 PR Newswire | 2021 | https://hk.prnasia.com/story/320583-2.shtml |
+| 64 | 中原按揭 X 好師傅 CoDECO 策略合作 | 中原按揭 | 2025 | https://www.centamortgage.com/information/detail/%E4%B8%AD%E5%8E%9F%E6%8C%89%E6%8F%ADX%E5%A5%BD%E5%B8%AB%E5%82%85CoDECO%E8%A3%9D%E4%BF%AE%E9%85%8D%E5%B0%8D%E5%B9%B3%E5%8F%B0%E5%B1%95%E9%96%8B%E7%AD%96%E7%95%A5%E5%90%88%E4%BD%9C_181965 |
+| 65 | 倡規範家居裝修 建舒適美滿之家（研究報告／新聞稿／英文全文） | 消費者委員會 Consumer Council | 2024 | https://www.consumer.org.hk/tc/advocacy/study-report/home_renovation_study ; https://www.consumer.org.hk/tc/press-release/p-home-renovation-study-report ; https://www.consumer.org.hk/f/initiative_detail/432464/459600/Home%20%20-%20Full%20Report_v2.pdf |
+| 66 | 消委會 7 年間接 1205 宗涉家居裝修投訴 | 明報 | 2024 | https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20240221/s00001/1708484500466/ |
+| 67 | 裝修公司黑名單（引消委會 2023–25 投訴數） | hketime | 2026 | https://hketime.com/topics/decoration-company-blacklist/ |
+| 68 | 裝修防伏必睇！消委會投訴數據解讀 | 好師傅 CoDECO | 2025 | https://codeco.hk/zh-tw/renovation-101/2025_ConsumerCouncilCDC |
+| 69 | 2026 揀裝修公司 10 大注意事項 | Muse+ | 2026 | https://www.museplus.design/blog/choose-renovation-company-guide |
+| 70 | 30 幾萬裝修換爛尾工程 | 東網 on.cc | 2025 | https://hk.on.cc/hk/bkn/cnt/news/20251016/bkn-20251016191212344-1016_00822_001.html |
+| 71 | 香港海關打擊裝修工程公司不良營商手法 | 香港海關／政府新聞處 | 2021 | https://www.info.gov.hk/gia/general/202111/30/P2021113000499.htm |
+| 72 | Registered Minor Works Contractors (Company)；小冊子 | 屋宇署 Buildings Department | 2025 | https://www.bd.gov.hk/en/resources/registration-guides/index_RMWC_company.html ; https://www.bd.gov.hk/doc/en/resources/pamphlets-and-videos/MWC_Co_e.pdf |
+| 73 | 屋宇署註冊小型工程承建商名錄 | TenderLink | n.d. | https://tenderlink.hk/contractors |
+| 74 | 屋宇署註冊名單（開放數據） | data.gov.hk | 2026 | https://data.gov.hk/tc-data/dataset/hk-bd-opendata-registers-of-buildings-department |
+| 75 | 10 Top Interior Design Firms in Hong Kong（英／中） | Home Journal | 2025 | https://homejournal.com/10-top-interior-design-firms-in-hong-kong/128344/ ; https://homejournal.com/zh/10%E5%A4%A7%E9%A6%99%E6%B8%AF%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88%E5%85%AC%E5%8F%B8%E6%8E%A8%E8%96%A6/128308/ |
+| 76 | 空間小說家 香港設計組合 AB Concept | 明周文化 | n.d. | https://www.mpweekly.com/culture/%E9%A6%99%E6%B8%AF%E8%A8%AD%E8%A8%88-%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88-ab-concept-39773 |
+| 77 | The New Mandarin Oriental The Landmark by Joyce Wang | Home Journal | 2026 | https://homejournal.com/the-new-mandarin-oriental-the-landmark-by-joyce-wang-takes-cues-from-historic-hong-kong-mansions/130881/ |
+| 78 | 粵港澳大灣區建設 – CEPA 及專業服務 | 政制及內地事務局 bayarea.gov.hk | 2025 | https://www.bayarea.gov.hk/tc/opportunities/cepa.html |
+| 79 | 香港房地產深度剖析：低谷已過 | J.P. Morgan Private Bank | 2025 | https://privatebank.jpmorgan.com/apac/zh/insights/markets-and-investing/asf/the-case-for-hong-kong-real-estate |
+| 80 | HIBOR 走勢 2026；按揭利率比較 2026 | wuchatprop／mReferral | 2026 | https://www.wuchatprop.com.hk/hibor/ ; https://www.mreferral.com/blog/%E6%8C%89%E6%8F%AD%E5%88%A9%E7%8E%87/ |
+| 81 | 長者裝修津貼 2026；政府免息裝修貸款已終止 | Yahoo 新聞／1880 | 2025–26 | https://hk.news.yahoo.com/ ; https://www.1880.com.hk/loan/782/ |
+| 82 | 2026 香港家居裝修 5 大設計思維與趨勢 | Home Journal | 2026 | https://homejournal.com/zh/2026%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%B1%85%E8%A3%9D%E4%BF%AE%EF%BC%8C5%E5%A4%A7%E8%A8%AD%E8%A8%88%E6%80%9D%E7%B6%AD%E8%88%87%E8%B6%A8%E5%8B%A2/128586/ |
+| 83 | 香港奪命大火小區曾捲入 3.3 億港元維修糾紛 | 財新 Caixin | 2025 | https://companies.caixin.com/2025-11-27/102387266.html |
+| 84 | Construction Cost Handbook China & Hong Kong 2025 | Arcadis | 2025 | https://media.arcadis.com/-/media/project/arcadiscom/com/perspectives/asia/publications/cch/2025/2025-cnhk-cost-handbookfinal-online.pdf?rev=1b304935c6ec425db127792f5c3703b3 |
+| 85 | Asia Pacific Interior Design Market；Interior Design Market Report | Transpire Insight；Grand View Research | 2025 | https://www.transpireinsight.com/report/asia-pacific-interior-design-market ; https://www.grandviewresearch.com/industry-analysis/interior-design-market-report |
+| 86 | 樓宇復修平台 參考單價 | 市區重建局 URA | 2026 | https://brplatform.org.hk/tc/cost-reference-centre/reference-unit-rate |

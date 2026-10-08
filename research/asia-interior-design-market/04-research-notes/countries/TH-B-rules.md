@@ -1,220 +1,355 @@
 # 泰國（Thailand／ประเทศไทย）室內裝修設計市場 — 視角 B：法規證照、消費者保護、外資進入、消費者行為、人才勞動、材料供應鏈、產業組織
 
-- 研究者：Claude（子代理，TH-B）
+- 研究者：Claude（子代理，TH-B，重跑版）
 - 日期：2026-10-08
-- 範圍：法規與證照、消費者保護與糾紛、外資進入規則、消費者行為、人才與勞動、材料與供應鏈、產業組織與監測來源
-- **執行紀錄（重要，請先讀）**：本輪規劃了 20 次 WebSearch（每個關鍵問題 2–4 次、泰英雙語），但第一批 6 次查詢全部回傳「本輪搜尋額度用罄（limit 200，所有代理共用）」而**未執行**；依環境政策 WebFetch／curl 本來就被封鎖，且規範禁止以其他方式繞過。因此本檔**沒有任何本輪新搜得的資料**。內容分成兩層，請嚴格區分：
-  - **【A／B 級｜承襲】**：取自同一工作階段兄弟代理已附 URL 的主題筆記 `04-research-notes/themes/T3-regulation-licensing.md`、`T1-market-size-reconciliation.md`、`T2-business-models.md` 中與泰國相關的片段（T3 自己也註明「依搜尋摘要、未開頁核對」）。這些是本檔唯一可以標【實際】候選的內容。
-  - **【D 級｜模型既有知識，未驗證】**：為了讓報告撰寫者看得到「規則的全貌」與正確的法規名稱，我補上以模型既有知識（訓練資料截至 2026-06）整理的法規架構、機構名稱與常見實務，每條都標 `【未驗證】`，URL 僅給**機構入口頁**（確定存在的網域），**不是**該條文或數字所在的頁面。依 `02-integration-protocol.md` 第 2 節，這一層屬 D 級，**不得作為任何【實際】數字的來源**，只能作下一輪搜尋的線索；凡涉及數字（面積門檻、罰金、工資、薪資、人數）者，我只在「有相當把握」時寫出，並一律標低信心；沒有把握的直接列入缺口。
-- **資料狀態**：關鍵問題 4（消費者行為）、5（人才與勞動）、6（材料與供應鏈）、7（產業組織）幾乎沒有已附 URL 的數字；第 10 節列出完整缺口與可直接執行的 20 條搜尋計畫，建議使用者另開一輪（或提高 `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`）後重跑。
-- 匯率假設（2025–2026 近似值，非官方牌告）：**USD/THB 33.0；USD/TWD 31.5；即 THB 1 ≈ USD 0.0303 ≈ NT$0.955**。T3 筆記換算時用的是約 USD/THB 34，故同一數字兩檔的美元值略有差異，以本檔口徑為準並在表中註明。
+- 方法：20 次 WebSearch（泰文 11 次、英文 9 次），每題 2–3 次；本環境禁止開頁（WebFetch／curl），所有內容來自搜尋結果摘要與其所附 URL，**未逐頁核對原文**。凡「法條門檻」等需逐字引用的內容，已在信心欄標註「需核對原文」。
+- 本檔取代同路徑前一版（前一版因搜尋額度用罄而無任何新搜資料，已註明建議重跑）。
+- 匯率假設（2025–2026 近似值，非官方牌告）：**USD/THB 32.5；USD/TWD 32.0；即 THB 1 ≈ USD 0.0308 ≈ NT$0.985**。文中「≈」換算皆以此計。
+- 年份標示：泰國佛曆 พ.ศ. 2568 = 西元 2025；2569 = 2026；2566 = 2023；2549 = 2006；2543 = 2000。
 
 ---
 
 ## 1. 摘要
 
-1. 泰國是本研究 12 個市場中**少數把「室內建築」（สถาปัตยกรรมภายในและมัณฑนศิลป์, Interior Architecture）列為法定管制專業**的國家：依《建築師法 B.E. 2543（2000）》（พระราชบัญญัติสถาปนิก พ.ศ. 2543, Architect Act B.E. 2543）由泰國建築師委員會（สภาสถาปนิก, Architect Council of Thailand, ACT；2000-02-07 成立）管轄建築、室內建築與裝飾、景觀、都市設計四個分支；執照考試以泰文筆試，無照執業有罰金與監禁（T3 承襲，來源：Architect Expo 2023、Bangkok Post 2016、issacompass）。【A/B 級承襲】
-2. **施工端沒有承包商執照制度**：泰籍公司承攬住宅裝修無專門執照要求；唯一針對住宅裝修業的消費者法規是消費者保護委員會辦公室（สคบ., OCPB）2023-02-13 公告「住宅裝修業須開立載明法定事項之收據」（公告後 90 日生效）（Tilleke & Gibbins 2023）。【A/B 級承襲】
-3. **外資進入屬「實質受限」**：室內設計顧問屬《外國人經營事業法 B.E. 2542（1999）》（Foreign Business Act, FBA）附表三第 (21) 項「其他服務業」，外資持股 ≥50% 須取得外國人經營事業執照（Foreign Business Licence, FBL，法定審查 60 日）；施工承攬（construction）亦屬附表三（僅基礎建設且外資最低資本 ≥5 億泰銖（≈USD 15.2M／NT$4.77 億）例外）；常見替代是 BOI 投資促進或泰資 51% 合資；且提供受管制室內建築服務的公司須向 ACT 登記、董事須有泰籍持照人（BOI OSOS FAQ、UNCTAD、lexbangkok 2026、Tilleke）。T3 給泰國「設計公司 2／承包商 1」的進入可行性分數（1＝幾乎封閉，5＝完全開放）。【A/B 級承襲】
-4. 需求面可用的錨點只有：居家修繕產業（含建材零售口徑）**THB 4,795 億（2023，≈USD 145 億／NT$4,580 億）**，2018–2023 CAGR 4.4%（Mr. DIY 泰國 SEC 上市文件）；二手房占住宅交易 **60%**（2025-10，Matichon）；屋齡 ≥10 年住宅逾 **2,340 萬戶**（約 2024，Bangkokbiznews）；但 2025 年為泰國房市 10 年來最艱困的一年，2026 年僅持平（SCB EIC／ttb，Nation）。【A/B 級承襲】
-5. 零售整合裝修的參照：HomePro（HMPRO）2024 年總收入 **THB 726.4 億（≈USD 22.0 億／NT$693 億）**、淨利率約 9%，但「Home Service」不分項揭露；Index Living Mall 2024 年營收 THB 98.9 億、毛利率 45.9%（SET 上市公司快照）。【A/B 級承襲】
-6. 糾紛面：泰國沒有裝修專屬的投訴統計，只有個案（一承包商詐騙 60 餘名受害人約 4,500 萬泰銖（≈USD 136 萬／NT$4,300 萬），Pattaya Mail、Bangkok Post）；救濟途徑為 OCPB 熱線 1166 與線上申訴。【A/B 級承襲】
-7. 以下屬本檔以模型既有知識補充、**全部未驗證**的架構：住宅改建許可依《建築物管制法 B.E. 2522（1979）》（พระราชบัญญัติควบคุมอาคาร พ.ศ. 2522）向地方主管機關申請；瑕疵擔保依《民商法典》（ประมวลกฎหมายแพ่งและพาณิชย์）承攬（จ้างทำของ）章；外國人工作許可依《外國人工作管理敕令 B.E. 2560（2017）》，實務上 1 張工作證對應 4 名泰籍員工與 200 萬泰銖實收資本；2025 年最低工資 337–400 泰銖／日。這些都必須在下一輪重開 URL 核對。【D 級未驗證】
+1. **室內設計在泰國是法定「管制建築專業」**：《建築師法 B.E. 2543（2000）》（พระราชบัญญัติสถาปนิก พ.ศ. 2543）把「室內建築與裝飾藝術」（สถาปัตยกรรมภายในและมัณฑนศิลป์）列為四個管制分科之一，由泰國建築師委員會（สภาสถาปนิก, Architect Council of Thailand, ACT）核發執照；依 2006 年部令（กฎกระทรวงกำหนดวิชาชีพสถาปัตยกรรมควบคุม พ.ศ. 2549），**公共建築內部面積 ≥500 m² 的室內設計須由持照者執行**，無照執業最高可處 3 年徒刑、罰金 60,000 泰銖（≈USD 1,850／NT$59,000）。私人住宅室內裝修基本上不在管制範圍。
+2. **外國人幾乎拿不到個人執照**：ACT 主席公開承認「從未核發過外籍建築師個人執照」，因考試以泰文進行；2023 年修法（B.E. 2566）僅為 ASEAN MRA「註冊外籍建築師」開門。建築設計、施工管理與監造屬**外國人禁止職業**（例外為 ASEAN MRA），但「室內設計」本身未列名。
+3. **公司層面**：室內設計顧問被 BOI 官方 FAQ 歸入《外國人經營事業法 1999》（FBA）第三類第 21 項「其他服務業」，外資 ≥50% 的公司需先取得外國人經營事業許可證（FBL），最低資本 300 萬泰銖（≈USD 92,300／NT$295 萬）；建築、工程與營造服務亦在第三類。每張外籍工作證需 4 名泰籍員工與 200 萬泰銖實收資本（依移民局 2025 年第 12/2568 號命令）。
+4. **消費者糾紛**：2023 年消費者保護委員會辦公室（สคบ., OCPB）收到不動產類投訴 3,131 件；2025 年 9 月單一「包商棄工」事件受害者達 163 人、損失逾 3 億泰銖（≈USD 923 萬／NT$2.95 億），泰國住宅建商協會呼籲政府從「事後調解」轉向「市場監管」。市場慣例：保固 1 年（built-in／系統工程部分 2 年）、每期扣 5–10% 保留款；法定瑕疵請求時效 1 年。
+5. **消費端**：曼谷公寓翻修行情 4,000–7,000 泰銖/m²（輕度）到 15,000–25,000 泰銖/m²（全室）；設計費 300–800 泰銖/m²。政府住宅銀行（ธอส., GH Bank）2025–2026 年推出年息 1.00% 起的「修繕裝潢貸款」，2026 年版額度合計上限 30 萬泰銖。
+6. **人才與工資**：室內設計師起薪 18,000–25,000 泰銖/月（≈USD 550–770），曼谷中位總薪 36,000 泰銖/月；2025 年最低工資 337–400 泰銖/日（曼谷 400）；技能標準工資木工最高 685 泰銖/日、第 14 號公告最高 800 泰銖/日。營造業高度依賴緬甸、柬埔寨移工（外籍勞工總數約 379 萬，緬甸 79%），2025 年泰柬邊境衝突後柬籍勞工大量返鄉，2026 年泰國與斯里蘭卡簽 MOU 引進首批 1 萬人。
+7. **材料**：商務部建材價格指數（CMPI）2025 年上半年僅年增 0.1–0.8%，但 2026 年 7–8 月因能源、銅價與資料中心需求飆升至年增 5.8–6.1%。本土龍頭 SCG／COTTO（磁磚衛浴）、Modernform（系統家具，2025 營收 21.9 億泰銖、年減 12.6%）、Index Living Mall（家具零售，2025 營收 100 億泰銖）、Starmark（廚具）。
+8. **監測來源**：ACT、ASA（Architect Expo，2026 年第 38 屆、約 1,000 家參展、預估 32.5 萬人次）、TIDA（泰國室內設計師協會，1985 年成立）、TPSO 月度建材指數、REIC 季度標準住宅造價指數、勞動部季度勞動情勢報告、OCPB 投訴統計。
 
 ---
 
-## 2. 法規與證照：誰可以合法執業室內設計與施工
+## 2. 法規與證照（Who may legally practise interior design and carry out renovation works）
 
-### 2.1 室內設計執業管制 —《建築師法 B.E. 2543》與 ACT
+### 2.1 核心法律與主管機關
 
-| 項目 | 事實 | 等級 | 來源 |
-|---|---|---|---|
-| 法源 | 《建築師法 B.E. 2543（2000）》（พระราชบัญญัติสถาปนิก พ.ศ. 2543, Architect Act B.E. 2543），取代 1965 年舊法；設立泰國建築師委員會（สภาสถาปนิก, Architect Council of Thailand, ACT），ACT 於 2000-02-07 成立 | A/B 承襲 | [Architect Expo 2023](https://architectexpo.com/2023/en/20103/)；[issacompass](https://www.issacompass.com/insights/architects-and-civil-engineers-why-thai-professional-registration-gates-your-wor) |
-| 受管制分支 | 四類受管制建築專業：建築（สถาปัตยกรรมหลัก）、**室內建築與裝飾（สถาปัตยกรรมภายในและมัณฑนศิลป์，對應專業協會 TIDA）**、景觀建築（ภูมิสถาปัตยกรรม，TALA）、都市設計／規劃（สถาปัตยกรรมผังเมือง，TUDA）；設計建築物須持 ACT 執照 | A/B 承襲（分支）；泰文名稱為 D 級補充 | [Architect Expo 2023](https://architectexpo.com/2023/en/20103/)；[ACT 官網入口](https://act.or.th)【未驗證】 |
-| 執照取得 | ACT 執照考試（以泰文筆試）；2023 年（B.E. 2566）修法支援 ASEAN Architect 登錄 | A/B 承襲 | [Bangkok Post 2016](https://www.bangkokpost.com/thailand/general/1078432/labour-curbs-split-nations-architects)；[ResearchGate 2025](https://www.researchgate.net/publication/397335482_An_Assessment_of_Legal_Preparedness_for_the_Liberalization_of_Architectural_Services_within_ASEAN) |
-| 執照等級 | 個人執照分三級：ภาคีสถาปนิก（Associate Architect，大學畢業後筆試取得）→ สามัญสถาปนิก（Professional Architect，需執業年資與作品審查）→ วุฒิสถาปนิก（Senior Architect）；另有 ภาคีสถาปนิกพิเศษ（Special Associate，針對特定工作範圍）。各分支（含室內建築）各自分級 | D 級【未驗證】 | [ACT 官網入口](https://act.or.th)【未驗證】 |
-| 受管制範圍（關鍵） | 受管制的工作內容與建築物門檻由《指定受管制建築專業部令 B.E. 2549（2006）》（กฎกระทรวงกำหนดวิชาชีพสถาปัตยกรรมควบคุม พ.ศ. 2549）規定；室內建築分支依「建築物類型＋室內使用面積」界定（我的記憶是公共建築、大型建築等以室內面積 500 m² 為門檻，但**數字未核對**），一般私人住宅的純裝飾性室內設計是否落入管制，T3 已列為泰國第一缺口 | D 級【未驗證，面積門檻務必核對】 | [Royal Gazette 入口](https://www.ratchakitcha.soc.go.th)【未驗證】；[Council of State 法規庫入口](https://www.krisdika.go.th)【未驗證】 |
-| 法人執業 | 提供受管制建築服務的公司須向 ACT 登記取得法人執照；實務上需泰籍持照建築師任董事／股東 | A/B 承襲 | [issacompass](https://www.issacompass.com/insights/architects-and-civil-engineers-why-thai-professional-registration-gates-your-wor) |
-| 罰則 | 無照執業：罰金及監禁（T3 承襲）；我的記憶是《建築師法》第 45 條禁止無照執業、第 71 條處**最高 3 年監禁或最高 6 萬泰銖（≈USD 1,818／NT$57,300）罰金或併科**——條號與金額未核對 | A/B 承襲（有罰則）；D 級【金額未驗證】 | [Bangkok Post 2016](https://www.bangkokpost.com/thailand/general/1078432/labour-curbs-split-nations-architects)；[Council of State 法規庫入口](https://www.krisdika.go.th)【未驗證】 |
-| 名稱保護 | 「สถาปนิก」（建築師）為受保護名稱；「นักออกแบบตกแต่งภายใน／มัณฑนากร」（室內設計師／裝飾師）一詞本身是否受名稱保護，我沒有把握，列為缺口 | D 級【未驗證】 | — |
-| 工程端 | 結構、電機、機械等達一定規模的工程設計與監造屬《工程師法 B.E. 2542（1999）》（พระราชบัญญัติวิศวกร พ.ศ. 2542）下工程師委員會（สภาวิศวกร, Council of Engineers Thailand, COE）管制；住宅改建若涉及結構變更需持照工程師簽證 | D 級【未驗證】 | [COE 官網入口](https://coe.or.th)【未驗證】 |
-
-**推論（Inferences）**
-- 泰國與馬來西亞、菲律賓同屬「室內設計本身受專業法管制」的市場，但與馬來西亞不同的是：泰國的管制以「建築物規模門檻」而非「人人皆須註冊」運作，**小型私人住宅裝修很可能落在管制門檻之外**（待核對部令），這也是泰國住宅裝修市場由大量無照「ผู้รับเหมา」（承包商）承作的制度原因。
-- 2023 年修法與 ASEAN MRA 僅對 ASEAN 會員國建築師開放登錄；台灣不是 ASEAN 成員，**台灣建築師／室內設計師沒有任何互惠登錄管道**，只能走「泰籍持照者掛名簽證」或 BOI／合資路徑。
-
-### 2.2 施工承攬管制
-
-| 項目 | 事實 | 等級 | 來源 |
-|---|---|---|---|
-| 承包商執照 | **泰國沒有承包商執照制度**（對比：日本建設業許可、韓國실내건축공사업、台灣室內裝修業登記）；泰籍公司承攬住宅裝修無專門執照要求 | A/B 承襲 | [UNCTAD FBA](https://investmentpolicy.unctad.org/investment-laws/laws/40/thailand-foreign-business-act)；[Tilleke EPC](https://www.tilleke.com/print-insight/?post_id=37170&print=1) |
-| 外資承攬 | Construction 屬 FBA 附表三；外資承攬須 FBL，僅「基礎建設且外資最低資本 ≥5 億泰銖（≈USD 15.2M／NT$4.77 億）」例外 | A/B 承襲 | [UNCTAD FBA](https://investmentpolicy.unctad.org/investment-laws/laws/40/thailand-foreign-business-act) |
-| 公司登記 | 一般承包商只需向商業發展廳（กรมพัฒนาธุรกิจการค้า, Department of Business Development, DBD）登記公司；DBD 以 TSIC 行業代碼（如 41002 住宅建築、43300 建築物完成與裝修、74100 專業設計）分類，可作企業數監測 | D 級【未驗證】 | [DBD 官網入口](https://www.dbd.go.th)【未驗證】 |
-| 政府工程 | 政府採購承包商另有公共工程廳（กรมโยธาธิการและผังเมือง, DPT）等機關的承包商登錄制度，但不適用私人住宅裝修 | D 級【未驗證】 | [DPT 官網入口](https://www.dpt.go.th)【未驗證】 |
-
-### 2.3 住宅改建許可程序 —《建築物管制法 B.E. 2522》【整段 D 級，未驗證】
-
-| 項目 | 我的理解（待核對） | 來源 |
+| 項目 | 內容 | 來源 |
 |---|---|---|
-| 法源 | 《建築物管制法 B.E. 2522（1979）》（พระราชบัญญัติควบคุมอาคาร พ.ศ. 2522, Building Control Act）：建造（ก่อสร้าง）、**改建（ดัดแปลง）**、拆除（รื้อถอน）、移動建築物須向地方主管機關（เจ้าพนักงานท้องถิ่น；曼谷為各區公所 สำนักงานเขต，其他地區為市鎮／地方行政機構）申請許可 | [DPT 官網入口](https://www.dpt.go.th)【未驗證】 |
-| 表單 | 申請書為 ข.1（คำขออนุญาตก่อสร้าง ดัดแปลง รื้อถอน），核發之許可證為 **อ.1**；另有第 39 條之二（มาตรา 39 ทวิ）「通報制」：由持照建築師與工程師簽證後向主管機關通報即可施工，不必等待許可 | 【未驗證】 |
-| 何謂「改建」 | 法律定義為變更建築物的結構、重量、面積、形狀、外觀等；**第 11 號部令 B.E. 2528（1985）**列出不視為改建的工作，例如：以相同材料、尺寸更換非結構構件；增減樓地板面積不超過 5 m² 且不增減柱樑；增減屋頂面積不超過 5 m² 等——**換言之一般室內裝飾（油漆、貼磚、天花、櫥櫃、不動結構）通常不需 อ.1 許可**，但拆牆、增建夾層、改變開口與外觀則需要 | 【未驗證，5 m² 門檻務必核對】 |
-| 消防 | 消防與逃生規定由《建築物管制法》下各號部令規定（高層與大型建築第 33 號部令 B.E. 2535、消防設備第 39 號部令 B.E. 2537、第 47 號部令 B.E. 2540 既有建築、第 55 號部令 B.E. 2543 建築標準）；室內裝修材料的防火要求以公共建築、娛樂場所為主，**是否有針對住宅室內裝飾材料的專門規定，本輪無法確認** | 【未驗證】 |
-| 公寓大廈 | 《公寓大廈法 B.E. 2522（1979）》（พระราชบัญญัติอาคารชุด พ.ศ. 2522，2008 年第 4 次修正）：公寓法人（นิติบุคคลอาคารชุด）依管理規約（ข้อบังคับ）管理；區分所有權人不得變更共用部分；實務上單元內裝修須向法人登記、繳施工保證金、遵守施工時段與電梯使用規定，涉及結構或外觀者須經法人同意並另申請 อ.1 | 【未驗證】 |
-| 國宅 | 國家住宅局（การเคหะแห่งชาติ, National Housing Authority, NHA）住宅與「บ้านเอื้ออาทร」等方案的裝修規定本輪未取得 | 缺口 |
-| 2023–2026 變化 | 本輪只能確認（承襲）：2023 年 ACT 修法支援 ASEAN Architect；OCPB 2023 住宅裝修收據公告。其他（例如建築物管制法部令修正、EV 充電／太陽能相關改建簡化）**沒有來源** | 缺口 |
+| 主法 | 《建築師法 B.E. 2543（2000）》（พระราชบัญญัติสถาปนิก พ.ศ. 2543, Architect Act B.E. 2543） | https://download.asa.or.th/03media/04law/aa/aa43-upd60.pdf ；英譯（非官方、部分）http://www.lawlove.org/Top8/viewContent.php?cmd=Claw_en&l=3&tid=045&bno=6112 |
+| 主管機關 | 泰國建築師委員會（สภาสถาปนิก, Architect Council of Thailand, ACT）：核發、管理、懲戒全國建築專業執照 | https://act.or.th/ ；https://www.issacompass.com/insights/architects-and-civil-engineers-why-thai-professional-registration-gates-your-wor |
+| 四個管制分科 | (1) 主建築（สถาปัตยกรรมหลัก）(2) **室內建築與裝飾藝術（สถาปัตยกรรมภายในและมัณฑนศิลป์, Interior Architecture & Decorative Arts）** (3) 都市建築／都市設計（สถาปัตยกรรมผังเมือง）(4) 景觀建築（ภูมิสถาปัตยกรรม） | https://th.wikipedia.org/wiki/ใบอนุญาตประกอบวิชาชีพสถาปัตยกรรม ；https://www.issacompass.com/insights/architects-and-civil-engineers-why-thai-professional-registration-gates-your-wor |
+| 分科定義 | 2006 年部令定義「室內建築與裝飾藝術」為「運用科學與藝術，設計建築物內部之實體元素與環境之建築專業」（วิชาชีพสถาปัตยกรรมที่ใช้ศาสตร์และศิลป์ในการออกแบบเพื่อสร้างสรรค์องค์ประกอบทางกายภาพและสภาพแวดล้อมภายในอาคาร） | https://www.yotathai.com/yotanews/law-architect-2549 |
+| 室內分科執照規則 | ACT 2002 年規則（B.E. 2545）：都市建築、景觀建築、室內建築與裝飾藝術之準建築師／建築師／特許建築師執照核發規則 | http://www.thailandntr.com/en/trade-in-services/laws/organization/download/235 |
+
+### 2.2 管制範圍（何種案件必須由持照者執行）
+
+| 分科 | 管制門檻 | 來源 | 信心 |
+|---|---|---|---|
+| 室內建築與裝飾藝術 | **公共建築（อาคารสาธารณะ）內部面積 ≥500 m² 之室內設計須由持本分科執照者執行**（依 2006 年部令） | https://th.wikipedia.org/wiki/สถาปัตยกรรมภายใน ；https://www.thaiticketmajor.com/variety/lifestyle/10831/ | 中（二手來源一致，但未讀部令原文；需核對原文） |
+| 主建築 | 例外：私人住宅總面積 ≤150 m²、農業建築 ≤400 m² 不屬管制；超過者須有建築師與工程師簽證圖說 | https://www.yotathai.com/yotanews/law-architect-2549 ；https://www.scgsmartliving.com/ideas/Building-New-House-Requires-Engineer-Architect | 中高 |
+| 準建築師（ภาคีสถาปนิก）工作上限 | ACT 規章（2021-03-18 刊登政府公報）：準建築師只能執行高度 ≤15 m 且單棟總樓地板 ≤1,000 m² 之管制案 | https://download.asa.or.th/03media/04law/aa/cr64-02.pdf ；https://www.yotathai.com/yotanews/law-architect-2549 | 中（是否同樣適用室內分科未確認） |
+| 私人住宅室內裝修 | 搜尋到的來源均只提「公共建築 ≥500 m²」，**未見對私人住宅／個別公寓單位室內設計的執照要求**；推論：純住宅室內裝修不在強制執照範圍，但若涉及結構或建築變更則回到《建築管制法》程序 | 同上 | 推論 |
+
+### 2.3 執照層級、取得路徑與外國人
+
+| 項目 | 內容 | 來源 |
+|---|---|---|
+| 執照層級 | 由高到低：特許建築師（วุฒิสถาปนิก, Chartered）、建築師（สามัญสถาปนิก, Professional）、準建築師（ภาคีสถาปนิก, Associate）、**特殊準建築師（ภาคีสถาปนิกพิเศษ, Special Associate）**；各級可執行的管制範圍不同 | https://th.wikipedia.org/wiki/ใบอนุญาตประกอบวิชาชีพสถาปัตยกรรม ；https://www.trueplookpanya.com/knowledge/content/94564-edu- |
+| 2021 年新設「特殊準建築師」 | ACT 2021 年規則開放：自「建築學士或同等學歷＋≥2 年實務作品」到「低於職業證書（ปวช.）學歷」者皆可申請特殊準建築師（限特定範圍） | https://asa.or.th/laws/news20210706/ |
+| 取得路徑 | 學歷（ACT 認證學程）＋經驗＋考試三軌；ACT 定期公告有資格參加準建築師知識測驗之會員名單（如 2025 年第 31/2568 號公告） | https://dcmnt.org/posts/licensing-references-thailand ；https://cdn.act.or.th/09_bb9dd0bf84.pdf |
+| 室內分科過渡條款 | ACT 規章對室內建築與裝飾藝術分科申請人設有過渡規定，自 2003 年（พ.ศ. 2546）畢業者起算（細節被截斷） | https://download.asa.or.th/03media/04law/aa/cr52-upd63.pdf |
+| 外國人個人執照 | 《建築師法》未明文禁止外國人，但考試以泰文筆試進行，ACT 主席稱**「從未核發過外籍建築師個人執照」**（約 2016 年報導） | https://www.bangkokpost.com/thailand/general/1078432/labour-curbs-split-nations-architects |
+| 2023 年修法 | 《建築師法》B.E. 2566（2023）修正：新增支持國際協定之條款，授權 ACT 制定子法，讓外籍建築師得依 ASEAN 建築服務 MRA 在泰國註冊為「註冊外籍建築師」（Registered Foreign Architect, RFA），可獨立執業或與泰國持照建築師合作；學術評估認為此屬「防禦性」措施，實際人員流動仍少 | https://www.researchgate.net/publication/397335482_An_Assessment_of_Legal_Preparedness_for_the_Liberalization_of_Architectural_Services_within_ASEAN ；https://www.parliament.go.th/aseanrelated_law/files/file_20170704145243_txtattactEN_.pdf |
+| 法人執照 | 公司欲在 ACT 註冊取得法人執照，董事會須有泰國持照建築師 | https://www.bangkokpost.com/business/1299811/engineering-procurement-construction-a-guide-for-foreign-companies-in-thailand ；https://www.tilleke.com/print-insight/?post_id=37170&print=1 |
+| 罰則 | 無照執業：依《建築師法 2543》處 **≤3 年徒刑、≤60,000 泰銖罰金（≈USD 1,850／NT$59,000）或併罰** | https://www.trueplookpanya.com/knowledge/content/94564-edu- |
+| 查驗執照 | ACT 提供線上查驗會員與執照狀態 | https://www.yotathai.com/yotanews/check-architect-status |
+
+### 2.4 裝修工程許可（建築管制、消防、公寓管委會）
+
+| 項目 | 內容 | 來源 | 信心 |
+|---|---|---|---|
+| 主法 | 《建築管制法 B.E. 2522（1979）》（พระราชบัญญัติควบคุมอาคาร พ.ศ. 2522）：新建、**改建（ดัดแปลง）**、拆除皆須向地方主管機關申請許可（表格 อ.1）；曼谷為各區公所（สำนักงานเขต），外府為市政府（เทศบาล）或 อบต. | https://asa.or.th/laws-and-regulations/cba/ ；https://infocenter.oic.go.th/FILEWEB/CABINFOCENTER69/DRAWER003/GENERAL/DATA0000/00000058.PDF ；https://www.homehug.in.th/blog/topic-61580 | 高 |
+| 何種裝修免許可 | 實務指南：不動結構的室內工程（油漆、換地板、換衛浴、built-in、在原範圍內換天花與燈具）通常不需申請；增建、改結構、改外觀、改用途須申請 อ.1（改用途為 อ.5） | https://www.homehug.in.th/blog/topic-61580 ；https://www.eakartit-lawoffice.com/renovate/ ；https://banpluang.go.th/wp-content/uploads/2022/04/4.-คู่มือขั้นตอนเอกสารและหลักฐานที่ต้องยื่นขอ-อ.5.pdf | 中 |
+| 「不算改建」的法定例外 | 第 11 號部令（B.E. 2528）界定哪些變更不視為「ดัดแปลง」（一般引用之門檻：不增加結構荷重逾 10%、增減樓地板 ≤5 m² 且不動柱樑等）——**本輪未讀原文，數字需核對** | https://www.aes-service.com/attachments/view/?attach_id=248404 | 低（門檻數字未驗證） |
+| 公寓（อาคารชุด） | 《公寓大廈法 B.E. 2522》＋各案公寓管委會（นิติบุคคลอาคารชุด）規約：住戶、工班、包商施工前須向管委會申請；範本規約禁止共有人變更單位結構與共用部分 | https://www.dol.go.th/media/716929789247754240/migration/2025/10/6Wp3Tk7hgK5HdDRuvYXGcNsi.pdf ；https://www.primo.co.th/บทความ/ตกแต่งภายใน/การขออนุญาตตกแต่งห้องช/ ；https://propertymanagement.knightfrank.co.th/en/ข้อบังคับและกฎหมาย/ | 高 |
+| 消防—室內裝修材料 | **2023 年部令「管制使用建築之建材規定 B.E. 2566」**：大型集合住宅／公寓／宿舍須符合部長公告之火焰延燒指數；厚度 <0.9 mm 之表面飾材（如壁紙）直接貼於牆、天花者，以基材合規為條件 | https://download.asa.or.th/03media/04law/cba/mr/mr66-70f.pdf | 中高 |
+| 消防—娛樂場所參考值 | 2012 年娛樂場所部令：牆面與天花飾材須不燃或火焰延燒指數 ≤75、煙霧擴散指數 ≤450，不符者裝設面積 ≤10%（非住宅適用，但為業界常用指標） | https://download.asa.or.th/03media/04law/cba/mr/mr55-63f.pdf | 中高 |
+| 消防—驗證標準 | 公共工程與城鄉規劃廳對室內裝修材料防火安全評估／認證準則 | https://www.yotathai.com/yotanews/fire-safety | 中 |
+| 逃生路徑 | 逃生通道須自室內連續通達逃生梯或室外空地，裝修不得阻礙（第 55 號部令 2543 等） | https://download.asa.or.th/03media/04law/fubr/a1_bcmr55-63.pdf ；https://adu.ocs.ku.ac.th/OnePage/document/Energy_and_fire_prevention/Basic_knowledge_of_fire_law.pdf | 高 |
+
+### 2.5 2023–2026 法規變動時間軸
+
+| 時間 | 變動 | 來源 |
+|---|---|---|
+| 2021-03 | ACT 規章：準建築師範圍上限（≤15 m、≤1,000 m²）；同年 7 月新設「特殊準建築師」 | https://download.asa.or.th/03media/04law/aa/cr64-02.pdf ；https://asa.or.th/laws/news20210706/ |
+| 2023 | 《建築師法》修正（B.E. 2566）納入 ASEAN MRA 註冊外籍建築師機制 | https://www.researchgate.net/publication/397335482_An_Assessment_of_Legal_Preparedness_for_the_Liberalization_of_Architectural_Services_within_ASEAN |
+| 2023 | 部令「管制使用建築之建材規定 B.E. 2566」（含室內飾材延燒指數） | https://download.asa.or.th/03media/04law/cba/mr/mr66-70f.pdf |
+| 2025-01-01 | 最低工資調至 337–400 泰銖/日 | https://www.thaipbs.or.th/news/content/347764 |
+| 2025-04-09／05-20 | 技能標準工資第 14 號公告（13 職類、最高 800 泰銖/日），公報刊登後 90 天生效 | https://www.thansettakij.com/economy/627975 |
+| 2025 | 移民局第 12/2568 號命令重申工作證「4 泰籍員工＋200 萬泰銖」標準 | https://www.deemedconsulting.com/insights/2026-08-01-work-permit-quotas-capital-requirements-thailand |
+| 2025-02／07／08／11／12 | 多項內閣決議處理移工（MOU 展延、緬甸寬限、短缺紓困、3 國籍展延至 2027-03-31） | https://www.passport.co.th/cabinet-resolution/2-12-2568-renew-24-9-2567/ ；https://www.passport.co.th/cabinet-resolution/19-august-2025-labor-shortage/ |
+| 2026-09 | 泰國—斯里蘭卡勞工 MOU（營造、農業，首批 ≤10,000 人） | https://thestandard.co/thailand-sri-lanka-labor-mou-2/ |
 
 ---
 
 ## 3. 消費者保護與糾紛
 
-### 3.1 已附 URL 的事實【A/B 級承襲】
+### 3.1 投訴量與重大案件
 
-| 項目 | 事實 | 來源 |
-|---|---|---|
-| 裝修業受管制公告 | OCPB（สำนักงานคณะกรรมการคุ้มครองผู้บริโภค, สคบ.）2023-02-13 公告：住宅裝修業（residential building renovation business）為「須載明法定事項之收據」管制行業，公告後 90 日生效 | [Tilleke & Gibbins 2023](https://www.tilleke.com/insights/residential-building-renovation-business-in-thailand-to-be-controlled/4/) |
-| 訂金上限／履約保證／保固 | 無法定訂金上限、無履約保證制度、無法定裝修保固期（T3 判定） | [Tilleke & Gibbins 2023](https://www.tilleke.com/insights/residential-building-renovation-business-in-thailand-to-be-controlled/4/) |
-| 申訴管道 | OCPB 熱線 **1166**、線上申訴 | [Pattaya Mail](https://www.pattayamail.com/thailandnews/thai-consumer-protection-board-tightens-action-in-home-construction-fraud-cases-548874) |
-| 投訴統計 | **無裝修分項統計**（T3 判定） | — |
-| 詐騙個案 | 一承包商詐騙 60 餘名受害人約 **4,500 萬泰銖（≈USD 136 萬／NT$4,300 萬）**，OCPB 介入 | [Pattaya Mail](https://www.pattayamail.com/thailandnews/thai-consumer-protection-board-tightens-action-in-home-construction-fraud-cases-548874)；[Bangkok Post](https://www.bangkokpost.com/thailand/general/3253094/ocpb-looks-into-construction-scam) |
+| 指標 | 數值 | 年份 | 來源 | 備註 |
+|---|---|---|---|---|
+| OCPB（สคบ.）不動產類投訴 | **3,131 件** | 2023（พ.ศ. 2566） | https://www.reic.or.th/News/RealEstate/468767 | 整個不動產類，非僅包商棄工；2024 年 6 月報導 |
+| OCPB 擬議措施 | 邀集住宅建商協會先行自律，必要時升級管制、「重罰、吊銷執照」 | 2024-06 | https://www.reic.or.th/News/RealEstate/468767 | 政策意向，未見後續法規 |
+| 「M 公司」棄工案 | >30 名代表向消費者保護警察（บก.ปคบ.）提告；受害者合計 **163 人**（全國）；損失 **>3 億泰銖（≈USD 923 萬／NT$2.95 億）**；每戶合約 300–1,000 萬泰銖 | 2025-09-18／25 | https://www.matichon.co.th/local/crime/news_5373432 ；https://www.naewna.com/business/936873 ；https://www.ocpb.go.th/news_view.php?nid=16946 | 媒體與協會統計，非 OCPB 官方年度統計 |
+| 其他 OCPB 公開案例 | 棄工損失 >1,000 萬泰銖；>1,200 萬泰銖 | 2023–2024 | https://www.ocpb.go.th/news_view.php?nid=13707 ；https://www.ocpb.go.th/news_view.php?nid=14281 | 個案 |
+| 協會呼籲 | 泰國住宅建商協會（สมาคมไทยรับสร้างบ้าน）建議政府「從事後調解轉向市場監管」 | 2025-09 | https://www.naewna.com/business/936873 | |
 
-### 3.2 法律架構補充【D 級，未驗證】
+### 3.2 合約、保固、付款慣例
 
-| 項目 | 我的理解（待核對） | 來源 |
-|---|---|---|
-| 契約類型 | 裝修契約在泰國法上屬《民商法典》第三編第七章「承攬」（จ้างทำของ, Hire of Work，第 587–607 條） | [Council of State 法規庫入口](https://www.krisdika.go.th)【未驗證】 |
-| 瑕疵擔保 | 民商法典第 600 條：承攬人對交付後 **1 年內**出現的瑕疵負責；若為建築物或其他土地上工作物則為 **5 年**；第 601 條：請求權自瑕疵出現起 1 年內行使。契約可另行約定（實務上裝修業者常給 1 年保固） | 【未驗證，條號請核對】 |
-| 消費者法 | 《消費者保護法 B.E. 2522》（พระราชบัญญัติคุ้มครองผู้บริโภค พ.ศ. 2522）設 OCPB 與契約委員會（คณะกรรมการว่าด้วยสัญญา）、標示委員會（คณะกรรมการว่าด้วยฉลาก），得公告特定行業為「受管制契約」或「受管制收據」行業——2023 年裝修業公告即屬後者 | 【未驗證】 |
-| 不公平契約 | 《不公平契約條款法 B.E. 2540（1997）》（พระราชบัญญัติว่าด้วยข้อสัญญาที่ไม่เป็นธรรม）：法院得宣告顯失公平之條款僅在合理範圍內有效 | 【未驗證】 |
-| 消費訴訟 | 《消費者案件程序法 B.E. 2551（2008）》（พระราชบัญญัติวิธีพิจารณาคดีผู้บริโภค）：消費者對業者提告免裁判費、程序簡化、舉證責任轉換 | 【未驗證】 |
-| 常見詐騙模式 | 泰文媒體常用語「ผู้รับเหมาทิ้งงาน」（承包商收訂金後棄工）、「ช่างทิ้งงาน」；典型型態：以低價報價吸引 → 收 30–50% 訂金 → 進場做部分拆除後消失；另有以臉書／LINE 社團攬客的無登記個人承包商。**比例與金額無來源** | 【未驗證，定性描述】 |
-| 付款慣例 | 實務常見分期：簽約 30%（或 20–50%）→ 進場／材料 30% → 中期 30% → 完工驗收 10%（**無來源，僅業界常見說法**） | 【未驗證】 |
-| 保險 | 泰國沒有類似日本「リフォーム瑕疵保險」的裝修瑕疵保險制度；大型承包商投保工程一切險（CAR）為自願 | 【未驗證】 |
-
-**推論**
-- 泰國消費者保護的「硬制度」幾乎只有 2023 年的收據公告，比新加坡（CaseTrust 訂金 ≤20%＋履約保證）、台灣（定型化契約草案）弱得多；這意味著**「可信賴的品牌＋透明合約＋分期付款」本身就是可差異化的賣點**，也是 HomePro 等零售商以「Home Service」切入的制度空隙。
+| 項目 | 慣例 | 來源 | 信心 |
+|---|---|---|---|
+| 標準合約 | **未找到政府或協會頒布之室內裝修強制標準合約**；市面流通範本如 EGCO 2023 年「營造、室內裝修與活動家具承攬合約」、Casa Concept 2020 室內承攬合約範本 | https://www.egco.com/storage/newsroom/procurement-news/2023/12/20231218-5.pdf ；https://casa-concept1.com/pdf/สัญญารับเหมาตกแต่งภายใน_2563.pdf | 中 |
+| 保固期 | 市場標準 **1 年**；部分業者對 built-in 與系統工程給 **2 年**；合約應明定範圍 | https://firm.co.th/work-insurance/ ；https://www.lawinsider.com/th/clause/การรบประกนผลงาน | 中高 |
+| 法定瑕疵時效 | 業主對施工瑕疵之請求／訴訟時效為**完工或驗收後 1 年**（民商法典） | https://www.thanulegal.com/17228107/ก่อสร้าง | 中高 |
+| 保留款 | 每期款扣 **5–10%** 作為保固保證金（例：100 萬泰銖案扣 5%） | https://wisawa.co.th/ประกันผลงานก่อสร้าง/ | 中高 |
+| 設計費分期 | 範例：簽約 40%、草案後 30%、開工 20%、近完工與交付各 5% | https://www.risedesign-studio.com/interior-design-fee-calculation-factors-clients-should-know/ | 中 |
+| 訂金／違約金 | 搜尋未得業界訂金比例與違約金慣例；法律依據為民商法典訂金（มัดจำ）與違約金（เบี้ยปรับ，法院得酌減） | （缺口） | 低 |
+| 棄工即違約 | 消費者組織委員會（สภาองค์กรของผู้บริโภค, TCC）：包商棄工即構成違約，業主可立即解約 | https://www.tcc.or.th/documents/contractor-left-project/ | 高 |
+| OCPB 指南 | 「包商棄工該怎麼辦」官方手冊（2017） | https://www.ocpb.go.th/download/article/article_20171215141625.pdf | 高 |
+| 常見詐欺手法 | 媒體整理「包商 10 大陷阱」（收款後棄工、偷換材料、追加款等） | https://www.sanook.com/women/207801/ | 中 |
+| 履約保證／託管／保險 | **未找到**針對住宅裝修之法定履約保證、第三方託管（escrow）或保險制度 | （缺口） | — |
 
 ---
 
 ## 4. 外資進入規則
 
-### 4.1 已附 URL 的事實【A/B 級承襲】
+### 4.1 公司設立：《外國人經營事業法》（FBA）
 
-| 項目 | 事實 | 來源 |
-|---|---|---|
-| 設計公司 | 室內設計顧問屬 FBA 附表三第 (21) 項「其他服務業」；外資持股 ≥50% 須向 DBD 申請外國人經營事業執照（FBL），法定審查 60 日；常見替代為 BOI 投資促進（取得 Foreign Business Certificate）或泰資 51% 合資 | [BOI OSOS FAQ](https://osos.boi.go.th/One-Stop/faq-group/24/To-open-a-branch-office-to-do-interior-design-consulting-in-Thailand/)；[UNCTAD FBA](https://investmentpolicy.unctad.org/investment-laws/laws/40/thailand-foreign-business-act)；[thailaws.org](https://www.thailaws.org/foreign-business-act/)；[lexbangkok 2026](https://lexbangkok.com/foreign-business-act-thailand-market-entry-guide-2026/) |
-| 承包商 | Construction 屬附表三；僅基礎建設且外資最低資本 ≥5 億泰銖（≈USD 15.2M／NT$4.77 億）例外；實務需泰資多數合資 | [UNCTAD FBA](https://investmentpolicy.unctad.org/investment-laws/laws/40/thailand-foreign-business-act)；[Tilleke EPC](https://www.tilleke.com/print-insight/?post_id=37170&print=1) |
-| 外國設計師 | 室內建築須 ACT 執照；外國人實務上極難取得（泰文考試）；公司向 ACT 登記需泰籍持照者任董事 | [issacompass](https://www.issacompass.com/insights/architects-and-civil-engineers-why-thai-professional-registration-gates-your-wor)；[Bangkok Post 2016](https://www.bangkokpost.com/thailand/general/1078432/labour-curbs-split-nations-architects) |
-| 分公司 | BOI OSOS FAQ 針對「在泰國開設分公司做室內設計顧問」有專頁說明（內容未開頁核對） | [BOI OSOS FAQ](https://osos.boi.go.th/One-Stop/faq-group/24/To-open-a-branch-office-to-do-interior-design-consulting-in-Thailand/) |
-| 貿易協定 | 泰國為 WTO 會員、非 CPTPP 成員；ASEAN 建築服務 MRA 僅對 ASEAN 會員國開放 | [ResearchGate 2025](https://www.researchgate.net/publication/397335482_An_Assessment_of_Legal_Preparedness_for_the_Liberalization_of_Architectural_Services_within_ASEAN) |
-| T3 可行性評分 | 設計公司 2／承包商 1（1＝幾乎封閉，5＝完全開放） | T3 分析師判斷 |
-
-### 4.2 架構補充【D 級，未驗證】
-
-| 項目 | 我的理解（待核對） | 來源 |
-|---|---|---|
-| FBA 最低資本 | 外國人經營非附表事業最低資本 **200 萬泰銖（≈USD 60,606／NT$191 萬）**；經營附表二／三事業（需 FBL）最低資本 **300 萬泰銖（≈USD 90,909／NT$286 萬）** | [DBD 官網入口](https://www.dbd.go.th)【未驗證】 |
-| 附表三其他相關項目 | 附表三另列「建築服務」（architectural services）、「工程服務」（engineering services）、「建設」（construction，含例外）；即使以泰資 51% 合資，若公司提供受管制建築服務仍須 ACT 法人登記 | 【未驗證】 |
-| 人頭股東 | 以泰籍人頭（nominee）持 51% 規避 FBA 為違法，DBD 近年持續稽查（2024–2025 多次新聞）；對台商而言「真實合資＋股東協議／特別股設計」是合規路徑 | 【未驗證】 |
-| 美泰友好條約 | Treaty of Amity 僅適用美國籍公司，與台灣無關 | 【未驗證】 |
-| BOI | BOI 促進類別中與設計相關者偏向「工業設計／工程設計中心」與「區域總部／國際商業中心（IBC）」，一般室內設計顧問是否可促進，**T3 寫「BOI 可促進」但本輪未能核對類別** | [BOI 官網入口](https://www.boi.go.th)【未驗證】 |
-| 工作許可 | 《外國人工作管理敕令 B.E. 2560（2017）》（พระราชกำหนดการบริหารจัดการการทำงานของคนต่างด้าว พ.ศ. 2560，2018 年修正）；就業廳（กรมการจัดหางาน, Department of Employment, DOE）實務比例：**每 1 張外國人工作證需 4 名泰籍全職員工＋200 萬泰銖實收資本**（BOI 促進公司可豁免比例） | [DOE 官網入口](https://www.doe.go.th)【未驗證】 |
-| 外國人禁止從事職業 | 勞動部公告（B.E. 2563／2020）列 40 項職業分四類：絕對禁止、有條件開放（MOU 移工可做之體力工、泥作、木工等建築工）、僅依國際協定／MRA 開放（含**建築設計、繪圖、估價、監造**與土木工程）、…。意即**外籍室內設計師若從事「受管制建築工作」須依 MRA＋ACT 執照；台灣人沒有 MRA 管道**，實務上以「設計顧問／專案經理」職稱申請工作證，由泰籍持照者簽證 | [MOL 官網入口](https://www.mol.go.th)【未驗證，分類與項目務必核對】 |
-| 工地主任 | 外籍工地主任（site manager）可申請一般工作證（非禁止職業），但需滿足 4:1 比例與資本要求；短期派駐可用「緊急工作通知（Urgent Work, ≤15 日）」 | 【未驗證】 |
-| 稅務（僅提示，不構成建議） | 公司所得稅 20%；VAT 7%；境內服務費扣繳 3%；支付境外公司服務費扣繳 15%（可依租稅協定減免）；台泰有避免雙重課稅協定（我的記憶：1999 年簽署、2012 年生效，**請核對**）；設計費若由台灣母公司開立，需留意常設機構與移轉訂價 | [Revenue Department 入口](https://www.rd.go.th)【未驗證】 |
-
-### 4.3 已進入泰國的外國業者【D 級，全部未驗證，僅供搜尋線索】
-
-| 業者 | 國籍 | 我的理解 | 狀態 |
+| 項目 | 內容 | 來源 | 信心 |
 |---|---|---|---|
-| 乃村工藝社（Nomura Co., Ltd.） | 日本 | 設有泰國子公司（Nomura Design & Engineering (Thailand)），承接日系零售、飯店、商業空間裝修 | 【未驗證】 |
-| 丹青社（Tanseisha） | 日本 | 設有泰國子公司承接商業空間 | 【未驗證】 |
-| Nitori（ニトリ） | 日本 | 2023 年在曼谷開泰國首店，走家具家飾零售 | 【未驗證】（VN-A 筆記引用 Nikkei 提及「泰國、越南新店」） |
-| IKEA（Ikano Retail） | 瑞典／新加坡經營 | 2011 年曼谷 Bangna 首店；後有 Bang Yai 等店 | 【未驗證】 |
-| Space Matrix | 新加坡 | 曼谷辦公室，商辦室內設計 | 【未驗證】 |
-| HBA（Hirsch Bedner Associates） | 美國 | 曼谷辦公室，飯店室內設計 | 【未驗證】 |
-| 台灣業者 | 台灣 | **沒有找到任何有來源的台灣室內設計／裝修公司進入泰國案例**；台商在泰以製造業與建材（如板材、五金）為主 | 缺口 |
-| 韓國、中國業者 | 韓／中 | 中國定製家具品牌（如歐派、索菲亞）是否以經銷商形式進入曼谷，**無來源** | 缺口 |
+| 分類 | BOI 一站式服務 FAQ：**室內設計顧問屬 FBA 1999 第三類第 21 項「其他服務業」**，外資須先取得外國人經營事業許可證（Foreign Business Licence, FBL） | https://osos.boi.go.th/One-Stop/faq-group/24/To-open-a-branch-office-to-do-interior-design-consulting-in-Thailand/ | 高 |
+| 「外國人」定義 | 境外設立法人、外資持股 ≥50% 之泰國公司、外國人管理之合夥 | https://investmentpolicy.unctad.org/investment-laws/laws/40/thailand-foreign-business-act ；https://dejudomlaw.com/en/insight/thailand-foreign-business-act-a-practical-guide-for-foreign-investors | 高 |
+| 第三類明列項目 | 會計、法律、**建築、工程**服務；**營造**（除特定基礎設施）等亦受限 | https://usa.siam-legal.com/business-in-thailand/foreign-business-act.php ；https://www.bangkokpost.com/business/1299811/engineering-procurement-construction-a-guide-for-foreign-companies-in-thailand | 高 |
+| FBL 程序 | 向商業發展廳（DBD）廳長申請，經外國人經營事業委員會審查，法定 60 天內裁決；最低資本 **300 萬泰銖（≈USD 92,300／NT$295 萬）**；2026 年指南稱需至少 1 名泰國居民董事；規費約 20,000 泰銖＋年費 2,000（單一來源） | https://image.mfa.go.th/mfa/0/FdDtKZuFye/migrate_directory/business-20150617-180705-862850.pdf ；https://lexbangkok.com/foreign-business-act-thailand-market-entry-guide-2026/ | 中高 |
+| 建築 FBL 範圍 | 取得建築服務 FBL 不自動涵蓋工程或營造活動；無照提供該等服務可處罰金與徒刑 | https://www.tilleke.com/print-insight/?post_id=37170&print=1 | 高 |
+| 人頭股東 | FBA 禁止泰籍人頭代持（nominee），違者連同外國人受罰 | https://investmentpolicy.unctad.org/investment-laws/laws/40/thailand-foreign-business-act ；https://www.thailandlawonline.com/thai-company-and-foreign-business-law/foreign-business-law-thailand | 中（條文號未核對） |
+| 美泰友好條約 | 僅美國公司適用，台灣不適用 | https://www.thai-co.com/blog/foreign-owned-company-options-in-thailand-boi-vs-amity-vs-rep-office | 高 |
+| BOI 路徑 | BOI 促進可允許 100% 外資並豁免工作證 4:1 比例，但促進係針對**特定活動**；BOI 現有設計類項目為「創意產品設計與開發中心」（8 年免企業所得稅）與「創意產品設計與開發」——**皆非室內設計服務**；BOI 自身 FAQ 對室內設計只提 FBL 路徑 | https://thailand.acclime.com/guides/boi-eligible-activities/ ；https://terms.law/Thai/business/boi-promotion-pathways.html ；https://osos.boi.go.th/One-Stop/faq-group/24/To-open-a-branch-office-to-do-interior-design-consulting-in-Thailand/ | 中高 |
 
-**推論**
-- 對台灣業者最現實的三條路：(1) **泰資 51% 真實合資**（設計＋施工各一家或一家兩業），以台方技術與供應鏈換取泰籍持照建築師與工班；(2) **BOI 促進**（需確認類別，可能需以「設計中心／IBC」包裝）；(3) **不做執業、改做供應鏈與零售**（系統櫃、衛浴、五金、板材的進口與展示中心）——零售與貿易受 FBA 附表三「零售（最低資本 1 億泰銖）」另一套規則管制，需另行研究。
+### 4.2 外籍設計師與工地主管的工作證
+
+| 項目 | 內容 | 來源 | 信心 |
+|---|---|---|---|
+| 禁止職業 | 外國人**禁止**從事建築專業工作：專案研究、設計、施工管理與監造、檢查、顧問（例外：ASEAN MRA 建築師及依 ACT 條件之持照者）；清單在 1979 年敕令 39 項、2022 年就業廳公告 20 項、2023 年勞動部摘要約 40 項間版本不一 | https://www.khaosodenglish.com/news/2023/07/05/40-occupations-in-thailand-restricted-foreigner-hiring-prohibited/ ；https://thailand.acclime.com/guides/restricted-jobs/ ；https://www.thailandlawonline.com/thai-company-and-foreign-business-law/prohibited-occupations-thailand-work-permit | 高 |
+| 「室內設計」 | **未列名於禁止職業**；風險區在於工作內容是否涉及建築設計、施工圖、造價、監造（推論） | 同上 | 推論 |
+| 工作證門檻 | 每張外籍工作證：**4 名泰籍員工（投保社保）＋200 萬泰銖實收資本（≈USD 61,500／NT$197 萬）**；申請與展期時重新檢視；與泰國人結婚者減為 100 萬泰銖＋2 名泰籍員工；BOI 促進公司豁免；依移民局 2025 年第 12/2568 號命令 | https://belaws.com/thailand/work-permit-requirements/ ；https://www.deemedconsulting.com/insights/2026-08-01-work-permit-quotas-capital-requirements-thailand ；https://aniday.com/en/thailand/work-permit | 中高（來源間有「擇一／皆須」分歧） |
+| 罰則 | 從事保留職業＝無證工作，最高 5 年徒刑、10 萬泰銖罰金並遣返（各來源數字不一）；2026 年全國查緝涵蓋營造業 | https://terms.law/Thai/employment/restricted-occupations.html ；https://outthailand.com/guide/thailand-work-permit/ | 中 |
+
+### 4.3 外國業者案例
+
+| 業者 | 國籍 | 事件 | 來源 |
+|---|---|---|---|
+| Ole Scheeren／MahaNakhon | 德國 | 2010 年 ACT 對其無照執業提出刑事告訴；2015 年與泰國建築師合組公司取得法人執照 | https://www.bangkokpost.com/thailand/general/1078432/labour-curbs-split-nations-architects |
+| Taak Interior and Architect Co.（泰國） | 泰國 | 設計負責人公開反對「泰國建築師替外國設計蓋章」慣例（責任過重） | 同上 |
+| Nikken Sekkei (Thailand) Ltd. | 日本 | 2018 年設曼谷子公司（South Sathorn Rd.），員工 34 人、設計 27 人，建築＋室內整合；母公司 2024-04-01 併入室內子公司 Nikken Space Design | https://nikken.co.th/ ；https://www.nikken.co.jp/en/news/news/2022_12_23.html ；https://www.nikken.jp/en/contact/bangkok/ |
+| Livspace | 新加坡總部（印度創辦） | 市場為新加坡、印度、沙烏地，**無泰國據點** | https://en.wikipedia.org/wiki/Livspace |
+| 韓國、台灣、中國、其他新加坡業者 | — | **本輪未找到具名案例**（缺口） | — |
+
+### 4.4 稅務提示（僅標記，不構成建議）
+- BOI 促進活動可享企業所得稅減免（創意設計中心 8 年），但室內設計服務未列為促進活動：https://thailand.acclime.com/guides/boi-eligible-activities/
+- FBL 公司仍須適用泰國企業所得稅、VAT 與服務費扣繳；稅率本輪未檢索，請另查稅務廳（https://www.rd.go.th）。
 
 ---
 
 ## 5. 消費者行為
 
-### 5.1 已附 URL 的事實【A/B 級承襲】
+### 5.1 誰在裝修、總體情緒
 
-| 指標 | 數值 | 年份 | 來源 | 信心 |
+| 發現 | 數值 | 年份 | 來源 | 備註 |
 |---|---|---|---|---|
-| 居家修繕產業規模（含建材零售口徑） | THB 3,862 億（2018）→ **THB 4,795 億（2023）**，CAGR 4.4%；≈USD 145 億／NT$4,580 億 | 2023 | [泰國 SEC Mr. DIY 上市文件](https://market.sec.or.th/public/ipos/IPOSGetFile.aspx?TransID=646423&TransFileSeq=87) | 中（獨立顧問，HI 口徑） |
-| 二手房占住宅交易 | **60%**，成長快於新屋（Modern Property Consultant） | 2025-10 | [Matichon](https://www.matichon.co.th/economy/news_5437496)；[REIC 轉載](https://www.reic.or.th/News/RealEstate/470359) | 中 |
-| 屋齡 ≥10 年住宅 | **逾 2,340 萬戶**（翻修潛在存量） | 約 2024 | [Bangkokbiznews](https://www.bangkokbiznews.com/property/1124831) | 中 |
-| 房市景氣 | 2025 年為 10 年來最艱困；2026 年持平或微增（SCB EIC／ttb analytics） | 2025–2026 | [Nation](https://www.nationthailand.com/business/property/40056158)；[Nation 2027](https://www.nationthailand.com/business/economy/40070934)；[SCB EIC](https://www.scbeic.com/en/detail/product/443) | 高 |
-| REIC | 2025 Q4 住宅市場因政府措施觸底回穩 | 2025 | [REIC Q4（轉載）](https://www.bangkokfocusnews.com/2026/02/REIC-Q4-2568-Trends2569.html)；[REIC Q1](https://www.reic.or.th/Activities/PressRelease/260) | 高 |
-| 零售通路 | HomePro 2024 總收入 THB 726.4 億（≈USD 22.0 億／NT$693 億），淨利約 THB 64–65 億（淨利率 ≈9%），Home Service 不分項 | 2024 | [SET HMPRO 快照](https://lssmedia.setlink.set.or.th/2025/3M/HMPRO-3M68-ListedCompanySnapshot-EN.html)；[Kaohoon](https://www.kaohooninternational.com/markets/537124) | 中高 |
-| 零售通路 | Index Living Mall 2024 營收 THB 98.9 億（≈USD 3.0 億／NT$94 億），毛利率 45.9%，淨利率 7.5%，34 店 | 2024 | [SET ILM 快照](https://lssmedia.setlink.set.or.th/2024/YE/ILM-YE67-ListedCompanySnapshot-EN.html)；[ILM IR](https://investor.indexlivingmall.com/en/updates/press-releases/416/index-living-mall-reports-strong-2024-performance-with-recordhigh-profit-for-the-third-consecutive-year-proposes-thb-100-dividend-per-share) | 高 |
+| PwC Voice of the Consumer（泰國樣本 521 人） | 57% 認為生活成本是未來 12 個月最大影響；2024 年版 50% 「願意花錢在家居改善」 | 2025／2024 | https://www.pwc.com/th/en/research-and-insights/voice-of-the-consumer-survey-2025-en.html ；https://www.pwc.com/th/en/press-room/press-release/2024/press-release-30-08-24-en.html | 非裝修專項調查 |
+| SCB EIC 不動產調查 2026 | 購買力弱、放貸緊，潛在買家轉向**中古屋與租屋**；逾半數 5 年內無購屋計畫 | 2026 | https://www.nationthailand.com/business/economy/40070934 | 暗示中古屋翻修需求 |
+| 中古屋 vs 新案 | 2026 年報導：二手住宅對買家吸引力超過新案 | 2026 | https://heythailandnews.com/posts/thailands-used-property-market-shifts-why-second-hand-homes-now-beat-new-projects-for-buyers | 媒體 |
+| Euromonitor 家居改善 | 2025 年家居改善零售預期下滑（家庭負債高、住宅營建減速）；Thai Watsadu 等大賣場 2024 年營收縮減 | 2025-05 | https://www.euromonitor.com/home-improvement-in-thailand/report | 市場研究，定義=家居改善零售 |
+| HKTDC（疫情期） | 86% 泰國消費者未來 3 年對家居生活品支出持平或增加 | ~2021–2022 | https://research.hktdc.com/en/article/NjIyMzcxNDc5 | 已過時 |
+| 首購／換屋／高齡／出租比例 | **未找到分群統計**（缺口） | — | — | — |
 
-### 5.2 政策與融資補充【D 級，未驗證】
+### 5.2 預算行情（曼谷公寓為主；業者報價，非消費者調查）
 
-| 項目 | 我的理解（待核對） | 來源 |
-|---|---|---|
-| 翻修貸款 | 政府住宅銀行（ธนาคารอาคารสงเคราะห์, Government Housing Bank, GHB／ธอส.）長期提供「ต่อเติม／ซ่อมแซม」（增建／修繕）房貸與專案優惠利率；商業銀行（SCB、KBank、Krungsri、TTB）亦有「สินเชื่อตกแต่งบ้าน」（裝修貸款），多以房屋抵押加貸或個人信貸形式 | [GHB 官網入口](https://www.ghbank.co.th)【未驗證】 |
-| 2025 年房市措施 | 2025-04 起過戶費與抵押登記費降至 0.01%（房價 ≤700 萬泰銖，≈USD 21.2 萬／NT$668 萬），至 2026-06-30；泰國央行（BOT）2025-05 起暫時放寬 LTV 至 100%（至 2026-06-30） | [BOT 官網入口](https://www.bot.or.th)【未驗證】 |
-| 租稅誘因 | 「Easy E-Receipt 2.0」（2025-01-16～02-28）：持電子稅務發票之消費可扣除最高 5 萬泰銖（≈USD 1,515／NT$47,750），含向 VAT 登記業者購買的裝修服務；2024 年底曾有洪災房屋修繕支出扣除（最高 10 萬泰銖，≈USD 3,030／NT$95,500）——**是否延續至 2026 年未確認** | [Revenue Department 入口](https://www.rd.go.th)【未驗證】 |
-| 誰在裝修 | 可推論的結構：二手房占六成＋2,340 萬戶 ≥10 年屋齡 → **二手房入住前翻修與高齡化住宅改修**為主力；曼谷公寓（คอนโด）租賃投資客的「แต่งคอนโดปล่อยเช่า」（裝修出租）為第二類；新建透天（บ้านจัดสรร）交屋後「ต่อเติมครัวหลังบ้าน」（增建後廚房）是泰國特有的高頻需求 | 推論＋【未驗證】 |
-| 資訊來源 | บ้านและสวน（Baan Lae Suan，Amarin 集團）雜誌、網站與年度博覽會；Pantip（ห้องชายคา 版）；臉書社團；Pinterest；HomePro／Index 門市設計服務；房產平台 DDproperty、Baania、Think of Living | 【未驗證，定性】 |
-| 風格偏好 | 曼谷主流為 Modern／Minimal、Muji-Japandi、Loft（工業風）；高端走 Modern Luxury、Thai-contemporary（泰式當代）——**無調查數據** | 缺口 |
-| 預算分級 | **無來源**；泰國媒體常用「งบตกแต่ง 1 แสน／5 แสน／1 ล้าน」分級，無統計 | 缺口 |
+| 工程等級 | 單價（THB/m²） | 換算 | 來源 | 年份 |
+|---|---|---|---|---|
+| 表面翻新（油漆、地板） | 3,000–6,500 | ≈USD 92–200／NT$2,960–6,400 | https://condodee.com/bangkok-condo-renovation-guide-2025/ | 2025 |
+| 輕度 | 4,000–7,000 | ≈USD 123–215 | https://99interior.co.th/blog/condo-renovation-budget-guide | 2025–26 |
+| 中度（含廚衛） | 9,000–15,000 | ≈USD 277–462 | 同上 | |
+| 全室（拆除＋全 built-in） | 15,000–22,000 | ≈USD 462–677／NT$14,800–21,700 | 同上 | |
+| 高標 | 18,000–25,000 | ≈USD 554–770 | https://condodee.com/bangkok-condo-renovation-guide-2025/ | 2025 |
+| 設計施工一體業者 | 15,000–40,000 | ≈USD 462–1,231 | https://thaimanufacturehub.com/blog-09.html | 2026 |
+| Built-in（以櫃體立面 m² 計）：塑合板／美耐板 | 6,000–10,000 | | https://www.blovkliving.com/condo-built-in-cost/ | 2026 |
+| Built-in：MDF／laminate | 10,000–16,000 | | 同上 | |
+| Built-in：夾板／高光烤漆 | 16,000–24,000+ | | 同上 | |
+| 案例：58 m² 加 built-in 櫃 | 總價約 720,000 泰銖（≈12,400/m²；≈USD 22,150／NT$709,000） | | https://99interior.co.th/blog/condo-renovation-budget-guide | |
+| 套房 25–30 m² 總預算 | 200,000–250,000 泰銖 | ≈USD 6,150–7,700 | https://www.blovkliving.com/condo-built-in-cost/ | 2026 |
+| 30–40 m² 以 built-in 為主 | 150,000–500,000 泰銖 | | 同上 | |
+| 預備金 | 預算外加 10–15% | | https://condodee.com/bangkok-condo-renovation-guide-2025/ | 2025 |
+| 中古公寓取得價 | 70,000–130,000 THB/m² | | 同上 | 2025 |
+| 設計費 | 300–800 THB/m²（與施工費分開）；建築師整棟住宅設計費為造價 3–10% | | https://idecdesign.com/blog-design-vs-decor-fees-combined-or-separate/ ；https://phad-architecture.com/blog/how-do-architects-charge-for-designing-a-house | 2025 |
+| 設計費 vs 施工費 | 施工（工料＋built-in）2,000–10,000 THB/m² 起 | | https://idecdesign.com/blog-design-vs-decor-fees-combined-or-separate/ | |
 
----
+### 5.3 融資與政府方案
 
-## 6. 人才與勞動【整節 D 級，未驗證；無任何本輪 URL】
-
-| 項目 | 我的理解（待核對） | 來源 |
-|---|---|---|
-| 教育管道 | 室內建築／室內設計學程集中在：朱拉隆功大學建築學院（室內建築系）、國立藝術大學（Silpakorn）裝飾藝術學院（คณะมัณฑนศิลป์，泰國歷史最久的室內設計／裝飾學院）、拉卡邦先皇技術學院（KMITL）建築學院、吞武里先皇科技大學（KMUTT）建築與設計學院、法政大學建築與規劃學院、清邁大學、孔敬大學、蘭實大學（Rangsit）、曼谷大學、易三倉大學（Assumption）、斯巴頓大學（Sripatum）、各拉差蒙坤科技大學（RMUT）體系等；ACT 對「可報考執照」之學程有認證名單 | [ACT 官網入口](https://act.or.th)【未驗證】 |
-| 畢業人數 | **無來源** | 缺口 |
-| 持照人數 | ACT 各分支持照人數（室內建築分支）**無來源**；ACT 網站有統計頁 | 缺口 |
-| 設計師薪資 | 業界常見區間（求職網 JobsDB／Adecco 薪資指南）：初階室內設計師約 THB 18,000–25,000／月（≈USD 545–758／NT$17,200–23,900）、中階 30,000–50,000、資深／主管 60,000–100,000+；**數字為記憶區間，未核對** | 缺口（低信心） |
-| 工地主任薪資 | **無來源** | 缺口 |
-| 最低工資 | 2025-01-01 起全國日薪 **337–400 泰銖**（≈USD 10.2–12.1／NT$322–382）；曼谷及周邊 372 泰銖；普吉、春武里、羅勇、北柳、蘇美島 400 泰銖；2025-07-01 起曼谷等地提高至 400 泰銖（適用範圍待核對）；2026 年是否再調整**未確認** | [MOL 官網入口](https://www.mol.go.th)【未驗證】 |
-| 技術工日薪 | 市場行情（曼谷）木工、泥作、貼磚、水電師傅約 THB 500–1,000／日（≈USD 15–30／NT$478–955），依技術等級差異大；勞動部另有「技能標準工資」（อัตราค่าจ้างตามมาตรฐานฝีมือ）對建築工種分級定價——**數字未核對** | 缺口（低信心） |
-| 缺工與高齡化 | 泰國營建業長期依賴緬甸、柬埔寨、寮國（近年加越南）MOU 移工；泰籍工班高齡化、年輕人不願入行為業界共識；**缺工比例、工班平均年齡無來源** | 缺口 |
-| 移工政策 | 依 2017 年敕令與內閣決議，營建工屬允許移工從事的職業；透過 MOU（緬、柬、寮、越）或登記核准；登記移工總數約 300 萬級（**數字未核對**）；2025 年緬甸情勢影響供給 | [DOE 官網入口](https://www.doe.go.th)【未驗證】 |
-| 勞動統計 | 國家統計局（สำนักงานสถิติแห่งชาติ, NSO）勞動力調查（LFS）有營建業就業人數（我的記憶約 200–230 萬人，**未核對**） | [NSO 官網入口](https://www.nso.go.th)【未驗證】 |
-
----
-
-## 7. 材料與供應鏈【整節 D 級，未驗證；零售商財報為 A/B 級承襲】
-
-| 類別 | 主要本地品牌／通路（我的理解） | 備註 |
-|---|---|---|
-| 磁磚、衛浴 | **SCG Decor PCL**（SET: SCGD，2023 年底上市，旗下 COTTO、Sosuco、Campana，並持有越南 Prime、菲律賓 Mariwasa）；**Dynasty Ceramic**（SET: DCC，平價磁磚龍頭）；**RCI（Royal Ceramic）**；衛浴另有 American Standard（Lixil）、Karat（Kohler）、Nahm、Mogen | 【未驗證】 |
-| 塗料 | **TOA Paint**（SET: TOA，市占第一）、Beger、Jotun、Nippon Paint、Captain | 【未驗證】 |
-| 廚具、系統櫃 | **Starmark**（Index Living Mall 關係企業）、**Modernform**（SET: MODERN，辦公家具＋廚具）、Kitchen Form、SB Design Square（SB Furniture）、Koncept、Index Living Mall、IKEA；高端進口 Bulthaup、Poggenpohl | 【未驗證】 |
-| 木材、板材 | 泰國橡膠木（ไม้ยางพารา）為主要本地實木；Vanachai（MDF／PB）、Metro-Ply、Panel Plus（Mitr Phol 集團）；美耐板 Formica Thailand、Wilsonart、TAK | 【未驗證】 |
-| 照明 | **Lighting & Equipment PCL（L&E）**、Lamptan、Philips／Signify Thailand、Panasonic | 【未驗證】 |
-| 家居建材零售 | HomePro（含 Mega Home）、Thai Watsadu（Central Retail）、Global House（SET: GLOBAL）、Dohome（SET: DOHOME）、Boonthavorn（บุญถาวร）、Mr. DIY Thailand、Index Living Mall、SB Design Square | 財報見第 5 節【A/B 承襲】 |
-| 進口依賴 | 磁磚、衛浴、塗料、板材本地供應充足；高端五金、系統廚具、燈具、智能家居依賴進口（中國、歐洲、日本）；中國低價磁磚、燈具、家具進口壓力大（泰國曾對中國磁磚課反傾銷稅，**年份與稅率未核對**） | 【未驗證】 |
-| 標準 | 泰國工業標準院（สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม, TISI）TIS 標準，部分建材（如鋼筋、水泥、電線、衛浴陶瓷）為強制標準（มอก. บังคับ）；進口須符合 | [TISI 官網入口](https://www.tisi.go.th)【未驗證】 |
-| 關稅 | 台灣建材進口泰國適用 MFN 稅率（多數建材 5–30%）；台泰無 FTA；中國、日本、韓國、ASEAN 產品享 FTA 優惠，**台灣產品在價格上處於結構劣勢** | 【未驗證】 |
-| 價格指數 | 商務部貿易政策與戰略辦公室（สำนักงานนโยบายและยุทธศาสตร์การค้า, TPSO）每月發布**建材價格指數（ดัชนีราคาวัสดุก่อสร้าง, Construction Materials Price Index）**，分 11 大類（木材、水泥、鋼材、磁磚、衛浴、電器設備等）；2022 年因鋼材、能源大漲，2023–2025 趨於持平或微跌（**各年數字未核對**） | [TPSO 官網入口](https://www.tpso.go.th)；[價格指數入口](https://www.price.moc.go.th)【未驗證】 |
-| 物流 | 曼谷都會區建材配送成熟；外府由 Global House、Dohome、Thai Watsadu 的大店覆蓋；公寓大廈搬運受法人時段與電梯限制 | 【未驗證】 |
-
----
-
-## 8. 產業組織與監測來源【D 級為主；標註者為 A/B 承襲】
-
-| 類型 | 名稱 | 說明 | 等級 |
+| 方案 | 條件 | 年份 | 來源 |
 |---|---|---|---|
-| 法定機構 | 泰國建築師委員會（สภาสถาปนิก, ACT） | 執照、法人登記、紀律 | A/B（存在）；[act.or.th](https://act.or.th) 入口【未驗證】 |
-| 專業協會 | 暹羅建築師協會（สมาคมสถาปนิกสยาม ในพระบรมราชูปถัมภ์, ASA）；**泰國室內設計師協會（สมาคมมัณฑนากรแห่งประเทศไทย, Thailand Interior Designers' Association, TIDA）**；泰國景觀建築師協會（TALA）；泰國都市設計師協會（TUDA） | 四協會與 ACT 共同主辦 Architect Expo；TIDA 辦 TIDA Awards 與學生競賽 | A/B（[Architect Expo 2023](https://architectexpo.com/2023/en/20103/)）；[asa.or.th](https://asa.or.th)【未驗證】 |
-| 營建協會 | 泰國營造業協會（สมาคมอุตสาหกรรมก่อสร้างไทย ในพระบรมราชูปถัมภ์, Thai Contractors Association, TCA）；住宅建造業協會（สมาคมธุรกิจรับสร้างบ้าน, Home Builder Association, HBA）——HBA 每年公布「รับสร้างบ้าน」（委建住宅）市場規模與展會 | 【未驗證】 | D |
-| 家具協會 | 泰國家具工業協會（สมาคมอุตสาหกรรมเครื่องเรือนไทย, TFA）；與 DITP 合辦 TIFF | 【未驗證】 | D |
-| 展會 | **Architect Expo（งานสถาปนิก）**：每年 4–5 月，IMPACT Muang Thong Thani，ASA 主辦、TTF 承辦，東南亞最大建築建材展；**บ้านและสวนแฟร์（Baan Lae Suan Fair）**：Amarin 主辦，年底消費者家居展；**Thailand International Furniture Fair（TIFF）**與 **STYLE Bangkok**（DITP）；**HomePro Expo**；**Bangkok Design Week**（CEA，1–2 月）；BMAM／Thailand Building Fair | Architect Expo 為 A/B（網站存在）；其餘【未驗證】 | 混合 |
-| 媒體 | บ้านและสวน（Baan Lae Suan）、room（Amarin）、art4d、Dsign Something、Wazzadu（建材平台）、ประชาชาติธุรกิจ（Prachachat）與ฐานเศรษฐกิจ（Thansettakij）房產版、Bangkok Post／Nation 房產版 | 【未驗證】 | D |
-| 統計與研究 | REIC（ศูนย์ข้อมูลอสังหาริมทรัพย์，住宅市場季報；A/B 承襲）；SCB EIC、Krungsri Research、Kasikorn Research（KResearch）、ttb analytics（產業報告）；TPSO 建材價格指數；NSO 勞動力調查；BOT 房貸與 LTV；DBD DataWarehouse（企業登記數）；泰國 SEC 上市文件（HomePro、Index、SCGD、Mr. DIY） | REIC／SCB EIC／SET／SEC 為 A/B 承襲；其餘入口【未驗證】 | 混合 |
+| ธอส.（GH Bank）「修繕裝潢貸款」（สินเชื่อซ่อม-แต่ง）＋ Plus | 2025-06-19 推出；前 3 年利率 **1.00%**；既有客戶（已還款 ≥2 年、原貸 ≤500 萬、繳款正常 ≥1 年）；加貸上限 **100,000 泰銖**/戶、3 年期、免增設抵押 | 2025 | https://www.ghbank.co.th/news/detail/public-relations/press-19-06-2025 ；https://www.ghbank.co.th/product-detail/repair-decorate-loan ；https://www.ghbank.co.th/product-detail/repair-decorate-loan-plus |
+| ธอส. 2026 年版 | 2026-04-09 宣布：增建、修繕、裝潢、購置設備「一站式」；利率 1.00% 起、最長 40 年、月付 300 泰銖起；兩方案合計上限 **300,000 泰銖（≈USD 9,230／NT$295,000）**，其中超出之 200,000 泰銖屬 Plus（1.99%、≤5 年、月付 3,600 起） | 2026 | https://www.ghbank.co.th/news/detail/public-relations/press-09-04-2026 ；https://www.bangkokbiznews.com/economics/1228967 |
+| 政策背景 | Thai PBS Policy Watch：ธอส. 與 GSB（政府儲蓄銀行）購屋／修繕／裝潢貸款屬政府刺激不動產措施 | 2025–26 | https://policywatch.thaipbs.or.th/article/government-89 |
+| 稅務誘因 | **未找到**專門針對住宅裝修的所得稅減免（缺口） | — | — |
+
+### 5.4 風格偏好、決策路徑、資訊來源
+- **未找到**針對泰國消費者裝修風格或資訊來源的量化調查（缺口）。供給端說法：曼谷業者作品以當代、極簡、熱帶現代（tropical-modern）為主 https://www.delcoi.com/en/renovations-in-bangkok-thailand/ ；https://condodee.com/bangkok-condo-renovation-guide-2025/ （業者自述，非需求端證據）。
+- 市場研究聚合網站稱「DIY 文化在年輕族群升溫」「40% 屋主將 DIY」，**未揭露方法，不可採信** https://www.kenresearch.com/thailand-home-improvement-market ；https://mobilityforesights.com/product/thailand-home-improvement-market 。
+- 信任問題：見第 3 節棄工案；住宅建商協會視「恢復消費者信心」為 2025 年首要課題 https://www.naewna.com/business/936873 。
+
+---
+
+## 6. 人才與勞動
+
+### 6.1 教育管道與執照人數
+
+| 項目 | 內容 | 來源 | 備註 |
+|---|---|---|---|
+| 學程 | 室內建築學士（สถาปัตยกรรมศาสตรบัณฑิต สาขาสถาปัตยกรรมภายใน）**5 年制**：KMITL（163 學分）、RMUTL、RMUTR、KMUTT；BFA 室內建築：Bangkok University；Silpakorn 裝飾藝術學院為 TIDA 發源地 | https://www.aad.kmitl.ac.th/interior/b-inte/ ；https://reg.rmutl.ac.th/curriculum/detail/25486736255621182 ；https://www.bu.ac.th/th/arch/interior-architecture ；https://tcas.in.th/department/สถาปัตยกรรมภายใน.9081/ | 畢業生人數未找到 |
+| ACT 會員登錄（逐次） | 2025-05-08 理事會：登錄普通會員 61 人、特別會員 1 人（為申請特殊準建築師）；2026-03 理事會文件標題載 108 名普通會員 | https://cdn.act.or.th/5_2568_e24c1604b3.pdf ；https://cdn.act.or.th/3_2569_12_03_2569_6f448d5b05.pdf | 單次登錄數，非總量 |
+| ACT 財務 | 2024 年底總資產 290,626,873.34 泰銖（2026 年年會紀錄） | https://cdn.act.or.th/13_07_2569_2569_e37ac43d3b.pdf | 旁證 ACT 規模 |
+| 執照持有人總數（按分科） | **未找到** 2024–2025 分科統計（缺口） | — | 建議向 ACT 索取 |
+| TIDA 會員數 | **未找到**（缺口） | https://www.tida.or.th/about.html | |
+
+### 6.2 薪資
+
+| 職位 | 月薪（THB） | 換算 | 來源 | 年份／樣本 |
+|---|---|---|---|---|
+| 室內設計師—起薪／1–3 年 | 18,000–25,000／20,000–30,000 | ≈USD 550–920 | https://www.jobbkk.com/jobs/lists/1/หางาน,Interior%20Designer,ทุกจังหวัด,ทั้งหมด.html ；https://th.indeed.com/q-interior-designer-ประสบการณ์-ปี-งาน.html | 2025–26 職缺 |
+| 室內設計師—中位 | 25,000（P25–P75：20,000–33,000） | ≈USD 770 | https://bebee.com/th/salaries/interior-designer | 2026，92 則職缺 |
+| 曼谷室內設計師—總薪中位 | **36,000**（底薪 24,000–42,000；加給 2,000–10,000） | ≈USD 1,108／NT$35,450 | https://www.glassdoor.com/Salaries/bangkok-thailand-interior-designer-salary-SRCH_IL.0,16_IM1119_KO17,34.htm | 2026-01，n=50 |
+| 初級（曼谷） | 21,000–26,000（均 ~22,000） | ≈USD 680 | https://www.glassdoor.sg/Salaries/bangkok-thailand-junior-interior-designer-salary-SRCH_IL.0,16_IM1119_KO17,41.htm | 2025–26 |
+| 資深（曼谷） | 總薪中位 ~80,000（41,000–154,000） | ≈USD 2,460／NT$78,800 | https://www.glassdoor.com/Salaries/bangkok-senior-interior-designer-salary-SRCH_IL.0,7_IC3179725_KO8,32.htm | 樣本數未揭露 |
+| 施工圖／工地檢查型職缺 | 30,000–45,000 | ≈USD 920–1,385 | https://th.jobsdb.com/th/interior-designer-jobs | 2026 |
+| 工地主管（site manager） | **未找到專項數據**（缺口） | — | — | — |
+
+### 6.3 技術工種工資
+
+| 項目 | 數值（THB/日） | 換算 | 年份 | 來源 |
+|---|---|---|---|---|
+| 法定最低工資 | **337–400**（17 級）；400 適用曼谷、北柳、春武里、普吉、羅勇、蘇梅島 | ≈USD 10.4–12.3／NT$332–394 | 2025-01-01 生效（部分來源稱 2025-07-01 另有調整） | https://www.thaipbs.or.th/news/content/347764 ；https://thestandard.co/minimum-wage-rates-thailand-2568/ ；https://www.ezyhr.com/th/blog/detail/ครึ่งปีหลัง-2568-ค่าแรงปรับขึ้น-มีผลบังคับ-1-กรกฎาคม-2568-เป็นต้นไป-เช็กอัตราจ้างใหม่แต่ละจังหวัด |
+| 成本影響 | 開泰研究：2025 年調薪使企業勞動成本平均增加 ≥2% | | 2024-12 | https://www.kasikornresearch.com/th/analysis/k-social-media/Pages/Wage-Salary-CIS3542-FB-2024-12-24.aspx |
+| 技能標準工資—營造木工（ช่างไม้ก่อสร้าง） | L1 445／L2 595／L3 **685** | ≈USD 13.7–21.1 | 第 13 號公告，2024-03-18 生效 | https://www.piyamitrgroup.com/th/blog/construction-labor-cost ；https://www.jorporhnoy.com/6701-wageskill/ |
+| 技能標準工資—第 14 號公告 | 13 職類，最高 **800**（潔淨室空調技工）；會展電工 L2 600 | ≈USD 24.6／NT$788 | 2025-04-09 公告、05-20 內閣知悉、公報後 90 天生效 | https://www.thansettakij.com/economy/627975 ；https://www.bangkokbiznews.com/news/news-update/1181223 |
+| 技能標準工資—全體 | 54 職類／6 大類（2023 統計）；129 職類（iTAX 彙整） | | 2023–25 | https://www.bangkokbiznews.com/health/labour/1090156 ；https://www.itax.in.th/media/ค่าแรงขั้นต่ำ/ |
+| 市場價—電工 | 450–700 | ≈USD 13.8–21.5 | 2026 | https://www.piyamitrgroup.com/th/blog/construction-labor-cost （引營造公會） |
+| 市場價—水電（配管） | 400–600；配管另按 30–300 THB/m 或按點計 | | 2026 | 同上 ；https://www.baanlaesuan.com/101530/home-maintenance/cost-technician/ |
+| 市場價—貼磚（按 m²） | 一般陶瓷地磚 180–250；大尺寸 300–450；浴廚壁磚 350–550；另一來源稱一般 400–450 | ≈USD 5.5–17 /m² | 2025–26 | https://www.triplestone.net/ราคาค่าแรงปูกระเบื้อง-ปี-2568 ；https://www.piyamitrgroup.com/th/blog/construction-labor-cost ；https://nsquare.co/tools/labor-rate-reference |
+| 區域差 | 曼谷較外府高 10–30% | | 2026 | https://www.piyamitrgroup.com/th/blog/construction-labor-cost |
+| 政府工料價目 | 教育部基礎教育委員會（สพฐ.）2025／2026 年度建材與工資價目；主計廳建材中價 2025／2026 | | 2025–26 | https://www.yotathai.com/yotanews/obec2568 ；https://www.yotathai.com/yotanews/designobec-2569 ；https://www.kohinter.com/blog/16729/ราคากลางวัสดุก่อสร้างปี-2569-จากกรมบัญชีกลาง |
+
+### 6.4 移工政策與營造業缺工
+
+| 指標 | 數值 | 年份 | 來源 | 備註 |
+|---|---|---|---|---|
+| 外籍勞工總數 | **3,789,389 人**：緬甸 2,987,988（79%）、柬埔寨 512,184（13.5%）、寮國 289,217（7.6%） | 2025（文章引述） | https://www.amarintv.com/spotlight/economy/517074 | 百分比為本檔計算 |
+| 柬籍勞工—營造業 | 營造為柬籍勞工最多行業：**50,492 人**（同文另處 51,347） | 2025-05 | https://www.amarintv.com/spotlight/economy/517074 | 約柬籍勞工 1/10 |
+| 柬籍勞工存量下降 | 剩約 **49 萬人**；勞動部提 3 項替代方案 | 2025 | https://www.matichon.co.th/local/quality-life/news_5400600 | |
+| 邊境衝突影響 | 媒體稱 2025 年中泰柬衝突後近 100 萬柬籍勞工返鄉；柬方備 1.1 萬職缺接收 | 2025 | https://www.thaipbs.or.th/news/content/353291 ；https://www.thaipbs.or.th/news/content/353593 | 「近 100 萬」為媒體估計 |
+| MOU 展延名單 | 2025 年初雇主申報柬緬勞工需求約 160 萬人（約 240 萬存量中） | 2025-02 | https://www.passport.co.th/cabinet-resolution/4feb2025/ | |
+| 2024-09-24 決議續辦群 | 緬甸 861,851 人、柬埔寨 103,522 人 | 2025-12 | https://www.passport.co.th/cabinet-resolution/2-12-2568-renew-24-9-2567/ | 表格不全 |
+| 內閣決議序列 | 2025-07-08 緬甸寬限 6 個月；08-19 缺工紓困（暫准不合規移工工作、開新引進管道）；11-11 三國籍管理；12-02 三國籍（排除柬埔寨）展延至 **2027-03-31** | 2025 | https://www.passport.co.th/mustknow/mou-myanmar-extension-july2025/ ；https://www.passport.co.th/cabinet-resolution/19-august-2025-labor-shortage/ ；https://labourxlaw.com/?lang=th&page_id=1441 ；https://www.passport.co.th/cabinet-resolution/2-12-2025/ | |
+| 2026 年營造缺工 | 包商稱營造業「逾半有問題」，技術工需時養成、無證者不能進場；泰國營造工業協會 2026-08 向勞動部長陳情；緬甸徵兵加劇流失 | 2026 | https://prachatai.com/journal/2026/01/116146 ；https://www.infoquest.co.th/2026/625642 ；https://prachatai.com/journal/2026/08/118261 | |
+| 斯里蘭卡 MOU | 2026-09 簽署：營造與農業，首批 **≤10,000 人**，按實際需求引進（首批時間各報 2027-01 或「2026 年初」不一） | 2026 | https://thestandard.co/thailand-sri-lanka-labor-mou-2/ ；https://www.matichon.co.th/local/quality-life/news_5888869 ；https://prachatai.com/journal/2026/08/118378 | |
+| 緬甸 MOU 4 年期 | 2026-07 泰緬技術會議原則同意免除期滿 30 天休止期 | 2026 | https://www.infoquest.co.th/2026/625642 | |
+| 勞動部季報 | 2025 Q4 勞動情勢報告（可持續監測） | 2026-05 | https://www.mol.go.th/wp-content/uploads/sites/2/2026/05/รายงานสถานการณ์ฯไตรมาส-4-ปี-68-ฉบับสมบูรณ์.pdf | |
+| 營造業移工占比 | **未找到**營造業勞動力中外籍比例（缺口） | — | — | |
+| 工種老化 | **未找到**量化數據（缺口） | — | — | |
+
+---
+
+## 7. 材料與供應鏈
+
+### 7.1 價格通膨：建材價格指數（CMPI，商務部貿易政策與戰略辦公室 สนค./TPSO）
+
+| 期間 | 指數 | YoY | 驅動 | 來源 |
+|---|---|---|---|---|
+| 2024-04 | 112.2 | −1.1% | 基期高、鋼價跌 | https://www.ryt9.com/s/btei/3514022 |
+| 2024-07 | 113.0 | +0.4% | 政府工程加速 | https://uploads.tpso.go.th/6.2%20CMI%20Report_July_2024.pdf |
+| 2024-11／12 | 112.8／112.4 | +0.4%／— | | https://uploads.tpso.go.th/6.2%20CMI%20Report_Dec_2024.pdf |
+| 2025-01 | 112.3 | +0.3% | 連 8 月上漲 | https://tpso.go.th/news/2502-0000000030 |
+| 2025-02 | 112.1 | +0.1% | | https://tpso.go.th/news/2503-0000000003 |
+| 2025-03 | 112.8 | +0.5% | 政府預算加速 | https://www.moc.go.th/th/gallery/category/detail/id/5/iid/832 |
+| 2025-04 | 113.1 | +0.8% | | https://www.naewna.com/business/881850 |
+| 2025-05 | 113.3 | +0.3% | 連 12 月上漲 | https://tpso.go.th/news/2506-0000000002 |
+| 2025-06 | 113.6 | +0.3% | 基礎建設；鋼品 −3.5% | https://www.tpso.go.th/news/2507-0000000006 |
+| 2025 全年預測 | — | +0.7% | 開泰研究（2025-05） | https://www.kasikornresearch.com/th/analysis/k-social-media/Pages/Info267-Construction-Materials-FB-16-05-25.aspx |
+| 2026-07 | 112.8 | **+5.8%** | 能源、原料、運費 | https://www.kaohoon.com/news/local/853698 ；https://www.khaosod.co.th/economics/news_10358230 |
+| 2026-08 | 113.1 | **+6.1%** | 燃料、銅價、資料中心需求、戰爭 | https://www.thansettakij.com/economy/668601 ；https://moneyandbanking.co.th/2026/269307/ |
+
+> 注意：2026 年指數水準（112.8／113.1）與 2025 年同期（113.6）不相容於 +5.8–6.1% 的年增率，推測 2026 年已換基期；請以 TPSO 原始報告核對。長期展望見 Krungsri 研究「建材業 2024–2026」 https://www.krungsri.com/th/research/industry/industry-outlook/construction-construction-materials/construction-materials/io/2024 。
+
+### 7.2 主要本土品牌與通路
+
+| 公司／品牌 | 類別 | 最新數據 | 來源 |
+|---|---|---|---|
+| SCG（Siam Cement Group, SET: SCC） | 建材集團（水泥、建材、SCG Decor） | 2025 公司簡介 | https://static.scg.com/uploads/files/pdf-file-1740969940.pdf ；https://www.set.or.th/en/market/product/stock/quote/SCC/factsheet |
+| SCG Ceramics（COTTO）／SCG Decor | 磁磚、衛浴：COTTO、CAMPANA、SOSUCO；自有礦源＋全國經銷網；X-PORCELAIN 2025 出口倍增；COTTO 上市狀態疑已變動（整併入 SCG Decor） | 舊營收 131.6 億泰銖（≤2022） | https://www.mordorintelligence.com/industry-reports/thailand-ceramic-tiles-market ；https://www.marketscreener.com/quote/stock/SCG-CERAMICS-105526032/ |
+| Modernform Group（SET: MODERN） | 系統家具、廚具（Modernform Kitchen）、進口五金與裝飾材 | **2025 營收約 21.9 億泰銖（≈USD 6,740 萬／NT$21.6 億），年減 12.56%** | https://stockanalysis.com/quote/bkk/MODERN/revenue/ ；https://www.set.or.th/en/market/product/stock/quote/MODERN/factsheet |
+| Index Living Mall（SET: ILM） | 家具家飾零售（通路） | **2025 營收 100.01 億泰銖（≈USD 3.08 億／NT$98.5 億）vs 98.90 億**；35 家分店 | https://www.marketscreener.com/news/index-living-mall-public-company-limited-reports-earnings-results-for-the-full-year-ended-december-3-ce7e5cdcd88bf321 ；https://investor.indexlivingmall.com/en/updates/press-releases/426/ |
+| Starmark | 廚具、衛浴（私人公司） | 2018 年營收約 12.8 億泰銖（≈USD 3,940 萬）；ZoomInfo 估 USD 45.3M（未驗證） | https://en.wikipedia.org/wiki/Starmark ；https://www.zoominfo.com/c/starmark-manufacturing-co-ltd/542287163 |
+| Thai Watsadu（Central Retail） | 建材家居大賣場 | 2024 年營收縮減 | https://www.euromonitor.com/home-improvement-in-thailand/report |
+| TOA、Thai Ceramic、燈具／木地板品牌 | — | **本輪未檢索**（缺口） | — |
+
+### 7.3 市場規模（研究機構估計，定義各異）
+
+| 機構 | 定義 | 數值 | 來源 |
+|---|---|---|---|
+| Mordor Intelligence | 泰國陶瓷磁磚市場 | USD 14.2 億（2025）→ 17.1 億（2030），CAGR 3.82%；「中度分散、無主導者」 | https://www.mordorintelligence.com/industry-reports/thailand-ceramic-tiles-market |
+| Ken Research | 家具與模組化室內 | USD 17 億 | https://www.kenresearch.com/thailand-furniture-and-modular-interiors-market |
+| Research and Markets | 家具與智慧室內 | USD 100 億 | https://www.researchandmarkets.com/reports/6210101/thailand-furniture-smart-interiors-market |
+
+> 兩者差距逾 5 倍，定義不同，不可互用。
+
+### 7.4 標準、關稅、物流
+- 泰國工業標準（มอก., TIS）與進口關稅、物流成本**本輪未檢索**（缺口）；建議查 TISI（https://www.tisi.go.th）與泰國海關。
+- 政府採購參考價：主計廳建材中價（2025、2026）https://www.kohinter.com/blog/13627/ราคากลางวัสดุก่อสร้างปี-2568-จากกรมบัญชีกลาง ；5 個官方建材價格查詢來源整理 https://www.sjbuilding-con.com/blog/12766/government-construction-material-prices 。
+
+---
+
+## 8. 產業組織與監測來源
+
+### 8.1 協會與機構
+
+| 組織 | 性質 | 要點 | 來源 |
+|---|---|---|---|
+| 泰國建築師委員會（สภาสถาปนิก, ACT） | 法定監管 | 執照、懲戒、會員登錄、年會紀錄與理事會決議公開 | https://act.or.th/ ；https://act.or.th/th/home/post.php?type=1&p=290 |
+| 暹羅建築師協會（สมาคมสถาปนิกสยามฯ, ASA） | 專業協會 | Architect Expo 主辦；法規資料庫（建築法、建築師法） | https://asa.or.th/ ；https://asa.or.th/laws-and-regulations/aa/ |
+| **泰國室內設計師協會（สมาคมมัณฑนากรแห่งประเทศไทย, TIDA）** | 室內專業協會 | 1985 年成立（首屆理事會 1985-09-08，首任會長 Manas Rakjai）；前身「มัณฑศิลป์สมาคมแห่งประเทศไทย」；APSDA、AIDIA 成員；TIDA Awards；2026 年與 Modernform 合辦「TIDA Society 2026」 | https://www.tida.or.th/about.html ；https://www.thaipr.net/life/3689541 ；https://room.baanlaesuan.com/210162/people/talk-tida |
+| TALA（景觀）、TUDA（都市設計） | 專業協會 | Architect Expo 協會專區 | https://www.thaipr.net/en/general_en/3704755 |
+| 泰國住宅建商協會（สมาคมไทยรับสร้างบ้าน） | 業者公會 | 2025 年提出恢復消費者信心方案 | https://www.naewna.com/business/936873 |
+| 泰國營造工業協會（สมาคมอุตสาหกรรมก่อสร้างไทยฯ） | 業者公會 | 2026-08 與勞動部長協商移工 | https://www.infoquest.co.th/2026/625642 |
+| 消費者保護委員會辦公室（สคบ., OCPB） | 政府 | 投訴受理、調解、公開案例 | https://www.ocpb.go.th/ |
+| 消費者組織委員會（สภาองค์กรของผู้บริโภค, TCC） | 法定消費者組織 | 棄工法律指南 | https://www.tcc.or.th/documents/contractor-left-project/ |
+| 不動產資訊中心（REIC） | 政府智庫（ธอส. 旗下） | 季度「標準住宅造價指數」、政策新聞 | https://www.reic.or.th/Activities/PressRelease/231 |
+
+### 8.2 展會
+
+| 展會 | 資料 | 來源 |
+|---|---|---|
+| **Architect'26（งานสถาปนิก'69）** | 第 38 屆，2026-04-28～05-03，IMPACT Muang Thong Thani；ASA 主辦、TTF International 執行；參展 913（確認）～1,000+ 家、約 900 品牌、7 萬 m²；約 10% 外國參展商（中、日、韓為主）；預估 >325,000 人次（歷年宣稱 375,000）；>70% 為決策者、95% 國內；ASA 館 120+ 會員事務所、40+ 院校；TIDA 設展區 | https://www.thestorythailand.com/architect-26/ ；https://www.thaipr.net/en/business_en/3710112 ；https://www.thaipr.net/en/general_en/3704755 ；https://www.thailandnow.in.th/event/architect-expo/ ；https://www.asaexpo.org/en/post/exhibition-of-the-association-of-interior-designers-of-thailand-tida |
+| Architect'25（2025） | 主題「ทบทวน ทิศทาง: Past Present Perfect」，預估 >325,000 人次 | https://mgronline.com/onlinesection/detail/9680000028488 ；https://www.thaipost.net/economy-news/781129/ |
+| Bangkok Design Week | 外商（Nikken Sekkei）2021、2023 參展 | https://nikken.co.th/ |
+
+### 8.3 媒體與定期統計
+
+| 來源 | 內容 | URL |
+|---|---|---|
+| TPSO／商務部 | 月度建材價格指數（CMPI） | https://www.tpso.go.th/ ；https://www.price.moc.go.th/price/fileuploader/file_csi/Csi.pdf |
+| REIC | 季度標準住宅造價指數 | https://www.reic.or.th/Activities/PressRelease/221 |
+| 勞動部 | 季度勞動情勢報告；技能標準工資公告 | https://www.mol.go.th/ |
+| 政府公報（ราชกิจจานุเบกษา） | 法規原文 | https://www.ratchakitcha.soc.go.th/ |
+| Yotathai | 建築法規、政府工料價目彙整 | https://www.yotathai.com/ |
+| บ้านและสวน（Baan Lae Suan）／room | 住宅與室內設計媒體；年度建材價格、工資專題 | https://www.baanlaesuan.com/353051/home-maintenance/material-cost-2/ ；https://room.baanlaesuan.com/ |
+| thinkofliving、terrabkk、dsignsomething | 房產與設計媒體 | https://thinkofliving.com/ ；https://www.terrabkk.com/ ；https://dsignsomething.com/ |
+| 銀行研究 | 開泰研究（KResearch）、Krungsri Research、SCB EIC | https://www.kasikornresearch.com/ ；https://www.krungsri.com/th/research ；https://www.nationthailand.com/business/economy/40070934 |
+| Euromonitor | 《Home Improvement in Thailand》（年度） | https://www.euromonitor.com/home-improvement-in-thailand/report |
+| 移工法規追蹤 | passport.co.th（內閣決議整理）、LabourXLaw | https://www.passport.co.th/category/cabinet-resolution/ ；https://labourxlaw.com/?lang=th&page_id=1441 |
 
 ---
 
@@ -222,141 +357,222 @@
 
 | 指標 | 數值 | 年份 | 來源 | 定義／備註 | 信心 |
 |---|---|---|---|---|---|
-| 居家修繕產業規模 | THB 4,795 億 ≈ USD 145 億 ≈ NT$4,580 億（2018：THB 3,862 億；CAGR 4.4%） | 2023 | [泰國 SEC Mr. DIY 上市文件](https://market.sec.or.th/public/ipos/IPOSGetFile.aspx?TransID=646423&TransFileSeq=87) | 獨立顧問 HI 口徑（含建材零售），高估純翻修；承襲 T1 | 中 |
-| 二手房占住宅交易 | 60% | 2025-10 | [Matichon](https://www.matichon.co.th/economy/news_5437496) | Modern Property Consultant 說法；承襲 T1 | 中 |
-| 屋齡 ≥10 年住宅 | >2,340 萬戶 | 約 2024 | [Bangkokbiznews](https://www.bangkokbiznews.com/property/1124831) | 翻修潛在存量；承襲 T1 | 中 |
-| 房市景氣 | 2025 年 10 年最差；2026 持平 | 2025–26 | [Nation](https://www.nationthailand.com/business/property/40056158)；[SCB EIC](https://www.scbeic.com/en/detail/product/443) | 承襲 T1 | 高 |
-| HomePro 總收入 | THB 726.4 億 ≈ USD 22.0 億 ≈ NT$693 億；淨利率 ≈9% | 2024 | [SET HMPRO](https://lssmedia.setlink.set.or.th/2025/3M/HMPRO-3M68-ListedCompanySnapshot-EN.html) | Home Service 不分項；承襲 T2（T2 以 USD/TWD 32 換算為 NT$682 億） | 中高 |
-| Index Living Mall 營收／毛利率 | THB 98.9 億 ≈ USD 3.0 億 ≈ NT$94 億；毛利率 45.9%；淨利率 7.5% | 2024 | [SET ILM](https://lssmedia.setlink.set.or.th/2024/YE/ILM-YE67-ListedCompanySnapshot-EN.html) | 34 店；承襲 T2 | 高 |
-| FBA 建設例外門檻 | 外資最低資本 ≥THB 5 億 ≈ USD 15.2M ≈ NT$4.77 億（基礎建設） | 現行 | [UNCTAD](https://investmentpolicy.unctad.org/investment-laws/laws/40/thailand-foreign-business-act) | 承襲 T3（T3 換算 USD 14.7M） | 高 |
-| FBL 法定審查期 | 60 日 | 現行 | [thailaws.org](https://www.thailaws.org/foreign-business-act/) | 承襲 T3 | 高 |
-| 室內設計顧問 FBA 歸類 | 附表三第 (21) 項其他服務業；外資 ≥50% 須 FBL | 現行 | [BOI OSOS FAQ](https://osos.boi.go.th/One-Stop/faq-group/24/To-open-a-branch-office-to-do-interior-design-consulting-in-Thailand/)；[lexbangkok 2026](https://lexbangkok.com/foreign-business-act-thailand-market-entry-guide-2026/) | 承襲 T3 | 高 |
-| ACT 成立日 | 2000-02-07 | 2000 | [Architect Expo 2023](https://architectexpo.com/2023/en/20103/) | 承襲 T3 | 高 |
-| ACT 修法支援 ASEAN Architect | B.E. 2566（2023） | 2023 | [ResearchGate 2025](https://www.researchgate.net/publication/397335482_An_Assessment_of_Legal_Preparedness_for_the_Liberalization_of_Architectural_Services_within_ASEAN) | 承襲 T3 | 中 |
-| OCPB 裝修業收據公告 | 2023-02-13 公告，90 日後生效 | 2023 | [Tilleke 2023](https://www.tilleke.com/insights/residential-building-renovation-business-in-thailand-to-be-controlled/4/) | 承襲 T3 | 高 |
-| 裝修詐騙個案 | 60 餘名受害人、約 THB 4,500 萬 ≈ USD 136 萬 ≈ NT$4,300 萬 | 約 2025 | [Pattaya Mail](https://www.pattayamail.com/thailandnews/thai-consumer-protection-board-tightens-action-in-home-construction-fraud-cases-548874) | 個案非統計；承襲 T3 | 中 |
-| OCPB 熱線 | 1166 | 現行 | [Pattaya Mail](https://www.pattayamail.com/thailandnews/thai-consumer-protection-board-tightens-action-in-home-construction-fraud-cases-548874) | 承襲 T3 | 高 |
-| T3 進入可行性評分 | 設計公司 2／承包商 1（1–5） | 2026 | T3 分析師判斷 | 非數據 | — |
-| FBA 最低資本 | THB 200 萬（一般）／300 萬（附表二、三）≈ USD 60,606／90,909 ≈ NT$191 萬／286 萬 | 現行 | [DBD 入口](https://www.dbd.go.th)【未驗證】 | D 級記憶 | 低 |
-| 工作證比例 | 1 工作證：4 泰籍員工＋THB 200 萬實收資本 | 現行 | [DOE 入口](https://www.doe.go.th)【未驗證】 | D 級記憶，DOE 實務 | 低 |
-| 無照執業罰則 | 最高 3 年監禁或 THB 6 萬（≈USD 1,818／NT$57,300）罰金 | 現行 | [Krisdika 入口](https://www.krisdika.go.th)【未驗證】 | D 級記憶（建築師法 §45／§71） | 低 |
-| 民商法典瑕疵擔保 | 1 年；建築物／土地上工作物 5 年（§600） | 現行 | [Krisdika 入口](https://www.krisdika.go.th)【未驗證】 | D 級記憶 | 低 |
-| 最低工資 | THB 337–400／日 ≈ USD 10.2–12.1 ≈ NT$322–382；曼谷 372（2025-01）→ 400（2025-07，範圍待核） | 2025 | [MOL 入口](https://www.mol.go.th)【未驗證】 | D 級記憶 | 低 |
-| 設計師月薪區間 | 初階 THB 18,000–25,000 ≈ USD 545–758 ≈ NT$17,200–23,900 | 2025 | 無 URL | D 級記憶，求職網區間 | 低 |
-| 技術工日薪 | THB 500–1,000 ≈ USD 15–30 ≈ NT$478–955 | 2025 | 無 URL | D 級記憶 | 低 |
-| 2025 房市措施 | 過戶費 0.01%（≤THB 700 萬 ≈ USD 21.2 萬／NT$668 萬）至 2026-06；LTV 100% 至 2026-06 | 2025–26 | [BOT 入口](https://www.bot.or.th)【未驗證】 | D 級記憶 | 低 |
-| Easy E-Receipt 2.0 扣除額 | THB 50,000 ≈ USD 1,515 ≈ NT$47,750 | 2025 | [RD 入口](https://www.rd.go.th)【未驗證】 | D 級記憶 | 低 |
+| 室內設計須持照門檻 | 公共建築內部 ≥500 m² | 2006 部令（現行） | https://th.wikipedia.org/wiki/สถาปัตยกรรมภายใน | 二手來源；需核對部令原文 | 中 |
+| 主建築免管制門檻 | 私人住宅 ≤150 m²、農業建築 ≤400 m² | 2006 | https://www.yotathai.com/yotanews/law-architect-2549 | | 中高 |
+| 準建築師範圍上限 | ≤15 m 高、≤1,000 m² | 2021 | https://download.asa.or.th/03media/04law/aa/cr64-02.pdf | | 中 |
+| 無照執業罰則 | ≤3 年徒刑、≤60,000 THB（≈USD 1,850／NT$59,000） | 2000 法 | https://www.trueplookpanya.com/knowledge/content/94564-edu- | | 中高 |
+| 外籍建築師個人執照 | 0 張（歷來） | ~2016 | https://www.bangkokpost.com/thailand/general/1078432/labour-curbs-split-nations-architects | ACT 主席陳述 | 中 |
+| FBL 最低資本 | 3,000,000 THB（≈USD 92,300／NT$295 萬） | 現行 | https://lexbangkok.com/foreign-business-act-thailand-market-entry-guide-2026/ | FBA 第三類 | 高 |
+| FBL 審查期限 | 60 天 | 法定 | https://image.mfa.go.th/mfa/0/FdDtKZuFye/migrate_directory/business-20150617-180705-862850.pdf | 2014 指南 | 中 |
+| 工作證門檻 | 4 泰籍員工＋2,000,000 THB（≈USD 61,500／NT$197 萬）/人 | 2025 | https://belaws.com/thailand/work-permit-requirements/ | 移民局 12/2568 | 中高 |
+| OCPB 不動產投訴 | 3,131 件 | 2023 | https://www.reic.or.th/News/RealEstate/468767 | 全不動產類 | 中高 |
+| 棄工大案受害者／損失 | 163 人／>300,000,000 THB（≈USD 923 萬／NT$2.95 億） | 2025-09 | https://www.naewna.com/business/936873 | 協會統計 | 中 |
+| 保固慣例 | 1 年（built-in／系統 2 年） | 2025 | https://firm.co.th/work-insurance/ | 市場慣例 | 中高 |
+| 保留款 | 5–10%/期 | 2025 | https://wisawa.co.th/ประกันผลงานก่อสร้าง/ | | 中高 |
+| 公寓翻修單價 | 4,000–22,000 THB/m²（≈USD 123–677） | 2025–26 | https://99interior.co.th/blog/condo-renovation-budget-guide | 業者報價 | 中 |
+| 設計費 | 300–800 THB/m² | 2025 | https://idecdesign.com/blog-design-vs-decor-fees-combined-or-separate/ | 業者 | 中 |
+| GH Bank 裝修貸 | 1.00% 起；合計上限 300,000 THB（≈USD 9,230） | 2026 | https://www.ghbank.co.th/news/detail/public-relations/press-09-04-2026 | 既有客戶條件 | 高 |
+| 設計師起薪 | 18,000–25,000 THB/月（≈USD 550–770） | 2025–26 | https://bebee.com/th/salaries/interior-designer | 職缺彙整 | 中 |
+| 曼谷設計師中位總薪 | 36,000 THB/月（≈USD 1,108） | 2026-01 | https://www.glassdoor.com/Salaries/bangkok-thailand-interior-designer-salary-SRCH_IL.0,16_IM1119_KO17,34.htm | n=50 | 中 |
+| 最低工資 | 337–400 THB/日（≈USD 10.4–12.3） | 2025 | https://www.thaipbs.or.th/news/content/347764 | 曼谷 400 | 高 |
+| 木工技能工資 L3 | 685 THB/日（≈USD 21.1） | 2024 | https://www.piyamitrgroup.com/th/blog/construction-labor-cost | 第 13 號公告 | 中 |
+| 技能工資最高 | 800 THB/日（≈USD 24.6） | 2025 | https://www.thansettakij.com/economy/627975 | 第 14 號公告 | 高 |
+| 電工市場日薪 | 450–700 THB | 2026 | https://www.piyamitrgroup.com/th/blog/construction-labor-cost | | 中 |
+| 貼磚工資 | 180–550 THB/m² | 2025–26 | https://www.triplestone.net/ราคาค่าแรงปูกระเบื้อง-ปี-2568 | 依磚種 | 中 |
+| 外籍勞工總數 | 3,789,389（緬甸 79%） | 2025 | https://www.amarintv.com/spotlight/economy/517074 | | 中高 |
+| 柬籍營造工 | 50,492 | 2025-05 | https://www.amarintv.com/spotlight/economy/517074 | | 中高 |
+| 斯里蘭卡首批移工 | ≤10,000 | 2026-09 | https://thestandard.co/thailand-sri-lanka-labor-mou-2/ | | 高 |
+| CMPI 2025-06 | 113.6，+0.3% YoY | 2025 | https://www.tpso.go.th/news/2507-0000000006 | | 高 |
+| CMPI 2026-08 | +6.1% YoY | 2026 | https://www.thansettakij.com/economy/668601 | 基期疑變更 | 中高 |
+| Modernform 營收 | 2.19 億×10 THB（21.9 億；≈USD 6,740 萬），−12.56% | 2025 | https://stockanalysis.com/quote/bkk/MODERN/revenue/ | | 高 |
+| Index Living Mall 營收 | 100.01 億 THB（≈USD 3.08 億） | 2025 | https://www.marketscreener.com/news/index-living-mall-public-company-limited-reports-earnings-results-for-the-full-year-ended-december-3-ce7e5cdcd88bf321 | 35 店 | 高 |
+| 陶瓷磁磚市場 | USD 14.2 億（≈THB 462 億） | 2025 | https://www.mordorintelligence.com/industry-reports/thailand-ceramic-tiles-market | 研究機構估計 | 低 |
+| Architect'26 | ~1,000 家參展、7 萬 m²、預估 325,000 人次 | 2026 | https://www.thestorythailand.com/architect-26/ | 預估值 | 中 |
+| Nikken Sekkei Thailand | 2018 設立、34 人 | 2022–25 | https://nikken.co.th/ | | 高 |
 
 ---
 
 ## 10. 對台灣業者的啟示
 
-1. **泰國是「設計受管制、施工不受管制」的倒置市場**：與台灣（業者登記制）相反，泰國住宅裝修施工端沒有執照門檻，但「室內建築」設計在建築物規模門檻以上須 ACT 持照人簽證。對台灣業者而言，**施工與工班管理能力可以直接輸出，設計簽證必須借泰籍持照者**；合資夥伴的選擇應優先找「有 ACT 室內建築分支持照建築師的事務所」而非純施工承包商。
-2. **外資結構要一開始就設計成合規的 51/49**：FBA 附表三同時涵蓋設計顧問與施工，FBL 審批不確定且 60 日起跳；人頭持股被 DBD 稽查。可行結構是泰方 51%（真實出資）＋台方 49%＋股東協議（董事席次、特別股、技術授權費）；或以 BOI 促進類別（須先確認室內設計是否符合）取得 Foreign Business Certificate。**在未確認 BOI 類別前，不要假設可 100% 持有。**
-3. **消費者保護真空是品牌機會**：泰國只有 2023 年「收據載明事項」公告，沒有訂金上限、履約保證、法定保固或裝修瑕疵保險；「ผู้รับเหมาทิ้งงาน」是消費者最大的恐懼。台灣業者若把台灣的定型化契約、分期付款、1 年保固（甚至第三方履約保證）制度化並以中英泰三語呈現，可在曼谷中高端市場形成明確差異；HomePro 的 Home Service 已證明「可信賴通路」有需求但未分項揭露獲利。
-4. **需求結構對台灣經驗友善但景氣正差**：二手房占六成、2,340 萬戶 ≥10 年屋齡、公寓投資客裝修出租，都與台灣「中古屋翻修為主」的經驗相近；但 2025 年是泰國房市 10 年最差、2026 僅持平，進入時點宜以「翻修需求不受新屋滯銷影響」為論述，並避開新建案配套裝修。
-5. **供應鏈切入可能比執業切入更快**：泰國本地磁磚、衛浴、塗料、板材強勢（SCG Decor、Dynasty、TOA），但系統櫃五金、智能家居、精品燈具依賴進口；台灣產品因無 FTA 承受 MFN 關稅劣勢，須以設計整合與服務（丈量、安裝、售後）而非價格競爭；零售／貿易受 FBA 另一套規則（零售最低資本門檻）管制，須另行研究。
-6. **人力策略必須以泰籍與 MOU 移工為主體**：外籍人員受 4:1 比例與 200 萬泰銖資本限制，台籍設計師與工地主任只能少量派駐；泰國工班結構（緬甸移工為主、泰籍師傅高齡化）與台灣相似，台灣的工班訓練與標準化 SOP 是可輸出的管理資產，但薪資與缺工數字本輪完全缺乏，須先補齊再估成本。
+1. **以「室內設計顧問公司＋泰籍持照合夥」雙軌進入，而非直接做承攬**：室內設計顧問屬 FBA 第三類「其他服務業」（可申請 FBL，300 萬泰銖資本），但「建築、工程、營造」各自需獨立許可，且公司在 ACT 註冊須有泰籍持照建築師董事；台籍設計師拿不到泰國個人執照（泰文考試、歷來零核發），公共案 ≥500 m² 必須由泰籍室內建築師簽證。務實結構：台方控股設計公司（FBL）＋泰籍 ACT 持照合夥人負責簽證與法人執照＋施工外包給泰國營造商。
+2. **鎖定「私人住宅／公寓翻修」與「商業空間 <500 m²」的無執照門檻區間**：法規只對公共建築 ≥500 m² 強制執照，住宅與小型商業空間是外籍設計品牌最容易合法切入的區塊；但公寓案一律受管委會規約約束，需建立「管委會申請—工班登記—施工時段」SOP（台灣有同類經驗可移植）。
+3. **把台灣的履約保證與保固制度當作差異化賣點**：泰國沒有法定履約保證、託管或裝修保險，2025 年棄工大案（163 戶、>3 億泰銖）使「信任」成為首要購買因素；台灣業者可導入分期託管、第三方驗收、2 年以上保固（高於市場 1 年慣例）與明確違約金條款，直接對應住宅建商協會呼籲的「市場監管缺口」。
+4. **人力策略：台籍主管只做「設計總監／專案管理」，避開監造職稱**：建築設計、施工管理、監造屬外國人禁止職業；工作證每人需 4 泰籍員工＋200 萬泰銖資本。建議台籍人員登記為設計顧問或管理職，現場監造由泰籍工程師／建築師擔任；同時注意營造工班高度依賴緬甸、柬埔寨移工，2025–2026 年邊境衝突與緬甸徵兵造成工班斷層，排程須預留緩衝並與有合法移工配額的承包商合作。
+5. **成本模型需納入 2026 年建材通膨與曼谷工資溢價**：建材指數 2026 年 7–8 月年增 5.8–6.1%（能源、銅、資料中心需求），曼谷工資較外府高 10–30%，最低工資 400 泰銖/日、技能工最高 800；台灣系統櫃／衛浴設備進口需評估關稅與 TIS 標準（本輪未查，列為下一步）。
+6. **監測與社群：加入 TIDA、參加 Architect Expo（每年 4–5 月）、追蹤 TPSO 月指數與 OCPB 案例**：TIDA 是室內專業的核心社群（與 Modernform 等品牌合辦活動），Architect Expo 約 10% 外國參展商以中日韓為主、台灣品牌能見度低，是建立通路與合夥人的最有效入口。
 
 ---
 
-## 11. 資料缺口與下一輪搜尋計畫
+## 11. 資料缺口
 
-### 11.1 缺口（依重要性）
-
-1. **部令 B.E. 2549 室內建築分支的受管制面積／建築類型門檻原文**；私人住宅純裝飾設計是否受管制的 ACT 官方解釋（T3 第 8 項缺口，本輪仍未解）。
-2. **ACT 室內建築分支持照人數**、ACT 認證學程名單與年度畢業人數；TIDA 會員數。
-3. **《建築師法》罰則條文與金額原文**（§45／§71）；外國人取得 ACT 執照的正式途徑（是否有「外籍特許執照」）。
-4. **《建築物管制法》改建許可實務**：第 11 號部令「不視為改建」項目原文（5 m² 門檻）；曼谷區公所 อ.1 申請文件與時程；第 39 條之二通報制適用範圍；住宅室內裝修材料防火規定。
-5. **公寓法人裝修規範樣本**（保證金、時段、罰款）與國家住宅局規定。
-6. **OCPB 2023 公告原文**（收據應載事項清單）；OCPB 年度投訴統計中「住宅建造／裝修」分項（2567、2568 年度）；民商法典 §600／§601 原文。
-7. **FBA 附表三室內設計與建築服務的正式條號**；FBL 近年核准率；BOI 對設計服務的促進類別；DBD 人頭稽查案例。
-8. **勞動部外國人禁止職業公告（B.E. 2563）**中建築設計、監造、木工、泥作的分類原文；DOE 4:1 比例的法源或公告。
-9. **台泰租稅協定**生效年份與服務費扣繳稅率。
-10. **消費者行為調查**：預算分級、決策旅程、風格偏好（Baan Lae Suan、DDproperty、SCB EIC、KResearch 消費者調查）；裝修貸款產品與利率（GHB、SCB、KBank 2568）。
-11. **人才與勞動數字**：設計師與工地主任薪資（JobsDB／Adecco 2025 薪資指南）、技術工日薪（2568）、營建業就業人數與移工比例（NSO、DOE）、缺工調查（TCA、HBA）。
-12. **材料**：TPSO 建材價格指數 2022–2025 各年變動；中國磁磚反傾銷稅年份稅率；SCG Decor／TOA／Dynasty 年報市占；台灣建材輸泰關稅。
-13. **外國業者案例**：Nomura、Tanseisha 泰國子公司設立年份與營收；Nitori 泰國店數；是否有台灣、韓國、中國室內設計／定製家具業者進入泰國的案例與結果。
-14. **2023–2026 法規變化**：建築物管制法、建築師法、FBA 是否有新修正；2026 年最低工資。
-
-### 11.2 可直接執行的 20 條搜尋（泰英雙語，本輪原規劃）
-
-| # | 問題 | 查詢 |
-|---|---|---|
-| 1 | Q1 | สภาสถาปนิก สถาปัตยกรรมภายใน วิชาชีพควบคุม กฎกระทรวง พื้นที่ ใบอนุญาต |
-| 2 | Q1 | Thailand Architect Act B.E. 2543 interior architecture controlled profession foreign architect licence ASEAN MRA |
-| 3 | Q1 | ดัดแปลงอาคาร ขออนุญาต อ.1 ตกแต่งภายใน กฎกระทรวง ฉบับที่ 11 ไม่ถือเป็นการดัดแปลง |
-| 4 | Q1 | นิติบุคคลอาคารชุด ระเบียบ ตกแต่งห้อง เงินประกัน ผู้รับเหมา |
-| 5 | Q2 | สคบ. ร้องเรียน ผู้รับเหมา ทิ้งงาน ตกแต่งภายใน 2568 สถิติ |
-| 6 | Q2 | ประกาศคณะกรรมการว่าด้วยสัญญา ธุรกิจ ซ่อมแซม ต่อเติม อาคาร หลักฐานการรับเงิน 2566 |
-| 7 | Q2 | สัญญา รับเหมา ตกแต่งภายใน มาตรฐาน รับประกัน 1 ปี มาตรา 600 |
-| 8 | Q3 | Foreign Business Act List 3 interior design services foreign business licence Thailand 49% |
-| 9 | Q3 | ประกาศกระทรวงแรงงาน งานที่ห้ามคนต่างด้าวทำ 2563 สถาปัตยกรรม ช่างไม้ |
-| 10 | Q3 | work permit Thailand ratio 4 Thai employees 2 million capital interior designer |
-| 11 | Q3 | Nomura Tanseisha Thailand subsidiary interior design Japanese firm Bangkok |
-| 12 | Q4 | Thailand home renovation consumer survey 2025 budget style preference |
-| 13 | Q4 | สินเชื่อ ตกแต่ง ต่อเติม บ้าน ธอส. 2568 ดอกเบี้ย |
-| 14 | Q5 | เงินเดือน นักออกแบบตกแต่งภายใน 2568 มัณฑนากร JobsDB |
-| 15 | Q5 | ค่าแรง ช่างไม้ ช่างปูกระเบื้อง ช่างไฟ 2568 ต่อวัน กรุงเทพ |
-| 16 | Q5 | ขาดแคลน แรงงาน ก่อสร้าง 2568 ต่างด้าว เมียนมา สัดส่วน |
-| 17 | Q6 | ดัชนีราคาวัสดุก่อสร้าง 2568 กระทรวงพาณิชย์ ทั้งปี เปลี่ยนแปลง |
-| 18 | Q6 | SCG Decor COTTO Dynasty Ceramic market share tile Thailand 2025 anti-dumping China |
-| 19 | Q7 | Architect Expo 2026 Thailand TIDA สมาคมมัณฑนากรแห่งประเทศไทย |
-| 20 | Q7 | Home Builder Association Thailand รับสร้างบ้าน ตลาด 2568 มูลค่า |
+1. **2006 年部令原文**：「公共建築 ≥500 m²」門檻來自二手來源；是否涵蓋公寓共用部分、如何計算面積、是否經修正，均需讀政府公報原文。
+2. **第 11 號部令（2528）免許可門檻**（10% 荷重、5 m² 面積等）未讀原文。
+3. **ACT 執照持有人總數（按分科、按層級）**：僅得逐次理事會登錄人數（61 人、108 人），無 2024–2025 總量。
+4. **室內建築／裝飾藝術畢業生年度人數**與 TIDA 會員數：未找到。
+5. **OCPB 2024、2025 年度投訴統計**（尤其裝修／承攬分類）：僅有 2023 年不動產類 3,131 件。
+6. **訂金比例、違約金慣例、履約保證／託管／保險**：無業界或法規資料。
+7. **消費者行為分群**（首購／換屋／高齡／出租）、**風格偏好、資訊來源、決策路徑**：無泰國專項調查；僅供給端描述。
+8. **裝修稅務誘因**：未找到。
+9. **工地主管薪資**、**工種老化與短缺的量化數據**、**營造業外籍勞工占比**：未找到。
+10. **材料：進口關稅、TIS 標準、物流成本、TOA／Thai Ceramic／燈具／木地板品牌數據**：未檢索。
+11. **SCG Ceramics／SCG Decor 2025 年營收與市占**：未找到可靠數據；磁磚市場規模僅研究機構估計。
+12. **CMPI 基期疑似變更**（2025 vs 2026 水準不相容）：需向 TPSO 核對。
+13. **外國業者案例**：僅日本 Nikken Sekkei 與德國 Ole Scheeren；韓國、台灣、中國、新加坡室內設計／裝修業者在泰經驗未找到。
+14. **Architect'26 實際入場人數**（僅預估）與 TIDA 參展數據。
+15. **最低工資生效日**（2025-01-01 vs 2025-07-01）來源不一，需核對公報。
 
 ---
 
 ## 12. 來源清單
 
-### 12.1 本檔實際引用且已附 URL（承襲自 T1／T2／T3；均為搜尋摘要層級，驗證階段須重開）
-
 | # | 標題 | 機構 | 年份 | URL |
 |---|---|---|---|---|
-| 1 | Architect Expo 2023: ASA/TIDA/TALA/TUDA and ACT | Architect Expo | 2023 | https://architectexpo.com/2023/en/20103/ |
-| 2 | Labour curbs split nation's architects | Bangkok Post | 2016 | https://www.bangkokpost.com/thailand/general/1078432/labour-curbs-split-nations-architects |
-| 3 | An Assessment of Legal Preparedness for the Liberalization of Architectural Services within ASEAN | ResearchGate | 2025 | https://www.researchgate.net/publication/397335482_An_Assessment_of_Legal_Preparedness_for_the_Liberalization_of_Architectural_Services_within_ASEAN |
-| 4 | Architects and civil engineers: why Thai professional registration gates your work | issacompass | n.d. | https://www.issacompass.com/insights/architects-and-civil-engineers-why-thai-professional-registration-gates-your-wor |
-| 5 | Residential Building Renovation Business in Thailand to Be Controlled | Tilleke & Gibbins | 2023 | https://www.tilleke.com/insights/residential-building-renovation-business-in-thailand-to-be-controlled/4/ |
-| 6 | Engineering, Procurement, and Construction (Thailand) | Tilleke & Gibbins | n.d. | https://www.tilleke.com/print-insight/?post_id=37170&print=1 |
-| 7 | Thailand – Foreign Business Act | UNCTAD Investment Policy Hub | n.d. | https://investmentpolicy.unctad.org/investment-laws/laws/40/thailand-foreign-business-act |
-| 8 | Foreign Business Act (English translation) | thailaws.org | n.d. | https://www.thailaws.org/foreign-business-act/ |
-| 9 | To open a branch office to do interior design consulting in Thailand (FAQ) | BOI One Start One Stop | n.d. | https://osos.boi.go.th/One-Stop/faq-group/24/To-open-a-branch-office-to-do-interior-design-consulting-in-Thailand/ |
-| 10 | Foreign Business Act Thailand: Market Entry Guide 2026 | lexbangkok | 2026 | https://lexbangkok.com/foreign-business-act-thailand-market-entry-guide-2026/ |
-| 11 | Thai Consumer Protection Board tightens action in home construction fraud cases | Pattaya Mail | 2025 | https://www.pattayamail.com/thailandnews/thai-consumer-protection-board-tightens-action-in-home-construction-fraud-cases-548874 |
-| 12 | OCPB looks into construction scam | Bangkok Post | 2025 | https://www.bangkokpost.com/thailand/general/3253094/ocpb-looks-into-construction-scam |
-| 13 | Independent Market Research on the Home Improvement Industry（Mr. DIY 泰國上市文件） | 泰國 SEC | 2024 | https://market.sec.or.th/public/ipos/IPOSGetFile.aspx?TransID=646423&TransFileSeq=87 |
-| 14 | จับตาตลาดบ้านมือสอง ดิสรัปต์บ้านใหม่ | Matichon | 2025 | https://www.matichon.co.th/economy/news_5437496 |
-| 15 | （REIC 轉載二手房報導） | REIC | 2025 | https://www.reic.or.th/News/RealEstate/470359 |
-| 16 | （屋齡 ≥10 年住宅 2,340 萬戶報導） | Bangkokbiznews | 約 2024 | https://www.bangkokbiznews.com/property/1124831 |
-| 17 | Thai property market faces toughest challenge in decades | Nation Thailand（SCB EIC／ttb） | 2025 | https://www.nationthailand.com/business/property/40056158 |
-| 18 | （2026–2027 房市展望） | Nation Thailand | 2026 | https://www.nationthailand.com/business/economy/40070934 |
-| 19 | （住宅市場展望） | SCB EIC | 2025 | https://www.scbeic.com/en/detail/product/443 |
-| 20 | REIC Q4 2568 住宅市場與 2569 趨勢（轉載） | Bangkok Focus News | 2026 | https://www.bangkokfocusnews.com/2026/02/REIC-Q4-2568-Trends2569.html |
-| 21 | REIC Press Release（Q1） | REIC | 2025 | https://www.reic.or.th/Activities/PressRelease/260 |
-| 22 | HMPRO Listed Company Snapshot 3M/2025 | SET | 2025 | https://lssmedia.setlink.set.or.th/2025/3M/HMPRO-3M68-ListedCompanySnapshot-EN.html |
-| 23 | HMPRO reports THB 6.4 billion net profit | Kaohoon International | 2025 | https://www.kaohooninternational.com/markets/537124 |
-| 24 | ILM Listed Company Snapshot YE/2024 | SET | 2025 | https://lssmedia.setlink.set.or.th/2024/YE/ILM-YE67-ListedCompanySnapshot-EN.html |
-| 25 | Index Living Mall reports strong 2024 performance | Index Living Mall IR | 2025 | https://investor.indexlivingmall.com/en/updates/press-releases/416/index-living-mall-reports-strong-2024-performance-with-recordhigh-profit-for-the-third-consecutive-year-proposes-thb-100-dividend-per-share |
-
-### 12.2 機構入口頁（D 級，僅確認網域存在、本輪未開啟；用於下一輪定位原始條文與統計）
-
-| # | 機構 | URL |
-|---|---|---|
-| 26 | 泰國建築師委員會（สภาสถาปนิก, ACT） | https://act.or.th |
-| 27 | 工程師委員會（สภาวิศวกร, COE） | https://coe.or.th |
-| 28 | 暹羅建築師協會（ASA） | https://asa.or.th |
-| 29 | 商業發展廳（DBD） | https://www.dbd.go.th |
-| 30 | 投資促進委員會（BOI） | https://www.boi.go.th |
-| 31 | 就業廳（DOE） | https://www.doe.go.th |
-| 32 | 勞動部（MOL） | https://www.mol.go.th |
-| 33 | 消費者保護委員會辦公室（OCPB） | https://www.ocpb.go.th |
-| 34 | 公共工程與城鄉規劃廳（DPT） | https://www.dpt.go.th |
-| 35 | 國務院法制委員會法規庫（Krisdika） | https://www.krisdika.go.th |
-| 36 | 政府公報（Royal Gazette） | https://www.ratchakitcha.soc.go.th |
-| 37 | 貿易政策與戰略辦公室（TPSO） | https://www.tpso.go.th |
-| 38 | 商務部價格指數 | https://www.price.moc.go.th |
-| 39 | 國家統計局（NSO） | https://www.nso.go.th |
-| 40 | 泰國央行（BOT） | https://www.bot.or.th |
-| 41 | 稅務廳（Revenue Department） | https://www.rd.go.th |
-| 42 | 政府住宅銀行（GHB） | https://www.ghbank.co.th |
-| 43 | 泰國工業標準院（TISI） | https://www.tisi.go.th |
+| 1 | พระราชบัญญัติสถาปนิก พ.ศ. 2543（建築師法） | ASA 法規庫 | 2000（2017 更新） | https://download.asa.or.th/03media/04law/aa/aa43-upd60.pdf |
+| 2 | กฎกระทรวงกำหนดวิชาชีพสถาปัตยกรรมควบคุม พ.ศ. 2549 และกฎกระทรวงที่เกี่ยวข้อง | Yotathai | 2006 | https://www.yotathai.com/yotanews/law-architect-2549 |
+| 3 | สถาปัตยกรรมภายใน（室內建築） | 泰文維基百科 | — | https://th.wikipedia.org/wiki/สถาปัตยกรรมภายใน |
+| 4 | ใบอนุญาตประกอบวิชาชีพสถาปัตยกรรม | 泰文維基百科 | — | https://th.wikipedia.org/wiki/ใบอนุญาตประกอบวิชาชีพสถาปัตยกรรม |
+| 5 | ใบ ก.ส. หรือ ใบอนุญาตประกอบวิชาชีพสถาปัตยกรรมควบคุม | TruePlookpanya | — | https://www.trueplookpanya.com/knowledge/content/94564-edu- |
+| 6 | อยากตกแต่งภายในบ้าน จ้างอินทีเรียร์ดีไหม? | Thaiticketmajor | — | https://www.thaiticketmajor.com/variety/lifestyle/10831/ |
+| 7 | ข้อบังคับสภาสถาปนิก（準建築師範圍） | ASA 法規庫 | 2021 | https://download.asa.or.th/03media/04law/aa/cr64-02.pdf |
+| 8 | สภาสถาปนิกออกระเบียบใบอนุญาตระดับภาคีสถาปนิกพิเศษ | ASA | 2021 | https://asa.or.th/laws/news20210706/ |
+| 9 | ข้อบังคับสภาสถาปนิก（室內分科過渡條款） | ASA 法規庫 | 2009/2020 | https://download.asa.or.th/03media/04law/aa/cr52-upd63.pdf |
+| 10 | Labour curbs split nation's architects | Bangkok Post | ~2016 | https://www.bangkokpost.com/thailand/general/1078432/labour-curbs-split-nations-architects |
+| 11 | Engineering, procurement, construction: a guide for foreign companies in Thailand | Bangkok Post／Tilleke | 2017 | https://www.bangkokpost.com/business/1299811/engineering-procurement-construction-a-guide-for-foreign-companies-in-thailand |
+| 12 | Engineering, Procurement, and Construction | Tilleke & Gibbins | — | https://www.tilleke.com/print-insight/?post_id=37170&print=1 |
+| 13 | Architects and Civil Engineers: Why Thai Professional Registration Gates Your Work | Issa Compass | 2025 | https://www.issacompass.com/insights/architects-and-civil-engineers-why-thai-professional-registration-gates-your-wor |
+| 14 | An Assessment of Legal Preparedness for the Liberalization of Architectural Services within ASEAN | ResearchGate | 2025 | https://www.researchgate.net/publication/397335482_An_Assessment_of_Legal_Preparedness_for_the_Liberalization_of_Architectural_Services_within_ASEAN |
+| 15 | ASEAN Mutual Recognition Arrangement on Architectural Services | 泰國國會 | 2007 | https://www.parliament.go.th/aseanrelated_law/files/file_20170704145243_txtattactEN_.pdf |
+| 16 | ACT 2002 室內建築執照規則（NTR 條目） | Thailand NTR | 2002 | http://www.thailandntr.com/en/trade-in-services/laws/organization/download/235 |
+| 17 | Licensing References: Thailand | DCMNT | — | https://dcmnt.org/posts/licensing-references-thailand |
+| 18 | ประกาศสำนักงานสภาสถาปนิก ฉบับที่ 31/2568 | ACT | 2025 | https://cdn.act.or.th/09_bb9dd0bf84.pdf |
+| 19 | มติคณะกรรมการสภาสถาปนิก ครั้งที่ 5/2568 | ACT | 2025 | https://cdn.act.or.th/5_2568_e24c1604b3.pdf |
+| 20 | การรับจดทะเบียนสมาชิกสภาสถาปนิก 108 ราย | ACT | 2026 | https://cdn.act.or.th/3_2569_12_03_2569_6f448d5b05.pdf |
+| 21 | รายงานการประชุมใหญ่สามัญสภาสถาปนิก ประจำปี 2569 | ACT | 2026 | https://cdn.act.or.th/13_07_2569_2569_e37ac43d3b.pdf |
+| 22 | กฎหมายควบคุมอาคาร（法規庫） | ASA | — | https://asa.or.th/laws-and-regulations/cba/ |
+| 23 | คู่มือการขออนุญาตก่อสร้างอาคาร ตาม พ.ร.บ. ควบคุมอาคาร พ.ศ. 2522 | 官方資訊中心 | — | https://infocenter.oic.go.th/FILEWEB/CABINFOCENTER69/DRAWER003/GENERAL/DATA0000/00000058.PDF |
+| 24 | กฎหมายรีโนเวทบ้าน/คอนโด ต้องขออนุญาตอะไรบ้าง? | HomeHug | — | https://www.homehug.in.th/blog/topic-61580 |
+| 25 | Renovate อาคารเก่า ต้องขออนุญาตหรือไม่ | Eakartit Law Office | — | https://www.eakartit-lawoffice.com/renovate/ |
+| 26 | กฎกระทรวงฉบับที่ 11 (พ.ศ. 2528) | AES Service | 1985 | https://www.aes-service.com/attachments/view/?attach_id=248404 |
+| 27 | พระราชบัญญัติอาคารชุด พ.ศ. 2522 และกฎกระทรวงที่เกี่ยวข้อง | 土地廳（DOL） | 2025 | https://www.dol.go.th/media/716929789247754240/migration/2025/10/6Wp3Tk7hgK5HdDRuvYXGcNsi.pdf |
+| 28 | การขออนุญาตตกแต่งห้องชุด ต้องทำอย่างไรบ้าง | Primo | — | https://www.primo.co.th/บทความ/ตกแต่งภายใน/การขออนุญาตตกแต่งห้องช/ |
+| 29 | ข้อบังคับและกฎหมายเกี่ยวกับอาคารชุด | Knight Frank Thailand | — | https://propertymanagement.knightfrank.co.th/en/ข้อบังคับและกฎหมาย/ |
+| 30 | กฎกระทรวงกำหนดวัสดุที่ใช้ในการก่อสร้างอาคารประเภทควบคุมการใช้ พ.ศ. 2566 | ASA 法規庫 | 2023 | https://download.asa.or.th/03media/04law/cba/mr/mr66-70f.pdf |
+| 31 | กฎกระทรวง（娛樂場所）2555 | ASA 法規庫 | 2012 | https://download.asa.or.th/03media/04law/cba/mr/mr55-63f.pdf |
+| 32 | หลักเกณฑ์ในการประเมินตรวจรับรองความปลอดภัยด้านอัคคีภัยของวัสดุตกแต่ง | Yotathai | — | https://www.yotathai.com/yotanews/fire-safety |
+| 33 | กฎกระทรวง ฉบับที่ 55 (พ.ศ. 2543) | ASA 法規庫 | 2000 | https://download.asa.or.th/03media/04law/fubr/a1_bcmr55-63.pdf |
+| 34 | แห่ร้องผู้รับเหมาทิ้งงาน（OCPB 3,131 件） | REIC | 2024 | https://www.reic.or.th/News/RealEstate/468767 |
+| 35 | กลุ่มผู้เสียหาย ร้องเอาผิดบริษัทรับเหมาก่อสร้าง ทิ้งงาน ทำเสียหายกว่า 300 ล้าน | Matichon | 2025 | https://www.matichon.co.th/local/crime/news_5373432 |
+| 36 | สมาคมไทยรับสร้างบ้านแนะแนวทางฟื้นฟูความเชื่อมั่นผู้บริโภค | Naewna | 2025 | https://www.naewna.com/business/936873 |
+| 37 | สคบ. ร่วมรายการสถานีประชาชน ประเด็นบริษัทรับเหมา M | OCPB | 2025 | https://www.ocpb.go.th/news_view.php?nid=16946 |
+| 38 | ร้อง! ผู้รับเหมาสร้างบ้านทิ้งงาน เสียหายกว่า 10 ล้านบาท | OCPB | 2023 | https://www.ocpb.go.th/news_view.php?nid=13707 |
+| 39 | ร้องผู้รับเหมาทิ้งงานก่อสร้างบ้าน เสียหายกว่า 12 ล้านบาท | OCPB | 2024 | https://www.ocpb.go.th/news_view.php?nid=14281 |
+| 40 | เมื่อผู้รับเหมาทิ้งงาน ต้องทำอย่างไร | OCPB | 2017 | https://www.ocpb.go.th/download/article/article_20171215141625.pdf |
+| 41 | ผู้รับเหมาทิ้งงาน ถือว่าผิดสัญญา บอกยกเลิกได้ทันที | สภาองค์กรของผู้บริโภค | — | https://www.tcc.or.th/documents/contractor-left-project/ |
+| 42 | 10 กลโกงของผู้รับเหมา | Sanook | — | https://www.sanook.com/women/207801/ |
+| 43 | สัญญาจ้างเหมาก่อสร้าง ตกแต่งภายใน และงานเฟอร์นิเจอร์ลอยตัว | EGCO | 2023 | https://www.egco.com/storage/newsroom/procurement-news/2023/12/20231218-5.pdf |
+| 44 | สัญญารับเหมาตกแต่งภายใน 2563 | Casa Concept | 2020 | https://casa-concept1.com/pdf/สัญญารับเหมาตกแต่งภายใน_2563.pdf |
+| 45 | ประกันผลงาน สำคัญอย่างไร? | FIRM | — | https://firm.co.th/work-insurance/ |
+| 46 | คดีผิดสัญญาก่อสร้าง | Thanu Legal | — | https://www.thanulegal.com/17228107/ก่อสร้าง |
+| 47 | 3 สิ่งที่ต้องมีการประกันผลงานก่อสร้าง | Wisawa | — | https://wisawa.co.th/ประกันผลงานก่อสร้าง/ |
+| 48 | การคิดค่ารับออกแบบตกแต่งภายใน | Rise Design Studio | — | https://www.risedesign-studio.com/interior-design-fee-calculation-factors-clients-should-know/ |
+| 49 | To open a branch office to do interior design consulting in Thailand | BOI OSOS | — | https://osos.boi.go.th/One-Stop/faq-group/24/To-open-a-branch-office-to-do-interior-design-consulting-in-Thailand/ |
+| 50 | Thailand – Foreign Business Act | UNCTAD | — | https://investmentpolicy.unctad.org/investment-laws/laws/40/thailand-foreign-business-act |
+| 51 | A Business Guide to Thailand 2014, Ch.5 | 泰國外交部 | 2014 | https://image.mfa.go.th/mfa/0/FdDtKZuFye/migrate_directory/business-20150617-180705-862850.pdf |
+| 52 | Foreign Business Act Thailand (B.E. 2542): Lists and Licences | Lex Bangkok | 2026 | https://lexbangkok.com/foreign-business-act-thailand-market-entry-guide-2026/ |
+| 53 | Thailand Foreign Business Act: A Practical Guide | Dej-Udom & Associates | — | https://dejudomlaw.com/en/insight/thailand-foreign-business-act-a-practical-guide-for-foreign-investors |
+| 54 | Foreign Business Act in Thailand | Siam Legal | — | https://usa.siam-legal.com/business-in-thailand/foreign-business-act.php |
+| 55 | Foreign Business Law Thailand | Thailand Law Online | — | https://www.thailandlawonline.com/thai-company-and-foreign-business-law/foreign-business-law-thailand |
+| 56 | Foreign-Owned Company Options in Thailand: BOI vs Amity vs Rep Office | Thai-Co | — | https://www.thai-co.com/blog/foreign-owned-company-options-in-thailand-boi-vs-amity-vs-rep-office |
+| 57 | Business Activities Eligible For BOI Promotion | Acclime | 2025 | https://thailand.acclime.com/guides/boi-eligible-activities/ |
+| 58 | Thailand BOI Promotion: Legal 100% Foreign Ownership | Terms.law | — | https://terms.law/Thai/business/boi-promotion-pathways.html |
+| 59 | 40 Occupations in Thailand Restricted; Foreigner Hiring Prohibited | Khaosod English | 2023 | https://www.khaosodenglish.com/news/2023/07/05/40-occupations-in-thailand-restricted-foreigner-hiring-prohibited/ |
+| 60 | Restricted Jobs For Foreigners In Thailand | Acclime | — | https://thailand.acclime.com/guides/restricted-jobs/ |
+| 61 | Prohibited Occupations – Thailand Work Permit | Thailand Law Online | — | https://www.thailandlawonline.com/thai-company-and-foreign-business-law/prohibited-occupations-thailand-work-permit |
+| 62 | How Many Thai Staff are Required to Support a Work Permit? | Belaws | 2025 | https://belaws.com/thailand/work-permit-requirements/ |
+| 63 | Work Permit Quotas & Capital Rules in Thailand | Deemed Consulting | 2026 | https://www.deemedconsulting.com/insights/2026-08-01-work-permit-quotas-capital-requirements-thailand |
+| 64 | Thailand Work Permit 2026: Non-B Visa, e-Work Permit, 4:1 Ratio | Aniday | 2026 | https://aniday.com/en/thailand/work-permit |
+| 65 | Jobs Foreigners Cannot Do in Thailand: 39 Restricted Occupations | Terms.law | — | https://terms.law/Thai/employment/restricted-occupations.html |
+| 66 | Thailand Work Permit Guide 2026 | OutThailand | 2026 | https://outthailand.com/guide/thailand-work-permit/ |
+| 67 | Nikken Sekkei (Thailand) 官網 | Nikken Sekkei | 2025 | https://nikken.co.th/ |
+| 68 | Nikken Sekkei Executive Offers Alternative Design Solutions in Bangkok | Nikken Sekkei | 2022 | https://www.nikken.co.jp/en/news/news/2022_12_23.html |
+| 69 | Livspace | Wikipedia | — | https://en.wikipedia.org/wiki/Livspace |
+| 70 | Voice of the Consumer Survey 2025 | PwC Thailand | 2025 | https://www.pwc.com/th/en/research-and-insights/voice-of-the-consumer-survey-2025-en.html |
+| 71 | Thai consumers shift focus to essential goods amid economic worries | PwC Thailand | 2024 | https://www.pwc.com/th/en/press-room/press-release/2024/press-release-30-08-24-en.html |
+| 72 | Five signs Thailand's property market faces a slow recovery into 2027（SCB EIC 調查） | Nation Thailand | 2026 | https://www.nationthailand.com/business/economy/40070934 |
+| 73 | Home Improvement in Thailand | Euromonitor | 2025 | https://www.euromonitor.com/home-improvement-in-thailand/report |
+| 74 | Thai Consumer Preferences: Home and Living | HKTDC Research | ~2022 | https://research.hktdc.com/en/article/NjIyMzcxNDc5 |
+| 75 | Bangkok Condo Renovation Guide (2025) | Condodee | 2025 | https://condodee.com/bangkok-condo-renovation-guide-2025/ |
+| 76 | รีโนเวทคอนโด ราคาเท่าไหร่? วางงบยังไงไม่ให้บาน | 99 Interior | 2025–26 | https://99interior.co.th/blog/condo-renovation-budget-guide |
+| 77 | บิ้วอินคอนโดราคาเท่าไหร่? อัปเดตงบปี 2569 | Blovk Living | 2026 | https://www.blovkliving.com/condo-built-in-cost/ |
+| 78 | Condo Renovation Cost in Bangkok (2026) | Something Bespoke | 2026 | https://thaimanufacturehub.com/blog-09.html |
+| 79 | ไขความต่าง ค่าออกแบบภายใน กับ ค่าตกแต่งภายใน | iDec Design | 2025 | https://idecdesign.com/blog-design-vs-decor-fees-combined-or-separate/ |
+| 80 | จ้างสถาปนิกออกแบบบ้านหนึ่งหลัง คิดค่าใช้จ่ายอย่างไร | PHAD Architecture | — | https://phad-architecture.com/blog/how-do-architects-charge-for-designing-a-house |
+| 81 | ธอส. เพิ่มสภาพคล่อง…สินเชื่อซ่อม-แต่ง และ Plus（2025-06-19） | GH Bank | 2025 | https://www.ghbank.co.th/news/detail/public-relations/press-19-06-2025 |
+| 82 | สินเชื่อซ่อม-แต่ง | GH Bank | 2025 | https://www.ghbank.co.th/product-detail/repair-decorate-loan |
+| 83 | ธอส. จัดทำสินเชื่อเพื่อต่อเติม ซ่อมแซม ซื้ออุปกรณ์（2026-04-09） | GH Bank | 2026 | https://www.ghbank.co.th/news/detail/public-relations/press-09-04-2026 |
+| 84 | ธอส.อัดสินเชื่อ ต่อเติม-ซ่อมบ้าน ดอกเบี้ย 1% | Bangkokbiznews | 2026 | https://www.bangkokbiznews.com/economics/1228967 |
+| 85 | สินเชื่อธอส.-ออมสิน ซื้อ-ซ่อมแซม-แต่งบ้าน | Thai PBS Policy Watch | 2025–26 | https://policywatch.thaipbs.or.th/article/government-89 |
+| 86 | สาขาวิชาสถาปัตยกรรมภายใน（KMITL） | KMITL | — | https://www.aad.kmitl.ac.th/interior/b-inte/ |
+| 87 | หลักสูตรสถาปัตยกรรมภายใน（RMUTL） | RMUTL | — | https://reg.rmutl.ac.th/curriculum/detail/25486736255621182 |
+| 88 | Interior Architecture（Bangkok University） | BU | — | https://www.bu.ac.th/th/arch/interior-architecture |
+| 89 | เงินเดือน Interior Designer ใน ประเทศไทย 2026 | Bebee | 2026 | https://bebee.com/th/salaries/interior-designer |
+| 90 | Salary: Interior Designer in Bangkok, Thailand 2026 | Glassdoor | 2026 | https://www.glassdoor.com/Salaries/bangkok-thailand-interior-designer-salary-SRCH_IL.0,16_IM1119_KO17,34.htm |
+| 91 | Salary: Senior Interior Designer in Bangkok | Glassdoor | 2026 | https://www.glassdoor.com/Salaries/bangkok-senior-interior-designer-salary-SRCH_IL.0,7_IC3179725_KO8,32.htm |
+| 92 | Salary: Junior Interior Designer in Bangkok | Glassdoor | 2026 | https://www.glassdoor.sg/Salaries/bangkok-thailand-junior-interior-designer-salary-SRCH_IL.0,16_IM1119_KO17,41.htm |
+| 93 | หางาน Interior Designer | JobBKK | 2025 | https://www.jobbkk.com/jobs/lists/1/หางาน,Interior%20Designer,ทุกจังหวัด,ทั้งหมด.html |
+| 94 | Interior Designer jobs | JobsDB | 2026 | https://th.jobsdb.com/th/interior-designer-jobs |
+| 95 | มีผล 1 ม.ค.2568 ราชกิจจาฯ ประกาศค่าจ้างขั้นต่ำ 337-400 บาท | Thai PBS | 2024 | https://www.thaipbs.or.th/news/content/347764 |
+| 96 | อัตราค่าแรงขั้นต่ำ ปี 2568 ครบทั้ง 77 จังหวัด | The Standard | 2025 | https://thestandard.co/minimum-wage-rates-thailand-2568/ |
+| 97 | ปรับค่าแรงขั้นต่ำเพิ่มปี 2568 ส่งผลต้นทุนแรงงาน ≥2% | KResearch | 2024 | https://www.kasikornresearch.com/th/analysis/k-social-media/Pages/Wage-Salary-CIS3542-FB-2024-12-24.aspx |
+| 98 | ค่าแรงช่างก่อสร้าง 2569 วันละเท่าไหร่ | Piyamitr Group | 2026 | https://www.piyamitrgroup.com/th/blog/construction-labor-cost |
+| 99 | ค่าจ้างตามมาตรฐานฝีมือ ลูกจ้างต้องได้วันละเท่าไหร่ | jorporHnoy | 2024 | https://www.jorporhnoy.com/6701-wageskill/ |
+| 100 | อัตราค่าจ้างมาตรฐานฝีมือแรงงาน ฉบับที่ 14 สูงสุด 800 | Thansettakij | 2025 | https://www.thansettakij.com/economy/627975 |
+| 101 | ราคาค่าแรงปูกระเบื้อง ปี 2568 | Triplestone | 2025 | https://www.triplestone.net/ราคาค่าแรงปูกระเบื้อง-ปี-2568 |
+| 102 | ค่าแรงช่าง ราคามาตรฐานในงานก่อสร้างบ้าน | บ้านและสวน | — | https://www.baanlaesuan.com/101530/home-maintenance/cost-technician/ |
+| 103 | เปิดสถิติแรงงาน 'กัมพูชา-เมียนมา-ลาว' ในไทย | Amarin TV | 2025 | https://www.amarintv.com/spotlight/economy/517074 |
+| 104 | เปิดยอดกัมพูชาในไทยเหลือ 4.9 แสนคน | Matichon | 2025 | https://www.matichon.co.th/local/quality-life/news_5400600 |
+| 105 | มติ ครม. 2 ธันวาคม 2568 ต่ออายุ…ถึงปี 2570 | Passport.co.th | 2025 | https://www.passport.co.th/cabinet-resolution/2-12-2568-renew-24-9-2567/ |
+| 106 | สรุปมติ ครม. 19 สิงหาคม 2568: มาตรการแก้ปัญหาขาดแคลนแรงงาน | Passport.co.th | 2025 | https://www.passport.co.th/cabinet-resolution/19-august-2025-labor-shortage/ |
+| 107 | มติ ครม. 8 ก.ค. 68: ผ่อนผันแรงงานเมียนมา เพิ่ม 6 เดือน | Passport.co.th | 2025 | https://www.passport.co.th/mustknow/mou-myanmar-extension-july2025/ |
+| 108 | มติ ครม. 4 ก.พ. 2568 ขยายเวลาต่อใบอนุญาตทำงานแบบ MOU | Passport.co.th | 2025 | https://www.passport.co.th/cabinet-resolution/4feb2025/ |
+| 109 | กระทรวงแรงงาน เร่งแก้ปัญหาขาดแคลนแรงงานจากเหตุชายแดนไทย-กัมพูชา | PRD | 2025 | https://www.prd.go.th/th/content/category/detail/id/39/iid/421920 |
+| 110 | 'จุลพันธ์' ถกสมาคมก่อสร้าง แก้ปัญหาขาดแคลนแรงงาน | Prachatai | 2026 | https://prachatai.com/journal/2026/08/118261 |
+| 111 | "จุลพันธ์" ถกสมาคมก่อสร้างฯ เร่งแก้ปมขาดแคลนแรงงานต่างด้าว | InfoQuest | 2026 | https://www.infoquest.co.th/2026/625642 |
+| 112 | ไทย-ศรีลังกา ลงนาม MOU นำเข้าแรงงาน ล็อตแรก 1 หมื่นคน | The Standard | 2026 | https://thestandard.co/thailand-sri-lanka-labor-mou-2/ |
+| 113 | แรงงานเขมรเสี่ยงโดนจับ นายจ้างไทยขาดคน | Prachatai | 2026 | https://prachatai.com/journal/2026/01/116146 |
+| 114 | สงครามปิดด่าน "ไทย-กัมพูชา" | Thai PBS | 2025 | https://www.thaipbs.or.th/news/content/353291 |
+| 115 | รายงานสถานการณ์ด้านแรงงาน ไตรมาส 4/2568 | 勞動部 | 2026 | https://www.mol.go.th/wp-content/uploads/sites/2/2026/05/รายงานสถานการณ์ฯไตรมาส-4-ปี-68-ฉบับสมบูรณ์.pdf |
+| 116 | ดัชนีราคาวัสดุก่อสร้างเดือนมิถุนายน 2568 | TPSO | 2025 | https://www.tpso.go.th/news/2507-0000000006 |
+| 117 | ดัชนีราคาวัสดุก่อสร้างเดือนพฤษภาคม 2568 | TPSO | 2025 | https://tpso.go.th/news/2506-0000000002 |
+| 118 | ดัชนีราคาวัสดุก่อสร้าง มกราคม 68 | TPSO | 2025 | https://tpso.go.th/news/2502-0000000030 |
+| 119 | ดัชนีราคาวัสดุก่อสร้างเดือนกุมภาพันธ์ 2568 | TPSO | 2025 | https://tpso.go.th/news/2503-0000000003 |
+| 120 | ดัชนีราคาวัสดุก่อสร้างเดือนมีนาคม 2568 | 商務部 | 2025 | https://www.moc.go.th/th/gallery/category/detail/id/5/iid/832 |
+| 121 | ดัชนีราคาวัสดุก่อสร้างเดือนเมษายน 2568 | Naewna | 2025 | https://www.naewna.com/business/881850 |
+| 122 | CMI Report July 2024／Dec 2024 | TPSO | 2024 | https://uploads.tpso.go.th/6.2%20CMI%20Report_July_2024.pdf ；https://uploads.tpso.go.th/6.2%20CMI%20Report_Dec_2024.pdf |
+| 123 | ดัชนีราคาวัสดุก่อสร้างเดือนเมษายน 2567 | RYT9 | 2024 | https://www.ryt9.com/s/btei/3514022 |
+| 124 | ปี 2568 ดัชนีราคาวัสดุก่อสร้างพลิกกลับมาขยายตัว 0.7% | KResearch | 2025 | https://www.kasikornresearch.com/th/analysis/k-social-media/Pages/Info267-Construction-Materials-FB-16-05-25.aspx |
+| 125 | ดัชนีวัสดุก่อสร้าง ส.ค. พุ่ง 6.1% | Thansettakij | 2026 | https://www.thansettakij.com/economy/668601 |
+| 126 | ดัชนีวัสดุก่อสร้าง ก.ค. โต 5.8% | Kaohoon | 2026 | https://www.kaohoon.com/news/local/853698 |
+| 127 | แนวโน้มธุรกิจ/อุตสาหกรรม ปี 2567-2569: ธุรกิจวัสดุก่อสร้าง | Krungsri Research | 2024 | https://www.krungsri.com/th/research/industry/industry-outlook/construction-construction-materials/construction-materials/io/2024 |
+| 128 | Company Profile 2025 | SCG | 2025 | https://static.scg.com/uploads/files/pdf-file-1740969940.pdf |
+| 129 | Thailand Ceramic Tiles Market | Mordor Intelligence | 2025 | https://www.mordorintelligence.com/industry-reports/thailand-ceramic-tiles-market |
+| 130 | Modernform Group PCL Revenue | StockAnalysis | 2026 | https://stockanalysis.com/quote/bkk/MODERN/revenue/ |
+| 131 | Index Living Mall FY2025 Earnings | MarketScreener | 2026 | https://www.marketscreener.com/news/index-living-mall-public-company-limited-reports-earnings-results-for-the-full-year-ended-december-3-ce7e5cdcd88bf321 |
+| 132 | Index Living Mall Q1 2025 press release（35 分店） | Index Living Mall IR | 2025 | https://investor.indexlivingmall.com/en/updates/press-releases/426/index-living-mall-reports-continued-profit-growth-in-q12025-despite-market-slowdown-announces-plans-to-open-3-new-branches-in-the-second-half-of-the-year |
+| 133 | Starmark | Wikipedia | — | https://en.wikipedia.org/wiki/Starmark |
+| 134 | Thailand Furniture and Modular Interiors Market | Ken Research | — | https://www.kenresearch.com/thailand-furniture-and-modular-interiors-market |
+| 135 | Thailand Furniture and Smart Interiors Market | Research and Markets | 2025 | https://www.researchandmarkets.com/reports/6210101/thailand-furniture-smart-interiors-market |
+| 136 | ราคากลางวัสดุก่อสร้างปี 2569 จากกรมบัญชีกลาง | Koh Inter | 2026 | https://www.kohinter.com/blog/16729/ราคากลางวัสดุก่อสร้างปี-2569-จากกรมบัญชีกลาง |
+| 137 | บัญชีราคาค่าวัสดุก่อสร้างและแรงงาน ปีงบประมาณ 2568／2569 (สพฐ.) | Yotathai | 2025–26 | https://www.yotathai.com/yotanews/obec2568 ；https://www.yotathai.com/yotanews/designobec-2569 |
+| 138 | TIDA: Thailand Interior Designers' Association – About | TIDA | — | https://www.tida.or.th/about.html |
+| 139 | TIDA และ Modernform เปิดอีเว้นท์ "TIDA Society 2026" | ThaiPR | 2026 | https://www.thaipr.net/life/3689541 |
+| 140 | นิทรรศการ สมาคมมัณฑนากรแห่งประเทศไทย : TIDA（Architect Expo） | ASA Expo | 2026 | https://www.asaexpo.org/en/post/exhibition-of-the-association-of-interior-designers-of-thailand-tida |
+| 141 | Southeast Asia's largest building expo opens in Bangkok（Architect'26） | The Story Thailand | 2026 | https://www.thestorythailand.com/architect-26/ |
+| 142 | ASA and TTF Announce Readiness for Architect'26 | ThaiPR | 2026 | https://www.thaipr.net/en/business_en/3710112 |
+| 143 | ASA Architect Expo 2026 highlights…"SATI : WISDOM : PROMPT" | ThaiPR | 2026 | https://www.thaipr.net/en/general_en/3704755 |
+| 144 | Architect Expo 2026 | Thailand NOW | 2026 | https://www.thailandnow.in.th/event/architect-expo/ |
+| 145 | เปิดฉากอย่างยิ่งใหญ่ 'สถาปนิก'68' คาดผู้เข้าชมทะลักกว่า 3.25 แสนคน | Thai Post | 2025 | https://www.thaipost.net/economy-news/781129/ |
+| 146 | เว็บไซต์ตรวจสอบสถานะสมาชิกและใบอนุญาตสถาปนิก | Yotathai | — | https://www.yotathai.com/yotanews/check-architect-status |
+| 147 | สร้างบ้านใหม่ต้องใช้บริการสถาปนิก/วิศวกรเสมอไปหรือไม่ | SCG Smart Living | — | https://www.scgsmartliving.com/ideas/Building-New-House-Requires-Engineer-Architect |
+| 148 | Renovation in Bangkok | Delcoi | — | https://www.delcoi.com/en/renovations-in-bangkok-thailand/ |
+| 149 | A Conversation with TIDA | room (บ้านและสวน) | — | https://room.baanlaesuan.com/210162/people/talk-tida |
