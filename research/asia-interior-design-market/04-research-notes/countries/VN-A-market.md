@@ -182,3 +182,321 @@
 ### Gaps
 - 前 10–20 大設計／裝修公司的營收排名：不存在公開資料；排名文章皆為內容行銷。
 - AA Corporation 2024–2025 年財報、AKA／Nhà Xinh、XHOME 營收：未公開。
+
+---
+
+## 5. 通路與獲客
+
+### Takeaway
+越南屋主找設計／裝修的主通路是「熟人介紹＋Facebook／Zalo 社團＋業者廣告」，再加上家居社群平台 Happynest；建商交屋（毛胚／基本完成）是最大的案源入口；**沒有任何平台公開 GMV、成交數或抽成率**，也沒有獨立的通路占比調查。
+
+### Cited Findings
+- 「過去屋主通常透過熟人、社群媒體社團或廣告找承包商」，對首次裝修者有資訊不對稱問題（該文為媒合平台推廣稿，屬觀點而非調查） — [VnExpress](https://vnexpress.net/nen-tang-so-ho-tro-tim-nha-thau-xay-dung-5059125.html)
+- 社群規模：Facebook 越南用戶 7,900 萬（Meta 廣告數據，2025 年底）；Zalo 月活 7,830 萬；TikTok 成長最快（+9.9% YoY）；Facebook 為 2025 上半年最常用平台，其次 Zalo、YouTube、TikTok — [Elite Asia](https://www.eliteasia.co/top-digital-and-social-media-trends-in-vietnam-in-2026/)；[Statista](https://www.statista.com/statistics/941843/vietnam-leading-social-media-platforms/)
+- 約 38% 越南消費者每週看直播達 3 小時，TikTok 月均使用 41 小時以上（一般消費行為，非裝修專屬） — [Statista TikTok Shop](https://www.statista.com/topics/12107/tiktok-shop-in-vietnam/)
+- TikTok 內容已催生室內裝飾新職種（內容創作者／帶貨） — [Diễn đàn Doanh nghiệp](https://diendandoanhnghiep.vn/tiktok-de-ra-viec-moi-cho-linh-vuc-trang-tri-noi-that-10051203.html)
+- 業者調查（Gỗ Minh Long 於木材家具研討會發表；抽樣方法未公開）：多數消費者仍到門市挑現貨；「經設計公司／建築師推薦選購」比例逐年上升 — [VOV Giao thông](https://vovgiaothong.vn/newsaudio/tiem-nang-phat-trien-nganh-noi-that-tai-viet-nam-d42333.html)；[Innovative Hub](https://innovativehub.com.vn/thoi-quen-lua-chon-san-pham-noi-that-cua-nguoi-viet/)
+- Happynest 平台模式：使用者分「消費者（建屋／翻新需求）」與「專家（建築師、工程師、承包商、建材家具供應商）」；專家可建立作品集、社群評價、直接聊天；App 上線時 1,000 件以上專家檔案 — [Happynest 介紹](https://v2.happynest.vn/gioi-thieu)；[Dân trí](https://dantri.com.vn/kinh-doanh/ung-dung-happynest-giai-quyet-nhu-cau-tim-y-tuong-tim-chuyen-gia-va-sam-noi-that-20211128204409915.htm)
+- Happynest 自報流量：月訪 400 萬、社團 40 萬人、粉絲頁 25 萬以上（≈2023） — [Bongdaplus（轉載）](https://bongdaplus.vn/ben-ngoai-duong-piste/happynest-giup-hanh-trinh-lam-nha-cua-nguoi-viet-tro-nen-de-dang-hon-3981922305.html)
+- 建商通路：毛胚／基本完成交屋制度使「交屋即裝修」成為必然；建商完成品比毛胚貴 10–30%，部分買家為此選毛胚自行找設計 — [Tuổi Trẻ／PLO](https://tuoitre.vn/plo/mua-chung-cu-nen-chon-nha-giao-tho-hay-hoan-thien-109586696.htm)
+- 業者獲客手法（行銷公司整理）：Facebook／Google 廣告、Zalo OA、TikTok 短影音、與建商／仲介合作、展廳體驗、舊客轉介 — [CleverAds](https://cleverads.vn/blog/10-cach-tiep-can-khach-hang-noi-that/)；[Giải pháp Web](https://giaiphapweb.vn/tim-kiem-khach-hang-noi-that/)
+- 商業端：政府工程經國家招標網（Hệ thống mạng đấu thầu quốc gia） — [DauThau.asia](https://dauthau.asia/news/thong-tin-ho-tro/huong-dan-tra-thong-tin-nha-thau-va-ben-moi-thau-tren-he-thong-mang-dau-thau-quoc-gia-303.html)
+
+### Inferences
+- 越南缺少台灣「100室內設計」或中國「土巴兔」那種有公開簽約量的媒合平台；Happynest 更像「內容社群＋目錄」，裝修案源仍高度依賴 Facebook／Zalo 社團與口碑。
+- 房貸環境直接影響案源：2026 年 2 月房貸利率升至 13–14%，調查顯示 61% 有需求者延後購屋 6–12 個月 — [Dân Việt](https://danviet.vn/thang-2-2026-lai-suat-vay-mua-nha-co-de-tho-khong-d1403524.html)。
+
+### Gaps
+- 各通路占比、平台 GMV／抽成率、建商「精裝交屋」比例：全部未找到。
+
+---
+
+## 6. 趨勢與展望 2024–2026
+
+### Takeaway
+2025 年是越南房市與建築業的高點（新推案 +88%、建築業 +9.62%、GDP +8.02%），2026 年進入「供給高檔、利率上升、建材漲價」的消化期；結構性驅動（人均 GDP 破 USD 5,000、都市化、社宅百萬戶、飯店管線 8.4 萬間房）仍在，但家具出口承受美國 20–25% 關稅。
+
+### 6.1 建材與人工成本
+- 2025 年建材市場隨公共投資與房市回溫復甦，2026 年初續小漲 — [Thời báo Tài chính](https://thoibaotaichinhvietnam.vn/gia-vat-lieu-xay-dung-dau-nam-2026-tiep-tuc-tang-nhe-189707-189707.html)
+- 2026 年 3 月起部分建材漲 25–30%：砂 385,000 → 430,000 VND/m³（+11.7%）；砂石磚 +13.5–23.3%、水泥 +7%（運費推升）；鋼材一度破 1,500 萬 VND/噸，2026 年 6 月起回落；下半年鋼價預期持平至 +3–5% — [Hội VLXD](https://hoivlxdvn.org.vn/news/nua-dau-nam-2026-gia-vat-lieu-xay-dung-tang-giam-ra-sao-570943.html)；[Hà Thành Home](https://hathanhhome.vn/tin-tuc/gia-vat-lieu-xay-dung-nua-cuoi-nam-2026-xu-huong-tang-hay-giam-nhiet)；[SCG VLXD](https://scgvlxd.com/gia-vat-lieu-xay-dung-tang-hay-giam/)
+- 各省建設廳每月公告建材價格（例：西寧省 2026 年 4 月公告 5428/TB-SXD），為官方參考價 — [Thư viện Pháp luật](https://thuvienphapluat.vn/phap-luat-nha-dat/tong-hop-bang-gia-vat-lieu-xay-dung-34-tinh-thang-04-2026-moi-nhat-16743.html)
+- 人工：占住宅造價 25–35%；2026 年約 +8%；旺季 +10–20%；河內及周邊下半年維持高檔 — [Happynest](https://happynest.vn/kho-kien-thuc/100067117/don-gia-nhan-cong-xay-dung-va-chi-phi-moi-nhat-cap-nhat)；[Hometalk](https://hometalk.com.vn/don-gia-nhan-cong-xay-dung/)
+
+### 6.2 房市週期與利率
+- VARS：2025 年供給觸頂但價格難大跌；短線投資客開始被「洗牌」；2026 年為「大考」 — [Người Quan Sát](https://nguoiquansat.vn/vars-nguon-cung-cham-dinh-nhung-gia-kho-giam-sau-nha-dau-tu-luot-song-bat-dau-ngam-don-thanh-loc-270086.html)；[Dân Việt](https://danviet.vn/dong-tien-luot-song-chua-rut-lui-thi-truong-2026-doi-mat-phep-thu-lon-d1404508.html)
+- 利率：自 2025Q3 末上升；2026/2 多家銀行房貸升至 13–14%；2026 年中優惠 8–10%（6–36 個月）後浮動 12–14%；2026/9 優惠 8–10%（6–24 個月）後浮動 13–15%（Agribank 8.0%／Vietcombank 9.6%／BIDV 9.7%／MB 9–9.5%） — [Dân Việt](https://danviet.vn/thang-2-2026-lai-suat-vay-mua-nha-co-de-tho-khong-d1403524.html)；[CafeLand](https://cafeland.vn/tin-tuc/lai-suat-vay-mua-nha-thang-52026-thuc-te-nguoi-vay-dang-phai-tra-bao-nhieu-151133.html)；[Smartland](https://smartland.vn/lai-suat-vay-mua-nha-2026/)
+- 政策：2026-07-01 起 35 歲以下購買社會住宅貸款利率 6.5% — [LuatVietnam](https://luatvietnam.vn/tin-van-ban-moi/chinh-thuc-ap-dung-lai-suat-65-nam-cho-nguoi-duoi-35-tuoi-vay-mua-nha-o-xa-hoi-tu-01-7-2026-186-109829-article.html)
+- 建築業 2025 年獲利創高但應收帳款壓力升高；2026 年公共投資為主要引擎 — [Vietstock](https://vietstock.vn/2026/02/nganh-xay-dung-lap-dinh-loi-nhuan-2025-ap-luc-thu-hoi-cong-no-ngay-cang-lon-737-1403205.htm)
+
+### 6.3 商業空間：辦公與飯店
+- 辦公室裝修成本（C&W 2025）：河內 17,234,163 VND/m²、胡志明市 16,687,047 VND/m²（≈ USD 663／642 per m² ≈ USD 62／60 per sq ft ≈ 每坪 TWD 6.9／6.7 萬）；2025 年越南被雅加達超越，由亞太最便宜變第二便宜；2026 版改為「全含」口徑（含顧問、科技、家具、MEP、復原），不可直接比較 — [C&W Vietnam Fit-Out Cost Guide 2025](https://www.cushmanwakefield.com/en/vietnam/insights/office-fit-out-cost-guide)；[C&W APAC 2026](https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office)；[Retalk Asia](https://www.retalkasia.com/news/2025/03/06/office-fit-out-costs-asia-pacific-continue-rise-cushman-wakefield/1741232445)
+- 胡志明市辦公市場「趨向平衡、flight-to-quality」 — [C&W HCMC MarketBeat](https://www.cushmanwakefield.com/en/vietnam/insights/ho-chi-minh-city-marketbeat/office-marketbeat)
+- 飯店管線：Lodging Econometrics 2025Q4 越南 248 案／84,079 間（亞太除中國第二，僅次印度）；2025Q1 251 案／90,738 間；年中 247 案／83,022 間（含規劃階段） — [Skift DLR](https://dlr.skift.com/2026/02/19/china-india-and-vietnam-lead-apacs-hotel-pipeline/)；[Travel Daily News Asia](https://www.traveldailynews.asia/hotels-lodging/apec-hotel-construction-pipeline-hits-2074-projects-in-q1-2025-led-by-india-vietnam-and-thailand/)
+- 新供給集中峴港、富國島：富國島 >10,000 間（相當既有供給 70%）2027 年底前完工；胡志明市飯店供給 16,622 間（2025Q2，無新案）、河內 10,986 間 — [Savills 2026 展望](https://www.savills.com.vn/blog/article/235322/vietnam-eng/viet-nam-hospitability-market-2026.aspx)
+- 品牌管線：Marriott × Sun Group 10 家飯店／4,500 間（富國、頭頓，2026–2030）；IHG Crowne Plaza Bà Nà Hills 602 間（2027 初）、InterContinental Đà Lạt 200 間（2027 底） — [TTG Asia](https://www.ttgasia.com/2026/03/30/marriott-expands-vietnam-pipeline-with-10-new-hotels/)；[THP News](https://tophotel.news/ihg-signs-vietnam-partnership/)
+
+### 6.4 家具出口與關稅
+- 2025 年木材與木製品出口 USD 172 億（+6%），美國約 95 億；木製家具約 117 億；目標 180 億未達 — [Vietnam Briefing](https://www.vietnam-briefing.com/news/vietnams-wood-industry-2026-challenges-new-opportunities.html/)；[Alibaba Vietnam](https://alibabavietnam.com.vn/buc-tranh-xu-huong-xuat-khau-noi-that-nam-2026)
+- 美國關稅：Vietnam Briefing 稱 2025-10-14 起對越南家具課 25%；Ascentium 稱多數商品最終 20%（**兩源矛盾**） — [Vietnam Briefing](https://www.vietnam-briefing.com/news/vietnams-wood-industry-2026-challenges-new-opportunities.html/)；[Ascentium](https://www.ascentium.com/vietnam/insights/furniture-manufacturing-in-vietnam)
+- 協會轉向內需：HAWA 主張出口與內銷並行以分散風險 — [Vietnam News](https://vietnamnews.vn/economy/1797091/domestic-market-seen-as-key-growth-pillar-for-wood-industry.html)
+
+### 6.5 設計趨勢、AI／3D、永續、高齡化
+- 2026 年趨勢：多功能家具（活動牆、升降桌、隱藏床）進入高端公寓；暖色調取代冷色；Pantone 2026 年度色 Cloud Dancer — [Luxuo](https://www.luxuo.vn/house-of-luxe/interiors/xu-huong-noi-that-2026.html)；[NLĐ](https://diaoc.nld.com.vn/nhung-xu-huong-thiet-ke-noi-that-dang-dinh-hinh-nam-2026-196260128103227211.htm)
+- 材料：同步壓紋（EIR）美耐板為最突出趨勢（An Cường 2026 系列）；仿金屬面材取代不鏽鋼；FSC 木材、燒結石、低 VOC 成為消費者要求 — [Nông thôn & Phát triển](https://nongthonvaphattrien.vn/xu-huong-noi-that-2026-7-vat-lieu-va-be-mat-dang-dinh-hinh-thiet-ke-viet-a49985.html)；[Tiền Phong](https://tienphong.vn/xu-huong-noi-that-nam-2026-tam-nhin-moi-cho-khong-gian-song-post1819736.tpo)
+- 消費行為：「買一次用一輩子」模式退潮，中高端住宅的汰換需求成主要驅動 — [Afamily](https://afamily.vn/vi-sao-nguoi-co-nha-rieng-khong-con-man-ma-voi-noi-that-mua-mot-lan-dung-ca-doi-tien-dang-do-vao-dau-236260729162241944.chn)
+- AI／3D：AiHouse（AI＋可編輯 3D，自稱 8,000 萬模型）、Homestyler（越南文介面）等工具普及；HAWA 專文討論 AI 設計；**無產業採用率數據** — [AiHouse](https://www.aihouse.com/vi)；[HAWA](https://hawa.vn/khi-ai-thiet-ke-noi-that/)；[AWE](https://awe.edu.vn/phan-mem-ai-thiet-ke-noi-that)
+- 預製／模組化：搜尋結果無越南裝修模組化的具體數據（缺口）。
+- 高齡化：60 歲以上占比 2025 年 14.5%（前一年 14%）、總生育率 1.93；人口 1.023 億、都市化 38.6% — [Cục Thống kê](https://www.nso.gov.vn/tin-tuc-thong-ke/2026/01/thong-cao-bao-chi-ve-tinh-hinh-dan-so-lao-dong-viec-lam-quy-iv-va-nam-2025/)
+
+### 6.6 3–5 年展望（本人綜合判斷）
+- **驅動**：(1) 2025 年 12.8 萬戶新推案與河內 7 萬戶管線在 2026–2028 年陸續交屋，毛胚制度確保每戶轉化為裝修案；(2) 社宅百萬戶計畫（2025 年 10.3 萬戶、2026 年目標 11 萬戶）帶來低價標準化裝修需求；(3) 人均 GDP 突破 USD 5,000、人均住宅面積往 30–32 m² 走；(4) 飯店管線 8.4 萬間與富國島 1 萬間集中於 2026–2027 年完工，支撐 fit-out；(5) 家具出口商因關稅轉攻內需，供給端競爭加劇但材料更易取得。
+- **風險**：(1) 房貸利率 13–15% 與 2026Q1 吸收率降至 58%，投資客持有單位延後裝修；(2) 建材 2026 年漲 10–30%、人工 +8% 侵蝕固定報價；(3) 美國家具關稅 20–25% 衝擊製造商現金流；(4) 產業極度分散、無標準合約與履約保證（詳 VN-B）；(5) 研究機構對市場規模的分歧（USD 15–50 億）顯示數據基礎薄弱。
+
+---
+
+## 7. 與台灣比較的錨點
+
+| 指標 | 越南 | 年份 | 台灣（TW-A 筆記） | 越南／台灣倍數 | 來源（越南） | 信心 |
+|---|---|---|---|---|---|---|
+| 人均 GDP | USD 5,026 | 2025 | USD 39,477 | 0.13× | [Báo Chính phủ](https://baochinhphu.vn/gdp-nam-2025-tang-truong-802-binh-quan-dau-nguoi-dat-5026-usd-102260105152509472.htm) | 高 |
+| 名目 GDP | USD 5,140 億 | 2025 | ≈ USD 8,600–9,200 億 | 0.57× | [VnEconomy](https://vneconomy.vn/tang-truong-gdp-2025-dat-802-quy-mo-nen-kinh-te-vuot-moc-514-ty-usd.htm) | 高 |
+| 人口 | 1.023 億 | 2025 | ≈ 2,340 萬 | 4.4× | [Nhân Dân](https://nhandan.vn/dan-so-trung-binh-cua-viet-nam-nam-2025-dat-1023-trieu-nguoi-post934760.html) | 高 |
+| 住宅翻新／改善市場占 GDP | 0.30%（IMARC USD 15.2 億）～0.66%（VMR USD 31.2 億／2024 GDP） | 2024–25 | ≈ 2.0%（NT$5,500 億） | 0.15–0.33× | 本人計算 | 低–中 |
+| 家具內需占 GDP | ≈ 1.0%（VIFOREST USD 50 億） | 2025 | — | — | 本人計算 | 低 |
+| 人均裝修／家居改善支出 | USD 15（IMARC）～31（VMR）／人／年；家具 USD 50／人／年 | 2025 | ≈ USD 746／人／年 | 0.02–0.07× | 本人計算；[Vietnam News](https://vietnamnews.vn/economy/1797091/domestic-market-seen-as-key-growth-pillar-for-wood-industry.html) | 低–中 |
+| 住宅裝修單價・中階 | 500–650 萬 VND/m² ≈ USD 192–250/m² ≈ **每坪 TWD 2.0–2.6 萬** | 2025 | 新成屋每坪 NT$6–10 萬（USD 576–960/m²） | 0.26–0.33× | [TNT Home](https://tnthome.com.vn/chi-phi-thiet-ke-noi-that-chung-cu-2-phong-ngu-2025/) | 中低 |
+| 住宅裝修單價・高階 | 700–1,000 萬 VND/m² ≈ 每坪 TWD 2.8–4.0 萬 | 2025 | 老屋翻新每坪 NT$10–15 萬+ | 0.27× | 同上 | 中低 |
+| 設計費 | 15–25 萬 VND/m² ≈ USD 5.8–9.6/m² ≈ **每坪 TWD 600–1,000**；高端 35–55 萬 VND/m² ≈ 每坪 TWD 1,400–2,200 | 2025–26 | 每坪 NT$4,500–12,000（USD 43–115/m²） | 0.08–0.13× | [Xây dựng Á Âu](https://xaydungaau.com/bao-gia-dich-vu-thiet-ke-noi-that/)；[XHOME](https://xhomesg.com.vn/en/bao-gia-thiet-ke-noi-that/) | 中低 |
+| 設計費占工程比 | ≈ 3–6%（本人推算） | 2025 | 無資料 | — | 本人計算 | 低 |
+| 商辦裝修（C&W） | HCMC USD 642/m²（≈ USD 60/sq ft）≈ 每坪 TWD 6.7 萬 | 2025 | 台北基本級 USD 61/sq ft ≈ 每坪 NT$6.8 萬 | **≈ 1.0×（基本級）** | [C&W](https://www.cushmanwakefield.com/en/vietnam/insights/office-fit-out-cost-guide) | 高 |
+| 一手公寓價 | 河內 79→128 百萬 VND/m²（USD 3,040→4,920）；HCMC USD 3,080–4,620 | 2025–26 | 宜蘭成屋每坪 23.6 萬 ≈ USD 2,270/m²；台北遠高於此 | — | [Vietstock](https://vietstock.vn/2026/05/vars-ire-gia-ban-bat-dong-san-tiep-tuc-leo-thang-ha-noi-cham-128-trieum2-4220-1436994.htm) | 中 |
+| 裝修單價占一手房價比（中階） | ≈ 4–8%（500–650 萬 ÷ 80–128 百萬 VND/m²） | 2025–26 | — | — | 本人計算 | 低 |
+| 人均住宅面積 | 26.6 m² | 2024 | — | — | [VnExpress](https://vnexpress.net/dien-tich-nha-o-binh-quan-26-6-m2-moi-nguoi-4836873.html) | 高 |
+| 登記業者密度 | 木材家具業 >5,000 家 ÷ 1.023 億人 ≈ 每萬人 0.5 家（口徑不同，僅供參考） | 2025 | 1.7 萬家 ≈ 每萬人 7.3 家 | — | [Dân trí](https://dantri.com.vn/bat-dong-san/vi-sao-nganh-noi-that-viet-nam-chua-ghi-dau-an-tren-the-gioi-20250607213731069.htm) | 低 |
+| 年度新推案 | ≈ 128,000 戶 | 2025 | 54 萬戶預售完工潮 2025–27 | — | [Vietstock／VARS](https://vietstock.vn/2026/03/vars-ire-nhieu-nha-dau-tu-bat-dong-san-tang-gap-doi-tai-san-chi-trong-1-2-nam-4220-1415575.htm) | 中 |
+| 房貸利率 | 優惠 8–10% → 浮動 13–15% | 2026 | ≈ 2.2–2.6% | 5× | [Smartland](https://smartland.vn/lai-suat-vay-mua-nha-2026/) | 中 |
+
+> 解讀（本人）：越南住宅裝修單價約為台灣的 1/4–1/3，設計費約 1/10，但**商辦裝修基本級成本與台北幾乎相同**（兩地皆以 C&W 同一方法衡量），顯示商業 fit-out 已接軌國際成本結構，而住宅端仍是低價、以木作櫃體為主的市場。越南裝修案量來源是新建交屋（每年十餘萬戶），台灣則是存量老屋翻新；兩地的通路、合約與風險結構因此截然不同。
+
+---
+
+## 8. 關鍵數字總表
+
+| 指標 | 數值 | 年份 | 來源 | 定義／備註 | 信心 |
+|---|---|---|---|---|---|
+| GDP 成長率／名目 GDP | 8.02%／12,847.6 兆 VND ≈ USD 5,140 億 | 2025 | [VnEconomy](https://vneconomy.vn/tang-truong-gdp-2025-dat-802-quy-mo-nen-kinh-te-vuot-moc-514-ty-usd.htm) | 國家統計局初估 | 高 |
+| 人均 GDP | USD 5,026 | 2025 | [Báo Chính phủ](https://baochinhphu.vn/gdp-nam-2025-tang-truong-802-binh-quan-dau-nguoi-dat-5026-usd-102260105152509472.htm) | — | 高 |
+| 建築業增加值成長 | +9.62%；貢獻 8.47% | 2025 | 同上 | 無絕對金額 | 高 |
+| 人口／都市化／60 歲以上 | 1.023 億／38.6%／14.5% | 2025 | [Cục Thống kê](https://www.nso.gov.vn/tin-tuc-thong-ke/2026/01/thong-cao-bao-chi-ve-tinh-hinh-dan-so-lao-dong-viec-lam-quy-iv-va-nam-2025/) | — | 高 |
+| 建築服務市場（含室內設計） | USD 1.6 B → 2.3 B（2034，CAGR 4.08%） | 2025 | [IMARC](https://www.imarcgroup.com/vietnam-architectural-services-market) | 研究機構估計 | 中 |
+| 家居改善市場 | USD 1,522.6 M → 1,883 M（2034，CAGR 2.39%） | 2025 | [IMARC](https://www.imarcgroup.com/vietnam-home-improvement-market) | 研究機構估計 | 中 |
+| 家居改善市場（另） | USD 3.12 B → 3.95 B（2032，CAGR 3%） | 2024 | [Verified Market Research](https://www.verifiedmarketresearch.com/product/vietnam-home-improvement-market/) | 口徑較寬 | 中 |
+| 家居裝飾市場 | USD 4.0 B → 5.4 B（2034，CAGR 3.23%） | 2025 | [IMARC](https://www.imarcgroup.com/vietnam-home-decor-market) | — | 中 |
+| 家用家具市場 | USD 474.3 M（2026：515.4 M）→ 780.5 M（2031，CAGR 8.66%） | 2025 | [Mordor](https://www.mordorintelligence.com/industry-reports/vietnam-home-furniture-market) | 內需家用家具 | 中 |
+| 家具產業（含出口） | USD 10.47 B → 14.87 B（2031，CAGR 7.26%） | 2026 | [Mordor](https://www.mordorintelligence.com/industry-reports/vietnam-furniture-market) | 含出口 | 中 |
+| 家具內需（協會估） | ≈ USD 5 B（每人 USD 50／年）；研究估 7 B、2030 >7.3 B | 2025 | [Vietnam News](https://vietnamnews.vn/economy/1797091/domestic-market-seen-as-key-growth-pillar-for-wood-industry.html) | VIFOREST 粗估 | 中 |
+| 木材木製品出口 | USD 17.2 B（+6%）；美國 ≈ 9.5 B | 2025 | [Vietnam Briefing](https://www.vietnam-briefing.com/news/vietnams-wood-industry-2026-challenges-new-opportunities.html/) | 海關 | 高 |
+| 新推案／成交 | ≈ 128,000 戶（+88%）／≈ 88,000 戶（吸收 68%） | 2025 | [Vietstock／VARS](https://vietstock.vn/2026/03/vars-ire-nhieu-nha-dau-tu-bat-dong-san-tang-gap-doi-tai-san-chi-trong-1-2-nam-4220-1415575.htm) | 一手 | 中 |
+| 商品住宅完工／社宅完工 | 29,901 戶／102,633 戶 | 2025 | [Báo Chính phủ](https://baochinhphu.vn/nguon-cung-tang-gia-nha-chua-giam-102260117005432583.htm)；[Báo Phú Thọ](https://baophutho.vn/ca-nuoc-hoan-thanh-102-633-can-nha-o-xa-hoi-vuot-2-pha-ke-hoach-244359.htm) | 建設部 | 高 |
+| 河內新公寓供給 | Savills 25,200／CBRE ≈ 31,000 戶；H1 14,900 | 2025 | [Savills](https://www.savills.com.vn/blog/article/221175/vietnam-eng/apartment-market-overview-in-q1-2025.aspx)；[VietnamNet](https://vietnamnet.vn/en/vietnam-s-housing-market-hit-by-price-and-policy-pressures-2420795.html) | 預估值分歧 | 中 |
+| 胡志明市新公寓供給 | ≈ 4,300 戶（9M，60% 高端） | 2025 | [Savills](https://www.savills.com.vn/blog/article/225644/vietnam-eng/hcmc-apartment-market-at-the-end-of-2025.aspx) | — | 中 |
+| 河內一手公寓均價 | 79 百萬 VND/m²（2025Q1）→ 128 百萬（2026Q1） | 2025–26 | [The Investor](https://theinvestor.vn/hanoi-surpasses-hcmc-in-apartment-absorption-in-q1-savills-d15361.html)；[Vietstock](https://vietstock.vn/2026/05/vars-ire-gia-ban-bat-dong-san-tiep-tuc-leo-thang-ha-noi-cham-128-trieum2-4220-1436994.htm) | — | 中 |
+| 人均住宅面積 | 26.6 m²（2024）；目標 27（2025–26）、30–32（2030） | 2024 | [VnExpress](https://vnexpress.net/dien-tich-nha-o-binh-quan-26-6-m2-moi-nguoi-4836873.html) | GSO 調查 | 高 |
+| 公寓全包裝修單價 | 基本 350–450／中階 500–650／高階 700–1,000 萬 VND/m² | 2025 | [TNT Home](https://tnthome.com.vn/chi-phi-thiet-ke-noi-that-chung-cu-2-phong-ngu-2025/) | 業者報價 | 中低 |
+| 毛胚→基本完成工料 | 420–560 萬 VND/m²（未含 VAT） | 2025 | [Mhome](https://mhomevietnam.vn/vn/bang-gia-thiet-ke-hoan-thien-tho-can-ho.html) | 不含家具 | 中低 |
+| 設計費 | 15–25 萬 VND/m²（主流）；35–55 萬（高端） | 2025–26 | [Xây dựng Á Âu](https://xaydungaau.com/bao-gia-dich-vu-thiet-ke-noi-that/)；[XHOME](https://xhomesg.com.vn/en/bao-gia-thiet-ke-noi-that/) | 業者報價 | 中低 |
+| 毛胚 vs 完成品價差 | 200–500 萬 VND/m² 或 10–30% | 2025 | [Tuổi Trẻ／PLO](https://tuoitre.vn/plo/mua-chung-cu-nen-chon-nha-giao-tho-hay-hoan-thien-109586696.htm) | — | 中 |
+| 公寓翻新工期 | 1–3 個月 | 2026 | [CafeF](https://cafef.vn/can-ho-duoc-cai-tao-lam-moi-de-thay-doi-hoan-toan-dien-mao-188260920121654911.chn) | 個案 | 中低 |
+| 辦公室裝修成本 | 河內 17,234,163／HCMC 16,687,047 VND/m² | 2025 | [C&W](https://www.cushmanwakefield.com/en/vietnam/insights/office-fit-out-cost-guide) | 亞太第二便宜 | 高 |
+| 飯店管線 | 248 案／84,079 間 | 2025Q4 | [Skift DLR](https://dlr.skift.com/2026/02/19/china-india-and-vietnam-lead-apacs-hotel-pipeline/) | LE，含規劃階段 | 中 |
+| 木材家具企業數 | >5,000 家；HAWA+BIFA 會員近 1,000 | 2025 | [Dân trí](https://dantri.com.vn/bat-dong-san/vi-sao-nganh-noi-that-viet-nam-chua-ghi-dau-an-tren-the-gioi-20250607213731069.htm)；[Vietnam News](https://vietnamnews.vn/economy/1727961/hcm-city-set-to-become-global-hub-for-wood-furniture-production-and-export.html) | 非設計業專屬 | 中 |
+| AA Corporation 稅後淨利 | 2022 ≈ 5,290 億 → 2023 ≈ 200 億 VND（-96%）；負債 3.636 兆 | 2023 | [MarketTimes](https://markettimes.vn/xay-dung-kien-truc-aa-bao-lai-boc-hoi-96-2-trong-nam-qua-57581.html) | 公司債揭露 | 高 |
+| XHOME 規模 | 16 省市、1,000 名以上設計師（自報）；2023 年 17 分公司、600 人 | 2025 | [XHOME Profile](https://xhomesg.com.vn/wp-content/uploads/2025/05/XHOME-Profile-2025.pdf) | 自報 | 中 |
+| Happynest 流量 | 月訪 400 萬、社團 40 萬人 | ≈2023 | [Bongdaplus](https://bongdaplus.vn/ben-ngoai-duong-piste/happynest-giup-hanh-trinh-lam-nha-cua-nguoi-viet-tro-nen-de-dang-hon-3981922305.html) | 自報 | 中低 |
+| 社群用戶 | Facebook 7,900 萬；Zalo 7,830 萬 MAU | 2025 | [Elite Asia](https://www.eliteasia.co/top-digital-and-social-media-trends-in-vietnam-in-2026/) | — | 中 |
+| 建材漲幅 | 部分品項 +25–30%（2026/3 起）；砂 +11.7%；水泥 +7% | 2026 | [Hội VLXD](https://hoivlxdvn.org.vn/news/nua-dau-nam-2026-gia-vat-lieu-xay-dung-tang-giam-ra-sao-570943.html) | — | 中 |
+| 人工漲幅／占比 | +8%；占住宅造價 25–35% | 2026 | [Happynest](https://happynest.vn/kho-kien-thuc/100067117/don-gia-nhan-cong-xay-dung-va-chi-phi-moi-nhat-cap-nhat) | — | 中低 |
+| 房貸利率 | 優惠 8–10% → 浮動 13–15%；61% 購屋者延後 6–12 個月 | 2026 | [Smartland](https://smartland.vn/lai-suat-vay-mua-nha-2026/)；[Dân Việt](https://danviet.vn/thang-2-2026-lai-suat-vay-mua-nha-co-de-tho-khong-d1403524.html) | — | 中 |
+| 企業退出數 | 227,200 家（+14.8%） | 2025 | [Tạp chí Ngân hàng](https://tapchinganhang.gov.vn/tac-dong-cua-luat-phuc-hoi-pha-san-nam-2025-doi-voi-he-thong-tai-chinh-ngan-hang-viet-nam-17375.html) | 全產業 | 中 |
+
+---
+
+## 9. 對台灣業者的啟示
+
+1. **以「交屋裝修套餐」切入，而非老屋翻新**：越南每年 10 萬戶以上新公寓以毛胚／基本完成交屋，河內 2026 年起還有 7 萬戶管線；台灣業者的預售客變／新成屋輕裝修經驗（每坪 5–10 萬）可降規格為每坪 TWD 2–4 萬的標準化方案，鎖定單價 80–128 百萬 VND/m² 的中高端案（裝修占房價僅 4–8%，買方付費意願高）。
+2. **設計費無法成為獨立獲利來源**：越南設計費每坪僅 TWD 600–1,000（台灣 1/10），多數業者以設計引流、靠櫃體製作與施工獲利；台灣業者需綁定在地工廠（或自設如 XHOME 模式）才有毛利，純設計輸出只能走高端（每坪 TWD 1,400–2,200）或飯店／商辦顧問。
+3. **商辦與飯店 fit-out 的成本結構已與台北接軌**：C&W 顯示胡志明市辦公裝修基本級與台北基本級同為約 USD 60/sq ft，而越南飯店管線 8.4 萬間客房集中 2026–2027 年完工；對有國際品牌飯店經驗的台灣業者，B2B fit-out 是比住宅更可規模化、且不受設計費低價拖累的切入口（但須面對 AA Corporation 等本土總包的價格與產能）。
+4. **獲客走 Facebook／Zalo 社團與建商合作，而非平台**：越南沒有公開成交量的媒合平台，Happynest 偏內容社群；在地化的做法是與建商（Vinhomes 等大案占河內供給近九成）簽「交屋裝修方案」合作，並經營 Zalo OA 與 TikTok 短影音。
+5. **2026 年進場需對沖成本與利率風險**：建材 2026 年漲 10–30%、人工 +8%、房貸浮動 13–15%、吸收率降至 58%；合約應採分段計價與材料價格調整條款（越南慣例多為固定總價，可成差異化亦可成風險）。
+6. **善用台灣供應鏈但避開關稅口徑**：越南本土板材（An Cường）、五金與木作工資遠低於台灣，可作為台灣高端案的供應基地；但美國對越南家具 20–25% 關稅使越南製造商轉攻內需，2026 年後本地競爭將更激烈。
+
+---
+
+## 10. 資料缺口
+
+1. **室內設計／裝修服務的獨立市場規模**：無任何官方或研究機構數值；IMARC 建築服務報告有子類但未公開。
+2. **住宅 vs 商業、新建 vs 存量占比**：無。
+3. **全國住宅完工樓地板面積（m²）**：僅有戶數；建設部 2025 年第四季報告應有但未能開啟。
+4. **二手住宅成交量與新屋／二手比例**：VARS 僅統計一手。
+5. **屋齡分布、翻新週期／頻率、翻新滲透率、每案平均支出的調查值**：全部缺乏，只有業者報價與個案。
+6. **毛胚 vs 基本完成交屋比例、建商精裝比例**：無統計。
+7. **設計／裝修公司家數（VSIC 74100 或營建分類）**：未取得企業登記統計；無法計算業者密度。
+8. **前 10–20 大設計／裝修公司營收**：AA Corporation 以外皆無公開財務；AA 2024–2025 年財報未取得。
+9. **2023–2026 年裝修業併購／募資／破產案例**：搜尋未發現任何個案（不代表不存在）。
+10. **通路占比、平台 GMV／抽成率、Happynest 2025 年更新數據**：無。
+11. **AI／3D 工具與預製／模組化在越南裝修業的採用率**：無。
+12. **美國對越南家具關稅稅率**：來源矛盾（20% vs 25%）。
+13. **IKEA、Nitori、JYSK、BAYA 2025–2026 年店數**：未確認。
+14. **建築業增加值絕對金額（VND）**：僅有成長率。
+
+---
+
+## 11. 來源清單
+
+| # | 標題 | 機構 | 年份 | URL |
+|---|---|---|---|---|
+| 1 | Vietnam Architectural Services Market | IMARC | 2025 | https://www.imarcgroup.com/vietnam-architectural-services-market |
+| 2 | Vietnam Home Improvement Market | IMARC | 2025 | https://www.imarcgroup.com/vietnam-home-improvement-market |
+| 3 | Vietnam Home Decor Market | IMARC | 2025 | https://www.imarcgroup.com/vietnam-home-decor-market |
+| 4 | Vietnam Furniture Market | IMARC | 2025 | https://www.imarcgroup.com/vietnam-furniture-market |
+| 5 | Vietnam Home Furniture Market | IMARC | 2025 | https://www.imarcgroup.com/vietnam-home-furniture-market |
+| 6 | Vietnam Home Improvement Market | Verified Market Research | 2024 | https://www.verifiedmarketresearch.com/product/vietnam-home-improvement-market/ |
+| 7 | Vietnam Home Furniture Market Data | Mordor Intelligence | 2025 | https://www.mordorintelligence.com/industry-reports/vietnam-home-furniture-market |
+| 8 | Vietnam Furniture Market | Mordor Intelligence | 2026 | https://www.mordorintelligence.com/industry-reports/vietnam-furniture-market |
+| 9 | Vietnam Home Furniture Market | Expert Market Research | 2025 | https://www.expertmarketresearch.com/reports/vietnam-home-furniture-market |
+| 10 | Số 03/2025: Ngành công nghiệp sản xuất đồ nội thất | Thông tin Công Thương（工商部資訊中心） | 2025 | https://thongtincongthuong.vn/upload/vtic/Truyen.thong.2021/Nam.2025/q2517.pdf |
+| 11 | Vì sao ngành nội thất Việt Nam chưa ghi dấu ấn trên thế giới? | Dân trí | 2025 | https://dantri.com.vn/bat-dong-san/vi-sao-nganh-noi-that-viet-nam-chua-ghi-dau-an-tren-the-gioi-20250607213731069.htm |
+| 12 | Thị trường đồ gỗ nội thất nội địa Việt Nam 2025 | Gỗ ITT | 2025 | https://ittb.vn/news/13042025/ |
+| 13 | Bức tranh xu hướng xuất khẩu nội thất năm 2026 | Alibaba Vietnam | 2026 | https://alibabavietnam.com.vn/buc-tranh-xu-huong-xuat-khau-noi-that-nam-2026 |
+| 14 | Domestic market seen as key growth pillar for wood industry | Vietnam News（VNA） | 2025 | https://vietnamnews.vn/economy/1797091/domestic-market-seen-as-key-growth-pillar-for-wood-industry.html |
+| 15 | HCM City set to become global hub for wood, furniture production | Vietnam News | 2025 | https://vietnamnews.vn/economy/1727961/hcm-city-set-to-become-global-hub-for-wood-furniture-production-and-export.html |
+| 16 | Navigating Vietnam's Wood Industry in 2026 | Vietnam Briefing（Dezan Shira） | 2026 | https://www.vietnam-briefing.com/news/vietnams-wood-industry-2026-challenges-new-opportunities.html/ |
+| 17 | Furniture Manufacturing in Vietnam 2025–2030 | Ascentium | 2025 | https://www.ascentium.com/vietnam/insights/furniture-manufacturing-in-vietnam |
+| 18 | Chi phí thiết kế nội thất chung cư 2 phòng ngủ 2025 | TNT Home | 2025 | https://tnthome.com.vn/chi-phi-thiet-ke-noi-that-chung-cu-2-phong-ngu-2025/ |
+| 19 | Chi phí làm nội thất chung cư 2025 | Apacons | 2025 | https://apacons.vn/chi-phi-lam-noi-that-chung-cu-chi-tiet-2025/ |
+| 20 | Bảng giá thiết kế hoàn thiện thô căn hộ | Mhome Vietnam | 2025 | https://mhomevietnam.vn/vn/bang-gia-thiet-ke-hoan-thien-tho-can-ho.html |
+| 21 | Bảng giá thiết kế nội thất | Mhome Vietnam | 2025 | https://mhomevietnam.vn/vn/bang-gia-thiet-ke-noi-that.html |
+| 22 | Thi công nội thất chung cư trọn gói | Nội thất Mạnh Hệ | 2025 | https://noithatmanhhe.vn/thi-cong-noi-that-chung-cu |
+| 23 | Thi công nội thất chung cư trọn gói 2025 | Hoàn Mỹ Decor | 2025 | https://hoanmydecor.vn/thi-cong-noi-that-chung-cu |
+| 24 | Báo giá thi công nội thất trọn gói theo m2 2025 | MOHO | 2025 | https://moho.com.vn/blogs/thi-cong-noi-that-thiet-ke-noi-that/bao-gia-thi-cong-noi-that-tron-goi-theo-m2-moi-nhat-2025 |
+| 25 | Báo giá dịch vụ thiết kế nội thất 2025 | Xây dựng Á Âu | 2025 | https://xaydungaau.com/bao-gia-dich-vu-thiet-ke-noi-that/ |
+| 26 | Thiết kế nội thất bao nhiêu tiền 1m2 (2026) | Xây dựng Á Âu | 2026 | https://xaydungaau.com/thiet-ke-noi-that-bao-nhieu-tien/ |
+| 27 | Báo giá dịch vụ thiết kế nội thất 2025 | Gobaca | 2025 | https://gobaca.vn/bao-gia-dich-vu-thiet-ke-noi-that-moi-nhat-2025-n147.html |
+| 28 | Báo giá thiết kế nội thất 2025 | Việt Nhật Group | 2025 | https://vietnhatgroup.com/bang-bao-gia-thiet-ke-noi-that/ |
+| 29 | Báo giá thiết kế nội thất 2026 | XHOME Sài Gòn | 2026 | https://xhomesg.com.vn/en/bao-gia-thiet-ke-noi-that/ |
+| 30 | Bảng báo giá thiết kế thi công nội thất trọn gói | Nội thất Viva | 2025 | https://noithatviva.vn/bang-bao-gia-thiet-ke-thi-cong-noi-that-tron-goi-moi-nhat.html |
+| 31 | Vietnam Office Fit Out Cost Guide 2025 | Cushman & Wakefield Vietnam | 2025 | https://www.cushmanwakefield.com/en/vietnam/insights/office-fit-out-cost-guide |
+| 32 | Office Fit Out Cost Guide Asia Pacific 2026 | Cushman & Wakefield | 2026 | https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office |
+| 33 | Office fit out costs Asia Pacific continue to rise | Retalk Asia（轉載 C&W） | 2025 | https://www.retalkasia.com/news/2025/03/06/office-fit-out-costs-asia-pacific-continue-rise-cushman-wakefield/1741232445 |
+| 34 | HCMC Office MarketBeat | Cushman & Wakefield | 2025 | https://www.cushmanwakefield.com/en/vietnam/insights/ho-chi-minh-city-marketbeat/office-marketbeat |
+| 35 | Hanoi surpasses HCMC in apartment absorption in Q1: Savills | The Investor | 2025 | https://theinvestor.vn/hanoi-surpasses-hcmc-in-apartment-absorption-in-q1-savills-d15361.html |
+| 36 | Apartment market overview Q1 2025 | Savills Vietnam | 2025 | https://www.savills.com.vn/blog/article/221175/vietnam-eng/apartment-market-overview-in-q1-2025.aspx |
+| 37 | HCMC apartment market Q1 2025 | Savills | 2025 | https://www.savills.com/blog/article/221553-1/vietnam-eng/0425-hcmc-apartment-market-in-q1-2025-limited-new-supply.aspx |
+| 38 | HCMC apartment market at the end of 2025 | Savills Vietnam | 2025 | https://www.savills.com.vn/blog/article/225644/vietnam-eng/hcmc-apartment-market-at-the-end-of-2025.aspx |
+| 39 | HCMC apartment prices keep climbing | The Investor（CBRE） | 2025 | https://theinvestor.vn/hcmc-apartment-prices-keep-climbing-as-supply-shortfall-persists-d17469.html |
+| 40 | Vietnam's housing market hit by price and policy pressures | VietnamNet | 2025 | https://vietnamnet.vn/en/vietnam-s-housing-market-hit-by-price-and-policy-pressures-2420795.html |
+| 41 | VARS IRE: Nhiều nhà đầu tư tăng gấp đôi tài sản | Vietstock（VARS IRE） | 2026 | https://vietstock.vn/2026/03/vars-ire-nhieu-nha-dau-tu-bat-dong-san-tang-gap-doi-tai-san-chi-trong-1-2-nam-4220-1415575.htm |
+| 42 | VARS IRE: Giá bán tiếp tục leo thang, Hà Nội chạm 128 triệu/m2 | Vietstock（VARS IRE） | 2026 | https://vietstock.vn/2026/05/vars-ire-gia-ban-bat-dong-san-tiep-tuc-leo-thang-ha-noi-cham-128-trieum2-4220-1436994.htm |
+| 43 | Báo cáo thị trường BĐS quý 1/2025 | VARS | 2025 | https://vars.com.vn/tin-tuc/tcbc-bao-cao-thi-truong-bat-dong-san-viet-nam-quy-1-nam-2025-kich-hoat-chu-ky-moi-n1937 |
+| 44 | Thị trường BĐS 2025: sẵn sàng bước vào giai đoạn tăng trưởng | VARS | 2025 | https://vars.com.vn/tin-tuc/thi-truong-bat-dong-san-nam-2025-san-sang-buoc-vao-giai-doan-tang-truong-n1833 |
+| 45 | VARS: Nguồn cung chạm đỉnh nhưng giá khó giảm sâu | Người Quan Sát | 2026 | https://nguoiquansat.vn/vars-nguon-cung-cham-dinh-nhung-gia-kho-giam-sau-nha-dau-tu-luot-song-bat-dau-ngam-don-thanh-loc-270086.html |
+| 46 | Nguồn cung tăng, giá nhà chưa giảm（2025 年完工統計） | Báo Chính phủ | 2026 | https://baochinhphu.vn/nguon-cung-tang-gia-nha-chua-giam-102260117005432583.htm |
+| 47 | Cả nước hoàn thành 102.633 căn nhà ở xã hội | Báo Phú Thọ | 2026 | https://baophutho.vn/ca-nuoc-hoan-thanh-102-633-can-nha-o-xa-hoi-vuot-2-pha-ke-hoach-244359.htm |
+| 48 | Bộ Xây dựng mục tiêu >110.000 căn NOXH 2026 | Ashui | 2026 | https://ashui.com/bo-xay-dung-dat-muc-tieu-hoan-thanh-tren-110-000-can-nha-o-xa-hoi-trong-2026/ |
+| 49 | Bộ Xây dựng công bố thông tin nhà ở và thị trường BĐS quý II/2025 | Bộ Xây dựng（建設部） | 2025 | https://moc.gov.vn/vn/tin-tuc/1269/87076/bo-xay-dung-cong-bo-thong-tin-ve-nha-o-va-thi-truong-bat-dong-san-trong-quy-ii-nam-2025.aspx |
+| 50 | TP.HCM vượt kế hoạch 14,8 triệu m2 sàn nhà ở | Thanh tra | 2025 | https://thanhtra.com.vn/an-sinh-AFA9C5670/can-dich-2025-thanh-pho-ho-chi-minh-vuot-ke-hoach-148-trieu-m2-san-nha-o-fd5a01696.html |
+| 51 | TP.HCM hoàn thành gần 34 triệu m2 sàn 2021–2025 | Báo Xây dựng | 2025 | https://batdongsan.baoxaydung.vn/tphcm-hoan-thanh-gan-34-trieu-m2-san-nha-o-giai-doan-2021-2025-19225062607232034.htm |
+| 52 | Diện tích nhà ở bình quân 26,6 m2 mỗi người | VnExpress | 2025 | https://vnexpress.net/dien-tich-nha-o-binh-quan-26-6-m2-moi-nguoi-4836873.html |
+| 53 | Năm 2025 phấn đấu 27 m2 sàn/người | VnEconomy | 2024 | https://vneconomy.vn/nam-2025-phan-dau-dien-tich-nha-o-binh-quan-dau-nguoi-toan-quoc-dat-27-m2-san-nguoi.htm |
+| 54 | Bộ Xây dựng mục tiêu 2026 | HTV / Doanh nhân Sài Gòn | 2026 | https://htv.vn/doanhnhansaigon/bo-xay-dung-dat-muc-tieu-tang-dien-tich-nha-o-va-hoan-thanh-hon-110-000-can-nha-xa-hoi-trong-nam-2026-333218.html |
+| 55 | Đến 2030 diện tích nhà ở bình quân 30 m2 | Thư viện Pháp luật | 2024 | https://thuvienphapluat.vn/chinh-sach-phap-luat-moi/vn/ho-tro-phap-luat/bat-dong-san/38820/den-2030-dien-tich-nha-o-binh-quan-toan-quoc-dat-30m2-san-nguoi |
+| 56 | Chính phủ mục tiêu 32 m2 sàn/người 2030 | Vietnambiz | 2026 | https://vietnambiz.vn/chinh-phu-dat-muc-tieu-den-2030-binh-quan-moi-nguoi-co-toi-thieu-32-m2-san-nha-o-co-3-5-do-thi-tam-co-quoc-te-202643162114851.htm |
+| 57 | TP.HCM gần hoàn thành kế hoạch nhà ở 2025 | CafeLand | 2025 | https://cafeland.vn/tin-tuc/tphcm-gan-hoan-thanh-ke-hoach-nha-o-2025-nguoi-thue-tro-nguoi-tre-duoc-huong-gi-147996.html |
+| 58 | Mua chung cư nên chọn nhà giao thô hay hoàn thiện? | Tuổi Trẻ / PLO | 2025 | https://tuoitre.vn/plo/mua-chung-cu-nen-chon-nha-giao-tho-hay-hoan-thien-109586696.htm |
+| 59 | Nên chọn mua căn hộ thô hay đã hoàn thiện? | Rever | 2025 | https://blog.rever.vn/nen-chon-mua-can-ho-tho-hay-da-hoan-thien |
+| 60 | So sánh căn hộ bàn giao thô và hoàn thiện | Homedy | 2025 | https://homedy.com/news/so-sanh-uu-nhuoc-diem-cua-can-ho-ban-giao-tho-va-can-ho-ban-giao-hoan-thien-ne4898 |
+| 61 | Những điều cần lưu ý khi mua căn hộ bàn giao thô | Báo Xây dựng | 2025 | https://batdongsan.baoxaydung.vn/nhung-dieu-can-luu-y-khi-mua-can-ho-ban-giao-tho-192250915221649355.htm |
+| 62 | Căn hộ được cải tạo, làm mới | CafeF | 2026 | https://cafef.vn/can-ho-duoc-cai-tao-lam-moi-de-thay-doi-hoan-toan-dien-mao-188260920121654911.chn |
+| 63 | Kinh nghiệm cải tạo nhà cũ | Lanha | 2025 | https://www.lanha.vn/cai-tao-nha-cu/ |
+| 64 | Hà Nội trao quyền chủ nhà tự đề xuất cải tạo chung cư cũ | Người Quan Sát | 2026 | https://nguoiquansat.vn/ha-noi-trao-quyen-cho-cac-chu-nha-duoc-tu-de-xuat-cai-tao-chung-cu-cu-298599.html |
+| 65 | Quy định sửa chữa nhà chung cư | Điện nước Đồng Nai | 2025 | https://diennuocdongnai.com/quy-dinh-sua-chua-nha-chung-cu.html |
+| 66 | Xây dựng Kiến trúc AA báo lãi bốc hơi 96,2% | MarketTimes | 2024 | https://markettimes.vn/xay-dung-kien-truc-aa-bao-lai-boc-hoi-96-2-trong-nam-qua-57581.html |
+| 67 | AA Corporation báo lãi ròng giảm 26 lần | Kinh tế Chứng khoán | 2024 | https://kinhtechungkhoan.vn/no-luc-tat-toan-trai-phieu-xay-dung-kien-truc-aa-aa-corporation-bao-lai-rong-giam-soc-26-lan-1013175.html |
+| 68 | Kiến Trúc AA nợ thuế 58,1 tỷ đồng | MarketTimes | 2024 | https://markettimes.vn/kien-truc-aa-no-thue-58-1-ty-dong-va-no-bao-hiem-xa-hoi-99-8-trieu-dong-57815.html |
+| 69 | Chân dung doanh nghiệp nội thất cao cấp（AA 2022） | Vietstock | 2023 | https://vietstock.vn/2023/05/chan-dung-doanh-nghiep-noi-that-cao-cap-co-loi-nhuan-tich-cuc-nam-2022-737-1068180.htm |
+| 70 | Our Story | AA Corporation | 2025 | https://aacorporation.com/our-story |
+| 71 | AKA Furniture Company | AKA Furniture | 2025 | https://www.akafurniture.com.vn/ |
+| 72 | About us | Nhà Xinh | 2025 | https://nhaxinh.com/about-us/?lang=en |
+| 73 | Nội thất Hòa Phát hậu chia tay tỷ phú Trần Đình Long | CafeF | 2024 | https://cafef.vn/noi-that-hoa-phat-hau-chia-tay-voi-ty-phu-tran-dinh-long-gio-ra-sao-188240209215026761.chn |
+| 74 | Nội thất The One kế thừa giá trị từ Nội thất Hòa Phát | VnExpress | 2022 | https://vnexpress.net/noi-that-the-one-ke-thua-gia-tri-tu-noi-that-hoa-phat-4507872.html |
+| 75 | XHOME Profile 2025 | XHOME | 2025 | https://xhomesg.com.vn/wp-content/uploads/2025/05/XHOME-Profile-2025.pdf |
+| 76 | XHOME ngược dòng Covid-19, dự kiến IPO 2024 | VietnamFinance | 2021 | https://vietnamfinance.vn/xhome-nguoc-dong-con-song-du-covid-19-du-kien-ipo-vao-nam-2024-d61153.html |
+| 77 | Công ty cổ phần Xhome Việt Nam | TopCV | 2023 | https://www.topcv.vn/cong-ty/cong-ty-co-phan-xhome-viet-nam/92124.html |
+| 78 | CTCP Kiến trúc Nội thất Đồng Gia（稅籍） | MaSoThue | 2025 | https://masothue.com/0102524972-cong-ty-co-phan-kien-truc-noi-that-dong-gia |
+| 79 | Nội thất Đồng Gia 官網 | Đồng Gia | 2025 | https://donggia.vn/ |
+| 80 | TOP 20 công ty thiết kế nội thất hàng đầu | Akisa | 2026 | https://akisa.vn/cong-ty-thiet-ke-noi-that-hang-dau-viet-nam.html |
+| 81 | Top 10 công ty thiết kế nội thất Hà Nội | Nội thất Tứ Gia | 2026 | https://noithattugia.com/cong-ty-thiet-ke-noi-that-ha-noi/ |
+| 82 | Top 10 công ty thiết kế nội thất（An Cường 營收） | Glints | 2024 | https://glints.com/vn/blog/cac-cong-ty-thiet-ke-noi-that/ |
+| 83 | Top 10 công ty thiết kế nội thất lớn nhất | Vinakit | 2025 | https://vinakit.vn/cong-ty-thiet-ke-noi-that-lon-nhat-viet-nam.html |
+| 84 | Ngành sản xuất đồ nội thất xuất khẩu（4,000–5,000 家） | CafeBiz | 2023 | https://cafebiz.vn/nganh-san-xuat-do-noi-that-xuat-khau-viet-nam-va-nhung-buoc-di-nham-tang-tinh-canh-tranh-176231023104331637.chn |
+| 85 | Mã ngành đăng ký kinh doanh dịch vụ thiết kế | Luật Việt An | 2025 | https://luatvietan.vn/ma-nganh-nghe-dang-ky-kinh-doanh-dich-vu-thiet-ke.html |
+| 86 | Mở công ty thiết kế nội thất cần những gì? | Luật Hoàng Anh | 2025 | https://luathoanganh.vn/luat-su-doanh-nghiep/mo-cong-ty-thiet-ke-noi-that-can-nhung-gi-lha23056.html |
+| 87 | Xu hướng ngành thiết kế nội thất 2025 | Xây dựng Thuận Thành | 2025 | https://xaydungthuanthanh.com/xu-huong-phat-trien-cua-nganh-thiet-ke-noi-that/ |
+| 88 | Cộng đồng yêu nhà đẹp Happynest | Happynest | 2026 | https://happynest.vn/ |
+| 89 | Về Happynest | Happynest | 2025 | https://v2.happynest.vn/gioi-thieu |
+| 90 | Happynest ra mắt ứng dụng chuyên về nhà ở | VnExpress | 2021 | https://vnexpress.net/happynest-ra-mat-ung-dung-chuyen-ve-nha-o-4393392.html |
+| 91 | Ứng dụng Happynest | Dân trí | 2021 | https://dantri.com.vn/kinh-doanh/ung-dung-happynest-giai-quyet-nhu-cau-tim-y-tuong-tim-chuyen-gia-va-sam-noi-that-20211128204409915.htm |
+| 92 | CEO Cao Minh Tuyết và hành trình Happynest | Báo Đầu tư | 2024 | https://baodautu.vn/emagazine-ceo-cao-minh-tuyet-va-hanh-trinh-khai-mo-thi-truong-nha-o-cung-loi-song-danh-cho-nguoi-viet-m169039.html |
+| 93 | Happynest giúp hành trình làm nhà dễ dàng hơn（流量） | Bongdaplus | 2023 | https://bongdaplus.vn/ben-ngoai-duong-piste/happynest-giup-hanh-trinh-lam-nha-cua-nguoi-viet-tro-nen-de-dang-hon-3981922305.html |
+| 94 | LG Architect Club | Zing News | 2025 | https://tech.zingnews.vn/lg-architect-club-truyen-cam-hung-cong-nghe-vao-to-am-tuong-lai-post1558482.html |
+| 95 | Nền tảng số hỗ trợ tìm nhà thầu xây dựng | VnExpress | 2026 | https://vnexpress.net/nen-tang-so-ho-tro-tim-nha-thau-xay-dung-5059125.html |
+| 96 | Top digital and social media trends in Vietnam 2026 | Elite Asia | 2026 | https://www.eliteasia.co/top-digital-and-social-media-trends-in-vietnam-in-2026/ |
+| 97 | Top social media in Vietnam 2025 | Statista | 2025 | https://www.statista.com/statistics/941843/vietnam-leading-social-media-platforms/ |
+| 98 | TikTok Shop in Vietnam – statistics & facts | Statista | 2025 | https://www.statista.com/topics/12107/tiktok-shop-in-vietnam/ |
+| 99 | TikTok "đẻ" ra việc mới cho lĩnh vực trang trí nội thất | Diễn đàn Doanh nghiệp | 2024 | https://diendandoanhnghiep.vn/tiktok-de-ra-viec-moi-cho-linh-vuc-trang-tri-noi-that-10051203.html |
+| 100 | Tiềm năng phát triển ngành nội thất tại Việt Nam | VOV Giao thông | 2023 | https://vovgiaothong.vn/newsaudio/tiem-nang-phat-trien-nganh-noi-that-tai-viet-nam-d42333.html |
+| 101 | Thói quen lựa chọn sản phẩm nội thất của người Việt | Innovative Hub | 2024 | https://innovativehub.com.vn/thoi-quen-lua-chon-san-pham-noi-that-cua-nguoi-viet/ |
+| 102 | 10 cách tiếp cận khách hàng nội thất | CleverAds | 2025 | https://cleverads.vn/blog/10-cach-tiep-can-khach-hang-noi-that/ |
+| 103 | Japan's Nitori takes on Ikea in Asia with Thailand, Vietnam stores | Nikkei Asia | 2023 | https://asia.nikkei.com/business/retail/japan-s-nitori-takes-on-ikea-in-asia-with-new-thailand-vietnam-stores |
+| 104 | Nitori looks to open first store in Vietnam | VIR | 2023 | https://vir.com.vn/japans-largest-furniture-retail-chain-nitori-looks-to-open-its-first-store-in-vietnam-105969.html |
+| 105 | Will IKEA be successful in Vietnam? | VietnamNet | 2018 | https://vietnamnet.vn/en/will-ikea-be-successful-in-vietnam-E216894.html |
+| 106 | Will IKEA remap the Vietnamese furnishing market? | VietnamNet | 2018 | https://vietnamnet.vn/en/will-ikea-be-strong-enough-to-remap-the-vietnamese-furnishing-market-E219245.html |
+| 107 | China, India, and Vietnam lead APAC's hotel pipeline | Skift Daily Lodging Report（Lodging Econometrics） | 2026 | https://dlr.skift.com/2026/02/19/china-india-and-vietnam-lead-apacs-hotel-pipeline/ |
+| 108 | APEC hotel construction pipeline Q1 2025 | Travel Daily News Asia | 2025 | https://www.traveldailynews.asia/hotels-lodging/apec-hotel-construction-pipeline-hits-2074-projects-in-q1-2025-led-by-india-vietnam-and-thailand/ |
+| 109 | Viet Nam hospitality market 2026 | Savills Vietnam | 2026 | https://www.savills.com.vn/blog/article/235322/vietnam-eng/viet-nam-hospitability-market-2026.aspx |
+| 110 | Marriott expands Vietnam pipeline with 10 new hotels | TTG Asia | 2026 | https://www.ttgasia.com/2026/03/30/marriott-expands-vietnam-pipeline-with-10-new-hotels/ |
+| 111 | IHG signs Vietnam partnership | THP News | 2025 | https://tophotel.news/ihg-signs-vietnam-partnership/ |
+| 112 | GDP năm 2025 tăng 8,02%, bình quân đầu người 5.026 USD | Báo Chính phủ | 2026 | https://baochinhphu.vn/gdp-nam-2025-tang-truong-802-binh-quan-dau-nguoi-dat-5026-usd-102260105152509472.htm |
+| 113 | Tăng trưởng GDP 2025 đạt 8,02%, quy mô vượt 514 tỷ USD | VnEconomy | 2026 | https://vneconomy.vn/tang-truong-gdp-2025-dat-802-quy-mo-nen-kinh-te-vuot-moc-514-ty-usd.htm |
+| 114 | Báo cáo tình hình kinh tế–xã hội quý IV và năm 2025 | Cục Thống kê（國家統計局） | 2026 | https://www.nso.gov.vn/bai-top/2026/01/bao-cao-tinh-hinh-kinh-te-xa-hoi-quy-iv-va-nam-2025/ |
+| 115 | Thông cáo báo chí dân số, lao động quý IV và năm 2025 | Cục Thống kê | 2026 | https://www.nso.gov.vn/tin-tuc-thong-ke/2026/01/thong-cao-bao-chi-ve-tinh-hinh-dan-so-lao-dong-viec-lam-quy-iv-va-nam-2025/ |
+| 116 | Dân số trung bình 2025 đạt 102,3 triệu | Nhân Dân | 2026 | https://nhandan.vn/dan-so-trung-binh-cua-viet-nam-nam-2025-dat-1023-trieu-nguoi-post934760.html |
+| 117 | Ngành xây dựng lập đỉnh lợi nhuận 2025 | Vietstock | 2026 | https://vietstock.vn/2026/02/nganh-xay-dung-lap-dinh-loi-nhuan-2025-ap-luc-thu-hoi-cong-no-ngay-cang-lon-737-1403205.htm |
+| 118 | Giá vật liệu xây dựng đầu năm 2026 tiếp tục tăng nhẹ | Thời báo Tài chính | 2026 | https://thoibaotaichinhvietnam.vn/gia-vat-lieu-xay-dung-dau-nam-2026-tiep-tuc-tang-nhe-189707-189707.html |
+| 119 | Nửa đầu năm 2026 giá VLXD tăng giảm ra sao? | Hội Vật liệu Xây dựng VN | 2026 | https://hoivlxdvn.org.vn/news/nua-dau-nam-2026-gia-vat-lieu-xay-dung-tang-giam-ra-sao-570943.html |
+| 120 | Giá VLXD nửa cuối 2026 | Hà Thành Home | 2026 | https://hathanhhome.vn/tin-tuc/gia-vat-lieu-xay-dung-nua-cuoi-nam-2026-xu-huong-tang-hay-giam-nhiet |
+| 121 | Giá VLXD quý 3/2026, dự báo quý 4 | SCG VLXD | 2026 | https://scgvlxd.com/gia-vat-lieu-xay-dung-tang-hay-giam/ |
+| 122 | Bảng giá VLXD 34 tỉnh tháng 4/2026 | Thư viện Pháp luật | 2026 | https://thuvienphapluat.vn/phap-luat-nha-dat/tong-hop-bang-gia-vat-lieu-xay-dung-34-tinh-thang-04-2026-moi-nhat-16743.html |
+| 123 | Đơn giá nhân công xây dựng 2026 | Happynest | 2026 | https://happynest.vn/kho-kien-thuc/100067117/don-gia-nhan-cong-xay-dung-va-chi-phi-moi-nhat-cap-nhat |
+| 124 | Đơn giá nhân công xây dựng 2026 theo m2 | Hometalk | 2026 | https://hometalk.com.vn/don-gia-nhan-cong-xay-dung/ |
+| 125 | Đơn giá nhân công xây dựng | Vạn An Group | 2026 | https://vanangroup.com.vn/don-gia-nhan-cong-xay-dung/ |
+| 126 | Tháng 2/2026 lãi suất vay mua nhà | Dân Việt | 2026 | https://danviet.vn/thang-2-2026-lai-suat-vay-mua-nha-co-de-tho-khong-d1403524.html |
+| 127 | Lãi suất vay mua nhà tháng 5/2026 | CafeLand | 2026 | https://cafeland.vn/tin-tuc/lai-suat-vay-mua-nha-thang-52026-thuc-te-nguoi-vay-dang-phai-tra-bao-nhieu-151133.html |
+| 128 | Lãi suất vay mua nhà tháng 9/2026 | Smartland | 2026 | https://smartland.vn/lai-suat-vay-mua-nha-2026/ |
+| 129 | Lãi suất 6,5% cho người dưới 35 tuổi vay NOXH từ 1/7/2026 | LuatVietnam | 2026 | https://luatvietnam.vn/tin-van-ban-moi/chinh-thuc-ap-dung-lai-suat-65-nam-cho-nguoi-duoi-35-tuoi-vay-mua-nha-o-xa-hoi-tu-01-7-2026-186-109829-article.html |
+| 130 | Dòng tiền lướt sóng chưa rút lui, 2026 phép thử lớn | Dân Việt | 2026 | https://danviet.vn/dong-tien-luot-song-chua-rut-lui-thi-truong-2026-doi-mat-phep-thu-lon-d1404508.html |
+| 131 | Xu hướng nội thất 2026 | Luxuo | 2026 | https://www.luxuo.vn/house-of-luxe/interiors/xu-huong-noi-that-2026.html |
+| 132 | Xu hướng nội thất 2026: 7 vật liệu và bề mặt | Nông thôn & Phát triển | 2026 | https://nongthonvaphattrien.vn/xu-huong-noi-that-2026-7-vat-lieu-va-be-mat-dang-dinh-hinh-thiet-ke-viet-a49985.html |
+| 133 | Những xu hướng thiết kế nội thất 2026 | Người Lao Động | 2026 | https://diaoc.nld.com.vn/nhung-xu-huong-thiet-ke-noi-that-dang-dinh-hinh-nam-2026-196260128103227211.htm |
+| 134 | Xu hướng nội thất năm 2026 | Tiền Phong | 2026 | https://tienphong.vn/xu-huong-noi-that-nam-2026-tam-nhin-moi-cho-khong-gian-song-post1819736.tpo |
+| 135 | Xu hướng tiêu dùng nội thất 2026 | Afamily | 2026 | https://afamily.vn/vi-sao-nguoi-co-nha-rieng-khong-con-man-ma-voi-noi-that-mua-mot-lan-dung-ca-doi-tien-dang-do-vao-dau-236260729162241944.chn |
+| 136 | AiHouse | AiHouse | 2026 | https://www.aihouse.com/vi |
+| 137 | Khi AI thiết kế nội thất | HAWA | 2025 | https://hawa.vn/khi-ai-thiet-ke-noi-that/ |
+| 138 | 15 phần mềm AI thiết kế nội thất | AWE | 2025 | https://awe.edu.vn/phan-mem-ai-thiet-ke-noi-that |
+| 139 | Tác động của Luật Phục hồi, phá sản 2025（含 2025 年退出企業數） | Tạp chí Ngân hàng（越南央行） | 2026 | https://tapchinganhang.gov.vn/tac-dong-cua-luat-phuc-hoi-pha-san-nam-2025-doi-voi-he-thong-tai-chinh-ngan-hang-viet-nam-17375.html |
+| 140 | Luật Phục hồi, phá sản 2025 | VnEconomy | 2026 | https://vneconomy.vn/bai-1-luat-phuc-hoi-pha-san-2025-uu-tien-tai-sinh-doanh-nghiep.htm |
+| 141 | Điểm mới của Luật Phục hồi, phá sản 2025 | LuatVietnam | 2026 | https://luatvietnam.vn/linh-vuc-khac/diem-moi-cua-luat-pha-san-sua-doi-883-105911-article.html |
+| 142 | Thương hiệu nội thất 40 năm xin phá sản（At Home） | CafeF | 2025 | https://cafef.vn/mot-thuong-hieu-noi-that-40-nam-tuoi-vua-xin-pha-san-ganh-no-gan-2-ty-usd-188250617150142954.chn |
+| 143 | Hướng dẫn tra thông tin nhà thầu | DauThau.asia | 2025 | https://dauthau.asia/news/thong-tin-ho-tro/huong-dan-tra-thong-tin-nha-thau-va-ben-moi-thau-tren-he-thong-mang-dau-thau-quoc-gia-303.html |
+| 144 | Savills hotel services | Savills Vietnam | 2025 | https://www.savills.com.vn/services/hotel.aspx |
+| 145 | Bỏ túi 9 phương pháp tìm khách hàng nội thất | Giải pháp Web | 2025 | https://giaiphapweb.vn/tim-kiem-khach-hang-noi-that/ |
