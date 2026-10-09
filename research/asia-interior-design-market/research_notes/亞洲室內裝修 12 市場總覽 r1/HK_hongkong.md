@@ -311,7 +311,7 @@
 
 ### Q8 消費者行為
 
-**結論**：本輪可證實的消費者行為資訊有限：典型上車盤（約 400 呎兩房）全屋設計連裝修連訂造傢俬約 HK$40 萬〔HK-07〕；付款高度前置（首兩期即付 7–8 成，信心低）；資金來源包括政府裝修貸款計劃與銀行私人貸款〔HK-07〕。2025 年一手熱絡由發展商去庫存（約 4 成半為貨尾）與換樓客（四房以上大單位一手成交 5 年新高）帶動〔HK-46、HK-47〕。劏房的細節仍無資料。政府維修資助的主要參數（多為 2017–2021 年文件，因計畫參數於當時制定，仍沿用）如下：
+**結論**：兩輪可證實的消費者行為資訊有限：典型上車盤（約 400 呎兩房）全屋設計連裝修連訂造傢俬約 HK$40 萬〔HK-07〕；付款高度前置（首兩期即付 7–8 成，信心低）；資金來源包括政府裝修貸款計劃與銀行私人貸款〔HK-07〕。2025 年一手熱絡由發展商去庫存（約 4 成半為貨尾）與換樓客（四房以上大單位一手成交 5 年新高）帶動〔HK-46、HK-47〕。劏房的細節仍無資料。政府維修資助的主要參數（多為 2017–2021 年文件，因計畫參數於當時制定，仍沿用）如下：
 
 | 計畫 | 內容 | 年份 | 來源# | 信心 | 標示 |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 
 ### Q9 人才與工班
 
-**結論**：本輪僅取得建造業輸入勞工政策：「建造業輸入勞工計劃」（建造業計劃）技術工人＋技術人員配額上限合計 **12,000 個**，由發展局常任秘書長（工務）審批，限合資格工程合約之總承建商申請，須先本地招聘〔HK-33〕；截至 2023 年 9 月已批出 20 項工程合約、合共 4,680 個配額〔HK-34〕。第 2 輪取得統計處「公營建築工程工人每日平均工資」的部分工種數值。與住宅裝修最相關的「細木工」日薪約 **HK$1,318（2024-01）→ HK$1,379（2025-01）**，「水喉工」約 HK$1,462、「電氣裝配工（包括電工）」約 HK$1,314（均為 2024-01）。泥水工 2025 年的官方數字仍未取得。注意：這張統計表反映的是**公營工程**工人工資，不等於私人家居裝修師傅的行情。建造業議會註冊工人年齡、設計科系畢業人數與設計師薪資：仍無資料。
+**結論**：第 1 輪取得建造業輸入勞工政策：「建造業輸入勞工計劃」（建造業計劃）技術工人＋技術人員配額上限合計 **12,000 個**，由發展局常任秘書長（工務）審批，限合資格工程合約之總承建商申請，須先本地招聘〔HK-33〕；截至 2023 年 9 月已批出 20 項工程合約、合共 4,680 個配額〔HK-34〕。第 2 輪取得統計處「公營建築工程工人每日平均工資」的部分工種數值。與住宅裝修最相關的「細木工」日薪約 **HK$1,318（2024-01）→ HK$1,379（2025-01）**，「水喉工」約 HK$1,462、「電氣裝配工（包括電工）」約 HK$1,314（均為 2024-01）。泥水工 2025 年的官方數字仍未取得。注意：這張統計表反映的是**公營工程**工人工資，不等於私人家居裝修師傅的行情。建造業議會註冊工人年齡、設計科系畢業人數與設計師薪資：仍無資料。
 
 | 指標 | 數值 | 年份 | 來源# | 定義 | 信心 | 標示 |
 |---|---|---|---|---|---|---|
@@ -550,5 +550,49 @@ HK,外資持股上限,100,%,2025,HK-89,https://air-corporate.com/why-companies-r
 | HK-48 | 消委會｜屋主花270萬豪裝 裝修公司疑用料出問題 豪宅變蟲竇 | 香港01 | 年份未確認 | 繁中 | https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/992966/%E6%B6%88%E5%A7%94%E6%9C%83-%E5%B1%8B%E4%B8%BB%E8%8A%B1270%E8%90%AC%E8%B1%AA%E8%A3%9D-%E8%A3%9D%E4%BF%AE%E5%85%AC%E5%8F%B8%E7%96%91%E7%94%A8%E6%96%99%E5%87%BA%E5%95%8F%E9%A1%8C-%E8%B1%AA%E5%AE%85%E8%AE%8A%E8%9F%B2%E7%AB%87 | 搜尋結果內容（僅標題） |
 | HK-49 | 裝修公司質素參差 消委會倡列「白名單」 | 點新聞 | 2024-02-25 | 繁中 | https://www.dotdotnews.com/a/202402/25/AP65dab745e4b0737137a21234.html | 搜尋結果內容 |
 | HK-50 | 【消委會裝修】消委會接1200+單裝修投訴 建議訂立4大措施 | now 新聞 | 2024 | 繁中 | https://news.now.com/home/life/player?newsId=552753 | 搜尋結果內容 |
+| HK-51 | 香港宏福苑大火：不合規的棚網是問題，不法串通的「圍標」才是禍根？ | 轉角國際（聯合新聞網） | 2025–2026（未確認） | 繁中 | https://global.udn.com/global_vision/story/8663/9177057 | 搜尋結果內容（僅標題） |
+| HK-52 | 宏福苑五級火｜政府擬就大型維修樓宇訂立安全距離並納入法例 | 香港電台 RTHK | 2026-01-14 | 繁中 | https://news.rthk.hk/rthk/ch/component/k2/1839804-20260114.htm | 搜尋結果內容 |
+| HK-53 | 宏福苑火災大樓被棚網包圍 港府指去年巡查16次、曾提醒防火 | 中央社（CNA） | 2025-11-28 | 繁中 | https://www.cna.com.tw/news/acn/202511280146.aspx | 搜尋結果內容 |
+| HK-54 | 宏福苑五級火 災後10日重點整合：全港大維修樓宇拆棚網 非法定獨立委員會調查 | 法庭線 The Witness | 2025-12 | 繁中 | https://thewitnesshk.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E7%81%BD%E5%BE%8C10%E6%97%A5%E9%87%8D%E9%BB%9E%E6%95%B4%E5%90%88%E5%85%A8%E6%B8%AF%E5%A4%A7%E7%B6%AD%E4%BF%AE%E6%A8%93%E5%AE%87%E6%8B%86/ | 搜尋結果內容 |
+| HK-55 | 宏福苑五級火 勞工處：證書顯示棚網阻燃符標準 曾巡16次就高處工作提3檢控 | 法庭線 The Witness | 2025-11／12 | 繁中 | https://thewitnesshk.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%8B%9E%E5%B7%A5%E8%99%95%E8%AD%89%E6%9B%B8%E9%A1%AF%E7%A4%BA%E6%A3%9A%E7%B6%B2%E9%98%BB%E7%87%83%E7%AC%A6%E6%A8%99%E6%BA%96-%E6%9B%BE%E5%B7%A1/ | 搜尋結果內容（僅標題） |
+| HK-56 | 宏福苑五級火 兩部門守則指棚網「應具」阻燃性 業界指非強制要求、僅查證書 | 法庭線 The Witness | 2025-11／12 | 繁中 | https://thewitnesshk.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%A9%E9%83%A8%E9%96%80%E5%AE%88%E5%89%87%E6%8C%87%E6%A3%9A%E7%B6%B2%E6%87%89%E5%85%B7%E9%98%BB%E7%87%83%E6%80%A7-%E6%A5%AD%E7%95%8C%E6%8C%87/ | 搜尋結果內容 |
+| HK-57 | 宏福苑五級火｜屋宇署向鴻毅、宏業、相關董事及註冊檢驗人員提259項檢控 涉使用非阻燃棚網、帆布、發泡膠板遮窗及走火通道開「生口」等 勞工處同日另作25項檢控 | 庭刊 hkcourtnews.com | 2026 | 繁中 | https://hkcourtnews.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E5%B1%8B%E5%AE%87%E7%BD%B2%E5%90%91%E9%B4%BB%E6%AF%85%E3%80%81%E5%AE%8F%E6%A5%AD%E3%80%81%E7%9B%B8%E9%97%9C%E8%91%A3%E4%BA%8B%E5%8F%8A/ | 搜尋結果內容 |
+| HK-58 | 宏福苑大火｜重申舊樓改用金屬棚架有限制 發展局：市面無實用且防火竹棚綁紮材料可選用 | 星島日報 | 2026 | 繁中 | https://www.stheadline.com/society/3603702/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E9%87%8D%E7%94%B3%E8%88%8A%E6%A8%93%E6%94%B9%E7%94%A8%E9%87%91%E5%B1%AC%E6%A3%9A%E6%9E%B6%E6%9C%89%E9%99%90%E5%88%B6-%E7%99%BC%E5%B1%95%E5%B1%80%E5%B8%82%E9%9D%A2%E7%84%A1%E5%AF%A6%E7%94%A8%E4%B8%94%E9%98%B2%E7%81%AB%E7%AB%B9%E6%A3%9A%E7%B6%81%E7%B4%AE%E6%9D%90%E6%96%99%E5%8F%AF%E9%81%B8%E7%94%A8 | 搜尋結果內容 |
+| HK-59 | 宏福苑聽證・第三第四輪總結｜5部門22人作供 屢認「不理想」 | 香港01 | 2026 | 繁中 | https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60347657/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89-%E7%AC%AC%E4%B8%89%E7%AC%AC%E5%9B%9B%E8%BC%AA%E7%B8%BD%E7%B5%90-5%E9%83%A8%E9%96%8022%E4%BA%BA%E4%BD%9C%E4%BE%9B-%E5%B1%A2%E8%AA%8D-%E4%B8%8D%E7%90%86%E6%83%B3 | 搜尋結果內容 |
+| HK-60 | 立法會十二題：加強物業維修及消防安全的管理 | 香港特區政府新聞公報 | 2026-01-28 | 繁中 | https://www.info.gov.hk/gia/general/202601/28/P2026012800562.htm | 搜尋結果內容（僅標題） |
+| HK-61 | 施政報告2026︱改革舊樓維修制度：研圍標刑事化 首次為業主招標評標服務 由執法機關背景審查 | 星島日報 | 2026-09 | 繁中 | https://www.stheadline.com/society/3615512/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026%E6%94%B9%E9%9D%A9%E8%88%8A%E6%A8%93%E7%B6%AD%E4%BF%AE%E5%88%B6%E5%BA%A6%E7%A0%94%E5%9C%8D%E6%A8%99%E5%88%91%E4%BA%8B%E5%8C%96-%E9%A6%96%E6%AC%A1%E7%82%BA%E6%A5%AD%E4%B8%BB%E6%8B%9B%E6%A8%99%E8%A9%95%E6%A8%99%E6%9C%8D%E5%8B%99-%E7%94%B1%E5%9F%B7%E6%B3%95%E6%A9%9F%E9%97%9C%E8%83%8C%E6%99%AF%E5%AF%A9%E6%9F%A5 | 搜尋結果內容 |
+| HK-62 | 施政報告2026：強化樓宇安全監管 大維修圍標刑事化 | 香港浸會大學新聞系實習平台 | 2026-09-16 | 繁中 | https://spyan-jour.hkbu.edu.hk/2026/09/16/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E5%BC%B7%E5%8C%96%E6%A8%93%E5%AE%87%E5%AE%89%E5%85%A8%E7%9B%A3%E7%AE%A1%E5%A4%A7%E7%B6%AD%E4%BF%AE%E5%9C%8D%E6%A8%99%E5%88%91%E4%BA%8B%E5%8C%96/ | 搜尋結果內容 |
+| HK-63 | 施政報告2026｜官方把關高度介入樓宇維修招標 重點打擊圍標貪污 | 香港01 | 2026-09 | 繁中 | https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390542/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026-%E5%AE%98%E6%96%B9%E6%8A%8A%E9%97%9C%E9%AB%98%E5%BA%A6%E4%BB%8B%E5%85%A5%E6%A8%93%E5%AE%87%E7%B6%AD%E4%BF%AE%E6%8B%9B%E6%A8%99-%E9%87%8D%E9%BB%9E%E6%89%93%E6%93%8A%E5%9C%8D%E6%A8%99%E8%B2%AA%E6%B1%A1 | 搜尋結果內容 |
+| HK-64 | 施政報告2026︱樓宇維修設獨立機構？ 林筱魯：須先釐清權責與社會界線 | 星島日報 | 2026-09 | 繁中 | https://www.stheadline.com/politics/3612815/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2026%E6%A8%93%E5%AE%87%E7%B6%AD%E4%BF%AE%E8%A8%AD%E7%8D%A8%E7%AB%8B%E6%A9%9F%E6%A7%8B-%E6%9E%97%E7%AD%B1%E9%AD%AF%E9%A0%88%E5%85%88%E9%87%90%E6%B8%85%E6%AC%8A%E8%B2%AC%E8%88%87%E7%A4%BE%E6%9C%83%E7%95%8C%E7%B7%9A | 搜尋結果內容 |
+| HK-65 | 測量師學會倡設法定樓宇維修局 提升大維修透明度 發展局：會研究學會報告 | 星島日報 | 2026 | 繁中 | https://www.stheadline.com/society/3589369/%E6%B8%AC%E9%87%8F%E5%B8%AB%E5%AD%B8%E6%9C%83%E5%80%A1%E8%A8%AD%E6%B3%95%E5%AE%9A%E6%A8%93%E5%AE%87%E7%B6%AD%E4%BF%AE%E5%B1%80-%E6%8F%90%E5%8D%87%E5%A4%A7%E7%B6%AD%E4%BF%AE%E9%80%8F%E6%98%8E%E5%BA%A6-%E7%99%BC%E5%B1%95%E5%B1%80-%E6%9C%83%E7%A0%94%E7%A9%B6%E5%AD%B8%E6%9C%83%E5%A0%B1%E5%91%8A | 搜尋結果內容 |
+| HK-66 | 建築物管理修例通過 明年7月實施 樓宇維修費每戶超過3萬元 須開業主大會親身投票通過 | 香港文匯報 | 2024-07-05 | 繁中 | https://www.wenweipo.com/a/202407/05/AP668702d9e4b01166d97ad713.html | 搜尋結果內容 |
+| HK-67 | 施政報告2026｜孖士打梁樂鋒：大維修圍標刑事化助提升公信力 | Finance730 | 2026-09-17 | 繁中 | https://finance730.com.hk/2026/09/17/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-2026-%E5%AD%96%E5%A3%AB%E6%89%93-%E6%A2%81%E6%A8%82%E9%8B%92-%E5%A4%A7%E7%B6%AD%E4%BF%AE-%E5%9C%8D%E6%A8%99-%E5%88%91%E4%BA%8B%E5%8C%96/ | 搜尋結果內容 |
+| HK-68 | Interior Design Association (HKIDA) 香港室內設計協會 | 香港中文大學圖書館（香港社團檔案） | — | 繁中／英 | https://hkapi.lib.cuhk.edu.hk/handle/msO8s77aBT/3764 | 搜尋結果內容 |
+| HK-69 | 理大設計學院與香港室內設計協會：室內設計師由自願認證走向法定註冊研究 | 香港理工大學圖書館 | 2008 | 英 | https://dc.lib.polyu.edu.hk/readaccesscheck/6d570258b | 搜尋結果內容 |
+| HK-70 | 二零二五年第四季及全年建造工程完成量統計數字 | 政府統計處（政府新聞公報） | 2026-03-12 | 繁中 | https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm | 搜尋結果內容 |
+| HK-71 | 二零二五年第三季建造工程完成量統計數字 | 政府統計處（政府新聞公報） | 2025-12-11 | 繁中 | https://www.info.gov.hk/gia/general/202512/11/P2025121100293.htm | 搜尋結果內容 |
+| HK-72 | 二零二五年第二季建造工程完成量統計數字 | 政府統計處（政府新聞公報） | 2025-09-11 | 繁中 | https://www.info.gov.hk/gia/general/202509/11/P2025091100340.htm | 搜尋結果內容 |
+| HK-73 | 政府统计处：二零二五年第四季及全年建造工程完成量统计数字 | 政府統計處 | 2026-03 | 簡中 | https://www.censtatd.gov.hk/sc/press_release_detail.html?id=5737 | 搜尋結果內容 |
+| HK-74 | 季度建造成本汇编 中国内地及香港地区 2025 第四季度 | 凱諦思香港有限公司（Arcadis） | 2025 | 簡中 | https://media.arcadis.com/-/media/project/arcadiscom/com/perspectives/asia/publications/qcc/2025/cnhk-qcc-2025-q4-chinese-version-final.pdf?rev=03243406e62e481f898a1c859932398c | 搜尋結果內容（僅標題） |
+| HK-75 | 表 615-66021：按建築物落成後用途大類別劃分的主要承建商於建築地盤所完成的建造工程名義總值 | 政府統計處（資料一線通 data.gov.hk） | — | 繁中 | https://data.gov.hk/tc-data/dataset/hk-censtatd-tablechart-615-66021/resource/b64d3e2b-0d02-410a-9346-121d61359d76 | 搜尋結果內容（僅資料集名稱） |
+| HK-76 | 認可人士、註冊結構工程師、註冊岩土工程師及註冊承建商作業備考 PNRC69 | 屋宇署 | — | 簡中 | https://www.bd.gov.hk/doc/tc/resources/codes-and-references/practice-notes-and-circular-letters/pnrc/Pnrc69/Pnrc69s.pdf | 搜尋結果內容 |
+| HK-77 | 香港建造學院：註冊小型工程承建商（個人）第III級別小型工程訓練課程 | CTgoodjobs（課程轉載） | — | 繁中 | https://www2.ctgoodjobs.hk/Learning/1200766542/hong-kong-institute-of-construction/%e8%a8%bb%e5%86%8a%e5%b0%8f%e5%9e%8b%e5%b7%a5%e7%a8%8b%e6%89%bf%e5%bb%ba%e5%95%86%e5%80%8b%e4%ba%ba%e7%ac%aciii%e7%b4%9a%e5%88%a5%e5%b0%8f%e5%9e%8b%e5%b7%a5%e7%a8%8b%e8%a8%93%e7%b7%b4%e8%aa%b2%e7%a8%8b | 搜尋結果內容（僅標題） |
+| HK-78 | 薪酬趨勢2024｜建造業地盤工人：日薪由940元至2,404元｜33個工種工資比較 | 香港財經時報 HKBT | 2024 | 繁中 | https://www.businesstimes.com.hk/articles/160061/%E8%96%AA%E9%85%AC%E8%B6%A8%E5%8B%A22024-%E5%BB%BA%E9%80%A0%E6%A5%AD%E5%9C%B0%E7%9B%A4%E5%B7%A5%E4%BA%BA-%E6%97%A5%E8%96%AA%E7%94%B1940%E5%85%83%E8%87%B32404%E5%85%83-33%E5%80%8B%E5%B7%A5%E7%A8%AE/ | 搜尋結果內容（僅標題） |
+| HK-79 | 薪酬趨勢2024｜建造業33個職業人工比較：最低956元起｜1個工種日薪可達3,825元 | 香港財經時報 HKBT | 2024 | 繁中 | https://www.businesstimes.com.hk/articles/157432/%E8%96%AA%E9%85%AC%E8%B6%A8%E5%8B%A2-%E5%BB%BA%E9%80%A0%E6%A5%AD33%E5%80%8B%E8%81%B7%E6%A5%AD%E4%BA%BA%E5%B7%A5%E6%AF%94%E8%BC%83-%E6%9C%80%E4%BD%8E956%E5%85%83%E8%B5%B7-1%E5%80%8B%E5%B7%A5%E7%A8%AE%E6%97%A5%E8%96%AA%E5%8F%AF%E9%81%943825%E5%85%83/ | 搜尋結果內容（僅標題） |
+| HK-80 | 加人工｜建造業12個工種加薪 坭水工增12.5%最高 日薪達$1800 | 香港01 | 年份未確認 | 繁中 | https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/824425/%E5%8A%A0%E4%BA%BA%E5%B7%A5-%E5%BB%BA%E9%80%A0%E6%A5%AD12%E5%80%8B%E5%B7%A5%E7%A8%AE%E5%8A%A0%E8%96%AA-%E5%9D%AD%E6%B0%B4%E5%B7%A5%E5%A2%9E12-5-%E6%9C%80%E9%AB%98-%E6%97%A5%E8%96%AA%E9%81%94-1800 | 搜尋結果內容（僅標題） |
+| HK-81 | Average daily wages of workers engaged in public sector construction projects as reported by main contractors（2024 年 1 月報告 B10500132024MM01） | 政府統計處 | 2024 | 英 | https://www.censtatd.gov.hk/en/data/stat_report/product/B1050013/att/B10500132024MM01B0100.pdf | 搜尋結果內容 |
+| HK-82 | 香港建筑业15个工种日工资，都超千元 | 聚汇数据（gotohui） | 2025 | 簡中 | https://www.gotohui.com/gongzi/list/160535.html | 搜尋結果內容 |
+| HK-83 | 建造業輸入勞工計劃 合資格申請輸入技術工人的工種（一般工種）和相應聘用條款及對應相類工種及資歷要求的最新本地勞工工資中位水平 | 發展局 | 2025-04 | 繁中 | https://www.devb.gov.hk/filemanager/tc/content_1345/DEVB-CSS-Eligible%20List%20(1A-04-2025)_c.pdf | 搜尋結果內容（僅標題） |
+| HK-84 | 木工人工完整指南｜日薪、報價與驗收要點 | 藝創室內設計 | — | 繁中 | https://www.acdesign.com.hk/guide/6969/ | 搜尋結果內容（僅標題；未引用數值） |
+| HK-85 | 發展事務委員會文件 dev20191216cb1-230-6-c（樓宇維修資助計劃） | 立法會 | 2019-12 | 繁中 | https://www.legco.gov.hk/yr19-20/chinese/panels/dev/papers/dev20191216cb1-230-6-c.pdf | 搜尋結果內容 |
+| HK-86 | 深水埗區議會文件 SSP_DC_2017_218（樓宇更新大行動 2.0） | 深水埗區議會 | 2017 | 繁中 | https://www.districtcouncils.gov.hk/ssp/doc/2016_2019/sc/dc_meetings_doc/11730/SSP_DC_2017_218_tc.pdf | 搜尋結果內容 |
+| HK-87 | 政府文件 P2019101100570（維修資助計劃注資及改名） | 香港特區政府 | 2019-10-11 | 繁中 | https://gia.info.gov.hk/general/201910/11/P2019101100570_324663_1_1570790231117.pdf | 搜尋結果內容 |
+| HK-88 | 九龍城區議會文件 KCHDPC21_05cp（樓宇維修資助計劃一覽） | 九龍城區議會 | 2021 | 繁中 | https://www.districtcouncils.gov.hk/kc/doc/2020_2023/tc/committee_meetings_doc/HDPC/19418/KCHDPC21_05cp.pdf | 搜尋結果內容 |
+| HK-89 | Why companies register in Hong Kong | Air Corporate | 2025（推測） | 英 | https://air-corporate.com/why-companies-register-hk/ | 搜尋結果內容 |
+| HK-90 | Hong Kong Country Guide: Visa and Employment Permits | Asia Briefing（Dezan Shira & Associates） | — | 英 | https://www.asiabriefing.com/countryguide/hong-kong/human-resources-and-payroll/visa-and-employment-permits | 搜尋結果內容 |
+| HK-91 | Work Pass & Visa Guide for Hong Kong – 2025 Requirements for Foreign Employees | AYP Group | 2025 | 英 | https://ayp-group.com/work-pass-and-visa-guide/hong-kong | 搜尋結果內容 |
+| HK-92 | Doing Business Guide Hong Kong: Visa and Employment Permits | China Briefing | — | 英 | https://china-briefing.com/doing-business-guide/hong-kong/human-resources-and-payroll/visa-and-employment-permits | 搜尋結果內容 |
+| HK-93 | Hong Kong company formation／visa guide | Tetra Consultants | — | 英 | https://www.tetraconsultants.com/?p=28356 | 搜尋結果內容 |
+| HK-94 | Lex Mundi Guide to Doing Business: Hong Kong | Lex Mundi | — | 英 | https://www.lexmundi.com/media/lokntpav/guide_hong_kong.pdf | 搜尋結果內容 |
 
-（來源合計 51 條，含 HK-40b；中文在地語言 36 條〔繁中 34、簡中 2〕、英文 15 條。所有 URL 均原樣取自 WebSearch 結果，未建構或修改。）
+（來源合計 95 條：第 1 輪 51 條，含 HK-40b；第 2 輪 44 條，HK-51～HK-94。中文在地語言 72 條〔繁中 66、簡中 6〕、英文 23 條。所有 URL 均原樣取自 WebSearch 結果，未建構或修改。）
