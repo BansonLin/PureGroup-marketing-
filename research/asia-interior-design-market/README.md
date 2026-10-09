@@ -3,7 +3,7 @@
 **委託人**：Banson（璞石集團 CEO）
 **總指揮**：Claude（本 repo 內的研究整合者）
 **研究對象**：亞洲 12 個市場（台灣基準線＋三層分級）
-**版本**：V1（2026-10-08）— 由 Claude 自主多代理研究產出；待整合 ChatGPT／Gemini／Claude.ai 外部調研後升版為 V2
+**版本**：V1（2026-10-09）— 由 Claude 多代理研究（12 國 × 2 視角、8 主題、15 份對抗式查核、22 章撰寫、4 組一致性審查）產出；待整合 ChatGPT／Gemini／Claude.ai 外部調研與璞石內部數據後升版為 V2
 
 ## 目錄結構
 
@@ -14,7 +14,7 @@
 | `02-integration-protocol.md` | 外部 AI 報告如何回收、分級、三角驗證、整合進 V2 的規則 | V1 |
 | `03-inbox/` | **收件匣**：請把 ChatGPT／Gemini／Claude.ai 產出的報告放這裡（見內部 README） | 待收 |
 | `04-research-notes/` | Claude 多代理研究的原始筆記（各國 2 視角 × 12、跨國主題 × 8）與對抗式查核紀錄 | V1 |
-| `05-report/` | 正式報告：`asia-interior-design-market-report-v1.md` | V1 |
+| `05-report/` | 正式報告全文 `asia-interior-design-market-report-v1.md`（約 94 萬字元）、各章原檔 `chapters/`、一致性審查紀錄 `_qa-log.md` | V1 |
 
 ## 使用流程
 
