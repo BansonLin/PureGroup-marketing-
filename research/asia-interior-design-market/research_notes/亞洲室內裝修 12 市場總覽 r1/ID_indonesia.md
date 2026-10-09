@@ -116,9 +116,9 @@
 | 玩家 | 模式 | 關鍵數字 | 來源 | 信心 |
 |---|---|---|---|---|
 | PT Aspirasi Hidup Indonesia Tbk（ACES；品牌 AZKO，前身 ACE Hardware Indonesia） | 居家修繕／家居零售連鎖（上市） | 2025 淨銷售 Rp8.63 兆（+0.65%）；淨利 Rp668.72 十億（−25.03%）〔ID-17〕；2025 年 1–9 月 SSSG −3.6%，第三季 −8.2%；2026 年 1 月 SSSG +1%〔ID-18〕；2025 年第一季淨利 Rp141.6 十億（−30.86%）〔ID-20〕；2025 年第一季銷售 Rp2.13 兆〔ID-20〕或 Rp2.14 兆〔ID-21〕（+7.2%） | ID-17、18、20、21 | 中【實際】 |
-| 同上：更名與擴店 | 2025 年 1 月起以新公司名營運〔ID-22〕；2025 年目標開 30 家新店〔ID-23〕；2026 年資本支出最高 Rp450 十億，開約 80 家 AZKO 與 Neka 新店，聚焦二三線城市〔ID-19〕 | ID-19、22、23 | 中 |
+| 同上：更名與擴店 | 同上 | 2025 年 1 月起以新公司名營運〔ID-22〕；2025 年目標開 30 家新店〔ID-23〕；2026 年資本支出最高 Rp450 十億，開約 80 家 AZKO 與 Neka 新店，聚焦二三線城市〔ID-19〕 | ID-19、22、23 | 中 |
 | PT Catur Sentosa Adiprana Tbk（CSAP；Mitra10、Atria） | 建材／居家修繕倉儲零售＋家具零售（上市） | 2025 合併營收約 Rp17.5 兆（+1.5%），淨利約 Rp120 十億；股利每股 Rp4，合計 Rp22.7 十億（占淨利 18.9%）〔ID-24、ID-25〕；2025 上半年營收 Rp7.73 兆（−0.51%），淨利 Rp26.14 十億（−67.48%）〔ID-26〕；2026 年第一季營收 Rp4.2 兆（+1.4%）；2025 年新開 1 家 Mitra10（Tenth Avenue Bandung）與 3 家 Atria（Bandung、Balikpapan、雅加達 Mall of Indonesia）；目標 2030 年達 100 家 Mitra10〔ID-24／ID-26〕 | ID-24、25、26 | 中【實際】 |
-| 同上 | 2025 年因購買力疲弱，不積極開新店〔ID-27〕 | ID-27 | 中 |
+| 同上（CSAP） | 同上 | 2025 年因購買力疲弱，不積極開新店〔ID-27〕 | ID-27 | 中 |
 | PT Home Center Indonesia（Informa，Kawan Lama 集團） | 家具家飾零售 | **無資料** | — | — |
 | IKEA Indonesia（HERO Group） | 家具零售 | **無資料** | — | — |
 | Dekoruma | 家具電商＋設計施工平台 | **無資料** | — | — |
@@ -164,7 +164,7 @@
 - PP 22/2020（經 PP 14/2021 修正）的 SBU 與 SKK 細節；
 - 翻修是否需 Persetujuan Bangunan Gedung（PBG，PP 16/2021）；
 - 消防法規、公寓（rusun）規約；
-- 2023–2026 年修法。唯一線索：搜尋摘要提到 PP 28/2025 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko 可能取代 PP 5/2021，但無法對應到特定結果 URL〔ID-39 附近〕，信心低。
+- 2023–2026 年修法。唯一線索：搜尋摘要提到 PP 28/2025 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko 可能取代 PP 5/2021，但無法對應到特定結果 URL（最接近的是 ID-39），信心低。
 
 ### Q6 消費者保護與糾紛
 
