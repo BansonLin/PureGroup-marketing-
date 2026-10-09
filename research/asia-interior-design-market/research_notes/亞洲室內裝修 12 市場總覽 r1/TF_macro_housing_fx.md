@@ -85,7 +85,7 @@
   - 26,005.133 是 CEIC 引用的世界銀行系列。世界銀行官方匯率的定義是「國家當局決定之匯率，或合法外匯市場決定之匯率」，屬年平均 — [CEIC Vietnam Exchange Rate against USD](https://www.ceicdata.com/en/indicator/vietnam/exchange-rate-against-usd)。
   - FocusEconomics 列 2025 年平均 26,008、2024 年底 25,485、2025 年底 26,150 — [FocusEconomics Vietnam Exchange Rate](https://www.focus-economics.com/country-indicator/vietnam/exchange-rate/)。
   - exchange-rates.org 列 2025 年平均 26,009，並稱美元對越南盾 2025 年上漲 3.20% — [exchange-rates.org USD-VND 2025](https://www.exchange-rates.org/exchange-rate-history/usd-vnd-2025)。
-  - **注意口徑差異**：越南國家銀行（Ngân hàng Nhà nước Việt Nam, SBV）的「中心匯率」（tỷ giá trung tâm）明顯較低。2025-08-22 的年內高點只有 25,298，且是「首次突破 25,000」— [Viện Kinh tế và Tài chính（Bộ Tài chính）](https://nief.mof.gov.vn/kinh-te-xa-hoi/bien-dong-ty-gia-nam-2025-va-du-bao-tinh-hinh-nam-2026-11839.html)（搜尋摘要歸屬於財政部，對應 URL 信心低～中）。中心匯率是官方參考價，市場／銀行間成交價約高 3～7%。**換算 GDP 或市場規模時應採市場平均約 26,005，不要用中心匯率。**
+  - **注意口徑差異**：越南國家銀行（Ngân hàng Nhà nước Việt Nam, SBV）的「中心匯率」（tỷ giá trung tâm）明顯較低。2025-08-22 的年內高點只有 25,298，且是「首次突破 25,000」— [Viện Kinh tế và Tài chính（Bộ Tài chính）](https://nief.mof.gov.vn/kinh-te-xa-hoi/bien-dong-ty-gia-nam-2025-va-du-bao-tinh-hinh-nam-2026-11839.html)（搜尋摘要歸屬於財政部，對應 URL 信心低～中）。中心匯率是官方參考價，市場年平均 26,005 比中心匯率高約 3%（對高點 25,298）到約 7%（對搜尋摘要推算的年初約 24,342）。這是推論，非來源陳述。**換算 GDP 或市場規模時應採市場平均約 26,005，不要用中心匯率。**
 - **IDR**：
   - 16,478.44 是第三方網站以日資料自行重算的 2025 全年平均，並說明 IRS 2025 表不含印尼盾與菲律賓披索 — [exchangerate.dev](https://exchangerate.dev/learn/irs-yearly-average-exchange-rates)。
   - 印尼國立伊斯蘭學院（IAIN Kendari）的年度回顧稱 2025 年 1–5 月平均約 16,474、6–12 月平均約 16,475，與上值一致；但它不是 BI 數據，方法也未說明 — [IAIN Kendari Kaleidoskop 2025](https://iainkendari.ac.id/pojok-rektor/show/kaleidoskop-general-ekonomi-moneter-indonesia-2025)。
