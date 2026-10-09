@@ -365,7 +365,7 @@ GLOBAL,JLL全球辦公fit-out平均,2150,USD/m2,2026,TC-26,https://www.joneslang
 GLOBAL,全球新開幕飯店（2025）,2438,家,2025,TC-98,https://lodgingeconometrics.com/global-hotel-construction-pipeline-q2-2026/,LE；332699房；2026預測2742家,medium
 ```
 
-（共 74 列資料。confidence 欄 high／medium／low 對應正文 高／中／低。）
+（共 71 列資料。confidence 欄 high／medium／low 對應正文 高／中／低。）
 
 ---
 
@@ -493,4 +493,4 @@ GLOBAL,全球新開幕飯店（2025）,2438,家,2025,TC-98,https://lodgingeconom
 | TC-116 | 帆宣亞翔 接單創高（推定） | 工研院產科國際所 IEK | 2025（推定） | 繁中 | https://ieknet.iek.org.tw/ieknews/news_open.aspx/news_more.aspx?actiontype=ieknews&indu_idno=1&nsl_id=fde645ea6352472f916f22913c37124a | 搜尋結果內容 |
 | TC-117 | 挑戰年賺 4 個股本？漢唐 EPS 創紀錄，為何 AI 擴產潮讓「無塵室龍頭」訂單接不完？（推定） | 詠騰不動產 | 2026 | 繁中 | https://www.ytyut.com/modules/news/article.php?storyid=8054 | 搜尋結果內容 |
 
-> 來源備註：TC-14、TC-20、TC-42、TC-49、TC-51 僅確認報告存在或作為同一數字之輔證。TC-53 僅以標題引用。TC-54 僅用於說明 C&W 美洲版成本口徑。TC-75～77、TC-95～97、TC-114～117 為「推定」來源：URL 出現在搜尋結果，但所掛數字與該 URL 的對應未能確認，相關數字一律低信心。TC-97 之胡志明市非 CBD 出租率 88.39% 來自 maisonoffice.vn 摘錄，該值未採用。
+> 來源備註：TC-14、TC-20、TC-42、TC-49、TC-51 僅確認報告存在或作為同一數字之輔證。TC-53 僅以標題引用。TC-54 僅用於說明 C&W 美洲版成本口徑。TC-75～77、TC-95～97、TC-114～117 為「推定」來源：URL 出現在搜尋結果，但所掛數字與該 URL 的對應未能確認，相關數字一律低信心。胡志明市非 CBD 出租率 88.39% 來自 maisonoffice.vn 摘錄，該值未採用、未編號。

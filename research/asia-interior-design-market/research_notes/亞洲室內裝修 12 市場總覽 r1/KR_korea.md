@@ -609,3 +609,4 @@ KR,IMM PE取得한샘持股,27.7,%,2021,KR-27,https://www.fntimes.com/html/view.
 （補充 1：한샘 2026 年 2Q 營收結構比，搜尋結果內容推定出自버틀러 https://www.butler.works/ko/companies/00161693 ，對應不確定，信心低，未列入 CSV。）
 （補充 2：Q10 表中「2020-08 99.4 → 2024-08 129.7」出自 R14 搜尋結果，推定來源為이데일리마켓인〈석 달 만에 공사비 1% 껑충…年 '2%내' 관리 목표 불안〉https://marketin.edaily.co.kr/News/ReadE?newsId=01279206642168592 ，對應不確定，信心低，未列入 CSV。）
 （補充 3：勞務仲介平台被害約一半為清潔與室內裝修，見이데일리마켓인〈숨고·크몽 믿고 맡겼는데…소비자 피해 중 절반은 '청소·인테리어'〉https://marketin.edaily.co.kr/News/ReadE?newsId=01823686642230256 ，搜尋結果內容（標題）。）
+（補充 4：「每평 250만원報價已含業者毛利」之社群說法，見블라인드 https://www.teamblind.com/kr/post/%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4-%EB%B9%84%EC%9A%A9-%ED%8F%89%EB%8B%B9-%EC%96%BC%EB%A7%88%EA%B0%80-%EC%A0%81%EB%8B%B9-wHiLPHUx ，搜尋結果內容，信心低，未列入 CSV。）
