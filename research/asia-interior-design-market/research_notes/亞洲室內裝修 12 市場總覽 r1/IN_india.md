@@ -7,6 +7,7 @@
 - 幣別與面積單位都保留來源原樣（INR、USD、₹/sq ft），不換算成其他幣別，也不把 sq ft 換算成 m²（統一由中央處理）
 - 所有來源的讀取方式都是「搜尋結果內容」：WebFetch 在本環境被網路政策封鎖，因此沒有開啟任何原始頁面全文
 - 獨立性：本輪沒有讀取 04-research-notes/ 或 05-report/ 下的任何檔案
+- **版本**：第一輪 16 次有效搜尋，加上第二輪補缺（2026-10-09，10 次搜尋）。第二輪新增的內容標「〔r2〕」，來源從 IN-66 起編號
 
 ---
 
@@ -14,13 +15,13 @@
 
 | 項目 | 數值 |
 |---|---|
-| 嘗試的 WebSearch 次數 | 20 次 |
-| 成功執行的次數 | 16 次（其中 4 次用 extended 模式） |
-| 未執行的次數 | 4 次。原因是整輪共用的 WebSearch 額度（每輪 200 次，所有代理共用）已用完。依工具指示，沒有用其他方式繞過 |
-| 印地語（Hindi）搜尋 | 嘗試 3 次；成功 1 次（但回傳的都是英文頁面），另 2 次因額度用完未執行 |
-| 列入清單的來源數 | 65 條（IN-01～IN-65） |
-| 印度在地來源 | 政府來源 2 條（IN-49 India Code、IN-60 Bihar RERA）；印度媒體與印度業者來源 30 條以上（Entrackr、Inc42、Outlook Business、Business Today、Free Press Journal、IANS、The Week、Deccan Herald、Housing.com、Ply Reporter 等） |
-| 印地語來源 | **0 條**（未達「至少 2 條」的要求，見缺口表） |
+| 嘗試的 WebSearch 次數（累計） | 30 次：第一輪 20 次，第二輪 10 次 |
+| 成功執行的次數（累計） | **26 次**：第一輪 16 次，第二輪 10 次；其中 11 次用 extended 模式 |
+| 未執行的次數 | 4 次，都在第一輪。原因是整輪共用的 WebSearch 額度（每輪 200 次，所有代理共用）已用完。依工具指示，沒有用其他方式繞過 |
+| 印地語（Hindi）搜尋（累計） | 嘗試 5 次，成功 3 次：第一輪 1 次（但回傳的都是英文頁面）；第二輪 2 次，都取得印地語頁面 |
+| 列入清單的來源數（累計） | **109 條**（IN-01～IN-109；第二輪新增 IN-66～IN-109） |
+| 印度在地來源 | **政府來源 3 條**：IN-49 India Code、IN-60 Bihar RERA、IN-92 住宅與都市扶貧部（MoHUPA）在 pmay-urban.gov.in 的統計彙編。**印度媒體與印度業者來源 60 條以上**：Entrackr、Inc42、Outlook Business、Business Today、Free Press Journal、IANS、The Tribune、Patrika、Square Yards、Housing.com、Ply Reporter 等 |
+| 印地語來源 | **約 7 條**（第二輪新增）：IN-66、IN-67（Patrika，印地語報紙）、IN-68、IN-69、IN-75（IIFL 印地語版）、IN-76（Bajaj Finserv，同一 URL 在兩輪分別出現英文與印地語標題）、IN-77。已達「至少 2 條」的要求，但其中只有 Patrika 屬於印地語主流報紙；Dainik Bhaskar、Navbharat Times、Amar Ujala 都沒有出現在結果中 |
 
 **成功執行的查詢（16 次）**
 
@@ -48,20 +49,57 @@
 19. IKEA India FY25 revenue loss stores
 20. Asian Paints Beautiful Homes revenue home decor segment FY25 Godrej Interio revenue
 
-> **本輪最大限制**：額度用完時，人才與工資、材料品牌與 WPI、消費者保護與投訴、簽證、IKEA 與其他玩家營收等題目都還沒開始搜尋，因此這幾節多為「無資料」，請見第 6 節的缺口表。
+> **第一輪的限制**：額度用完時，人才與工資、材料品牌與 WPI、消費者保護與投訴、簽證、IKEA 與其他玩家營收等題目都還沒開始搜尋，因此這幾節多為「無資料」，請見第 6 節的缺口表。
+
+**第二輪〔r2〕執行的查詢（10 次，依協調者指定的優先順序）**
+
+21. राजमिस्त्री बढ़ई दिहाड़ी 2025 मजदूरी रुपये（印地語，extended）
+22. carpenter mason daily wage Bengaluru Mumbai Delhi 2025 construction labour cost rupees per day（extended）
+23. घर इंटीरियर खर्च प्रति वर्ग फुट 2025（印地語，extended）
+24. WPI construction materials plywood cement steel tiles price increase India 2024 2025 interior cost（extended）
+25. interior designer fees India percentage of project cost per sq ft design fee 2025
+26. resale homes share of housing transactions India 2025 secondary market report（extended）
+27. consumer commission interior designer deficiency in service refund order 2025 modular kitchen complaint（extended）
+28. India employment visa minimum salary USD 25,000 per annum requirement foreign national
+29. India office fit-out cost per sq ft 2025 Cushman Wakefield JLL Colliers Mumbai Bengaluru
+30. India housing stock age buildings older than 30 years redevelopment Mumbai housing societies share Census（extended）
+
+**第二輪填補後，仍為「無資料」的項目**
+
+- 官方 WPI 分項
+- 國家消費者熱線（NCH）投訴統計
+- 營建與設計服務的 FDI 100% 條件
+- 30 年以上屋齡占比
+- PMAY-U 2.0
+- Livspace 與 HomeLane 的官方價目表
+- 品牌材料廠的營收
+
+詳見第 6 節。
 
 ---
 
 ## 1. 市場關鍵結論
 
 1. **「印度室內設計市場」的規模說法差距很大。** 2024–2025 年的市調推估介於 USD 23.6B（Credence，2024）與 USD 36.89B（IMARC，2025）之間。主流兩家 Mordor 與 IMARC 的 2025 年值分別是 USD 31.43B 與 USD 36.89B，相差約 17%（來源 IN-01、IN-03、IN-05、IN-06）。這些都是市調公司推估，不是官方統計，而且沒有一家能清楚區分「設計服務」與「裝修工程」。
-2. **住宅與商業的占比互相矛盾。** IMARC 稱 2025 年住宅占 60%（IN-03），Mordor 卻稱 2025 年商業專案占營收 74.44%（IN-01）。兩者口徑不同，不可混用。
-3. **組織化（品牌）業者占比低。** 一則行銷式個案稱組織化占比已從 2–3% 升到約 15%（IN-11，低信心）；Verified Market Research 稱逾 90% 為非組織化業者（IN-09，低信心）。市場仍以小包商與工匠為主。
-4. **龍頭平台仍在虧損，但虧損在收斂。** Livspace FY25 營收 ₹1,460 crore（年增約 23%），淨損約 ₹242 crore（年減約 42%）（IN-15、IN-17）。HomeLane 在 2024 年 9 月以換股方式併購 DesignCafe，FY25 合併營業收入 ₹747.8 crore、淨損 ₹111 crore，未達原訂 ₹1,000 crore 的目標，該目標已延到 FY27（IN-25、IN-27）。
-5. **需求面：新屋銷量下滑，但金額上升、產品高端化。** ANAROCK 統計前 7 大城市 2025 年住宅銷售 395,625 戶（年減 14%），金額卻增至逾 ₹6 lakh crore（年增 6%）（IN-34）。Knight Frank 統計前 8 大城市 2025 年銷售 348,207 戶，其中 ₹1 crore 以上住宅占 50%（IN-39）。
-6. **住宅裝修單價（業者與金融業部落格的行情，非官方）：** 基本 ₹1,500–2,000/sq ft、中階 ₹2,000–3,000/sq ft、高階 ₹3,000–4,000+/sq ft（IN-43，低至中信心）。
-7. **法規：室內設計師沒有法定證照。** 《建築師法》（Architects Act, 1972）只保護「architect」這個頭銜，不保護設計業務本身（IN-49、IN-50）。另外，合板的 BIS 品質管制命令（QCO）自 2025-02-28 起強制實施（IN-54）；RERA 第 14(3) 條規定開發商自交屋起負 5 年瑕疵責任（IN-58、IN-60）。
-8. **平台開始轉向 AI，大規模裁員。** Livspace 在 2026 年 2 月裁員約 1,000 人，約占員工 12%，公司稱要轉型為「AI-native」組織（IN-19、IN-20）。
+2. **住宅與商業的占比互相矛盾，組織化占比低。**
+   - IMARC 稱 2025 年住宅占 60%（IN-03），Mordor 卻稱 2025 年商業專案占營收 74.44%（IN-01）。兩者口徑不同，不可混用。
+   - 組織化（品牌）業者占比約 1 成上下：一則行銷式個案稱約 15%（IN-11，低信心），Verified Market Research 稱逾 90% 為非組織化業者（IN-09，低信心）。
+3. **龍頭平台仍在虧損，並開始以 AI 為名裁員。**
+   - Livspace FY25 營收 ₹1,460 crore（年增約 23%），淨損約 ₹242 crore（年減約 42%）（IN-15、IN-17）。2026 年 2 月裁員約 1,000 人，約占員工 12%，稱為「AI-native」重組（IN-20）。
+   - HomeLane 在 2024 年 9 月以換股方式併購 DesignCafe，FY25 合併營業收入 ₹747.8 crore、淨損 ₹111 crore，未達原訂 ₹1,000 crore 的目標，該目標已延到 FY27（IN-25、IN-27）。
+4. **需求面：新屋銷量下滑，但金額上升；中古屋占比升到 43%。**
+   - ANAROCK 統計前 7 大城市 2025 年住宅銷售 395,625 戶（年減 14%），金額卻增至逾 ₹6 lakh crore（年增 6%）（IN-34）。Knight Frank 統計前 8 大城市 2025 年一手市場銷售中，₹1 crore 以上住宅占 50%（IN-39）。
+   - 〔r2〕依 Square Yards 的主要城市登記資料，FY25 中古屋（resale）占住宅交易戶數 **43%**，疫情前約 38%；Bengaluru 由 31% 升至 46%（IN-87、IN-88、IN-89）。
+5. **住宅裝修單價與設計費（業者與金融業部落格的行情，非官方，低至中信心）。**
+   - 單價：基本 ₹1,500–2,000/sq ft、中階 ₹2,000–3,000/sq ft、高階 ₹3,000–4,000+/sq ft（IN-43）。印地語來源 IIFL 給出的翻修單價為 ₹1,500–4,000/sq ft（IN-75）。
+   - 〔r2〕設計費多為工程費的 **6–15%**（IN-82、IN-85）；純設計（不含施工）約 ₹50–150/sq ft（IN-85）。
+6. **〔r2〕工班行情。** 大都會熟練泥作師傅（mason）日薪約 ₹1,000–1,400（Mumbai ₹1,050–1,400、Delhi ₹950–1,350、Bengaluru ₹1,000–1,400；IN-70）。印地語來源 Yojo 的全國行情為泥作與木工 ₹600–1,000/日（IN-66）。以上都是市場行情，非官方工資。
+7. **法規與糾紛。**
+   - 室內設計師沒有法定證照：《建築師法》（Architects Act, 1972）只保護「architect」頭銜（IN-49、IN-50）。
+   - 合板的 BIS 品質管制命令（QCO）自 2025-02-28 起強制實施（IN-54）。
+   - RERA 第 14(3) 條規定開發商自交屋起負 5 年瑕疵責任（IN-58、IN-60）。
+   - 〔r2〕Hyderabad 消費者委員會依《消費者保護法》（Consumer Protection Act, 2019）命 NoBroker 全額退還室內裝修款 ₹4,90,716（IN-97）。
+8. **〔r2〕商業 fit-out 屬亞太最低成本級距。** Cushman & Wakefield 2026 年指南：印度主要城市辦公室 fit-out 成本 USD 65–73/sq ft，Mumbai 最高，約 USD 73/sq ft（IN-106、IN-108）。
 
 ---
 
@@ -97,7 +135,11 @@
 | IN-09 Verified Market Research | 規模數字在搜尋結果中無法辨識；稱非組織化占比逾 90% | 2025–2033 報告 | 「interior design ecosystem」 | 其他 | — | 低（摘要稱原文數字有亂碼） |
 | TechSci、ResearchAndMarkets（2020–2030F）、Ken Research Outlook 2028、IMARC Luxury Interior Design、Credence Luxury | 搜尋結果沒有揭露數值 | — | — | — | — | 無資料 |
 | FICCI、Grand View Research、6Wresearch、HomeLane 自述、Livspace × Redseer「home interiors」 | **無資料** | — | — | — | — | 試過的查詢：#1、#5、#9 |
-| 商業 fit-out 專門報告（Cushman & Wakefield、JLL、Colliers） | **無資料** | — | — | — | — | 預算用完，未搜尋 |
+| 〔r2〕IN-105 Realty n More（引 Cushman & Wakefield 2025 年 Fit-Out Cost Guide） | 辦公室 fit-out 單價：Mumbai USD 73、Delhi USD 69、Bengaluru USD 67；Ahmedabad、Chennai、Hyderabad、Kolkata、Pune 都是 USD 65（per sq ft）；年漲約 3% | 2024 年成本（2025 年版指南） | C&W 的「協作型混合辦公」規格；為**單價**，不是市場總額 | 商業裝修 | 現況 | 中【實際】 |
+| 〔r2〕IN-106、IN-108（引 C&W 2026 年指南） | USD 65–73/sq ft；Mumbai 約 USD 73，Delhi NCR、Bengaluru、Hyderabad、Chennai、Pune 集中在 USD 65–69 | 2025 年成本（2026 年版指南） | 同上 | 商業裝修 | 現況 | 中【實際】（兩版一致） |
+| 〔r2〕IN-109 C&W India 頁面 | Mumbai 約 INR 6,567/sq ft、Bengaluru 約 INR 5,699/sq ft | 年份不明 | C&W 盧比版表格 | 商業裝修 | 現況 | 低（年份不明） |
+| 〔r2〕Knight Frank（出處 URL 無法確定，候選為 IN-107） | basic fit-out 平均 USD 264/m²；高規或 premium 為 USD 838/m² | 2026 前後 | Knight Frank 的 basic 與 premium 規格；以 m² 計 | 商業裝修 | 現況 | 低 |
+| 商業 fit-out **市場總額**、JLL、Colliers | **無資料** | — | — | — | — | 查詢 #29 只找到 C&W 與 Knight Frank |
 
 **住宅與商業的拆分**
 
@@ -122,7 +164,9 @@
 
 ### Q2 需求結構
 
-**結論**：需求引擎是大都會的新成屋與預售屋交屋。2025 年前 7 大城市銷量下滑 14%，但銷售金額上升，而且產品結構明顯往高端移動，₹1 crore 以上住宅占 Knight Frank 前 8 大城市銷量的 50%。中古屋（resale）占比、屋齡結構與 PMAY-U 2.0 本輪都沒有取得。
+**結論**：需求引擎是大都會的新成屋與預售屋交屋。2025 年前 7 大城市銷量下滑 14%，但銷售金額上升，而且產品結構明顯往高端移動，₹1 crore 以上住宅占 Knight Frank 前 8 大城市銷量的 50%。
+
+〔r2〕中古屋交易占比在 FY25 達 43%（主要城市登記資料），而且還在上升，代表「存量翻修」的需求正在擴大。屋齡結構（30 年以上的占比）與 PMAY-U 2.0 仍無資料。
 
 #### 新屋銷售與推案（一手市場）
 
@@ -143,11 +187,32 @@
 | 城市均價（₹/sq ft） | Mumbai 8,856（+7%）、Bengaluru 7,388（+12%）、Hyderabad 6,721（+13%）、NCR 6,028（+19%）、Pune 5,016（+5%）、Ahmedabad 3,197（+3%）；Chennai、Kolkata 無資料 | 2025 | IN-40 | Knight Frank，一手市場 | 中 |
 | NRI（海外印度人）占住宅銷售 | 12–15%（十年前為個位數） | 2025 前後 | IN-40 | Knight Frank 評論 | 中 |
 
-**本輪無資料的需求項目**
+#### 〔r2〕中古屋（二手）交易占比
+
+| 指標 | 數值 | 年份 | 來源 | 定義 | 信心 |
+|---|---|---|---|---|---|
+| 中古屋占住宅交易**戶數** | **43%**（一手 57%）；疫情前約 38% | FY25（2024-04～2025-03） | IN-87（The Tribune）、IN-88（Square Yards 報告 PDF）、IN-89（Grant Thornton Realty Bytes 2025-05）、IN-91 | Square Yards 依主要城市產權登記機關（Inspector General of Registration）的**登記**交易計算，只涵蓋主要城市，不是全國 | 高（多源一致）【實際】 |
+| 登記住宅交易總數 | 3.07 lakh 戶（FY19）增至 5.44 lakh 戶（FY25），成長 77% | FY19–FY25 | IN-88 | 同上 | 中 |
+| 中古屋交易數 | 約 1.22 lakh 戶（FY19）增至約 2.33 lakh 戶（FY25）；CAGR 11%，一手為 9% | FY19–FY25 | IN-88 | 同上 | 中 |
+| 城市差異 | Bengaluru 中古屋占比由 31%（FY19）升至 46%（FY25），升幅最大；除 Hyderabad 與 Mumbai 外，各城市中古屋占比都上升 | FY25 | IN-88 | 同上 | 中 |
+| 中古屋占比（市調口徑） | 2025 年占戶數 43%，Mordor 預測到 2031 年接近一半；**以金額計**，一手占 63.67% | 2025，以及 2031 預測 | IN-90（Mordor） | 市調推估，含租賃範疇 | 中（以金額計的口徑與戶數口徑不可混用） |
+
+> 注意：Square Yards 本身也經營室內裝修（Square Yards Interiors），可能有利益關聯，但數據來自公開登記資料。
+
+#### 〔r2〕屋齡與住宅存量
+
+- **Census 2011**（最新一次已公布的普查）：普查住宅（census houses）3.3084 億棟，其中有人使用 3.0616 億棟；鄉村 2.2070 億、都市 1.1014 億（IN-92，MoHUPA 2013 統計彙編，信心：中）。
+  - 普查只記錄建材與屋況（good、livable、dilapidated），**不記錄屋齡**，因此無法算出 30 年以上的占比。
+  - 為何仍引用 2011 年資料：下一次普查的住房調查階段尚未公布結果。
+- Mumbai 的舊屋線索（都是低信心）：
+  - 一則地產部落格稱逾 16,000 個住宅社區屋齡超過 30 年，沒有附出處（IN-93，低）。
+  - 另一則指南稱 MMR 有逾 25,000 棟 35–55 年的不安全建物，出處 URL 無法確定（低）。
+  - 2020 年報導：Island City 有 14,500 棟 cessed（舊屋稅管）建物，約 35 lakh 居民（IN-94，2020 年，低至中）。
+- **30 年以上屋齡占比：無資料**（全國或都市的官方資料都沒有屋齡欄位）。
+
+**仍為無資料的需求項目**
 
 - 現屋（RTM）與預售（UC）的比例
-- 中古屋交易占比
-- 屋齡分布與 30 年以上占比（簡報已提示 Census 2011 過舊，本輪也沒有找到替代資料）
 - 翻修週期
 - PMAY-U 2.0 的戶數與預算
 
@@ -161,6 +226,10 @@
 | 中階 | ₹2,000–3,000/sq ft | IN-43 | — | 低至中 |
 | 高階 | ₹3,000–4,000/sq ft，大都會可達 ₹4,000+ | IN-43 | 高級飾面、訂製櫃體、智慧配件 | 低至中 |
 | 另一組業者級距 | 基本 ₹1,200–1,800；中階 ₹1,800–2,800；高階 ₹2,800–4,000+（₹/sq ft） | 搜尋摘要稱「一家室內設計公司」，URL 對應不確定（候選為 IN-44） | — | 低 |
+| 〔r2〕印地語翻修行情 | 整體翻修 ₹1,500–4,000/sq ft；「標準」級 ₹2,000–3,500/sq ft，含地板、系統廚具與浴室升級 | IN-75（IIFL 印地語版，2025 年指南，刊在黃金貸款部落格） | 翻修（renovation） | 低至中 |
+| 〔r2〕統包 fit-out 級距（2026） | 基本 ₹800–1,400；中階 ₹1,400–2,500；高級 ₹2,500–4,500；奢華 ₹4,500+（₹/sq ft） | IN-85（Construction Estimator India，2026；URL 對應為推定） | 含施工的統包 | 低 |
+| 〔r2〕室內設計服務單價（2026） | ₹1,200–5,000/sq ft | IN-81（NoBroker Interiors 指南；URL 對應為推定） | 依設計與材料而定 | 低 |
+| 〔r2〕建造成本中的「室內飾面」項目 | ₹500–800/sq ft（例：200 sq ft 約 ₹1,00,000–1,60,000） | IN-76（Bajaj Finserv；城市不明） | 新建工程的飾面分項，**不是**系統櫃與裝修統包 | 低 |
 
 **2BHK（約 1,000 sq ft）整套包價**
 
@@ -182,7 +251,23 @@
 
 **設計費與工期**
 
-- 設計費行情（占工程費 %、按 sq ft 計或包價）：**無資料**。只有 IN-45 的統包價明示包含設計費，可作為「常與施工綁定」的弱證據。
+- 〔r2〕設計費行情有三種計價方式：占工程費的百分比、按 sq ft 計、固定費。都是業者部落格的資料，屬【示意】，信心低至中。
+
+| 計價方式 | 數值 | 地區或年份 | 來源 |
+|---|---|---|---|
+| 占工程費 % | 一般 6–15% | 全國，2025 | IN-82（HouseYog；URL 對應為推定） |
+| 占工程費 % | 10–20% | Chennai，2025 | IN-83（Tint Tone and Shade） |
+| 占工程費 % | 8–15% | Bhubaneswar | IN-84 |
+| 占工程費 % | 5–10%；另有業者採包價 | Indore | URL 無法對應，低 |
+| 占執行預算 % | 8–15%，不採每 sq ft 固定費率 | 2026 | IN-85 |
+| 純設計（3D 與諮詢，不含施工） | ₹50–150/sq ft | 2026 | IN-85 |
+| 設計師費用 | ₹50–200/sq ft | Delhi，2025 | IN-86（McCoy Mart） |
+| 純 3D 設計 | ₹30–50/sq ft | — | URL 無法對應，低 |
+| 設計＋專案管理顧問（PMC） | ₹250–350/sq ft | — | URL 無法對應，低 |
+| 固定諮詢費 | 每案 ₹25,000–30,000 起 | — | URL 無法對應，低 |
+
+  - 平台（Livspace、HomeLane）常把設計費綁進統包價，例如 IN-45 的包價明示含設計費。
+  - Livspace 與 HomeLane 的官方價目表：**無資料**。
 - 典型工期（例如「45 天交付」的說法）：**無資料**，本輪沒有搜到。
 
 ### Q3 產業結構與主要玩家
@@ -233,12 +318,20 @@
 | 板材 BIS QCO | 《合板與木質平面門扇（品質管制）命令》（Plywood and Wooden Flush Door Shutters (Quality Control) Order, 2024）自 **2025-02-28** 生效；小型企業延至 2025-05-28，微型企業延至 2025-08-28。涵蓋 IS 303（一般合板）、IS 710（船用合板）、IS 4990（模板合板）、IS 2202（Part 1）（實心門扇）。木質板材（MDF、粒片板、木心板）約自 2025-02-10 或 02-11 起須取得 BIS 認證與 ISI 標章。2024-12-19 的利害關係人會議決定不再延期 | 商工部（Ministry of Commerce and Industry）；DPIIT 公告；印度標準局（BIS）執行 | IN-54、IN-55、IN-56、IN-57 | **法定**（強制認證）。注意：來源是顧問公司與業界媒體，本輪沒有找到政府公報原文 |
 | RERA 瑕疵責任 | 第 14(3) 條：自交屋起 5 年內通報的結構瑕疵，以及工藝、品質、服務等瑕疵，由開發商在 30 日內免費修復；未修復時買方可求償。二手指南稱契約中限縮 5 年責任的條款無效 | 《不動產（規範與發展）法》（Real Estate (Regulation and Development) Act, 2016）；主管機關為各邦 RERA | IN-58、IN-59、IN-60（Bihar RERA 裁定 491/2023，政府）、IN-64、IN-65 | **法定**。適用對象是開發商（promoter），不是室內裝修承包商；室內飾面是否涵蓋，要看各邦裁定 |
 
-**本輪無資料的法規項目**
+**〔r2〕Mumbai 住宅社區重建規則**（與翻修、重建需求有關；**需專業人士最終確認**）
+
+- 依 Mumbai 的《發展管制與促進規則》（DCPR 2034）：
+  - 一般需屋齡 30 年以上，或被市政府（BMC）認定為危險或不安全建物，並須做結構鑑定（structural audit）。
+  - 有結構鑑定報告時，可依此啟動重建。
+- 社區自行重建（self-redevelopment）的同意門檻：依股本計 66% 的成員，以及依住戶計 51% 的成員。
+- 來源：IN-95、IN-96，都是地產業者的指南，URL 對應為推定，信心：低。主管機關為 BMC，以及馬哈拉施特拉邦（Maharashtra）的合作社主管機關。
+
+**仍為無資料的法規項目**
 
 - 私人工程有沒有全國性的承包商執照
 - 市政建築規則（bye-laws）對結構變更的許可程序
 - 商業 fit-out 的消防許可（fire NOC）
-- 住宅社區（housing society）的 NOC 慣例
+- 住宅社區（housing society）的室內裝修 NOC 慣例
 - 2023–2026 年的修法（BIS QCO 以外）
 
 ### Q6 消費者保護與糾紛
@@ -246,13 +339,25 @@
 **結論**：只找到 RERA 對開發商的 5 年瑕疵責任（IN-58、IN-60）。
 
 - 這項責任不直接適用於室內裝修公司（推論）。
-- 室內裝修糾紛應該走《消費者保護法》（Consumer Protection Act, 2019）的消費者委員會，或國家消費者熱線（National Consumer Helpline），但本輪**沒有搜到驗證來源**。
-- 以下項目皆為**無資料**：
-  - 國家消費者熱線的室內裝修投訴統計
-  - 訂金慣例（例如訂金 10%）
-  - 付款階段
-  - 平台的「10 年保固」說法
-  - 常見糾紛與詐騙型態
+
+**〔r2〕室內裝修糾紛走《消費者保護法》（Consumer Protection Act, 2019）**（**需專業人士最終確認**）
+
+- **判例**：Hyderabad 的消費者委員會認定 **NoBroker** 收取全額室內裝修款後，屢次承諾準時完工卻交付未完成且不合格的工程。委員會認定構成「服務缺失（deficiency in service）」與「不公平交易行為（unfair trade practice）」，命其全額退還 **₹4,90,716**，另付訴訟費 ₹5,000，並須在收到命令後 45 日內履行。
+  - 委員會引用最高法院見解：無正當理由延遲履約即構成服務缺失。
+  - 來源：IN-97（inkl 轉載，報導約在 2026 年 8 月）。信心：中【實際】，但僅單一案例。
+- **程序**：可向住所地、付款地或承包商營業地的地區消費者爭議處理委員會（District Consumer Disputes Redressal Commission）提告，也可透過 e-Daakhil 線上提出（IN-98）。
+- **常見糾紛型態**（IN-98，二手指南，信心：低至中）：
+  - 收了預付款（advance）後延宕或不施工
+  - 以較便宜的材料替換約定材料
+  - 指南建議保留丈量表與材料規格證據，例如合板等級與品牌型錄
+- 律師在 Q&A 平台上的建議（IN-99，非正式意見，信心：低）：先發律師函，要求 14 日內退款，未果再提告。
+
+**仍為無資料的項目**
+
+- 國家消費者熱線（NCH）的室內裝修投訴統計
+- 訂金慣例（例如訂金 10%）
+- 付款階段
+- 平台的「10 年保固」說法
 - Mordor 的質性描述：消費者愈來愈偏好有保固與 SLA 的品牌業者（IN-02）。這可間接說明「無品牌木工」的品質與糾紛問題是品牌業者的切入點。這是推論。
 
 ### Q7 外資與台資進入規則
@@ -270,12 +375,22 @@
 - 「不動產業務」與「農舍興建」禁止外資，但排除「市鎮開發」與「商業不動產開發」（IN-62，信心：低）。
 - 營建開發（construction development）100% 自動核准的條件（最低面積、資本、閉鎖期等）：本輪**沒有在搜尋結果中驗證**，請以 DPIIT 最新的 Consolidated FDI Policy 為準（IN-63 為 2026 年的二手指南）。
 
-**本輪無資料的項目**
+**〔r2〕就業簽證（Employment Visa）薪資門檻**（**需專業人士最終確認**）
 
-- 室內設計或裝修服務公司能否 100% 外資持股
+- 內政部（Ministry of Home Affairs, MHA）的準則：任何產業的受聘外國人，年薪都須**超過 USD 25,000**；未達門檻時，駐外使館可拒件。
+  - 來源：IN-100（iPleaders）、IN-101（TaxGuru）、IN-102（India Briefing，約 2010 年）、IN-103（Business Today，2010-10）。
+  - 本輪沒有找到現行官方（MHA 或使館）頁面的原文，信心：中。
+- 豁免對象：民族料理廚師、英語以外的語言教師、駐印使館人員（IN-100）。
+- 一則來源稱孟加拉、阿富汗、中國、伊朗、斯里蘭卡國民的門檻放寬為年薪 USD 14,000。出處 URL 無法對應，內容也存疑，信心：低，需查 MHA 原文。
+- Hyring 的詞彙頁稱教育與 IT 業有產業豁免（IN-104），與 2010 年的官方說法（IT 業同樣適用 USD 25,000）矛盾，信心：低。
+- 為何仍引用 2010 年資料：門檻首次設定的時間；之後的指南多沿用相同數字，本輪沒有找到修訂的證據。
+- 推論：台籍設計師或專案經理若派駐印度，年薪須超過 USD 25,000。這相對印度本地設計師的薪資偏高，會推升外派成本。
+
+**仍為無資料的項目**
+
+- 室內設計或裝修服務公司能否 100% 外資持股（營建開發與服務業的自動核准條件，第二輪仍未驗證）
 - 承包商登記類別
-- 就業簽證薪資門檻（簡報提到年薪 USD 25,000，本輪**未驗證**）
-- 外籍設計師的執業限制
+- 外籍設計師的執業限制（但室內設計本身沒有證照門檻，見 Q5）
 
 **外商案例**
 
