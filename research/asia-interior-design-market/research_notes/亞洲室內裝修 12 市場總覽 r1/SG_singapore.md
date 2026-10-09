@@ -340,7 +340,14 @@
 | 營建業基本技術外勞稅（月） | S$500／650（SG-36 等第三方） | S$700；最高 S$900（其他第三方） | >30%；**定義**（傳統／非傳統來源國、MYE 內外、技術等級）＋**年份**（2025 vs 2026 調整）＋來源品質 | 不裁定任何數字；需以 MOM 官方 levy 表為準（列入缺口） |
 | 營建業外勞依存比上限 | 83.3%（SG-34，MOM 官方） | 87.5%（SG-35 等第三方） | 差 5%；第三方過時或錯誤 | 採 MOM 83.3% |
 | CaseTrust 訂金上限 | 20%（SG-06，CASE 官方） | 20–25% 或 25%（SG-08 等第三方） | 25%；第三方把「業界慣例」與「認證上限」混為一談 | 採 CASE 20% |
-| 2024 裝修預付款損失 | 約 S$1.93m 的三分之一（≈S$0.64m，SG-01） | S$728,000（二手網站，未核實） | 差約 13%；可能為不同四捨五入或口徑 | 採 SG-01「約三分之一」，S$728,000 不採用 |
+| 2024 裝修預付款損失 | 約 S$1.93m 的三分之一（≈S$0.64m，SG-01） | S$728,000（補洞輪：與 SG-01／SG-02 並列出現） | 差約 13%；「約三分之一」為四捨五入描述，728,000 為精確值（占 37.7%） | **補洞輪更新**：兩者相容，採 S$728,000（中）並保留「約三分之一」描述 |
+| 2025 私宅轉售量 | 14,622 筆（SG-71，URA 最終值） | 14,047 筆（SG-73，EdgeProp 依 caveat 快報） | 差 3.9%；**方法／時點**（12 月下旬 caveat 初估 vs 1 月 23 日最終） | 採 14,622 |
+| IKEA Singapore 營業額 | FY2023 S$384.2m，年減 2.0%（SG-83，官方）→ 隱含 FY2022 約 S$392m | FY2022 $255.4m（SG-84，Inside Retail，幣別標示不明） | 差約 35%（>30%）；**幣別／口徑**：推論 255.4 可能為歐元或僅部分營收（如不含線上／餐飲） | 採 SG-83 官方值；SG-84 不採用 |
+| Castlery 美國營收占比 | 65%（SG-79，Vulcan Post，總營收） | 78%（SG-78，ECDB，最大線上商店） | 差約 20%（<30%）；**定義**（全通路 vs 單一線上商店） | 採 65% 作為全公司占比 |
+| 木作費用 | S$3,400–6,100（SG-17，Qanvast 計算器） | 4-room 木作套裝 S$12,000–22,000（SG-97） | >3 倍；**定義**（單項／單空間 vs 全屋套裝） | 全屋木作採 SG-97（低）；SG-17 視為單項價 |
+| 轉售組屋工期 | 4/5-room 10–12 週（SG-14，中位數） | 全面翻修 12–16 週（SG-76） | 中點差約 27%（<30%）；**方法**（中位數 vs 依工程範圍分級） | 兩者並列；一般案採 SG-14，大改案採 SG-76 |
+| ID 月薪 | Payscale 中期年薪約 S$41,196（≈ 月 S$3.4k，SG-91）；廣告月薪 S$2,800–4,500（SG-93） | Jobstreet 某公司 S$5,000–7,500／月（SG-94） | >30%；**定義**（底薪 vs 可能含佣金）＋**樣本**（單一公司） | 底薪基準採 SG-91／SG-93；SG-94 視為含業績之上緣 |
+| 老舊組屋比例 | 約三分之一 >35 年（推定 SG-68） | 約 9% >40 年（SG-65） | 門檻不同（35 vs 40 年）、年份不同 | 非真正矛盾；兩者皆低信心，30 年口徑仍為缺口 |
 | 3-room 轉售翻修費 2025 | S$51,000–61,800（SG-15 引 Qanvast） | 與 Qanvast 2025 4-room BTO 數字完全相同（SG-14） | 疑似二手轉載錯植 | SG-15 之 3-room 轉售值降為低信心；以 SG-13 2026 值為主 |
 | Qanvast BTO 年度變化 | 5-room BTO 2025：S$67,000–82,400（SG-14） | 5-room BTO 2026：S$60,600–76,500（SG-13） | 2026 宣稱「+1–2% 通膨」卻低於 2025；**方法**（每年樣本專案不同、2025 為推估、2026 以 2025 實際中位數為基礎） | 差 <30% 未達門檻；兩者皆屬平台推估，採較新之 2026 值並註明方法 |
 | 鄰居通知期 | 提前 5 天（2024 國會答覆，SG-11 相關） | 提前 3 天（較早答覆） | **年份**／規則更新 | 採 5 天（較新），需向 HDB 確認 |
@@ -353,19 +360,19 @@
 |---|---|---|
 | 住宅翻修／室內設計服務市場規模（官方或市調） | #1 `Singapore renovation industry market size 2025` | SingStat 營建業「其他專業營造」細項產值；BCA 營建需求（含 A&A／翻修）統計；Astute Analytica 等報告目錄（SG-57）之定義 |
 | 商業 fit-out 市場與單價 | #1（未直接搜尋） | Cushman & Wakefield／JLL／Linesight Asia fit-out cost guide（Singapore 每 sq ft） |
-| CASE 2025 年全年投訴統計 | #3、#17（未執行） | case.org.sg 2026 年 2 月媒體稿 |
-| 每 sq ft／m² 單價、設計費行情、工期 | #2、#13 | Qanvast／Renonation 成本指南全文；ID 公司報價單樣本 |
-| 30 年以上組屋占比、租約衰減 | #12、#19（未執行） | HDB Annual Report「Age of HDB dwellings」；國會答覆 |
-| URA 私宅新售／轉售量 | #20（未執行） | URA 2025 Q4 Real Estate Statistics 新聞稿 |
+| CASE 2025 年全年投訴統計（已補 2023 年 1,168 件、1H2025 總投訴 6,253 件；裝修 2025 細項仍缺） | #3、#17（未執行）、#23、#26 | case.org.sg 2026 年 2 月媒體稿（搜尋未索引）；直接向 CASE 索取 |
+| 每 sq ft／m² 全包單價（基本／中階／高階）、設計費百分比（工期已補） | #2、#13、#21、#27 | Qanvast／Renonation 成本指南全文；ID 公司報價單樣本；HDB 各房型官方樓面面積 |
+| 30 年以上組屋占比（同口徑官方數字；已補 >35 年與 >40 年之二手鄰近指標） | #12、#19（未執行）、#22 | HDB Annual Report／Key Statistics「Age of HDB dwellings」；國會答覆 |
+| ~~URA 私宅新售／轉售量~~（補洞輪已補：14,622 筆） | #20、#24 | — |
 | 2026 BTO 交屋戶數 | #7 | HDB 年報、專案 TOP 時程 |
 | 室內設計師是否需執照、BCA 營造牌照適用範圍、MCST 規約、SCDF 消防 | #5、#9、#18（未執行） | BCA Builders Licensing Scheme 網頁；SCDF Fire Code；MTI 2024-05 答覆全文 |
-| 外資 100% 持股、EP／S Pass、COMPASS | 未執行（配額） | ACRA、MOM 官方網頁 |
-| 外勞稅正確數字 | #15 | MOM levy 官方表 |
-| ID／裝修公司前 10–20 名營收、IKEA（Ikano）、Courts、Castlery、HipVan | 未執行（配額） | ACRA 財報（Bizfile）、Courts（Nojima）年報、Castlery 募資新聞、Ikano 年報 |
-| 平台用戶數、GMV、抽成 | 未執行 | Qanvast 媒體專訪、Crunchbase |
-| 設計科系畢業人數、設計師薪資、師傅日薪 | 未執行 | MOE 高教統計、MOM Occupational Wage Survey、Qanvast 工資指南 |
+| S Pass 門檻（外資持股、EP、COMPASS 已補，但仍以二手來源為主） | #29 | MOM S Pass 官方頁；ACRA「Registering a company」官方頁（核對常駐董事規定） |
+| 外勞稅正確數字 | #15（補洞輪配額不足未再查） | MOM levy 官方表 |
+| ID／裝修公司前 10–20 名營收；IKEA SG FY2024–2025；Courts 新加坡 2025；HipVan（IKEA FY2023、Castlery 估計已補） | #28 | ACRA 財報（Bizfile）、Courts Asia／Nojima 年報、Ikano Retail 年報、HipVan 新聞 |
+| 平台用戶數、GMV、抽成（Hometrust 已確認存在） | 未執行 | Qanvast 媒體專訪、Crunchbase |
+| 設計科系畢業人數、監工薪資、泥作／水電日薪（ID 薪資與木工日薪已補，低–中信心） | #30 | MOE 高教統計、MOM Occupational Wage Survey、Qanvast 工資指南 |
 | 材料進口依賴、價格指數 | #13 | BCA Building Materials Prices、SingStat 進口統計（HS 69 磁磚等） |
-| 《聯合早報》在地中文報導 | #4、#10、#13（均未回傳早報頁） | 以 zaobao.com.sg 站內搜尋「装修 消协」「装修公司 倒闭」 |
+| 《聯合早報》在地中文報導 | #4、#10、#13、#22、#23（均未回傳早報頁）；#25 限定 zaobao.com.sg 網域被工具以 API 400 拒絕 | 本工具環境無法存取早報；需人工於 zaobao.com.sg 站內搜尋「装修 消协」「装修公司 倒闭」「组屋 屋龄」 |
 | 人均 GDP、人口、名目 GDP | 未執行 | SingStat |
 
 ---
@@ -403,6 +410,23 @@ SG,Hafary 營收,286.991,SGD million,2025,SG-37,https://links.sgx.com/1.0.0/corp
 SG,Hafary General 部門營收,142.70,SGD million,2025,SG-38,https://www-web.itiger.com/news/1129153147,服務屋主與裝修公司之磁磚銷售部門；+4.0%,medium
 SG,Hafary 毛利率,41.1,%,2025,SG-38,https://www-web.itiger.com/news/1129153147,FY2025 毛利率（FY2024 40.3%）；產品組合與投入成本緩和,medium
 SG,HDB 新入住翻修需求（示意）,2.81-3.31,SGD billion per year,2025-2026,本研究,—,示意：2025 BTO完工19600(低)+轉售26169 × 4-room 2026 Qanvast 單價；假設全數翻修；不含私宅,low
+SG,私宅轉售成交量,14622,筆,2025,SG-71,https://www.era.com.sg/press-release/4q-2025-ura-real-estate-statistics-private-home-demand-momentum-carries-from-3q-2025-sets-firm-outlook-for-2026,URA 最終數據（2026-01-23）；私宅轉售不含 EC；2024 年 14053 筆,high
+SG,私宅全年成交量,26492,筆,2025,SG-71,https://www.era.com.sg/press-release/4q-2025-ura-real-estate-statistics-private-home-demand-momentum-carries-from-3q-2025-sets-firm-outlook-for-2026,新售10815+轉售14622+分售1055,medium
+SG,私宅轉售占私宅成交比（推算）,55.2,%,2025,SG-71,https://www.era.com.sg/press-release/4q-2025-ura-real-estate-statistics-private-home-demand-momentum-carries-from-3q-2025-sets-firm-outlook-for-2026,本研究以 14622/26492 推算；不含組屋,medium
+SG,CASE 裝修承包商投訴,1168,件,2023,SG-01,https://www.case.org.sg/wp-content/uploads/2025/02/Media-Release-CASE-sees-prepayment-losses-more-than-quadruple-in-2024-entertainment-related-complaints-nearly-triple.pdf,CASE 新聞稿 Table 1 之 2023 年值,medium
+SG,裝修業預付款損失,728000,SGD,2024,SG-02,https://www.asiaone.com/singapore/home-renovations-make-bulk-consumers-losses-2024-case,CASE 2024 全行業預付損失 S$1.93m 中來自裝修業之部分（約37.7%）,medium
+SG,CASE 上半年總投訴,6253,件,2025H1,SG-74,https://www.case.org.sg/wp-content/uploads/2025/08/Media-Release-CASE-sees-increase-in-prepayment-losses-for-the-beauty-industry-in-the-first-half-of-2025.pdf,全行業；1H2024 為 7721 件；裝修列前五大行業但未單列件數,high
+SG,BTO 4-room 翻修工期,9-10,週,2025,SG-14,https://qanvast.com/sg/articles/-3384,Qanvast 2025 預期工期（中位數基礎）；不含許可申請,medium
+SG,轉售 4/5-room 翻修工期,10-12,週,2025,SG-14,https://qanvast.com/sg/articles/-3384,Qanvast 2025 預期工期；全面翻修另見 Ohmyhome 12-16 週,medium
+SG,轉售組屋平均翻修費,67000,SGD per flat,年份未明,SG-60,https://www.income.com.sg/blog/home-renovations-cost-singapore,Income 引 Qanvast 平均；新組屋約 44000；轉售 condo 約 82000；新 condo 約 39000,medium
+SG,組屋屋齡>40年戶數,90000,戶（約100萬戶中）,年份未明,SG-65,https://www.propertyguru.com.sg/property-guides/ageing-hdb-flats-ideas-singapore-30624,PropertyGuru 指南；非官方；年份未標示,low
+SG,外資持股上限,100,%,2026,SG-85,https://www.aseanbriefing.com/doing-business-guide/singapore/company-establishment/singapore-foreign-ownership-rules,私人有限公司可 100% 外資；須至少 1 名常駐董事（Companies Act）；需專業人士最終確認,medium
+SG,EP 新申請月薪門檻（非金融業）,5600,SGD per month,2025,SG-87,https://www.edb.gov.sg/en/business-insights/insights/salary-threshold-for-new-employment-pass-applicants-to-be-raised-to-5600-from-2025.html,2025-01-01 起新申請；金融業 6200；隨年齡遞增；另須 COMPASS 40 分,high
+SG,室內設計師平均年薪（中期）,41196,SGD per year,2026,SG-91,https://www.payscale.com/research/SG/Job=Interior_Designer/Salary/e86615f1/Mid-Career,Payscale 聚合資料；入門約 26729、資深約 49503；非官方,low
+SG,木工日薪,150-180,SGD per day,約2025-2026,SG-96,https://dojobusiness.com/blogs/news/carpenter-project-pricing,商業計畫部落格估計；時薪 15-25；非官方,low
+SG,IKEA Singapore 營業額,384.2,SGD million,FY2023,SG-83,https://www.ikea.com/sg/en/newsroom/corporate-news/ikano-retail-owner-of-ikea-singapore-posts-eur-1-08-billion-in-total-turnover-pub3bd2f4e0,Ikano Retail 官方新聞稿；年度截至 2023-08-31；年減 2.0%；家居零售桶,high
+SG,Castlery 銷售（第三方估計）,424,USD million,2025,SG-78,https://ecdb.com/resources/sample-data/retailer/castlery,ECDB 估計最大線上商店 GMV；非經審計；全球（新加坡約占15%）,low
+SG,組屋翻修總價區間,25000-80000,SGD per flat,年份未明,SG-59,https://qanvast.com/sg/interior-designers,Qanvast 名錄頁；私宅 condo 40000-150000,medium
 ```
 
 ---
