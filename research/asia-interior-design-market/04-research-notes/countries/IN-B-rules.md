@@ -1,396 +1,293 @@
 # 印度（India）— LENS B：法規證照、消費者保護、外資進入、消費者行為、人才與勞動、材料供應鏈、產業組織
 
-> 研究日期：2026-10-08｜研究者：Claude（市場研究子代理，LENS B，法規視角）
-> 匯率假設（本人設定，與 IN-A／T1 一致，非來源原數）：1 USD ≈ INR 86 ≈ NT$31.5；故 1 INR ≈ NT$0.366；1 crore = 1,000 萬；1 lakh = 10 萬；Rs 100 crore = Rs 10 億 ≈ USD 1,163 萬 ≈ NT$3.66 億。印度財年 FY25 = 2024-04-01 至 2025-03-31。1 坪 = 3.3058 m² = 35.58 ft²；1 m² = 10.764 ft²。
+> 研究日期：第 1 輪 2026-10-08（零搜尋，僅彙整他筆記）；**第 2 輪 2026-10-09（本版，執行 20 次 WebSearch：英文 15、印地語 5）**｜研究者：Claude（市場研究子代理，LENS B，法規視角）
+> 匯率假設（本人設定，與 IN-A／T1 一致，非來源原數）：1 USD ≈ INR 86 ≈ NT$31.5；故 1 INR ≈ NT$0.366；1 crore = 1,000 萬；1 lakh = 10 萬；Rs 1 lakh ≈ USD 1,163 ≈ NT$36,600；Rs 1 crore ≈ USD 11.6 萬 ≈ NT$366 萬。印度財年 FY25 = 2024-04-01 至 2025-03-31。1 坪 = 3.3058 m² = 35.58 ft²；1 m² = 10.764 ft²。
 >
-> **方法限制（極重要，整合者務必先讀）**
-> 1. 本子代理啟動時，本回合所有代理共享的網路搜尋額度（每回合 200 次 WebSearch）**已被先前的子代理用罄**；本子代理依任務規劃的 20 條搜尋（英文 15 條、印地語 5 條，見附錄 B）**一次都未能執行**（8 條已送出即被系統以「額度用罄」退回）。執行環境同時封鎖 WebFetch／curl，且依規定不得改用第三方代理、快取或閱讀器服務繞過。
-> 2. 因此本筆記**沒有任何由本子代理親自搜得的來源**。所有附 URL 的事實，全部取自本工作階段內其他子代理（主題筆記 T3 法規證照、T1 市場規模、T2 商業模式、T8 住宅與需求，以及國家筆記 IN-A、TW-B、VN-A、SG-A、MY-A）在其搜尋結果摘要中記錄的 URL，來源清單已註明「經由 T3／IN-A／…」；這些 URL **亦未曾被任何代理實際開啟核對原文**。依整合協議 §3 與 §10，請整合者逐條重開。
-> 3. 本筆記嚴格區分三類內容：(a) **已引用**——有 URL（取自本工作階段其他筆記）；(b) **推論**——由 (a) 推得，標「推論」；(c) **待驗證線索**——研究者背景知識中「應該存在」的法規名稱、機構、常用說法，**一律不附數字作為事實**，集中放在各節的「待驗證線索」框與附錄 A，屬整合協議 D 級，**禁止直接引用**。
-> 4. 在地語言（印地語）來源：本輪 **0 條**，未達「至少 5 條在地語言來源」的要求；已列為缺口（附錄 B 第 16–20 條為預備查詢）。
-> 5. 任務 7 個關鍵問題中，**第 1（法規）、第 2（消費者保護）、第 3（外資）有部分已引用事實**；**第 4（消費者行為）、第 5（人才勞動）、第 6（材料供應鏈）、第 7（產業組織）幾乎全部無已引用資料**，只能提供線索與缺口。
-> 6. 建議處理：使用者下一則訊息即可觸發新回合，搜尋額度會重置；屆時請以附錄 B 的 20 條查詢直接續跑，本檔案可原地覆寫或增補。
+> **方法說明（整合者務必先讀）**
+> 1. 第 1 輪（2026-10-08）子代理的搜尋額度被用罄，該版筆記 0 條自行搜得來源，全部轉引自 T1／T2／T3／T8／IN-A 等筆記。**本版（第 2 輪）已依第 1 輪附錄 B 的 20 條查詢逐條執行**，新增約 70 條本子代理親自搜得的 URL，並保留第 1 輪轉引的 35 條（來源清單以「取得途徑」欄區分）。
+> 2. 執行環境仍封鎖 WebFetch／curl，**所有 URL 皆未開頁核對原文**，事實取自搜尋引擎回傳的頁面摘要。依整合協議 §3 與 §10，整合者（或可開網頁的外部 AI）須逐條重開；關鍵法規條文（Architects Act §37、BMC Act §342、CPA 2019 §35、QCO 日期）建議以 indiacode.nic.in／egazette 原文覆核。
+> 3. 來源等級：印度多數「操作性」資訊（住宅合作社 NOC 流程、工班日薪、裝修預算分級）只存在於業者部落格與法律諮詢平台（C 級），官方統計極少。本筆記對此類來源一律標「中／低信心」並註明為區間，不作單點引用。
+> 4. 在地語言（印地語）來源：本輪取得 **6 條**印地語頁面（housivity、99acres Hindi、Apple Ply Hindi、Zee Business Hindi、TradeIndia Hindi、Kota Stone Hindi），達成「至少 5 條」要求；但印地語法律諮詢平台（LawRato、Vidhikarya、Kaanoon）頁面本身為英文，不計入。
+> 5. 區分三類內容：(a) **已引用**——有 URL；(b) **推論**——由 (a) 推得，標「推論」；(c) **待驗證線索**——無 URL，集中於附錄 A，屬 D 級，**禁止直接引用**。
+> 6. 第 1 輪結論與本輪搜尋結果**無矛盾**：印度對室內設計與住宅裝修承攬確實零證照、無裝修專屬消保、FDI 100% 自動；本輪補上的是各題的量化資料與操作細節。
 
 ---
 
 ## 1. 摘要
 
-1. **印度對「室內設計師」完全沒有法定執業管制**：《建築師法 1972》（Architects Act, 1972）只保護「Architect」這個名稱，最高法院 2020 年 *Council of Architecture v. Mukesh Goyal* 判決明確指出該法不禁止未註冊者從事建築相關業務；室內設計師無法定定義，印度室內設計師學會（IIID）為自願會員制。這使印度與日本、韓國、新加坡、香港同屬「設計零證照」市場，且是 12 市場中**唯一同時對一般住宅裝修承包也無專門執照制度**者（泰國另一）。
-2. **住宅裝修許可以「市政建管＋住宅合作社／RWA 同意」為主**：市政 building permission 僅於結構變更時需要；《不動產（管制與發展）法 2016》（RERA）只規範開發商；公寓改裝實務上由住宅合作社（Cooperative Housing Society）或住戶福利協會（RWA）之 NOC 把關。消防（NBC 2016 Part 4、各邦消防法）與各市建管細則本回合**無已引用資料**。
-3. **消費者保護沒有裝修專屬機制**：無標準契約、無訂金上限、無法定裝修保固期、無保險或履約保證；爭議循《消費者保護法 2019》（Consumer Protection Act, 2019）之消費者委員會與國家消費者熱線（NCH）處理。NCH 2025 年 4–12 月協助 **67,265 件**投訴、促成退款 **Rs 45 crore**（≈ USD 523 萬 ≈ NT$1.65 億），2025 年月均登錄 **170,585 件**，但**無裝修分項**。
-4. **外資進入門檻為 12 市場最低之一**：FDI 政策對未列明的允許行業預設 **100% 自動路徑**；建設發展（Construction Development，Para 5.2.10）100% 自動但有 3 年鎖定期；Press Note 3 (2020) 的陸地接壤國審查**不適用台灣**；無承包商執照制度；T3 給台商進入可行性評分 **設計 4／承攬 4**（滿分 4）。外籍設計師以 Employment Visa 入境（門檻與薪資下限本回合未取得 URL）；使用「Architect」名稱須向建築師委員會（CoA）註冊且外國人受互惠限制。
-5. **組織化業者的單位經濟揭示操作環境**：HomeLane FY25 材料費 Rs 320 crore 占總費用 37%、占營收約 43%，人事 Rs 239 crore、廣告 Rs 84 crore（占營收約 11%），淨損 Rs 111 crore；Livspace FY25 營收 Rs 1,460 crore（+23%，印度 85%）仍淨損 Rs 242 crore 並於 2025–2026 裁員（人數兩源矛盾：逾 1,000 人 vs 約 100 人）。這顯示在「無執照、無合格承包商名冊」的環境下，全包連鎖必須自行吸收工班品質與獲客成本。
-6. **材料面唯一已引用事實是「印度是低價磁磚輸出國」**：台灣經濟部貿易調查委員會已認定印度（及越南、馬來西亞、印尼）磁磚進口對台灣產業造成損害並移交反傾銷程序（2025 年業者再度指控）。印度本土品牌（Century Ply、Greenply、Kajaria、Somany、Asian Paints、Hindware、Jaquar、Merino、Action Tesa）、BIS 標準與品質管制令（QCO）、關稅、2022–2026 價格漲幅：**本輪全部無已引用資料**。
-7. **消費者行為、人才與勞動、產業組織三個問題本輪無已引用資料**：僅有 T8 的未驗證背景（房貸 7.5–8.5%、SBI／HDFC 等有 home improvement loan、PMAY-U 2.0 無獨立修繕補助）與 IN-A 的推論（新交屋毛胚／半裝修是住宅全包的主要切入點）。設計科系畢業人數、執業人數、薪資、工班日薪、缺工、移工政策、協會會員數、展會規模——全部列入缺口。
-8. **對台灣業者的總結**：法律上最容易以「台北設計中心＋當地分包」進入，但制度不提供任何品質篩選工具（無執照、無名冊、無標準契約、無保固法定期），交付風險需由自有監造與合約設計吸收；短期以商辦裝修（C&W 2026 印度主要城市 USD 65–73/ft²，亞太最低）與台系建材供應為切入口較務實。
+1. **印度對「室內設計師」與「住宅裝修承包商」完全沒有法定執業管制**：《建築師法 1972》（Architects Act, 1972，法典版本「As on 3 Dec 2025」）第 37 條僅保護「Architect」名稱；最高法院 2020 年 *Council of Architecture v. Mukesh Goyal* 判決確認該法不禁止未註冊者從事建築相關業務；「Interior Architect」一詞不得由非建築師委員會（CoA）註冊者使用，但「Interior Designer／Decorator」無任何限制。印度室內設計師學會（IIID）為自願會員制，官網稱會員 10,000 人、35 個分會與中心。
+2. **住宅裝修許可是「市政建管（僅結構變更）＋住宅合作社 NOC」兩層制**：孟買依《孟買市政公司法》第 342 條（BMC Act §342），拆改承重牆、柱梁、合併兩戶、移動廚衛（涉排水）、封陽台、加夾層須 BMC 事先書面許可；貼磚、油漆、石膏假天花、模組化廚房、換線路、輕隔間通常只需合作社 NOC（部分指南稱非結構工程僅需依示範規約第 159 條「通知」）。NOC 實務：提前 10–15 天書面申請、附圖與工人身分證件、簽賠償保證書；有社區收取 Rs 25,000 押金、違規每次罰 Rs 1,000；未經許可施工罰款 Rs 10,000–1 lakh 並可被令拆除。消防：**未找到任何針對單戶內裝的消防 NOC 規定**（缺口）。
+3. **消費者保護沒有裝修專屬機制，但一般消保救濟可用且有判例**：《消費者保護法 2019》第 2(11) 條「服務瑕疵」與第 2(47) 條「不公平交易」是主要訴因，第 35 條允許在消費者住所地、付款地或業者營業地之地區消費者委員會提告，時效 2 年，可經 e-Daakhil（現為 E-Jagriti）線上立案；*Shipra Rana v. Livspace* 地區委員會判決認定逾期未完工構成服務瑕疵、延誤衍生之額外租金可求償。刑事面：BNS 2023 第 318 條（詐欺）、第 316 條（背信）僅在「一開始即有不誠實意圖」時才會立案（浦那一件 Rs 6.08 lakh 預付款案被法院認定不構成刑事要件）。常見詐騙型態：盜用他人作品集、收取預付款後失聯、將預付款片面轉為「設計費」沒收、要求匯入個人 UPI 帳戶、無 GST 發票。
+4. **外資進入：法律上 12 市場中最開放之一，稅制清楚**：設計服務 100% 外資自動路徑、建設發展 100% 自動（3 年鎖定期）、Press Note 3 (2020) 陸鄰國審查不適用台灣（第 1 輪）。本輪補充：Employment Visa 年薪下限 **USD 25,000**（≈ Rs 16.25–20 lakh，各來源換算不一），須由印度登記實體聘用（EOR 不得擔保），停留逾 180 天須 14 天內向 FRRO 登記，效期 1 年或合約期、可延至 5 年；稅務：設計服務 GST **18%**（SAC 998391）、設計施工一體之工程承攬（works contract，SAC 9954）**18%**；印度子公司可選 22% 優惠稅率（有效 **25.17%**），外國公司分公司 35%＋附加費＋4% 捐 = **36.40–38.22%**（Finance Act 2024 由 40% 調降）；2026 年預算未變動。日本 Nitori 2024-12 於孟買 R City Mall 開首店（約 2,900 m²），2025-11-08 再於 Kala Ghoda 開約 90,000 ft² 五層旗艦店；Nomura Koumuten、IKEA India 本輪無結果。
+5. **消費者預算量級（全為業者部落格，C 級）**：2BHK 全屋裝修 Rs 2.5–28 lakh（區間極寬：班加羅爾套裝 Rs 6–12 lakh、孟買中階 Rs 18–28 lakh）、3BHK Rs 7–35 lakh（孟買／德里／班加羅爾／海得拉巴 Rs 15–35 lakh）、1BHK Rs 3–10 lakh；Livspace 官網「1BHK 起價 Rs 3.62 lakh（僅模組化櫃體、新屋）」；業界經驗法則「花房價 7–10% 做室內」（Livspace 平均客單 Rs 10–12 lakh，年份較舊）；設計費採總價 7–15% 或按 ft²；本地工班比全包公司便宜 15–25%；二線城市比都會低約 24%。融資：HDFC 修繕貸款 = repo（5.25%）＋2.50–7.95% = **7.75–13.20%**；SBI 以 EBLR 計、起息 7.25%（另源 9.15%）；所得稅 §24(b) 對「修繕」利息扣除上限 Rs 30,000（另源稱修繕不適用）——來源互相矛盾。**無政府修繕補助**（第 1 輪 T8 推論，本輪未找到反證）。
+6. **人才與勞動**：室內設計師年薪：入門 Rs 1.8–3 lakh、平均 Rs 3.15–4.2 lakh（Jobted／AmbitionBox 轉引）、5 年經驗 Rs 6–8 lakh、資深 Rs 30 lakh+；工地監工 Rs 19,000–22,000／月（Indeed 735 筆、Glassdoor 272 筆）。木工日薪：孟買 Rs 800–1,300、德里 NCR Rs 750–1,250、班加羅爾 Rs 750–1,250（2025–26 業者估計，無官方數）。缺工：NAREDCO 主席 2025-09 稱技術工短缺近 **200 萬人**（木工、油漆、水電最缺）；CREDAI 稱每日短缺 1,000 萬人（需求 3,300 萬／日，缺 30%，未註明年份）；CSDCI 2023 報告：需求 9,080 萬、高技能供給 270 萬、缺口 4,250 萬。印度為勞力輸出國，無引進外籍建築工政策（線索，未取得 URL）。
+7. **材料與供應鏈**：本土上市公司 FY25 營收：Century Plyboards Rs 4,528 crore（FY26 Rs 5,397 crore，+19.2%）、Kajaria Ceramics Rs 4,219 crore（PAT −46.5%，2025-05 退出合板業務）、Somany Rs 2,643 crore、Greenply Rs 2,488 crore（Vadodara MDF 廠營收 +44%）、Hindware Home Innovation Rs 2,523 crore（虧損 Rs 68 crore）。管制：BIS《合板與木質平板門品質管制令 2024》**2025-02-28** 生效、《木質板材品質管制令 2024》**2025-02-11** 生效，進口品亦須 BIS 標章與執照，違反最高 2 年徒刑或罰款 Rs 2 lakh（首犯）／5 lakh（再犯）；生效前合板進口由 2024-04 的 Rs 68 crore 暴增至 2025-02 的 Rs 369 crore。關稅：傢俱（HS 9401/9403）基本關稅 25–27.5%＋IGST 18%；合板（HS 4412）基本關稅約 10%＋18% IGST＋10% 社福附加；中國 MDF 反傾銷稅 5.4%（2025-02 啟動日落複審）。價格（印地語來源）：18 mm 合板 MR Rs 65–90／ft²、BWR Rs 95–140、BWP Rs 140–220；水泥 2025 年 Rs 300–400／袋（德里 Rs 400–600）；2025-09-22 GST 改革水泥 28%→18%（每袋省約 Rs 35）。**WPI 2022–2026 建材價格指數本輪仍未取得**（缺口）。
+8. **對台灣業者的總結**：法律上最容易以「100% 外資子公司（25.17% 稅率）＋台籍設計總監（Employment Visa ≥ USD 25,000）＋當地分包」進入；但制度不提供任何品質篩選工具（無執照、無名冊、無標準契約、無法定保固），交付風險需由自有監造、里程碑付款與書面契約吸收。板材進口自 2025 年起須取得 BIS 執照，台系系統櫃若以板材形式進口門檻顯著提高，成品傢俱則面臨 25–27.5% 關稅；短期以商辦設計與專案管理、以及「台灣標準」消費者保護承諾為差異化較務實。
 
 ---
-
 ## 2. 法規與證照：誰可以合法執行室內設計與裝修工程
 
 ### Takeaway
-印度沒有室內設計師證照、沒有全國承包商執照；唯一受法律保護的是「Architect」名稱（Architects Act 1972 ＋ 最高法院 2020 年判決）。住宅裝修許可由市政建管（結構變更時）與住宅合作社／RWA 同意組成；消防、各邦建管細則、罰則與 2023–2026 修法本輪無已引用資料。
+印度沒有室內設計師證照、沒有全國承包商執照；唯一受法律保護的是「Architect」名稱（Architects Act 1972 §37 ＋ 最高法院 2020 年判決）。住宅裝修許可由市政建管（孟買 BMC Act §342，僅結構變更）與住宅合作社 NOC 組成，NOC 流程、押金、罰款均由各社區規約自訂。消防 NOC 對單戶內裝之適用、各邦建管細則、2023–2026 修法本輪仍無直接來源。
 
-### 2.1 法律架構總覽（已引用部分）
+### 2.1 法律架構總覽
 
-| 層級 | 法規／機關（原文） | 與室內裝修的關係 | 本輪狀態 | 來源 |
+| 層級 | 法規／機關（原文） | 與室內裝修的關係 | 本版狀態 | 來源 |
 |---|---|---|---|---|
-| 中央法律 | 《建築師法 1972》Architects Act, 1972；主管機關：建築師委員會 Council of Architecture（CoA） | 僅保護「Architect」名稱；不授予業務獨占；室內設計師不在其內 | 已引用（判決與法律評論） | [Indian Kanoon 最高法院判決 2020](https://indiankanoon.org/doc/41555114/)；[Mondaq 2021](https://www.mondaq.com/india/construction-planning/1077872/the-unique-position-of-the-architects-act-1972) |
-| 中央法律 | 《不動產（管制與發展）法 2016》Real Estate (Regulation and Development) Act, 2016（RERA） | 僅規範開發商之銷售與交屋，不規範裝修承包商 | 已引用（二手） | [studiomatrx 角色地圖](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india) |
-| 中央法律 | 《消費者保護法 2019》Consumer Protection Act, 2019；消費者事務部（Department of Consumer Affairs）、NCH、消費者委員會 | 裝修糾紛的主要救濟途徑 | 已引用 | [Business Standard 2025-12](https://www.business-standard.com/india-news/national-consumer-helpline-resolves-67k-complaints-recovers-45-cr-in-2025-125122700291_1.html)；[PIB 2025](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179780&reg=48&lang=2) |
-| 地方 | 市政建管（municipal building permission） | 僅結構變更需申請 | 已引用（二手） | [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india) |
-| 私法／社區 | 住宅合作社（Cooperative Housing Society）／住戶福利協會（RWA） | 公寓裝修須取得同意（NOC） | 已引用（二手） | 同上 |
-| 承包商 | 無全國承包商執照；公共工程由各邦／各機關自行登錄 | 一般住宅裝修承包無專門執照 | 已引用（二手） | 同上 |
-| 技術規範 | 《國家建築規範 2016》National Building Code of India 2016（BIS SP 7:2016），Part 4 Fire and Life Safety 等 | 消防與室內裝修材料要求 | **無已引用資料**（見待驗證線索） | — |
-| 消防 | 各邦消防法與消防 NOC 制度 | 高層住宅裝修 | **無已引用資料** | — |
+| 中央法律 | 《建築師法 1972》Architects Act, 1972（法典版「As on 3 Dec 2025」）；主管機關：建築師委員會 Council of Architecture（CoA） | §37：非註冊建築師不得使用「architect」名稱；不授予業務獨占 | 已引用（法條 PDF＋判決） | [India Code 法條 PDF](https://www.indiacode.nic.in/bitstream/123456789/1690/1/A1972-20.pdf)；[Architexturez 法條 PDF](https://architexturez.net/system/files/architects.act_.1972.pdf)；[Indian Kanoon SC 2020](https://indiankanoon.org/doc/41555114/) |
+| 中央法律 | 《不動產（管制與發展）法 2016》RERA | 僅規範開發商，不規範裝修承包商 | 已引用（二手） | [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india) |
+| 中央法律 | 《消費者保護法 2019》Consumer Protection Act, 2019 | 裝修糾紛主要救濟（見第 3 節） | 已引用 | [LawRato](https://lawrato.com/consumer-court-legal-advice/cheating-and-fraud-by-interior-designers-109575) |
+| 中央法律 | 《建築與其他建築工人法 1996》BOCW Act 1996 | 工地勞工福利捐（studiomatrx 角色地圖提及） | 二手 | [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india) |
+| 地方 | 《孟買市政公司法 1888》§342（BMC Act §342）；BMC 建管 | 結構變更須事前書面許可 | 已引用（業者指南） | [AMS Civil Work 2026](https://www.amscivilwork.in/blog/society-renovation-noc-rules-mumbai)；[NoBrokerHood](https://www.nobrokerhood.com/blog/society-rules-for-flat-renovation-in-mumbai/) |
+| 私法／社區 | 住宅合作社（CHS）示範規約；第 159 條（通知）；管委會 NOC | 任何土木工程前須 NOC | 已引用（業者指南） | [NoBrokerHood](https://www.nobrokerhood.com/blog/society-rules-for-flat-renovation-in-mumbai/)；[RTI Wiki 2026](https://righttoinformation.wiki/apply-society-noc-2026) |
+| 承包商 | 無全國承包商執照 | 住宅裝修承攬無專門執照 | 已引用（二手） | [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india)；[CalcGuru 2026](https://calcguru.in/how-to-start-an-interior-design-business-in-india/) |
+| 技術規範 | 《國家建築規範 2016》NBC 2016 Part 4 | 消防與內裝材料 | **仍無直接來源** | — |
+| 消防 | 各邦消防法與消防 NOC | 高層住宅 | **單戶內裝適用性無來源**；僅有 2018 年 BMC 簡化建物消防 NOC 報導 | [Hindustan Times 2018（PressReader）](https://www.pressreader.com/india/hindustan-times-st-mumbai/20181206/281728385594244) |
 
-### 2.2 室內設計師：法律地位（已引用）
-- 《建築師法 1972》僅保護「Architect」名稱，**不禁止未註冊者從事建築相關業務**；最高法院 2020 年 *Council of Architecture v. Mukesh Goyal* 判決確立此解釋 — [Indian Kanoon](https://indiankanoon.org/doc/41555114/)；[Mondaq](https://www.mondaq.com/india/construction-planning/1077872/the-unique-position-of-the-architects-act-1972)（經由 T3，高信心）
-- 室內設計師無法定定義；IIID（Indian Institute of Interior Designers）為自願會員制，非執業許可 — [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india)；[Mondaq](https://www.mondaq.com/india/construction-planning/1077872/the-unique-position-of-the-architects-act-1972)（經由 T3，中信心；studiomatrx 為非官方來源）
-- 罰則：僅冒用「Architect」名稱受罰；室內設計與裝修承攬本身無「無照執業」罰則 — [Indian Kanoon](https://indiankanoon.org/doc/41555114/)（經由 T3，高信心；罰則金額本輪未取得）
-- 12 市場比較：印度與日本、韓國、新加坡、香港同屬「室內設計無法定證照」；但**僅泰國與印度對一般住宅裝修承包無專門執照制度** — [T3 主題筆記 §2–§3（彙整自上列來源）](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india)（經由 T3，中信心）
+### 2.2 室內設計師：法律地位
+- 室內設計在印度**無執照、無管理委員會**；《建築師法》保護的是「名稱」而非「工作」 — [CalcGuru：How to start an interior design business in India (2026)](https://calcguru.in/how-to-start-an-interior-design-business-in-india/)（本輪，中信心；業者指南）
+- 最高法院 2020 年 *Council of Architecture v. Mukesh Goyal*：《建築師法 1972》**不禁止未註冊者從事建築業務或相關職能**；該法既未定義誰可提供建築服務，也未禁止提供者 — [Indian Kanoon](https://indiankanoon.org/doc/41555114/)（第 1 輪經由 T3＋本輪再確認，高信心）
+- §37：非註冊建築師（或合夥人非全數註冊之事務所）不得使用「architect」名稱與樣式 — [India Code 法條 PDF（As on 3 Dec 2025）](https://www.indiacode.nic.in/bitstream/123456789/1690/1/A1972-20.pdf)；[Mondaq 2021](https://www.mondaq.com/india/construction-planning/1077872/the-unique-position-of-the-architects-act-1972)（本輪，高信心）
+- 「Interior Architect」名稱：非 CoA 註冊者使用屬違法／誤導；安全用語為 Interior Designer、Decorator — [Interior A to Z](https://interioratoz.com/can-i-call-myself-an-interior-architect/)；[Member of Architecture 部落格](https://www.memberofarchitecture.com/blog/68bfee480de7a3b964b9-the-architects-act-1972-the-law-that-built-trust-in-indian-architecture)（本輪，中信心）
+- **來源矛盾**：Home Design Institute 問答頁一則回答稱「室內設計師需執照、受建築師法規範」，與法條及判決相悖，應排除；同頁另一回答稱「不受政府規範、視為自雇專業」 — [Home Design Institute](https://homedesigninstitute.com/question/762/does_interior_designers_need_license_in_india/)（本輪，低信心，僅記錄矛盾）
+- 修法動態：Mondaq 2020 年評論主張《建築師法》應修訂（業務獨占、罰則），但本輪**未找到 2023–2026 年任何 Architects (Amendment) Bill 通過或提出之報導** — [Mondaq：Amendments to the Architects Act, an idea whose time has come](https://www.mondaq.com/india/construction-planning/920434/amendments-to-the-architects-act-1972-an-idea-whose-time-has-come)（本輪，中信心；缺口）
+- IIID 為自願會員制，非執業許可（見第 8 節）— [IIID 官網](https://www.iiid.in/)（本輪）
+- 12 市場比較：印度與日本、韓國、新加坡、香港同屬「設計零證照」；僅泰國與印度對一般住宅裝修承包亦無專門執照 — T3 主題筆記彙整（第 1 輪，中信心）
 
-### 2.3 施工承攬端（已引用）
-- 無全國承包商執照；公共工程由各邦公共工程部門（PWD）或各機關自行登錄承包商（登錄類別本輪未取得） — [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india)（經由 T3，中信心）
-- 承上，印度**沒有可供篩選「合格裝修承包商」的官方名冊**；IN-A 以此推論組織化連鎖必須自建工班管理（Livspace／HomeLane 材料占營收約 43%、人事 32% 仍虧損） — [Entrackr HomeLane FY25](https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234)（經由 T2／IN-A，高信心（數字）／推論（因果））
+### 2.3 施工承攬端
+- 無全國承包商執照；公共工程由各邦 PWD／各機關自行登錄 — [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india)（第 1 輪，中信心）
+- 結構工程的「專業人」要求出現在社區層級：拆除室內非承重磚牆可憑 NOC 進行，但須由**註冊結構工程師**出具證明；拆除 RCC 柱、剪力牆、梁、承重混凝土牆**一律禁止** — [AMS Civil Work：BMC and TMC Society Renovation NOC Rules (2026 Update)](https://www.amscivilwork.in/blog/society-renovation-noc-rules-mumbai)（本輪，中信心）
+- 印度無可篩選「合格裝修承包商」的官方名冊 → 組織化連鎖須自建工班管理（HomeLane 材料占營收約 43%、人事 32%） — [Entrackr HomeLane FY25](https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234)（第 1 輪經由 T2，數字高信心／因果為推論）
 
-### 2.4 住宅裝修許可流程（已引用）
-- 市政 building permission 僅於結構變更時需要；RERA 2016 僅規範開發商；公寓裝修需住宅合作社／RWA 同意 — [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india)（經由 T3，低–中信心；非官方來源，各市細則未取得）
-- 消防、公宅（PMAY 等）規約：**無已引用資料**。
+### 2.4 住宅裝修許可流程（孟買為例；其他城市無來源）
 
-### 2.5 2023–2026 法規變動（已引用）
-- 2026 年 FDI Press Note 部分放寬陸鄰國小額持股審查（與台灣無關） — [White & Case FDI Reviews 2026 India](https://www.whitecase.com/insight-our-thinking/foreign-direct-investment-reviews-2026-india)（經由 T3，中信心）
-- 室內設計、建築師法、建管、消防之 2023–2026 修法：**無已引用資料**（見待驗證線索）。
+**(a) 何時需要 BMC 許可（BMC Act §342）**
+- 需 BMC 事前書面許可：拆除或更動承重牆、柱、梁；合併兩戶；移動浴室或廚房位置（涉排水管線）；封閉陽台併入客廳（受 FSI 規則與社區同意限制）；增設夾層 — [AMS Civil Work：BMC Rules & Society Permissions (2026 Guide)](https://www.amscivilwork.in/blog/bmc-rules-society-permissions-flat-renovation-mumbai)；[Housivity（印地語）：BMC 指南](https://housivity.com/blog/mumbai-home-renovation-bmc-rules)（本輪，中信心）
+- 通常**僅需社區 NOC**：換磁磚或抹灰、原位浴室翻新、POP 假天花與油漆、更換電線與開關、安裝模組化廚房、輕隔間牆 — 同上（本輪，中信心）
+- 另一指南：非結構工程（貼磚、油漆、模組化廚房、假天花）法律上不需 NOC，僅需依示範規約**第 159 條「通知」**；拆牆、陽台玻璃、外牆冷氣主機、超出基座的鐵窗則需 NOC＋§342 許可 — [NoBrokerHood](https://www.nobrokerhood.com/blog/society-rules-for-flat-renovation-in-mumbai/)（本輪，中信心；與上條有出入，各社區規約為準）
 
-### 2.6 待驗證線索（D 級；研究者背景知識，無 URL，禁止當作事實引用）
-> 下列為「應該存在、下一輪優先查證」的法規與機關名稱；凡涉數字或條號者均需以法條原文核對。
-- 《建築師法 1972》有關名稱保護與罰則之條文（一般引用 §37 名稱保護、§36 罰則）；CoA 註冊建築師總數與年度新增數（CoA 官網 https://www.coa.gov.in/ ，未開啟）；CoA 對外國人註冊的互惠規定（§25）；是否有 Architects (Amendment) Bill（2024–2026）草案。
-- 《國家建築規範 2016》（NBC 2016，BIS SP 7:2016）Part 4（消防與生命安全：內裝材料燃燒性能、逃生通道）、Part 3（開發管制）；NBC 本身非法律，須經各邦建築細則（building bye-laws）採納；住宅與都市事務部（MoHUA）《示範建築細則 2016》（Model Building Bye-Laws 2016）。
-- 孟買：《孟買市政公司法 1888》（Mumbai Municipal Corporation Act, 1888）有關改建通知之條文（一般引用 §342）；孟買 DCPR 2034／馬哈拉施特拉邦 UDCPR 2020；馬邦《合作社法 1960》（Maharashtra Co-operative Societies Act, 1960）與住宅合作社示範規約（Model Bye-laws）中「會員室內改裝須管委會事先 NOC、不得改動結構與共用部分」之條款（條號待查）；《馬哈拉施特拉消防預防與生命安全措施法 2006》（半年度 Form B 消防安全證書）。
-- 德里：德里發展局（DDA）統一建築細則 2016（UBBL 2016）；《德里消防法 2007》；RWA 制度。
-- 班加羅爾：BBMP 建築細則；卡納塔克邦公寓所有權法（KAOA 1972）與 2024–2025 年修法動態。
-- 高層建築（一般以 15 m 為界）消防 NOC 與裝修後重新取得之義務。
-- 公宅：PMAY-U 2.0 住宅之轉售／改裝限制。
-- 罰則：各市違建拆除與罰款條文；未經合作社 NOC 施工之私法後果（停工、罰款、民事）。
+**(b) 社區 NOC 申請實務**
+- 施工前 10–15 天向秘書書面申請；附建築師／工程師圖面（內部格局變更或結構檢查時必附）；提供工人姓名、身分證件、聯絡方式；簽署賠償保證書（indemnity bond）；NOC 效期＝工期＋30 天 — [RTI Wiki：How to apply for a Society NOC (2026)](https://righttoinformation.wiki/apply-society-noc-2026)（本輪，中信心）
+- 範例規約：押金支票 Rs 25,000（≈ USD 291 ≈ NT$9,150），完工檢查後退還；違規每次罰 Rs 1,000；施工時段 09:00–13:00、14:00–18:00，週日與假日禁工 — [ZipGrid Society Sunday](https://zipgrid.com/societysunday/rules-regulations-for-members-and-tenants/)；[Saket CHSL 2015 施工守則（塔那）](https://saketparisaralm.blogspot.com/2015/09/code-of-conduct-for-repairs-and.html)（本輪，低–中信心；單一社區範例）
+- 塔那一社區 2015 年守則：每兩週收取不可退還之檢查與電梯使用費；可拒絕損及結構或外觀之變更 — [Saket CHSL](https://saketparisaralm.blogspot.com/2015/09/code-of-conduct-for-repairs-and.html)（本輪，低信心；年份舊）
+
+**(c) 罰則**
+- 未經許可施工：罰款 **Rs 10,000–1 lakh**（≈ USD 116–1,163 ≈ NT$3,660–36,600）、拆除違建命令、難以取得使用執照（OC） — [AMS Civil Work](https://www.amscivilwork.in/blog/society-renovation-noc-rules-mumbai)（本輪，中信心；業者指南，條文出處未註明）
+- 其他後果：結構損害、拆除通知、與社區訴訟、建物被列為危險 — [Housivity（印地語）](https://housivity.com/blog/mumbai-home-renovation-bmc-rules)（本輪，中信心）
+- 孟買高院判決「合作社重建不需 NOC」僅適用**重建（redevelopment）**，與內裝無關 — [Ghar.tv](https://www.ghar.tv/blog/bombay-high-court-ends-mandatory-noc-requirement-for-cooperative-housing-society-redevelopment-across-maharashtra/artid4569)（本輪，中信心；排除誤用）
+
+**(d) 消防**
+- **本輪未找到任何說明「單戶內裝何時需消防 NOC」的來源**；唯一消防相關結果為 2018 年 BMC 擬以消防安全空間要求取代人工檢查之報導 — [Hindustan Times 2018](https://www.pressreader.com/india/hindustan-times-st-mumbai/20181206/281728385594244)（本輪，低信心；列入缺口）
+
+### 2.5 2023–2026 法規變動
+- 2026 年 FDI Press Note 部分放寬陸鄰國小額持股審查（與台灣無關） — [White & Case 2026](https://www.whitecase.com/insight-our-thinking/foreign-direct-investment-reviews-2026-india)（第 1 輪，中信心）
+- 2025-02：BIS 合板與木質板材品質管制令生效（影響裝修材料，見第 7 節） — [Certification-India](https://www.certification-india.com/en/new-bis-quality-control-orders-implementations-next-month-february-2025/)（本輪，高信心）
+- 2025-09-22：GST 改革——水泥 28%→18%、傢俱統一 18%（見第 7 節） — [Zee Business（印地語）](https://www.zeebiz.com/hindi/real-estate/gst-rate-cuts-all-you-need-how-much-one-sack-of-cement-price-will-reduce-after-new-slabs-231236)；[Razorpay](https://razorpay.com/learn/gst-rate-on-furniture/)（本輪，中信心）
+- 2023：《印度刑法》改由 BNS 2023 取代，詐欺／背信條號改為 §318／§316（影響裝修詐騙報案） — [RTI Wiki](https://righttoinformation.wiki/interior-designer-contractor-advance-refund-india)（本輪，中信心）
+- 建築師法、建管、消防本身 2023–2026 **無修法報導**（缺口）。
+
+### Inferences
+- 法律進入門檻為零，但「社區 NOC」實質上是每個案場的第一道關卡：工人身分證件、賠償保證書、押金、施工時段限制，都要求承包商具備在地行政能力（推論，中信心）。
+- 結構變更須註冊結構工程師簽證，意味台灣業者若涉格局調整，需與當地持 CoA／結構工程師資格之專業人合作（推論）。
+
+### Gaps
+- NBC 2016 Part 4 對內裝材料燃燒性能與逃生之要求、各邦採納；單戶內裝消防 NOC；德里（UBBL 2016）、班加羅爾（BBMP、KAOA）之裝修許可細則；§342 原文與罰則條號；Architects (Amendment) Bill 動態；CoA 註冊建築師總數（搜尋結果未含）。
 
 ---
-
 ## 3. 消費者保護與糾紛
 
 ### Takeaway
-印度沒有裝修專屬的標準契約、訂金上限、法定保固期、保險或履約保證；救濟靠《消費者保護法 2019》之三級消費者委員會與 NCH。NCH 2025 年量體大（月均 17 萬件登錄）但無裝修分項；裝修詐騙型態、Livspace／HomeLane 消費者委員會判例、業界付款節奏與保固慣例本輪均無已引用資料。
+印度沒有裝修專屬的標準契約、訂金上限、法定保固期、保險或履約保證；救濟靠《消費者保護法 2019》（CPA 2019）之三級消費者委員會（線上立案 e-Daakhil／E-Jagriti）與國家消費者熱線 1915。已有地區委員會對 Livspace 作出「逾期未完工＝服務瑕疵」之判決；刑事詐欺（BNS §318／§316）僅在「自始即有不誠實意圖」時才立案。常見詐騙型態為盜用作品集、收預付款後失聯、預付款被片面轉為「設計費」沒收、匯款至個人 UPI、無 GST 發票。
 
 ### Cited Findings
-- 印度無裝修專屬之標準契約、訂金上限、保固期、保險或履約保證機制；爭議處理循《消費者保護法 2019》之消費者委員會與 NCH — [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india)；[T3 §4 比較表](https://www.business-standard.com/india-news/national-consumer-helpline-resolves-67k-complaints-recovers-45-cr-in-2025-125122700291_1.html)（經由 T3，中信心；「無」為 T3 跨國比較之判定，非法條原文）
-- NCH（消費者事務部）2025 年 4–12 月協助 **67,265 件**投訴、促成退款 **Rs 45 crore**（≈ USD 523 萬 ≈ NT$1.65 億） — [Business Standard 2025-12](https://www.business-standard.com/india-news/national-consumer-helpline-resolves-67k-complaints-recovers-45-cr-in-2025-125122700291_1.html)（經由 T3，高信心；全部門，無裝修分項）
-- NCH 2025 年月均登錄 **170,585 件** — [PIB](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179780&reg=48&lang=2)（經由 T3，高信心；全部門）
-- 12 市場比較：印度與越南、印尼、菲律賓同列「無裝修專屬消費者保護機制」；對照新加坡 CaseTrust（訂金上限 20%＋履約保證）、日本（リフォーム瑕疵保險）、台灣（定型化契約草案：審閱期 ≥5 日、保固 1 年） — [T3 §1 摘要（彙整）](https://www.business-standard.com/india-news/national-consumer-helpline-resolves-67k-complaints-recovers-45-cr-in-2025-125122700291_1.html)（經由 T3，中信心）
-- 組織化連鎖的「保固」屬商業承諾而非法定：本輪未取得 Livspace／HomeLane 保固條款頁面（見缺口）。
+**(a) 法律框架與程序**
+- 無裝修專屬標準契約、訂金上限、保固期、保險或履約保證；爭議循 CPA 2019 處理 — [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india)；T3 跨國比較（第 1 輪，中信心）
+- CPA 2019 訴因：§2(11)「服務瑕疵」（deficiency in service）與 §2(47)「不公平交易行為」（對品質或等級之虛偽陳述）；§35：可在消費者住所地、付款地或業者營業地之**地區消費者委員會**提告，並可經 **e-Daakhil** 線上立案；時效：訴因發生起 **2 年**；可請求完工、退款、延誤與精神損害賠償 — [Kanoon360：File a complaint against your interior designer](https://kanoon360.com/blog/interior-designer-complaint-know-the-steps/)；[RTI Wiki](https://righttoinformation.wiki/interior-designer-contractor-advance-refund-india)（本輪，中信心；法律服務平台）
+- **E-Jagriti** 為 e-Daakhil 之後繼線上消費者保護平台 — [Wikipedia：E-Jagriti](https://en.wikipedia.org/wiki/E-Jagriti)（本輪，中信心）
+- 程序慣例：先寄律師函（registered post，費用約 Rs 2,000–7,500 ≈ USD 23–87），15 天未退款即向消費者委員會提告；退款支票跳票可依《票據法》（NI Act）另訴 — [LawRato](https://lawrato.com/consumer-court-legal-advice/cheating-and-fraud-by-interior-designers-109575)；[Vidhikarya](https://www.vidhikarya.com/FreeLegalAdvice/68633/cheating-by-interior-designer)；[Kaanoon](https://www.kaanoon.com/212058/cheated-by-interior-designer)（本輪，中信心；律師問答）
+- 國家消費者熱線（NCH）1915、consumerhelpline.gov.in；對「已登記之業者」最有效 — [Kanoon360](https://kanoon360.com/blog/interior-designer-complaint-know-the-steps/)（本輪，中信心）
+- NCH 2025 年 4–12 月協助 **67,265 件**投訴、促成退款 **Rs 45 crore**（≈ USD 523 萬 ≈ NT$1.65 億）；2025 年月均登錄 **170,585 件**；**無裝修分項** — [Business Standard 2025-12](https://www.business-standard.com/india-news/national-consumer-helpline-resolves-67k-complaints-recovers-45-cr-in-2025-125122700291_1.html)；[PIB](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179780&reg=48&lang=2)（第 1 輪經由 T3，高信心）
+- 刑事：BNS 2023 §318 詐欺（不誠實誘使交付財產）、§316 背信（受託財產被挪用）；警方通常僅在「自始即有不誠實意圖」（同一人詐騙多人、假公司、假地址、假 GSTIN、收款即失聯模式）時才登記 FIR；**單純延誤屬違約而非詐欺** — [RTI Wiki](https://righttoinformation.wiki/interior-designer-contractor-advance-refund-india)（本輪，中信心）
+
+**(b) 判例與投訴**
+- *Shipra Rana v. Livspace*（地區消費者爭議救濟委員會）：原告請求退還約 **Rs 1.9 lakh**（≈ USD 2,200 ≈ NT$69,500）及精神損害賠償；Livspace 未到庭（一造辯論）；委員會認定**未依契約時程、嚴重延誤且未完工構成服務瑕疵**，並採信 Livspace 來信承認無法完工、提議取消退款；延誤導致之**額外租金可求償**；判決金額摘要未載 — [Casemine](https://www.casemine.com/judgement/in/62277716b50db936d28817ae)（本輪，中–高信心；判決年份未載，案號 2022 年上傳）
+- *Livspace Home Interior Designs E-Commerce Pvt Ltd v. Mukesh Katipamula*（2024-03-19）出現於消費者法院論壇，結果未知 — [ConsumerCourt.net](https://consumercourt.net/threads/complaint-regarding-fraudulent-practices-by-livspace.564/)（本輪，低信心）
+- Livspace 投訴型態（未經裁決之指控）：24 小時內取消仍拒退款、專案暫停後不退款、要求簽署「放棄一切權利」文件才退款 — [Voxya](https://voxya.com/consumer-complaints/unfair-refund-delay-cancellation-within-24-hours-project-id-/261056)；[ConsumerCourt.net（廚房）](https://consumercourt.net/threads/livspace-interior-company-not-refunding-amount-even-after-hold-of-project.2456/)；[Kaanoon：Livspace 未如期完工](https://www.kaanoon.com/258071/livspace-didn-t-complete-the-project-on-time)（本輪，低信心；指控）
+- Livspace 評論彙整（10,000+ 則）稱其退款政策僵硬、「預訂金」為爭議焦點 — [Ongrid Design：Livspace Review 2026](https://elevations.ongrid.design/learn/livspace-review-2026/)（本輪，低信心；競爭者部落格）
+- DesignCafe Trustpilot：付初期款後被提供較差之替代方案、拒退款（指控） — [Trustpilot DesignCafe](https://ch.trustpilot.com/review/designcafe.com)（本輪，低信心）
+- **HomeLane 消費者委員會判決：本輪未找到**（缺口）。
+
+**(c) 詐騙型態與案例**
+- 假冒或不專業設計師以低價吸引、收預付款後消失；展示非本人完成（網路抄來）之作品照片 — [SYNEWS](https://synews.co.in/)（本輪，低信心；業者宣導文）
+- 律師部落格案例：屋主付 Rs 50,000 預付款，僅得兩張示意圖後業者停工並稱預付款全數轉為報價單未載之「設計費」；業者無登記地址、無 GST 發票、款項匯入負責人個人 UPI — [Sudhir Rao 律師事務所](https://sudhirrao.com/interior-designer-took-advance-and-backed-out-legal-recourse-for-cheating/)（本輪，低–中信心；案例是否真實未確認）
+- 浦那 Punawale 案：屋主稱付 **Rs 6,08,000**（≈ USD 7,070 ≈ NT$22.3 萬）預付款，設計師未用承諾材料、未完工；法院認定 BNS 相關條文之犯罪要件不足、不予刑事追訴 — [Scribd 法院文件](https://www.scribd.com/document/885294432/Display-PDF-php)（本輪，低–中信心；Scribd 轉載）
+- 新加坡對照：室內設計師挪用屋主 S$20,000 判刑 14 個月（2024） — [Malay Mail 2024](https://www.malaymail.com/news/singapore/2024/05/31/singapore-interior-designer-gets-14-months-jail-for-pocketing-over-s20000-from-homeowners-to-settle-gambling-debts/137527)（本輪；非印度，僅作對照）
+- 防範建議（法律平台）：只付公司帳戶、索取 GST 發票、查核公司登記與地址、書面約定預付款於取消時之處理、**依里程碑分期付款**、保留所有訊息與收據 — [RTI Wiki](https://righttoinformation.wiki/interior-designer-contractor-advance-refund-india)（本輪，中信心）
+
+**(d) 付款與保固慣例**
+- Livspace 官網：1BHK 起價 Rs 3.62 lakh*（僅模組化櫃體、新屋） — [Livspace India](https://www.livspace.com/in)（本輪，高信心；公司自報）
+- 設計費：按 ft² 或總工程費之 **7–15%** — [GharKaBudget 估算器 2026](https://gharkabudget.com/interior/)（本輪，低–中信心）
+- 業界「訂金 5–10%、下單 40–50%」「模組化櫃體保固 5–10 年」等說法**仍無 URL**（附錄 A，禁止引用）；Livspace／HomeLane 保固條款頁本輪未取得。
 
 ### Inferences
-- 在無法定保固與無標準契約下，台灣業者若在印度提供「台灣標準」（書面契約、審閱期、分期付款對應驗收、1 年以上保固、第三方資金託管）即是可行銷的差異化資產（推論，與 T3 對新加坡的結論同邏輯）。
-- NCH 月均 17 萬件登錄顯示消費者申訴管道活躍且有政府背書；對台灣業者而言，**被投訴的聲譽風險高於法律罰則風險**（推論）。
+- 消費者委員會判例已確立「逾期＝服務瑕疵、延誤租金可求償」，對全包業者的時程風險具實質法律後果；但執行面（Livspace 未到庭仍一造判決）顯示判決之執行力與業者信譽成本才是主要約束（推論，中信心）。
+- 「刑事門檻高、民事耗時」使印度消費者高度依賴**付款節奏設計**自保；台灣業者若主動提供里程碑付款＋公司帳戶＋GST 發票＋書面取消條款，即符合法律平台對消費者的所有防範建議，可直接作為行銷訴求（推論）。
 
-### 待驗證線索（D 級，禁止引用）
-- 《消費者保護法 2019》三級委員會金額管轄（2021 年管轄規則：地區委員會、邦委員會、NCDRC 各級門檻）；E-Daakhil 線上立案平台（https://edaakhil.nic.in/ ，未開啟）；NCH 1915 熱線與年報是否有「home improvement／interior」分類。
-- Livspace、HomeLane、DesignCafe、Bonito Designs 等在班加羅爾、浦那、海得拉巴消費者委員會的判例（延誤交付、品質瑕疵、退款）；2023–2025 媒體報導之「室內設計師收取 50–70% 預付款後失聯」的詐騙案（班加羅爾、孟買、古爾岡警方案件）。
-- 業界付款節奏常用說法（設計訂金 5–10%、確認圖面／下單時 40–50%、安裝前付清）與保固常用說法（模組化櫃體 5–10 年、施工 1 年）——**全部待驗證**。
-- RERA 2016 §14(3) 對開發商之 5 年結構瑕疵責任（僅適用建商交屋，不適用裝修承包商）——條文待以 indiacode.nic.in 原文核對。
-- 第三方資金託管（escrow）：印度住宅裝修目前是否有任何平台提供——待查。
+### Gaps
+- CPA 2019 三級委員會金額管轄門檻（2021 年規則）；NCH／E-Jagriti 是否有「home improvement」分項統計；HomeLane、DesignCafe、Bonito 判例；Livspace／HomeLane 保固條款；escrow 是否存在；警方立案之裝修詐騙統計。
 
 ---
 
 ## 4. 外資進入規則：台灣公司能否設立設計公司或裝修承包商
 
 ### Takeaway
-可以，且是 12 市場中最開放者之一：FDI 政策對未列明的允許行業預設 100% 自動路徑，建設發展 100% 自動（3 年鎖定期），Press Note 3 (2020) 的陸地接壤國政府審查不適用台灣；無承包商執照制度；只有「Architect」名稱需 CoA 註冊（外國人受互惠限制）。工作簽證細節、已進入外商案例結果、稅務本輪無已引用資料。
+可以，且是 12 市場中法律上最開放者之一：設計服務 100% 外資自動路徑、建設發展 100% 自動（3 年鎖定期）、Press Note 3 不適用台灣、無承包商執照；本輪補上 Employment Visa 門檻（年薪 ≥ USD 25,000、印度實體聘用、FRRO 登記）、稅務輪廓（GST 18%；子公司有效稅率 25.17% vs 分公司 36.40–38.22%）與 Nitori 2024–2025 進入案例。Nomura Koumuten、IKEA India、韓中台業者案例本輪無結果。
 
 ### Cited Findings
-- FDI 政策：未列明之允許行業預設 **100% 自動路徑**；建設發展（Construction Development，Para 5.2.10）**100% 自動**，附 **3 年鎖定期** — [DPIIT 自動路徑行業表 2025-07](https://www.dpiit.gov.in/static/uploads/2025/07/1b12c69de7c2e698a7b68f7b8fcf4fe3.pdf)；[IJPIEL 2022](https://ijpiel.com/index.php/2022/07/01/foreign-investment-in-the-indian-construction-development-sector-entry-routes-and-associated-conditions/)（經由 T3，高信心）
-- Press Note 3 (2020)：與印度陸地接壤國家之投資需政府核准；**台灣不適用**；2026 年 Press Note 部分放寬陸鄰國小額持股審查 — [White & Case FDI 2026 India](https://www.whitecase.com/insight-our-thinking/foreign-direct-investment-reviews-2026-india)；[DPIIT](https://www.dpiit.gov.in/static/uploads/2025/07/1b12c69de7c2e698a7b68f7b8fcf4fe3.pdf)（經由 T3，中–高信心）
-- 承攬端：無承包商執照制度，外資設立裝修承包公司無資格門檻（公共工程除外） — [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india)（經由 T3，中信心）
-- 專業互惠：使用「Architect」名稱需 CoA 註冊，外國人受互惠限制；室內設計師無此問題 — [Indian Kanoon](https://indiankanoon.org/doc/41555114/)（經由 T3，中信心）
-- 簽證：T3 記錄外籍設計師以 **Employment Visa** 入境（門檻、薪資下限、審核時程本輪**未取得 URL**） — T3 §5 比較表（無獨立 URL，列入缺口）
-- T3 台商進入可行性評分：**設計 4／承攬 4**（滿分 4），12 市場中與新加坡、香港並列最高 — [T3 §6（彙整）](https://www.dpiit.gov.in/static/uploads/2025/07/1b12c69de7c2e698a7b68f7b8fcf4fe3.pdf)（經由 T3，中信心；評分為研究者判定）
-- 已進入之外資／跨國業者（已引用者）：
-  - **Livspace**（總部新加坡、起源於印度；私募，KKR 領投 2022 年 Series F USD 1.8 億、估值 >USD 10 億；投資人含 IKEA 最大加盟商 Ingka Group 與新加坡 EDBI）：FY25 營收 Rs 1,460 crore（印度 85%／新加坡 15%）、淨損 Rs 242 crore；2025–2026 裁員與高層離職 — [Business Wire 2022](https://www.businesswire.com/news/home/20220207005993/en)；[The Edge Singapore 2022](https://testing.dev.theedgesingapore.com/news/company-news/backed-edbi-and-major-ikea-franchisee-renovation-platform-livspace-turns-unicorn)；[Entrackr 2025](https://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863)；[Entrackr 2026](https://entrackr.com/news/livspace-cbo-lalit-mittal-exits-after-co-founder-departure-and-mass-layoffs-11150871)（經由 T2，高信心）
-  - **Space Matrix**（新加坡總部商辦設計施工）：2017 年營收 >S$1.15 億、年施工約 800 萬 ft² 辦公室；印度為主要市場；CB Insights 載 2022-03 被 CapitaLand 收購（單一來源未確認） — [AOL／SCMP 2018](https://www.aol.com/news/singapore-office-design-firm-space-093000697.html)；[CB Insights](https://www.cbinsights.com/company/space-matrix)（經由 T2，中／低信心）
-  - **Qanvast**（新加坡平台）2022 年被 Livspace 子公司取得多數股權；Livspace 另在吉隆坡 IKEA 門市設店中店 — [Allen & Gledhill](https://www.allenandgledhill.com/perspectives/articles/21509/acquisition-of-a-majority-stake-in-qanvast-pte-ltd-by-interiortepte-ltd)；[EdgeProp](https://edgeprop.sg/property-news/ikea-and-livspace-offer-interior-design-solutions-kuala-lumpur-outlets)（經由 T2，高／低信心）
-  - 日本（Nitori、Nomura Koumuten）、韓國、中國、台灣、歐美業者在印度的進入與結果：**無已引用資料**。
-- 協定：T3 記錄「印台雙邊投資協定（2018）」但**未檢索條文**；印度為 WTO 成員 — T3 §5（無獨立 URL，列入缺口）
+**(a) 外資持股與設立**
+- FDI：未列明之允許行業預設 **100% 自動路徑**；建設發展（Para 5.2.10）**100% 自動**，附 **3 年鎖定期** — [DPIIT 自動路徑行業表 2025-07](https://www.dpiit.gov.in/static/uploads/2025/07/1b12c69de7c2e698a7b68f7b8fcf4fe3.pdf)；[IJPIEL 2022](https://ijpiel.com/index.php/2022/07/01/foreign-investment-in-the-indian-construction-development-sector-entry-routes-and-associated-conditions/)（第 1 輪經由 T3，高信心）
+- Press Note 3 (2020)：陸地接壤國投資需政府核准；**台灣不適用**；2026 年部分放寬 — [White & Case 2026](https://www.whitecase.com/insight-our-thinking/foreign-direct-investment-reviews-2026-india)（第 1 輪，中–高信心）
+- 承攬端無執照，外資設立裝修承包公司無資格門檻（公共工程除外） — [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india)（第 1 輪，中信心）
+- 「Architect」名稱須 CoA 註冊（外國人受互惠限制）；室內設計師無此問題 — [Indian Kanoon](https://indiankanoon.org/doc/41555114/)；[India Code](https://www.indiacode.nic.in/bitstream/123456789/1690/1/A1972-20.pdf)（高信心）
+- T3 台商進入可行性評分：設計 4／承攬 4（滿分 4） — T3 §6（第 1 輪，研究者判定）
+
+**(b) 工作簽證（Employment Visa）**
+- 年薪下限 **USD 25,000**（≈ NT$78.8 萬）；按印度雇主支付之總薪資計；豁免類別：語言教師、民族廚師、NGO 人員、志工、表演者、運動教練 — [RemotePass](https://www.remotepass.com/country/india/work-visas)；[Asanify 2025](https://asanify.com/blog/employer-of-record-india/work-permit-and-visa-in-india-process-your-complete-2025-guide/)；[Wisemonk 2026](https://www.wisemonk.io/blogs/india-work-visa-and-permit)；[Smith Stone Walters](https://smithstonewalters.com/global-immigration/india-middle-east/india-employment-visa)；[印度駐都柏林大使館（頁面較舊）](https://www.indianembassydublin.gov.in/page/employment-visa2/)（本輪，中–高信心；多源一致，但無 2025 年 MHA 官方公告）
+- 盧比換算各源不一：Rs 16.25 lakh（Asanify）vs Rs 20 lakh+（Wisemonk） — 同上（本輪，低信心）
+- 須由**印度登記之營運實體**擔保；**EOR（名義雇主）不得擔保** — [Wisemonk](https://www.wisemonk.io/blogs/india-work-visa-and-permit)（本輪，中信心）
+- 職位須為當地不易取得之技能（specialist）；效期 1 年或合約期（取短者），可延至 **5 年**；停留逾 **180 天**須於抵達後 **14 天內**向 FRRO 登記 — [Omnivoo 2026](https://www.omnivoo.com/blog/india-work-visa-requirements)；[Fargo Worldwide](https://fargoworldwide.com/employment-visa-india/)；[Aniday 2025](https://aniday.com/en/blog/work-permit-india-guide-3317)（本輪，中信心）
+- **未經證實**：一法律指南稱公司須有 ≥ 50 名員工或外籍人士須為高階／專家，且外籍：印籍比 1:1 — [Commoner Law](https://commoner-law.com/india/immigration-rights/work-permit-rights)（本輪，低信心；其他來源未提及）
+- 工地經理：若符合「專家技能」與薪資門檻，理論上同樣以 Employment Visa 申請（推論；無專門來源）
+
+**(c) 稅務提示（僅提示，不構成建議；需稅務專業人士確認）**
+- GST：室內設計、建築、空間規劃等顧問服務 **18%**（SAC 998391／9983）；含材料與人工之設計施工一體 = **工程承攬（works contract，SAC 9954）18%**，無論總價或里程碑計價 — [TaxBuddy：GST for interior designers & architects](https://www.taxbuddy.com/blog/gst-filing-architects-interior-designers-taxbuddy)；[DisyTax：GST for interior designers and contractors](https://disytax.com/gst-for-interior-designers-and-contractors/)；[DisyTax：GST for renovation business](https://disytax.com/gst-for-renovation-business/)（本輪，中–高信心）
+- 一部落格稱複合契約「常落 12% 級距」，與多數來源不符，權重低 — [Coohom](https://www.coohom.com/article/understanding-gst-for-interior-designers)（本輪，低信心）
+- 傢俱（木、塑、鋼等）自 2025-09 起統一 **18%** GST — [Razorpay](https://razorpay.com/learn/gst-rate-on-furniture/)（本輪，中信心）
+- 公司所得稅：**印度子公司**＝內資公司，可選 22% 優惠稅率（Income-tax Act 2025 §200／§205(1)，即舊法 §115BAA），**有效 25.17%**；或 §115BA 25%（有效 27.82%，營收 ≤ Rs 400 crore）；**外國公司分公司／PE** 35%＋附加費＋4% 健康教育捐＝**36.40%（所得 ≤ Rs 1 crore）至 38.22%（> Rs 10 crore）**，Finance Act 2024 由 40% 調降；2026 年預算未變 — [IndiaConnected 2025](https://www.indiaconnected.co.uk/blog-articles/indian-tax-policy-2025-gst-cit-changes-foreign-companies/)；[Viswanathan Associates 2026](https://viswanathanassociates.com/foreign-subsidiary-taxation-india-2025.html)；[Beacon Filing：Budget 2026](https://beaconfiling.com/blog/budget-day-analysis-foreign-companies)；[Shoonya FY2025-26](https://blog.shoonya.com/income-tax-for-foreign-company/)（本輪，中–高信心）
+- 多數來源建議子公司較分公司稅務有利；DTAA／MAT 視個案 — [Wise](https://wise.com/gb/blog/india-corporate-tax)（本輪，中信心）
+- 台印避免雙重課稅協定（2011）、印台雙邊投資協定（2018）：**仍未檢索條文**（缺口）
+
+**(d) 已進入之外資業者**
+- **Nitori（日本，家居零售）**：2024-12 於孟買 Ghatkopar R City Mall 開印度首店，約 **2,900 m²**；為 2032 年 3,000 店、營收 3 兆日圓目標之一環；引用印度家居市場 USD 239 億 — [Nitori HD 新聞稿 PDF](https://www.nitorihd.co.jp/en/news/items/714b740ef69bcab4cb77be8e948e0a21.pdf)；[Indian Retailer 2024](https://www.indianretailer.com/news/retail-india-news-nitori-makes-grand-entry-india-first-store-r-city-mall-mumbai)；[BW Retail World](https://bwretailworld.com/bw-connect/japans-furniture-retailer-nitori-enters-india-opens-store-in-mumbai)；[FashionNetwork](https://in.fashionnetwork.com/news/Japanese-retailer-nitori-plans-india-market-entry,1664520.html)（本輪，高信心）
+- Nitori 第二店：孟買 Kala Ghoda／Fort 的 Turner Morrison Building，約 **90,000 ft²**、五層，2025-11-08 開幕 — [Indian Retailer 2025](https://www.indianretailer.com/news/japans-largest-furniture-retailer-nitori-enter-indian-market-mumbai-store-launch)（本輪，中信心；兩店日期與定位需以 Nitori 官方核對）
+- **Livspace**（新加坡總部）：FY25 營收 Rs 1,460 crore（印度 85%）、淨損 Rs 242 crore；2022 年 KKR 領投 USD 1.8 億、估值 >USD 10 億；2025–2026 裁員與高層離職 — [Entrackr 2025](https://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863)；[Entrackr 2026](https://entrackr.com/news/livspace-cbo-lalit-mittal-exits-after-co-founder-departure-and-mass-layoffs-11150871)；[Business Wire 2022](https://www.businesswire.com/news/home/20220207005993/en)（第 1 輪經由 T2，高信心）
+- **Space Matrix**（新加坡，商辦 D&B）：2017 年營收 >S$1.15 億、年施工約 800 萬 ft²，印度為主要市場 — [AOL／SCMP 2018](https://www.aol.com/news/singapore-office-design-firm-space-093000697.html)（第 1 輪，中信心）
+- **Nomura Koumuten（日本）、IKEA India、韓國、中國、台灣業者**：本輪搜尋**無結果**（缺口）。
 
 ### Inferences
-- 法律進入門檻低，但 Livspace（資本密集、持續虧損、裁員）與 HomeLane（整併未達標）的經驗顯示，**在印度做住宅全包的難點在交付與獲客，不在法規**（推論）。
-- 台灣業者最可行的進入序列：①設計顧問輸出（100% 外資私人公司，承接台商／外商商辦與高端住宅設計）→②與當地承包商分包／JV 做施工管理→③建材供應（台系系統櫃、衛浴、燈具）——此序列與 T3 對 12 市場的通用建議一致（推論）。
+- 法律與稅務面對台灣公司無特別障礙；實務門檻在：(1) Employment Visa 的「印度實體聘用」要求意味須先設子公司再派人；(2) USD 25,000 年薪下限遠高於當地設計師薪資（第 6 節：平均 Rs 3–4 lakh ≈ USD 3,500–4,900），外派成本為當地的 5–7 倍（推論，中信心）。
+- Nitori 以「自營大店零售」進入、Livspace 以「平台＋自營交付」進入，兩者皆資本密集；尚無「純設計顧問」型外資進入案例被報導，顯示該模式規模小、能見度低（推論）。
 
-### 稅務提示（僅提示，不構成建議；全部待驗證）
-- 需查證：內資公司所得稅率（含附加費與教育捐）、外國公司分公司稅率、GST 對設計服務與工程承攬（works contract）之稅率、支付承包商之 TDS、台印避免雙重課稅協定（2011 年簽署）之技術服務費扣繳率、印台雙邊投資協定（2018-12 簽署）之保障範圍。**本輪無任何 URL，請由稅務專業人士確認。**
-
-### 待驗證線索（D 級，禁止引用）
-- 設立形式：私人有限公司（Companies Act 2013，100% 外資子公司）、LLP（2015 年起允許自動路徑 FDI 於無績效條件之行業）、分公司／聯絡處／專案辦公室（FEMA 22(R)/2016，需 RBI／AD 銀行核准）；FDI 申報（FC-GPR）。
-- 簽證：Employment Visa（一般說法：技術／專業人員、年薪下限 USD 25,000、由印度公司聘僱）、Business Visa（商務洽談，不得受僱）；工地經理以 Employment Visa 申請之可行性；FRRO 登錄。
-- 外商案例：IKEA India（Ingka；海得拉巴 2018、納維孟買 2020、班加羅爾 2022）、Nitori（日本；據傳 2022 年起在印度開店，城市與家數待查）、Hettich／Häfele／Blum（德國五金，印度設廠）、Kohler／Roca–Parryware／Toto／Grohe–LIXIL（衛浴）、Saint-Gobain Gyproc（石膏板）、Oppein（中國櫥櫃經銷）、韓國與台灣業者——**本輪無 URL**。
+### Gaps
+- Nomura Koumuten、IKEA India、韓中台業者案例；印台 BIA／DTAA 條文；LLP／分公司之 FEMA 條件；2025 年 MHA 官方簽證公告；Business Visa 限制。
 
 ---
-
 ## 5. 消費者行為
 
 ### Takeaway
-本輪**沒有任何已引用的印度消費者裝修行為資料**（誰在裝修、預算分級、決策歷程、風格、付款、融資、補助）。能間接引用的只有：組織化連鎖的獲客與成本結構（HomeLane 廣告占營收約 11%）、Redseer 線上口徑（線上室內設計滲透 <1%／線上居家修繕 ≈ USD 10 億）、T8 的未驗證融資背景。
+印度**沒有獨立的全國性屋主裝修行為調查**被搜得；可引用的是業者部落格與估算器的預算區間（2BHK Rs 2.5–28 lakh、3BHK Rs 7–35 lakh，區間極寬）、Livspace 官網起價與公司自報客單（Rs 10–12 lakh、房價 7–10%）、設計費 7–15%、本地工班比全包便宜 15–25%，以及修繕貸款利率（HDFC 7.75–13.20%）。「誰在裝修」仍只能依 IN-A 推論（新交屋毛胚為主）。
 
-### Cited Findings（間接）
-- HomeLane FY25 廣告費 Rs 84 crore（≈ USD 977 萬 ≈ NT$3.1 億），占營收約 **11%**；人事 Rs 239 crore（+28%）；材料 Rs 320 crore — [Entrackr HomeLane FY25](https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234)（經由 T2，高信心；顯示付費數位獲客是組織化連鎖的主要觸達方式）
-- Redseer：線上室內設計市場 ≈ USD 1 億、滲透率 **<1%**（FY19）；線上居家修繕／即時居家服務 ≈ **USD 10 億（2025）→ USD 30–32 億（FY31）** — [Redseer online interior design](https://redseer.com/articles/online-interior-design-market-updates/)；[Redseer instant home services](https://redseer.com/articles/tapping-into-the-everyday-instant-home-services-and-the-next-habit-loop/)（經由 T1，中信心；線上口徑）
-- 傢俱零售 **86% 非組織化**（2018） — [Redseer 2018 PDF](https://redseer.com/wp-content/uploads/2018/09/Disruption-in-Indian-furniture-retailing-_-31-August-2018-v1.pdf)（經由 T1，中信心；年份舊）
-- Mordor 稱印度「室內設計」口徑中**商用占 74%**（未開頁核對） — [Mordor India](https://www.mordorintelligence.com/industry-reports/india-interior-design-market)（經由 T1，低信心）
-- 總經錨點：2025 年名目人均 GDP **USD 2,675**（≈ NT$84,300），為台灣的 1/15 — [Worldometers（IMF WEO 轉載）](https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal)（經由 T1，中信心）
-- 融資（T8 記錄，**全部標示未驗證**）：房貸利率約 7.5–8.5%（repo 5.25–5.50%）；SBI、HDFC、LIC HFL 等提供 home improvement／renovation loan，以房貸利率計、額度依估值；PMAY-U 2.0 為新建與增建補助，**無獨立修繕補助** — [T8 §6.2（未驗證；機構首頁 RBI https://www.rbi.org.in/ 、PMAY-U https://pmay-urban.gov.in/ ）](https://www.rbi.org.in/)（經由 T8，低信心）
+### Cited Findings
+**(a) 預算分級（全為業者來源，C 級，以區間呈現）**
+
+| 房型 | 來源 | 區間（INR） | 換算（USD／NT$，1 USD = 86 INR = NT$31.5） | 備註 |
+|---|---|---|---|---|
+| 1BHK | [GharKaBudget 2026](https://gharkabudget.com/interior/) | Rs 3–10 lakh | USD 3,500–11,600／NT$11–37 萬 | 估算器 |
+| 1BHK | [Livspace 官網](https://www.livspace.com/in) | 起價 Rs 3.62 lakh* | USD 4,200／NT$13.2 萬 | 僅模組化櫃體、新屋 |
+| 2BHK | [Kasapros 2025](https://kasapros.com/in/blog/2bhk-interior-design-cost-in-india) | Rs 2.5–10 lakh+ | USD 2,900–11,600+ | 全國 |
+| 2BHK | [GharKaBudget 2026](https://gharkabudget.com/interior/) | Rs 4.5–18 lakh；都會標準 Rs 7–10 lakh | USD 5,200–20,900 | 含廚房、衣櫃、客廳、假天花、油漆 |
+| 2BHK | [Elegante Interior 班加羅爾 2025](https://eleganteinterior.com/interior-design-cost-bangalore-2025/) | 套裝 Rs 6–8 lakh；高級 Rs 8–12 lakh | USD 7,000–14,000 | 班加羅爾業者 |
+| 2BHK（約 1,000 ft²） | [Tint Tone & Shade 2025](https://tinttoneandshade.com/blog/interior-design-cost-2bhk-flats-guide) | 基本 Rs 12–18 lakh（Rs 1,200–1,800/ft²）；中階 Rs 18–28 lakh（Rs 1,800–2,800/ft²） | USD 14,000–32,600 | 都會中高端口徑 |
+| 2BHK | [Interior A to Z 2025](https://interioratoz.com/interior-designing-cost-for-2bhk-flat/)；[Tatva 2025](https://tatvainteriorsanddesignstudio.com/2bhk-interior-design-cost-planning-guide/) | （區間同上類） | — | 業者指南 |
+| 3BHK | [SKF Contractor 2025](https://www.skfcontractor.in/3bhk-interior-design-costs-2025) | 孟買／德里／班加羅爾／海得拉巴 Rs 15–35 lakh；基本 Rs 7–10、中階 Rs 12–18、高端 Rs 20–35 lakh+ | USD 17,400–40,700 | 承包商 |
+| 3BHK | [GharKaBudget 2026](https://gharkabudget.com/interior/) | 都會基本 Rs 5–9、標準 Rs 10–18、高端 Rs 18–35 lakh | USD 5,800–40,700 | 估算器 |
+| 3BHK | [Livspace Magazine 2026](https://www.livspace.com/in/magazine/calculate-the-average-cost-of-a-3-bhk-apartment-interior-design) | （指南，數字未載於摘要） | — | 公司內容 |
+
+- 單價分解：櫃體表面 **美耐板 Rs 900–1,500/ft²、壓克力 Rs 1,800–2,800、PU Rs 2,200–3,500**；石膏假天花 **Rs 130–180/ft²** — [GharKaBudget](https://gharkabudget.com/interior/)；[Tint Tone & Shade](https://tinttoneandshade.com/blog/interior-design-cost-2bhk-flats-guide)（本輪，低–中信心）
+- 二線城市比都會低約 **24%**；本地工班比全服務設計公司便宜 **15–25%**；設計費 **總價 7–15%** 或按 ft² — [GharKaBudget](https://gharkabudget.com/interior/)（本輪，低–中信心）
+- 經驗法則「花房價 **7–10%** 做室內」；Livspace 平均客單約 **Rs 10–12 lakh**（≈ USD 11,600–14,000 ≈ NT$36.6–43.9 萬）；Livspace／HomeLane 以線上問卷擷取範圍、預算、品味後配對設計師 — [Forbes India（品牌合作文，年份較舊）](https://www.forbesindia.com/article/brand-connect/home-interiors-redesigned-reengineered/59549/1)（本輪，低–中信心；公司自報）
+- 德里 2BHK／3BHK 成本文件 — [Scribd](https://www.scribd.com/document/735387476/The-Cost-of-Home-Interior-Design-in-Delhi-2-Bhk-3-Bhk-And-More)（本輪，低信心）
+- 競品比較說法「屋主現在比較 HomeLane／Livspace／Pepperfry Modular／IKEA 廚房，而非本地木工」 — [FranchiseBazar 2026](https://www.franchisebazar.com/blog/homelane-franchise-2026-indias-fastest-growing-home-interiors-opportunity)（本輪，低信心；加盟推廣文，無數據）
+- 用戶評論：HomeLane 加入客製與升級後總價可能大幅增加 — [NoBroker 論壇](https://www.nobroker.in/forum/what-is-the-review-of-homelane-interiors-intrw/)（本輪，低信心；個案）
+- 市場規模（口徑須註明，C 級）：Ken Research 稱 2023 年 USD 307.5 億；加盟部落格稱 2025 年 USD 288.7 億→2030 年 USD 502.8 億 — [Ken Research](https://www.kenresearch.com/industry-reports/india-interior-design-market)；[FranchiseBazar](https://www.franchisebazar.com/blog/homelane-franchise-2026-indias-fastest-growing-home-interiors-opportunity)（本輪，低信心；交 T1 校準）
+- 稅對預算的影響：屋主常忽略 18% GST — [The News Minute（partner 文）](https://www.thenewsminute.com/partner/2bhk-interior-design-cost-what-homeowners-dont-know-about-taxes-and-gst)（本輪，低信心）
+
+**(b) 獲客與資訊來源（間接）**
+- HomeLane FY25 廣告費 Rs 84 crore（占營收約 11%） — [Entrackr](https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234)（第 1 輪，高信心）
+- Redseer：線上室內設計滲透 <1%（FY19）；線上居家修繕 ≈ USD 10 億（2025）→ USD 30–32 億（FY31） — [Redseer](https://redseer.com/articles/online-interior-design-market-updates/)；[Redseer](https://redseer.com/articles/tapping-into-the-everyday-instant-home-services-and-the-next-habit-loop/)（第 1 輪，中信心）
+
+**(c) 融資與稅賦優惠**
+- HDFC Bank 修繕貸款：利率 = 政策 repo（5.25%）＋2.50% 至 7.95% = **7.75–13.20%** — [HDFC Bank 官網](https://homeloans.hdfc.bank.in/housing-loans/home-renovation-loans)（本輪，高信心；repo 數字可能過時）；第三方：8.45%（2023-02）、7.90%（2024-11） — [Paisabazaar](https://www.paisabazaar.com/home-loan/hdfc-home-improvement-loans/)；[BankBazaar](https://www.bankbazaar.com/home-loan/home-renovation-loan.html)（本輪，中信心）
+- SBI 修繕貸款：以 EBLR（連動 repo）計；起息 **7.25%**（UrbanMoney 2026）vs **9.15%**（另源） — [UrbanMoney SBI](https://www.urbanmoney.com/home-loan/state-bank-of-india/home-renovation-loan-hlprop)；[NoBroker 論壇](https://www.nobroker.in/forum/what-is-sbi-home-renovation-loan-interest-rate/)（本輪，低–中信心；矛盾）
+- 其他產品綜覽 — [MyMoneyMantra](https://www.mymoneymantra.com/home-renovation-loan)；[Paisabazaar](https://www.paisabazaar.com/home-loan/home-renovation-loan/)（本輪，中信心）
+- 所得稅 §24(b)：自住房貸利息扣除上限 Rs 2 lakh（舊制）；**新制不適用自住**；「修繕／修理」貸款利息：一說可扣除但上限 **Rs 30,000**，另一說（Godrej Capital）僅購置／建造適用、修繕不適用 — [ClearTax](https://cleartax.in/s/deductions-under-section24-income-from-house-property)；[TaxBuddy](https://www.taxbuddy.com/blog/section-24b-home-loan-interest-explained)；[Godrej Capital](https://www.godrejcapital.com/media-blog/knowledge-centre/home-loan-interest-deduction-under-section-24)；[HomeFirst](https://homefirstindia.com/blog/article/section-24b-of-income-tax-act-home-loan-interest-deduction)（本輪，中信心；來源矛盾，需稅務專業確認）
+- 政府修繕補助：PMAY-U 2.0 為新建／增建，**無獨立修繕補助** — T8（第 1 輪，低信心）；本輪未找到反證
 
 ### Inferences
-- 人均 GDP USD 2,675 且商用占比高，可推論付費住宅設計需求集中於一線城市（孟買都會區、德里 NCR、班加羅爾、海得拉巴、浦那、清奈）的中高所得與**新交屋**族群；大眾市場以工班直包與自購材料為主（IN-A 推論，低信心）。
-- 新交屋多為毛胚（bare-shell）或半裝修（semi-furnished），因此「交屋即裝修」而非「老屋翻新」是主要觸發點；與日本、台灣的老化存量型需求不同（IN-A／T8 推論，無來源）。
+- 預算區間之所以橫跨 5–10 倍，是因「只做模組化櫃體」（Livspace 起價口徑）與「全屋含假天花、油漆、電氣」口徑混用；對台灣業者而言，都會中高端全屋 2BHK 約 Rs 12–28 lakh（≈ NT$44–102 萬）、3BHK Rs 15–35 lakh（≈ NT$55–128 萬）是較可比的「設計公司」口徑（推論，中信心）。
+- 修繕貸款利率下限（7.25–7.75%）已接近房貸，且 §24(b) 對修繕幾乎無稅賦誘因，融資不是主要需求驅動；「交屋即裝修」仍以房貸額度與自有資金為主（推論）。
 
-### 待驗證線索（D 級，禁止引用）
-- Livspace／HomeLane／Asian Paints／Houzz India 2024–2026 消費者調查（預算、風格、資訊來源、決策週期）；Redseer 2024–2025 Home & Interiors 報告。
-- 常用說法：「2BHK 全屋 Rs 8–20 lakh、3BHK Rs 12–30 lakh」「全包 Rs 1,200–3,500/ft²」「設計訂金 5–10%」；風格關鍵字（modern minimal、Indian contemporary、vastu 合規）；資訊來源（Instagram、YouTube、Pinterest、Houzz、口碑、建商推薦）。
-- 融資：SBI／HDFC／ICICI／Bajaj Finserv home improvement loan 利率與額度（2025）；所得稅法 §24(b) 對修繕貸款利息之扣除上限；GST 對裝修的影響；無政府修繕補助之確認。
-- 印地語查詢：附錄 B 第 16–20 條。
+### Gaps
+- 獨立屋主調查（誰在裝修：新屋 vs 中古 vs 出租；決策週期；資訊來源；風格偏好；付款階段）；Livspace／HomeLane／Asian Paints 消費者報告；Redseer Home & Interiors 2024–2025；§24(b) 修繕適用之官方解釋。
 
 ---
 
 ## 6. 人才與勞動
 
 ### Takeaway
-本輪**無任何已引用資料**：設計科系畢業人數、執業設計師人數、設計師與監工薪資、木工／泥作／水電日薪、缺工與高齡化、移工政策全部缺口。唯一間接線索是 Livspace 員工逾 5,000 人（HRKatha）、HomeLane 人事費 Rs 239 crore（+28%），以及 Livspace 2025–2026 裁員（逾 1,000 人 vs 約 100 人，兩源矛盾）。
-
-### Cited Findings（間接）
-- Livspace 員工逾 **5,000 人**，2025 年裁員約 100 人（<2%）（HRKatha）vs 裁員逾 **1,000 人**（Entrackr 2026） — [HRKatha 2025](https://www.hrkatha.com/news/layoff/100-job-cuts-at-livspace/)；[Entrackr 2026](https://entrackr.com/news/livspace-cbo-lalit-mittal-exits-after-co-founder-departure-and-mass-layoffs-11150871)（經由 T2，中信心；兩源矛盾）
-- HomeLane FY25 人事費 **Rs 239 crore**（≈ USD 2,780 萬 ≈ NT$8.75 億），年增 28%，占營收約 32% — [Entrackr HomeLane FY25](https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234)（經由 T2，高信心）
-- 台灣對照：國土署 2026-04 全國登記室內裝修業約 1.7 萬餘家、專業技術人員約 3.3 萬人；印度因無登記制而**無可比數字** — [中央社 2026-04-14](https://www.cna.com.tw/news/ahel/202604140322.aspx)（經由 T3，高信心（台灣側））
-
-### Inferences
-- 組織化連鎖人事費占營收約三成且年增 28%，顯示「自有設計師＋專案經理」是印度全包模式的核心成本，而施工工班多為外包（推論，低信心）。
-
-### 待驗證線索（D 級，禁止引用）
-- 教育管道：CoA 認可建築學院數與年招生量；室內設計學位／文憑課程（NID、CEPT、Sir J.J. School of Art／College of Architecture、Pearl Academy、IIAD、Raffles Design International Mumbai、INIFD 與 Dream Zone 連鎖、各邦大學 B.Des Interior）；AICTE／UGC 資料；IIID 會員數。
-- 薪資常用說法：初階室內設計師年薪 Rs 3–5 lakh、中階 6–12 lakh、工地監工 Rs 3–6 lakh（Glassdoor／AmbitionBox／Naukri；待驗證）。
-- 工班日薪常用說法：一線城市木工 Rs 800–1,500、泥作 Rs 700–1,200、水電 Rs 800–1,500／日；德里政府最低工資（技術工，2025 年 4 月與 10 月修訂）；各邦 BOCW（Building and Other Construction Workers）福利委員會登錄工人數。
-- 勞動法：四部勞動法典（Code on Wages 2019、OSH Code 2020 等）據報 2025-11 起施行；BOCW Act 1996 與 1% 建築工程捐；跨邦移工（比哈爾、北方邦、西孟加拉、奧里薩）為建築工班主力；印度為勞力輸出國，**無引進外籍建築工之政策**。
-- 缺工：CREDAI／NAREDCO／CSDCI（Construction Skill Development Council of India）對技術工短缺之估計；Skill India／NSDC 建築技能計畫。
-- 印地語查詢：बढ़ई／मिस्त्री दिहाड़ी 2025（附錄 B）。
-
----
-
-## 7. 材料與供應鏈
-
-### Takeaway
-本輪唯一已引用的材料事實是「印度是低價磁磚輸出國，台灣已認定其傾銷造成損害」；其餘（本土品牌、進口依賴、BIS 標準與 QCO、關稅、物流、2022–2026 價格漲幅）全部無已引用資料。HomeLane 材料費占營收約 43% 是組織化業者材料成本結構的唯一錨點。
+室內設計師薪資低（入門 Rs 1.8–3 lakh、平均 Rs 3.15–4.2 lakh／年）、工地監工約 Rs 19,000–22,000／月，技術工日薪都會 Rs 750–1,300；技術工短缺為 2025 年業界主流議題（NAREDCO 稱近 200 萬技術工缺口、CSDCI 2023 稱總缺口 4,250 萬）。設計教育畢業人數、執業人數、移工政策仍無官方數據。
 
 ### Cited Findings
-- HomeLane FY25 材料費 **Rs 320 crore**（≈ USD 3,720 萬 ≈ NT$11.7 億），占總費用 37%、占營業收入約 **43%** — [Entrackr HomeLane FY25](https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234)（經由 T2，高信心）
-- 台灣經濟部貿易調查委員會認定印度（及越南、馬來西亞、印尼）磁磚進口對台灣產業造成損害、移交反傾銷程序；2025-09 台灣業者再指東南亞與印度低價磁磚傾銷、進口品不必符 CNS — [Taiwan News](https://www.taiwannews.com.tw/en/topic/ceramic%20tiles)；[工商時報 2025-09-02](https://www.ctee.com.tw/news/20250902700647-431206)（經由 TW-B，中信心）
-- 商辦裝修全含單位成本：C&W 2026 印度主要城市 **USD 65–73/ft²**（≈ USD 700–786/m² ≈ NT$22,000–24,800/m² ≈ NT$7.3–8.2 萬/坪），亞太最低；2026 版口徑含傢俱、機電、建築、AV/IT — [ConstructionWorld（C&W 2026）](https://www.constructionworld.in/latest-construction-news/real-estate-news/india-leads-asia-pacific-in-fit-out-cost-efficiency/88743)；[C&W 指南](https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office)（經由 T1，高信心；為材料＋人工綜合成本之間接指標）
+**(a) 設計師與監工薪資（年薪 LPA = lakh per annum）**
+
+| 職位 | 數值（INR） | 換算 | 來源 | 樣本／備註 | 信心 |
+|---|---|---|---|---|---|
+| 室內設計師（全國平均） | Rs 26,285／月（Rs 3.15 lakh／年） | USD 3,670／NT$11.5 萬／年 | [Jobted 2025](https://www.jobted.in/salary/interior-designer) | 聚合估計 | 中 |
+| 室內設計師（全國） | Rs 27,500／月 | USD 320／月 | [Glassdoor India](https://www.glassdoor.co.in/Salaries/interior-design-salary-SRCH_KO0,15.htm) | 僅 13 筆；頁面單位標示混亂 | 低 |
+| 室內設計師（AmbitionBox 轉引） | 平均 Rs 4.2 LPA；區間 Rs 2.5–30+ LPA | USD 4,900／NT$15.4 萬 | [IIFT Bangalore 部落格 2026](https://www.iiftbangalore.com/blog/salary-of-interior-designer-in-india/) | 二手引用 | 低–中 |
+| 入門 | Rs 1.8–3 lakh／年 | USD 2,100–3,500 | [Vogue Fashion Institute](https://www.voguefashioninstitute.com/interior-designer-salary-in-india-from-%E2%82%B93l-to-%E2%82%B930l-career-path/) | 學校文 | 低 |
+| 一般區間 2025 | Rs 3–8 lakh／年 | USD 3,500–9,300 | [Artemisia College](https://www.artemisiacollege.com/blog/interior-designer-salary-india/)；[CareerPlanB](https://www.careerplanb.co/interior-designer-salary-india-2025-monthly-annual-pay-guide/)；[Terratern](https://terratern.com/blog/interior-designer-salary-per-month/) | 學校／職涯文 | 低–中 |
+| 5 年經驗（AmbitionBox 2025 轉引） | Rs 6–8 LPA | USD 7,000–9,300 | [CareerPlanB](https://www.careerplanb.co/interior-designer-salary-india-2025-monthly-annual-pay-guide/) | 二手 | 低–中 |
+| 新德里中位 | 約 Rs 27K／月；頂端 Rs 115,000／月 | USD 314／1,337 | [Glassdoor New Delhi](https://www.glassdoor.com/Salaries/new-delhi-india-interior-designer-salary-SRCH_IL.0,15_IM1083_KO16,33.htm) | 小樣本 | 低 |
+| 班加羅爾 | （頁面存在，摘要無數字） | — | [Glassdoor Bangalore](https://www.glassdoor.com/Salaries/bangalore-india-interior-designer-salary-SRCH_IL.0,15_IM1091_KO16,33.htm) | — | — |
+| 工地監工（全國） | Rs 19,129／月；初級 Rs 15,136、資深 Rs 29,801 | USD 222／月 | [Indeed India](https://in.indeed.com/career/site-supervisor/salaries) | 735 筆 | 中 |
+| 工地監工（全國） | Rs 22,083／月（底薪 Rs 20,000） | USD 257／月 | [Glassdoor India](https://www.glassdoor.co.in/Salaries/site-supervisor-salary-SRCH_KO0,15.htm) | 272 筆，2024-10 | 中 |
+| 工地監工（班加羅爾） | 中位約 Rs 23K／月 | USD 267 | [Glassdoor Bangalore](https://www.glassdoor.co.in/Salaries/bangalore-site-supervisor-salary-SRCH_IL.0,9_IM1091_KO10,25.htm) | — | 低 |
+| 工地監工（異常值） | Rs 11.26 lakh／年 | USD 13,100 | [ERI SalaryExpert](https://www.salaryexpert.com/salary/job/site-supervisor/india) | 遠高於其他來源，存疑 | 低 |
+
+**(b) 技術工日薪（2025–26，全為業者估計，無官方數據）**
+
+| 城市 | 木工（技術工）日薪 | 來源 |
+|---|---|---|
+| 孟買 | Rs 800–1,300（≈ USD 9.3–15.1 ≈ NT$293–476） | [Yojo 2026](https://yojoapp.com/en/blog/labor-rates-construction-india-2026-complete-guide/)；Rs 800–1,200 — [Solve24 2026](https://solve24.in/blog/carpenter-salary-in-india-2026) |
+| 德里 NCR | Rs 750–1,250 | [Yojo](https://yojoapp.com/en/blog/labor-rates-construction-india-2026-complete-guide/)；Rs 750–1,100 — [Solve24](https://solve24.in/blog/carpenter-salary-in-india-2026)；即時行情頁 — [InfraLens Delhi](https://infralens.in/prices/labour/delhi) |
+| 班加羅爾 | Rs 750–1,250 | [Yojo](https://yojoapp.com/en/blog/labor-rates-construction-india-2026-complete-guide/) |
+| 都會（模板木工） | Rs 1,000–1,200 | [IS Code Hub 2026](https://www.iscodehub.com/rate-analysis/construction-labour-rates-india) |
+| 都會（住宅工程） | Rs 700–950 | [Aecord 2026](https://aecord.com/blog/labour-rates-for-house-construction-india-2026) |
+| 傢俱／廚櫃木工（計件） | Rs 200–600／ft² | [Sainik710](https://www.sainik710.com/blog/carpenter-rate-guide-labour-charges-india)；[Quora 孟買](https://www.quora.com/What-are-carpenter-labor-charges-for-making-kitchen-cabinet-drawers-and-wardrobe-in-Mumbai) |
+| 月薪口徑 | Rs 14K–65K／月 | [Solve24](https://solve24.in/blog/carpenter-salary-in-india-2026)；[ERI 孟買](https://www.erieri.com/salary/job/carpenter/india/mumbai)；[WorldSalaries 孟買](https://worldsalaries.com/average-carpenter-salary-in-mumbai/india/) |
+
+- 都會比二線城市高 **20–30%**；各來源自承為市場估計、隨城市、技能、季節變動 — [Yojo](https://yojoapp.com/en/blog/labor-rates-construction-india-2026-complete-guide/)；[Nirmaan Setu 工資指數](https://nirmansetu.in/construction-wages-india/?v=aabc60074eee)（本輪，低–中信心）
+- 泥作、水電日薪：搜尋結果未單獨列出（缺口）；邦政府最低工資公告未取得（缺口）
+
+**(c) 缺工與勞動力結構**
+- NAREDCO 主席 Niranjan Hiranandani（2025-09）：建築業短缺近 **200 萬**技術工；木工、油漆工、水管工、電工最缺 — [Realty Plus 2025](https://www.rprealtyplus.com/news-views/labour-shortage-hits-indias-construction-sector-and-projects-122137.html)（本輪，中–高信心）；2025-10 另源引專家估計需近 200 萬額外受訓人員 — [GeoSquare 2025](https://www.geosquare.in/indias-construction-sector-grapples-with-2-million-skilled-worker-shortage-126642218078-news/)（本輪，中信心）
+- CREDAI 主席：每日短缺約 **1,000 萬**工人；技術＋非技術總需求 **3,300 萬／日**；缺口約 30%；歸因農村所得上升與赴海灣移工 — [Moneylife](https://www.moneylife.in/article/construction-sector-facing-shortage-of-10-million-workers-credai/6891.html)（本輪，中信心；**未註明年份，疑為較舊**）
+- CSDCI《國內技能缺口報告》（2023-04）：產業需 **9,080 萬**工人；高技能供給 **270 萬**；缺口 **4,250 萬**；需求較現有勞動力多 45% — [CSDCI Domestic Skill Gap Report PDF](https://www.csdcindia.org/wp-content/uploads/2023/04/Domestic-Skill-Gap-Report.pdf)（本輪，高信心；官方技能委員會）
+- 建築業就業 >7,000 萬人；正式技能化工人 <20%（後者來源權威性低） — [Outlook India](https://www.outlookindia.com/announcements/news-media-wire/mind-the-workforce-gap)；[Construction Placements](https://www.constructionplacements.com/construction-jobs-outlook-india-2025-2030/)（本輪，低–中信心）
+- PMI 2026：印度 2035 年前需近 **395,000** 名建築專案管理專業人員 — [Construction Placements](https://www.constructionplacements.com/construction-jobs-outlook-india-2025-2030/)（本輪，中信心）
+- Livspace 員工 >5,000 人、2025–26 裁員（100 vs >1,000，兩源矛盾）；HomeLane FY25 人事費 Rs 239 crore（+28%，占營收約 32%） — [HRKatha](https://www.hrkatha.com/news/layoff/100-job-cuts-at-livspace/)；[Entrackr](https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234)（第 1 輪，中／高信心）
+
+**(d) 教育管道與協會**
+- IIID 會員 10,000 人、35 分會與中心（官網）；會員類別含 Student、Education、Licentiate；大學可取得機構會員（JECRC 範例） — [IIID 官網](https://www.iiid.in/)；[JECRC PDF](https://jecrcuniversity.edu.in/wp-content/uploads/2023/12/IIID-MEMBERSHIP-WRITE-UP.pdf)（本輪，中信心；詳見第 8 節）
+- 設計科系學校數、年畢業人數：**本輪搜尋未取得**（缺口）
+- 台灣對照：國土署 2026-04 室內裝修業約 1.7 萬家、專業技術人員約 3.3 萬人；印度無登記制故無可比數 — [中央社](https://www.cna.com.tw/news/ahel/202604140322.aspx)（第 1 輪，高信心）
 
 ### Inferences
-- 印度磁磚（Morbi 產業聚落）與板材具出口價格競爭力，對台灣集團家居零售線既是低價採購來源也是反傾銷稅風險（IN-A 已列）；若在印度承攬，磁磚、油漆、板材可完全在地採購，進口需求集中在五金、衛浴高階品與系統櫃（推論，低信心）。
+- 設計師年薪 Rs 3–4 lakh（≈ NT$11–15 萬）約為台灣同職 1/4–1/5，監工月薪 Rs 20,000（≈ NT$7,300）；以「台籍總監＋印籍團隊」架構，人事成本優勢顯著，但須預留訓練與流動率成本（HomeLane 人事費年增 28%）（推論，中信心）。
+- 木工日薪 Rs 800–1,300（≈ NT$293–476）僅台灣的 1/6–1/8，但技術工短缺 200 萬且最缺的正是木工、油漆、水電——裝修核心工種；印度本身是勞力輸出國，不可能引進外籍工班，工班穩定性要靠長期合作與訓練（推論，中信心）。
 
-### 待驗證線索（D 級，禁止引用）
-- 本土品牌（上市公司年報可查）：板材 Century Plyboards、Greenply、Greenlam（美耐板）、Merino（美耐板）、Action Tesa（MDF／塑合板）；磁磚 Kajaria、Somany、Asian Granito、Morbi 聚落；油漆 Asian Paints（另有 Beautiful Homes 門市、Sleek 廚櫃、White Teak 燈具）、Berger、Kansai Nerolac、Indigo、Birla Opus（Grasim，2024 年進入）；衛浴 Hindware、Jaquar、Cera、Parryware（Roca）、Kohler India；照明 Havells、Crompton、Bajaj、Signify（Philips）、Wipro；傢俱／系統櫃 Godrej Interio、Nilkamal、Spacewood、Durian、Featherlite、Häfele／Hettich（五金）；石膏板 Saint-Gobain Gyproc；玻璃 Saint-Gobain、AIS；水泥 UltraTech、Ambuja／ACC（Adani）、Shree；鋼 Tata、JSW、SAIL。
-- 標準與管制：BIS 對板材之品質管制令（QCO：膠合板 IS 303、MDF IS 12406、塑合板 IS 3087、美耐板等，2024–2026 年分階段實施與延期）；BIS 對磁磚、衛浴、電線之 IS 標準；印度對中國磁磚／板材之反傾銷稅；傢俱基本關稅（2020 年調高）與 IGST。
-- 價格：經濟顧問辦公室 WPI（水泥、鋼、木材、磁磚）2022–2026；CREDAI 對材料與工資漲幅之聲明；Morbi 天然氣價格對磁磚成本之影響。
-- 物流：GST 統一市場（2017）、e-way bill、Morbi→各都會之磁磚運費。
-- 印地語查詢：प्लाईवुड／सीमेंट／टाइल कीमत 2025（附錄 B）。
+### Gaps
+- 設計科系學校數與畢業人數（CoA／AICTE／NID／CEPT／INIFD）；執業設計師人數；泥作、水電日薪；各邦最低工資公告（德里 2025）；四部勞動法典施行狀態；BOCW 登錄人數；跨邦移工統計；外籍工人政策之官方文件。
 
 ---
-
-## 8. 產業組織與監測來源
-
-### Takeaway
-本輪無任何已引用的協會、展會、媒體、統計刊物資料（IIID 會員數、ACETECH 規模、India Design ID 等均未取得）。可用的「監測來源」僅限本工作階段已出現之機構：Entrackr／Inc42（新創財報）、Redseer（線上口徑）、C&W（商辦成本）、NCH／PIB（投訴）、DPIIT（FDI）、Indian Kanoon（判例）。
-
-### Cited Findings（已出現之監測來源）
-| 類型 | 來源 | 可監測內容 | 已引用 URL |
-|---|---|---|---|
-| 新創財報 | Entrackr、Inc42、Outlook Business | Livspace、HomeLane 等 ROC 申報數字 | [Entrackr](https://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863)；[Inc42](https://inc42.com/buzz/livspaces-fy25-loss-declines-43-to-inr-243-cr/) |
-| 研究機構 | Redseer | 線上家居／居家服務口徑 | [Redseer](https://redseer.com/articles/tapping-into-the-everyday-instant-home-services-and-the-next-habit-loop/) |
-| 顧問 | Cushman & Wakefield | 商辦裝修成本（年刊） | [C&W 2026](https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office) |
-| 政府 | 消費者事務部 NCH／PIB | 投訴量（無裝修分項） | [PIB](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179780&reg=48&lang=2) |
-| 政府 | DPIIT | FDI 政策與 Press Note | [DPIIT](https://www.dpiit.gov.in/static/uploads/2025/07/1b12c69de7c2e698a7b68f7b8fcf4fe3.pdf) |
-| 法規 | Indian Kanoon | 判例 | [Indian Kanoon](https://indiankanoon.org/doc/41555114/) |
-| 法規評論 | White & Case、Mondaq、IJPIEL | FDI 與專業法評論 | [White & Case](https://www.whitecase.com/insight-our-thinking/foreign-direct-investment-reviews-2026-india) |
-| 市調（口徑須註明） | IMARC、Mordor | 市場規模（含傢俱家飾） | [IMARC](https://www.imarcgroup.com/india-interior-design-market)；[Mordor](https://www.mordorintelligence.com/industry-reports/india-interior-design-market) |
-
-### 待驗證線索（D 級，禁止引用）
-- 協會：IIID（Indian Institute of Interior Designers，1972 年成立；年會 NATCON；官網 https://www.iiid.in/ ，未開啟）、IIA（Indian Institute of Architects）、CoA、IGBC（綠建築）、CREDAI／NAREDCO（建商）、FFSC（Furniture & Fittings Skill Council）、CSDCI、FICCI／CII 相關委員會。
-- 展會：ACETECH（孟買 12 月、德里、班加羅爾、海得拉巴）、India Design ID（德里）、Index Fairs（孟買）、MATECIA（建材）、Vibrant Ceramics／Ceramics Asia（古吉拉特）、IndiaWood（班加羅爾，木工機械）。
-- 媒體：Architectural Digest India、Elle Decor India、Good Homes、Better Interiors、Home & Design Trends、Design Pataki、The Architect's Diary、Surfaces Reporter、Construction World、Realty Plus、ET Realty、Moneycontrol。
-- 統計刊物：MoSPI 國民帳戶（建築業）、NSSO 家庭消費支出調查、Census of India、RBI 住宅貸款統計、經濟顧問辦公室 WPI、Labour Bureau 工資指數、DPIIT FDI 統計、NCH 年報、CoA 註冊統計、Anarock／Knight Frank／JLL 季報、Tofler／Zauba（ROC 財報）。
-
----
-
-## 9. 關鍵數字總表
-
-| 指標 | 數值 | 年份 | 來源 | 定義／備註 | 信心 |
-|---|---|---|---|---|---|
-| 室內設計師法定證照 | 無；Architects Act 1972 僅保護「Architect」名稱（SC 2020 判決） | 2020 | [Indian Kanoon](https://indiankanoon.org/doc/41555114/) | 法規 | 高 |
-| 住宅裝修承包執照 | 無全國制度；公共工程各邦／機關登錄 | 現行 | [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india) | 非官方來源 | 中 |
-| 住宅裝修許可 | 市政 building permission（僅結構變更）＋合作社／RWA 同意；RERA 僅規範開發商 | 現行 | [studiomatrx](https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india) | 非官方來源 | 低–中 |
-| 裝修專屬消保機制（契約／訂金／保固／保險） | 無 | 現行 | [T3 比較表（Business Standard）](https://www.business-standard.com/india-news/national-consumer-helpline-resolves-67k-complaints-recovers-45-cr-in-2025-125122700291_1.html) | T3 跨國判定 | 中 |
-| NCH 協助投訴件數／退款 | 67,265 件；Rs 45 crore ≈ USD 523 萬 ≈ NT$1.65 億 | 2025-04～12 | [Business Standard](https://www.business-standard.com/india-news/national-consumer-helpline-resolves-67k-complaints-recovers-45-cr-in-2025-125122700291_1.html) | 全部門，無裝修分項 | 高 |
-| NCH 月均登錄 | 170,585 件 | 2025 | [PIB](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179780&reg=48&lang=2) | 全部門 | 高 |
-| FDI：未列明行業 | 100% 自動路徑 | 2025 | [DPIIT](https://www.dpiit.gov.in/static/uploads/2025/07/1b12c69de7c2e698a7b68f7b8fcf4fe3.pdf) | 設計服務適用 | 高 |
-| FDI：Construction Development | 100% 自動；3 年鎖定期 | 2025 | [DPIIT](https://www.dpiit.gov.in/static/uploads/2025/07/1b12c69de7c2e698a7b68f7b8fcf4fe3.pdf) | Para 5.2.10 | 高 |
-| Press Note 3 (2020) 陸鄰國審查 | 不適用台灣；2026 年部分放寬 | 2020／2026 | [White & Case](https://www.whitecase.com/insight-our-thinking/foreign-direct-investment-reviews-2026-india) | — | 中–高 |
-| T3 台商進入可行性評分 | 設計 4／承攬 4（滿分 4） | 2026 | [T3（DPIIT 等）](https://www.dpiit.gov.in/static/uploads/2025/07/1b12c69de7c2e698a7b68f7b8fcf4fe3.pdf) | 研究者判定 | 中 |
-| Livspace 營收 | Rs 1,460 crore ≈ USD 1.70 億 ≈ NT$53.5 億（+23%；印度 85%） | FY25 | [Entrackr](https://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863) | 含新加坡 15% | 高 |
-| Livspace 淨損 | Rs 242 crore ≈ USD 2,810 萬 ≈ NT$8.9 億 | FY25 | [Inc42](https://inc42.com/buzz/livspaces-fy25-loss-declines-43-to-inr-243-cr/) | — | 中高 |
-| Livspace Series F／估值 | USD 1.8 億 ≈ NT$56.7 億；>USD 10 億 | 2022 | [Business Wire](https://www.businesswire.com/news/home/20220207005993/en) | KKR 領投；Ingka、EDBI 參與 | 高 |
-| Livspace 員工數／裁員 | >5,000 人；裁員約 100（<2%）vs >1,000 | 2025–26 | [HRKatha](https://www.hrkatha.com/news/layoff/100-job-cuts-at-livspace/)；[Entrackr](https://entrackr.com/news/livspace-cbo-lalit-mittal-exits-after-co-founder-departure-and-mass-layoffs-11150871) | 兩源矛盾 | 中 |
-| HomeLane 營收／淨損 | Rs 748 crore ≈ USD 8,700 萬 ≈ NT$27.4 億（+22%）；淨損 Rs 111 crore | FY25 | [Entrackr](https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234) | 含 DesignCafe | 高 |
-| HomeLane 材料費 | Rs 320 crore ≈ USD 3,720 萬 ≈ NT$11.7 億；占總費用 37%、占營收 ≈43% | FY25 | [Entrackr](https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234) | 供應鏈成本錨點 | 高 |
-| HomeLane 人事費 | Rs 239 crore ≈ USD 2,780 萬 ≈ NT$8.75 億（+28%；占營收 ≈32%） | FY25 | 同上 | 人才成本錨點 | 高 |
-| HomeLane 廣告費 | Rs 84 crore ≈ USD 977 萬 ≈ NT$3.1 億（占營收 ≈11%） | FY25 | 同上 | 獲客成本錨點 | 高 |
-| 線上室內設計滲透率 | <1%；市場 ≈ USD 1 億 | FY19 | [Redseer](https://redseer.com/articles/online-interior-design-market-updates/) | 年份舊 | 中 |
-| 線上居家修繕 | ≈ USD 10 億 → USD 30–32 億（FY31） | 2025 | [Redseer](https://redseer.com/articles/tapping-into-the-everyday-instant-home-services-and-the-next-habit-loop/) | 線上即時服務口徑 | 中 |
-| 傢俱零售非組織化占比 | 86% | 2018 | [Redseer PDF](https://redseer.com/wp-content/uploads/2018/09/Disruption-in-Indian-furniture-retailing-_-31-August-2018-v1.pdf) | 年份舊 | 中 |
-| Mordor「室內設計」商用占比 | 74% | 2025 | [Mordor](https://www.mordorintelligence.com/industry-reports/india-interior-design-market) | 未開頁核對 | 低 |
-| 商辦裝修全含成本 | USD 65–73/ft² ≈ USD 700–786/m² ≈ NT$7.3–8.2 萬/坪（亞太最低） | 2026 | [ConstructionWorld／C&W](https://www.constructionworld.in/latest-construction-news/real-estate-news/india-leads-asia-pacific-in-fit-out-cost-efficiency/88743) | 含傢俱、機電、AV/IT | 高 |
-| Space Matrix 年施工量 | ≈800 萬 ft²；營收 >S$1.15 億 | 2017 | [AOL／SCMP](https://www.aol.com/news/singapore-office-design-firm-space-093000697.html) | 年份舊 | 中 |
-| 名目人均 GDP | USD 2,675 ≈ NT$84,300（台灣 1/15） | 2025 | [Worldometers](https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal) | IMF WEO 轉載 | 中 |
-| 台灣對印度磁磚 | ITC 認定傾銷損害、移交反傾銷程序 | 2025 | [工商時報](https://www.ctee.com.tw/news/20250902700647-431206)；[Taiwan News](https://www.taiwannews.com.tw/en/topic/ceramic%20tiles) | 供應鏈外溢 | 中 |
-| 房貸利率／修繕貸款／補助 | 7.5–8.5%／SBI、HDFC 等有 home improvement loan／無獨立修繕補助 | 2025–26 | [T8（未驗證；RBI 首頁）](https://www.rbi.org.in/) | **未驗證** | 低 |
-| 設計畢業人數、執業人數、薪資、工班日薪、缺工、移工 | **無資料** | — | — | 最優先缺口 | — |
-| 本土建材品牌規模、QCO、關稅、價格指數 | **無資料** | — | — | 最優先缺口 | — |
-| 協會會員數、展會規模 | **無資料** | — | — | 缺口 | — |
-
----
-
-## 10. 對台灣業者的啟示
-
-1. **法律門檻最低，但制度不提供品質篩選工具**：印度對設計公司 100% 外資自動路徑、無設計師與承包商執照、台灣不受 Press Note 3 限制，是 12 市場中法律上最容易以「台北設計中心＋當地分包」進入者；但沒有合格承包商名冊、沒有標準契約、沒有法定裝修保固，意味工班品質、進度與付款風險要靠自有監造與合約條款吸收——這正是 Livspace／HomeLane 材料占營收 43%、人事 32% 仍虧損的結構原因。進入前應先在目標城市建立 3–5 家經審核的分包商池並以試案驗證。
-2. **把「台灣標準」當作可行銷的消費者保護承諾**：印度沒有裝修專屬消保機制，NCH 月均 17 萬件投訴顯示消費者維權意識高。集團若在印度主動提供書面契約、審閱期、分期付款對應驗收節點、1 年以上保固與第三方資金託管（台灣定型化契約草案標準），即可在無法規要求下形成差異化（與 T3 對新加坡 CaseTrust 的建議同邏輯）。
-3. **先做商辦與台商／外商客戶，再碰住宅**：C&W 2026 印度主要城市商辦裝修 USD 65–73/ft² 為亞太最低，價格競爭無優勢，但班加羅爾、海得拉巴、浦那、清奈的台商（電子、半導體供應鏈）與外商 GCC 辦公室需要可信賴的跨國專案管理；以 Space Matrix（年施工 800 萬 ft²）為 D&B 對手基準，定位於設計品質、台系供應鏈（系統櫃、衛浴、燈具）與專案管理。
-4. **人才策略以「台籍設計總監＋印籍設計與工地團隊」為原則**：外籍設計師可以 Employment Visa 入境（細節待查），但工地管理高度依賴在地語言與跨邦移工管理經驗；HomeLane 人事費年增 28% 顯示組織化業者正在爭奪同一批設計師與專案經理。建議與 IIID 地方分會、設計學院建立招募管道，並在下一輪取得薪資基準。
-5. **供應鏈雙向思考**：印度是低價磁磚與板材輸出國（台灣已啟動反傾銷），集團家居零售線在評估採購時須同時計算反傾銷稅與 CNS 合規成本；若在印度承攬，磁磚、油漆、板材可在地採購，進口需求集中在五金、高階衛浴與系統櫃——這正是台系產品可切入的縫隙，但須先查 BIS QCO 與關稅。
-6. **在取得四組資料前不做投資決策**：(a) 各市建管與消防細則（孟買、班加羅爾、德里）、(b) 住宅合作社／RWA NOC 實務、(c) 設計師與工班薪資基準、(d) BIS QCO 與關稅清單——本輪全部缺口，附錄 B 已列查詢；法規結論一律「需專業人士最終確認」。
-
----
-
-## 11. 資料缺口
-
-| # | 關鍵問題 | 缺口項目 | 本輪嘗試 | 建議取得方式（下一輪） |
-|---|---|---|---|---|
-| 1 | Q1 法規 | Architects Act 1972 名稱保護與罰則條文原文、CoA 註冊建築師數、外國人註冊互惠規定、Architects (Amendment) Bill 動態 | 0 次（額度用罄） | 附錄 B #1、#3；indiacode.nic.in；coa.gov.in |
-| 2 | Q1 法規 | NBC 2016 Part 4 對室內裝修材料與逃生之要求；各邦採納情形 | 0 次 | 附錄 B #2；bis.gov.in |
-| 3 | Q1 法規 | 孟買（MCGM／§342、DCPR 2034、合作社示範規約 NOC 條款、馬邦消防法 Form B）、德里（UBBL 2016、消防法 2007）、班加羅爾（BBMP、KAOA）住宅裝修許可與消防 NOC 流程及罰則 | 0 次 | 附錄 B #2、#3 |
-| 4 | Q1 法規 | 2023–2026 與室內裝修相關之修法（建築師法、建管、消防、合作社法） | 0 次 | 附錄 B #3 |
-| 5 | Q2 消保 | CPA 2019 三級委員會金額管轄；NCH／E-Daakhil 是否有裝修分項統計 | 0 次 | 附錄 B #4；consumerhelpline.gov.in；edaakhil.nic.in |
-| 6 | Q2 消保 | Livspace／HomeLane 等消費者委員會判例；2023–2025 裝修詐騙案例與型態 | 0 次 | 附錄 B #4、#5、#16 |
-| 7 | Q2 消保 | 業界付款節奏、保固慣例、RERA §14(3) 建商 5 年瑕疵責任原文、escrow 是否存在 | 0 次 | 附錄 B #5；Livspace／HomeLane 條款頁 |
-| 8 | Q3 外資 | Employment Visa 門檻（薪資下限、資格）、Business Visa 限制、FRRO；LLP／分公司選項之 FEMA 條件 | 0 次 | 附錄 B #6、#8；mha.gov.in；indianvisaonline.gov.in |
-| 9 | Q3 外資 | 日、韓、新、中、台、歐美業者進入案例與結果（Nitori、Nomura Koumuten、IKEA India、Hettich、Häfele、Kohler、Toto、Oppein 等） | 0 次 | 附錄 B #7 |
-| 10 | Q3 外資 | 印台雙邊投資協定（2018）與避免雙重課稅協定條文；所得稅、GST、TDS 稅率 | 0 次 | 附錄 B #8；經濟部投審司；印度財政部 |
-| 11 | Q4 消費者 | 誰在裝修（新交屋 vs 中古 vs 高齡 vs 出租）、各所得層預算、決策歷程、資訊來源、風格、付款階段 | 0 次 | 附錄 B #9、#16、#17 |
-| 12 | Q4 消費者 | 修繕貸款產品與利率（SBI、HDFC、ICICI）、§24(b) 扣除、政府補助確認 | 0 次 | 附錄 B #10 |
-| 13 | Q5 人才 | 設計科系學校數與畢業人數（CoA／AICTE／NID／CEPT／INIFD）、執業設計師人數、IIID 會員數 | 0 次 | 附錄 B #11、#15 |
-| 14 | Q5 人才 | 設計師與監工薪資；木工／泥作／水電日薪（孟買、班加羅爾、德里）；最低工資 | 0 次 | 附錄 B #12、#18 |
-| 15 | Q5 人才 | 缺工與高齡化（CREDAI／CSDCI）；四部勞動法典施行；BOCW；跨邦移工；外籍勞工政策 | 0 次 | 附錄 B #12 |
-| 16 | Q6 材料 | 本土品牌營收與市占（Century Ply、Greenply、Kajaria、Somany、Asian Paints、Hindware、Jaquar、Merino、Action Tesa）；進口依賴 | 0 次 | 附錄 B #13；BSE／NSE 年報 |
-| 17 | Q6 材料 | BIS QCO（板材、磁磚、衛浴）實施時程；關稅；反傾銷稅；WPI 2022–2026 價格漲幅；物流 | 0 次 | 附錄 B #14、#19 |
-| 18 | Q7 組織 | IIID、IIA、ACETECH、India Design ID 規模；媒體與統計刊物清單 | 0 次 | 附錄 B #15 |
-| 19 | 全部 | 印地語來源 0 條 | 0 次 | 附錄 B #16–#20 |
-| 20 | 全部 | 所有 URL 未開頁核對；匯率為假設值 | — | 整合協議 §3、§10 |
-
----
-
-## 12. 來源清單（標題｜機構｜年份｜URL｜取得途徑）
-
-| # | 標題 | 機構 | 年份 | URL | 取得途徑 |
-|---|---|---|---|---|---|
-| 1 | Council of Architecture vs Mukesh Goyal（最高法院判決） | Indian Kanoon | 2020 | https://indiankanoon.org/doc/41555114/ | 經由 T3 |
-| 2 | The unique position of the Architects Act 1972 | Mondaq | 2021 | https://www.mondaq.com/india/construction-planning/1077872/the-unique-position-of-the-architects-act-1972 | 經由 T3 |
-| 3 | Scope boundaries: architect, designer, contractor in India | studiomatrx | n.d. | https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india | 經由 T3 |
-| 4 | National Consumer Helpline resolves 67K complaints, recovers Rs 45 cr in 2025 | Business Standard | 2025-12 | https://www.business-standard.com/india-news/national-consumer-helpline-resolves-67k-complaints-recovers-45-cr-in-2025-125122700291_1.html | 經由 T3 |
-| 5 | National Consumer Helpline 新聞稿 | PIB（Press Information Bureau） | 2025 | https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179780&reg=48&lang=2 | 經由 T3 |
-| 6 | FDI Policy: Sectors under Automatic Route | DPIIT | 2025-07 | https://www.dpiit.gov.in/static/uploads/2025/07/1b12c69de7c2e698a7b68f7b8fcf4fe3.pdf | 經由 T3 |
-| 7 | Foreign direct investment reviews 2026: India | White & Case | 2026 | https://www.whitecase.com/insight-our-thinking/foreign-direct-investment-reviews-2026-india | 經由 T3 |
-| 8 | Foreign investment in the Indian construction development sector | IJPIEL | 2022 | https://ijpiel.com/index.php/2022/07/01/foreign-investment-in-the-indian-construction-development-sector-entry-routes-and-associated-conditions/ | 經由 T3 |
-| 9 | Livspace posts Rs 1,460 Cr revenue in FY25; losses shrink 42% | Entrackr | 2025 | https://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863 | 經由 T2 |
-| 10 | Livspace's FY25 Loss Declines 43% To INR 243 Cr | Inc42 | 2025 | https://inc42.com/buzz/livspaces-fy25-loss-declines-43-to-inr-243-cr/ | 經由 T2 |
-| 11 | Livspace Revenue Rises 23% to ₹1,460 Cr in FY25 | Outlook Business | 2025 | https://www.outlookbusiness.com/corporate/livspace-revenue-rises-23-to-1460-cr-in-fy25-losses-come-down | 經由 T2 |
-| 12 | Livspace CBO Lalit Mittal exits after co-founder departure and mass layoffs | Entrackr | 2026 | https://entrackr.com/news/livspace-cbo-lalit-mittal-exits-after-co-founder-departure-and-mass-layoffs-11150871 | 經由 T2 |
-| 13 | 100 job cuts at Livspace | HRKatha | 2025 | https://www.hrkatha.com/news/layoff/100-job-cuts-at-livspace/ | 經由 T2 |
-| 14 | Livspace Series F US$180M led by KKR | Business Wire | 2022-02-07 | https://www.businesswire.com/news/home/20220207005993/en | 經由 T2 |
-| 15 | Backed by EDBI and major IKEA franchisee, Livspace turns unicorn | The Edge Singapore | 2022 | https://testing.dev.theedgesingapore.com/news/company-news/backed-edbi-and-major-ikea-franchisee-renovation-platform-livspace-turns-unicorn | 經由 T2 |
-| 16 | Livspace raises USD 90 million to expand in Southeast Asia, Australia | KrASIA | 2020 | https://kr-asia.com/home-renovation-platform-livspace-raises-usd-90-million-to-expand-in-southeast-asia-australia | 經由 T2 |
-| 17 | Acquisition of a majority stake in Qanvast Pte Ltd by Interiortech Pte Ltd | Allen & Gledhill | 2022 | https://www.allenandgledhill.com/perspectives/articles/21509/acquisition-of-a-majority-stake-in-qanvast-pte-ltd-by-interiortepte-ltd | 經由 T2 |
-| 18 | IKEA and Livspace to offer interior design solutions at Kuala Lumpur outlets | EdgeProp Singapore | n.d. | https://edgeprop.sg/property-news/ikea-and-livspace-offer-interior-design-solutions-kuala-lumpur-outlets | 經由 T2 |
-| 19 | HomeLane records Rs 748 Cr revenue in FY25 but falls short of projections | Entrackr | 2025 | https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234 | 經由 T2 |
-| 20 | HomeLane reports 22% revenue growth in FY25, achieves EBITDA profitability in Q4 | Franchise India | 2025 | https://www.franchiseindia.com/index.php/insights/en/news/homelane-reports-22-revenue-growth-in-fy25-achieves-ebitda-profitability-in-q4.57729 | 經由 T2 |
-| 21 | HomeLane FY25 note | Motilal Oswal | 2025 | https://www.motilaloswal.com/news/stocks/107588 | 經由 T2 |
-| 22 | Singapore office design firm Space Matrix acquires Pursuite（SCMP 轉載） | AOL | 2018 | https://www.aol.com/news/singapore-office-design-firm-space-093000697.html | 經由 T2 |
-| 23 | Space Matrix company profile | CB Insights | 2022 | https://www.cbinsights.com/company/space-matrix | 經由 T2 |
-| 24 | India leads Asia Pacific in fit-out cost efficiency（C&W 2026） | Construction World | 2026 | https://www.constructionworld.in/latest-construction-news/real-estate-news/india-leads-asia-pacific-in-fit-out-cost-efficiency/88743 | 經由 T1 |
-| 25 | Office Fit Out Cost Guide Asia Pacific 2026 | Cushman & Wakefield | 2026 | https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office | 經由 T1 |
-| 26 | Tapping into the everyday: instant home services and the next habit loop | Redseer | 2025 | https://redseer.com/articles/tapping-into-the-everyday-instant-home-services-and-the-next-habit-loop/ | 經由 T1 |
-| 27 | Online Interior Design Market Updates | Redseer | 2019 | https://redseer.com/articles/online-interior-design-market-updates/ | 經由 T1 |
-| 28 | Disruption in Indian Furniture Retailing | Redseer | 2018 | https://redseer.com/wp-content/uploads/2018/09/Disruption-in-Indian-furniture-retailing-_-31-August-2018-v1.pdf | 經由 T1 |
-| 29 | India Interior Design Market Size & Share Analysis | Mordor Intelligence | 2025 | https://www.mordorintelligence.com/industry-reports/india-interior-design-market | 經由 T1 |
-| 30 | India Interior Design Market | IMARC Group | 2025 | https://www.imarcgroup.com/india-interior-design-market | 經由 T1 |
-| 31 | GDP per capita, Asia 2025（IMF WEO 轉載） | Worldometers | 2026 | https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal | 經由 T1 |
-| 32 | Indian, Vietnamese, Malaysian, Indonesian ceramic tile imports ruled as dumping | Taiwan News | n.d. | https://www.taiwannews.com.tw/en/topic/ceramic%20tiles | 經由 TW-B |
-| 33 | 磁磚業面臨東南亞與印度低價傾銷、進口品不必符 CNS | 工商時報 | 2025-09-02 | https://www.ctee.com.tw/news/20250902700647-431206 | 經由 TW-B |
-| 34 | 國土署：全國登記室內裝修業約 1.7 萬餘家（台灣對照） | 中央社 | 2026-04-14 | https://www.cna.com.tw/news/ahel/202604140322.aspx | 經由 T3 |
-| 35 | Reserve Bank of India 首頁（T8 未驗證融資背景之機構入口） | RBI | — | https://www.rbi.org.in/ | 經由 T8（未開啟） |
-
-來源數：35 條（英文 32、繁中 2、機構首頁 1；**印地語 0**）。全部未經本子代理或任何代理開頁核對。附錄 A 之機構首頁（CoA、IIID、BIS、NCH、E-Daakhil、MHA 等）為研究者背景知識，不計入來源數。
-
----
-
-## 附錄 A：待驗證線索總表（D 級，無 URL 或僅機構首頁；禁止當作事實引用）
-
-| 領域 | 機構／法規／報告（原文） | 預期可取得內容 | 入口（未開啟） |
-|---|---|---|---|
-| 法規 | Architects Act 1972；Council of Architecture | 名稱保護條文、罰則、註冊人數、外國人互惠 | https://www.coa.gov.in/ ；https://www.indiacode.nic.in/ |
-| 法規 | National Building Code 2016（BIS SP 7） | Part 4 消防與內裝材料 | https://www.bis.gov.in/ |
-| 法規 | MoHUA Model Building Bye-Laws 2016；MCGM／DDA／BBMP 建築細則；Maharashtra Fire Prevention and Life Safety Measures Act 2006；Delhi Fire Service Act 2007 | 裝修許可、消防 NOC、罰則 | 各市政府官網 |
-| 法規 | Maharashtra Co-operative Societies Act 1960；住宅合作社示範規約 | 室內改裝 NOC 條款 | 馬邦合作社註冊官網 |
-| 法規 | RERA 2016 §14(3) | 建商 5 年瑕疵責任 | https://www.indiacode.nic.in/ |
-| 消保 | Consumer Protection Act 2019；管轄規則 2021；NCH；E-Daakhil | 三級委員會門檻、立案流程、分項統計 | https://consumerhelpline.gov.in/ ；https://edaakhil.nic.in/ |
-| 外資 | Consolidated FDI Policy 2020 與 Press Notes；FEMA 22(R)/2016；Companies Act 2013；LLP Act 2008 | 設立形式、申報 | https://www.dpiit.gov.in/ ；https://www.rbi.org.in/ |
-| 簽證 | MHA Employment／Business Visa 指引；FRRO | 薪資下限、資格、時程 | https://www.mha.gov.in/ ；https://indianvisaonline.gov.in/ |
-| 稅務 | Income-tax Act；GST；台印 DTAA（2011）；印台 BIA（2018） | 稅率、扣繳、保障 | 印度財政部；台灣經濟部投審司 |
-| 消費者 | Livspace／HomeLane／Asian Paints／Houzz India 調查；Redseer Home & Interiors | 預算、風格、資訊來源 | 各公司官網 |
-| 融資 | SBI、HDFC、ICICI、LIC HFL、Bajaj Finserv home improvement loan；所得稅 §24(b) | 利率、額度、扣除 | 各銀行官網 |
-| 人才 | CoA／AICTE 學校數；NID、CEPT、Sir J.J.、Pearl Academy、IIAD、INIFD、Dream Zone；IIID 會員；Glassdoor／AmbitionBox 薪資 | 畢業人數、薪資 | 各校官網 |
-| 勞動 | 四部勞動法典（2025-11 施行，待證）；BOCW Act 1996；各邦最低工資；CREDAI／CSDCI 缺工估計；NSDC | 日薪、缺工、移工 | https://labour.gov.in/ |
-| 材料 | Century Plyboards、Greenply、Greenlam、Merino、Action Tesa、Kajaria、Somany、Asian Granito、Asian Paints、Berger、Nerolac、Birla Opus、Hindware、Jaquar、Cera、Parryware、Kohler India、Havells、Crompton、Signify、Godrej Interio、Nilkamal、Häfele、Hettich、Saint-Gobain Gyproc、UltraTech、Ambuja、Tata Steel、JSW | 營收、市占、產能 | BSE／NSE 年報 |
-| 材料 | BIS QCO（膠合板、MDF、塑合板、美耐板、磁磚、衛浴）；關稅表；反傾銷稅；經濟顧問辦公室 WPI | 標準、關稅、價格指數 | https://www.bis.gov.in/ ；https://eaindustry.nic.in/ |
-| 組織 | IIID、IIA、IGBC、CREDAI、NAREDCO、FFSC、CSDCI；ACETECH、India Design ID、Index Fairs、MATECIA、Vibrant Ceramics、IndiaWood；AD India、Elle Decor India、Surfaces Reporter、Construction World、ET Realty | 會員數、展會規模、監測媒體 | https://www.iiid.in/ 等 |
-
-**可能存在的常用說法（全部待驗證，禁止直接引用）**：「Employment Visa 年薪下限 USD 25,000」「CoA 註冊建築師逾 10 萬人」「一線城市木工日薪 Rs 800–1,500」「初階設計師年薪 Rs 3–5 lakh」「2BHK 全屋 Rs 8–20 lakh」「設計訂金 5–10%、下單時 40–50%」「模組化櫃體保固 5–10 年」「GST 設計服務與工程承攬 18%」「傢俱基本關稅 25%（2020 年調高）」「四部勞動法典 2025-11-21 施行」「IKEA India 海得拉巴 2018、納維孟買 2020、班加羅爾 2022」。
-
-## 附錄 B：本輪已規劃但未能執行的 20 條搜尋（供下一回合直接續跑）
-
-英文（15）：
-1. India interior design profession regulation Council of Architecture Act 1972 interior designers not regulated
-2. housing society NOC interior renovation Mumbai BMC permission rules structural changes fire NOC
-3. Architects Amendment Bill 2025 India Council of Architecture reform NBC 2016 Part 4 interior
-4. consumer commission order interior design Livspace HomeLane deficiency in service compensation
-5. interior designer scam advance payment fraud India 2025 homeowners warranty payment schedule
-6. FDI India interior design services wholly owned subsidiary 100% automatic route LLP branch office
-7. Nitori India stores Nomura Koumuten India Japanese Korean interior company entry IKEA India Hettich
-8. India employment visa foreign professional minimum salary USD 25000 requirements 2025 FRRO
-9. Livspace HomeLane survey Indian homeowners interior budget 2025 report decision journey style
-10. home renovation loan India 2025 HDFC SBI home improvement loan interest rate section 24(b)
-11. interior design colleges India number NID CEPT INIFD graduates Council of Architecture registered architects
-12. carpenter mason electrician daily wage India 2025 Bangalore Mumbai Delhi skilled labour shortage CREDAI CSDCI
-13. Century Ply Greenply Kajaria Somany Asian Paints Hindware Jaquar revenue FY25 market share
-14. BIS quality control order plywood MDF laminates 2025 import India tariff building material price index WPI cement steel 2025
-15. IIID Indian Institute of Interior Designers members ACETECH 2025 India Design ID exhibition
-印地語（5）：
-16. इंटीरियर डिजाइनर धोखाधड़ी शिकायत उपभोक्ता आयोग 2025
-17. घर इंटीरियर बजट 2BHK 3BHK खर्च 2025 लाख
-18. बढ़ई मिस्त्री दिहाड़ी मजदूरी 2025 दिल्ली मुंबई बेंगलुरु
-19. प्लाईवुड सीमेंट टाइल कीमत 2025 भारत
-20. हाउसिंग सोसाइटी एनओसी इंटीरियर रेनोवेशन नियम मुंबई
