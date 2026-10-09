@@ -50,7 +50,7 @@
 ## 2. 城市級裝修成本基準總表
 
 > 欄位：城市｜類型｜等級／情境｜數值｜幣別與單位（照原文）｜版本年｜來源#｜範圍說明｜信心｜標示
-> C&W 2026 版範圍：成本拆分涵蓋家具、機電、營建工程、AV／IT 與雜項 [TC-19][TC-01]；印度頁明示情境為「協作式混合辦公（collaborative hybrid workplace）」[TC-09]；價格基準 2025 年 12 月 [TC-01][TC-19]。**C&W 美洲版明示其營建數字「不含」弱電、AV、保全、FF&E 與軟成本** [TC-05 同一搜尋結果所附美洲版頁面]，亞太版是否同口徑**未確認**——報告撰寫者引用時請註明此不確定性。
+> C&W 2026 版範圍：成本拆分涵蓋家具、機電、營建工程、AV／IT 與雜項 [TC-19][TC-01]；印度頁明示情境為「協作式混合辦公（collaborative hybrid workplace）」[TC-09]；價格基準 2025 年 12 月 [TC-01][TC-19]。**C&W 美洲 2026 版明示其營建數字「不含」弱電、AV、保全、FF&E 與軟成本** [TC-54]；亞太版另有「all-in」拆分（專業費、家具、機電、營建、科技、復原）[TC-01]，但城市標題值（如東京 215）究竟是 all-in 或僅營建**未確認**——報告撰寫者引用時請註明此不確定性。
 
 ### 2.1 辦公（Office）— 城市級
 
@@ -335,4 +335,6 @@ GLOBAL,JLL全球辦公fit-out平均,2150,USD/m2,2026,TC-26,https://www.joneslang
 | TC-52 | Office sector is regaining its central role in commercial real estate, at a cost, finds JLL's Global Office Fit-Out Cost Guide | McMorrow Reports | 2025 | 英 | https://www.mcmorrowreports.com/office-sector-is-regaining-its-central-role-in-commercial-real-estate-at-a-cost-finds-jlls-global-office-fit-out-cost-guide/ | 搜尋結果內容 |
 | TC-53 | APAC cost guide: growing demand for sustainable fit-outs | JLL Southeast Asia | 2025（推定） | 英 | https://www.jll.com/en-sea/insights/apac-cost-guide-growing-demand-for-sustainable-fit-outs | 搜尋結果內容 |
 
-> 來源備註：TC-14、TC-20、TC-42、TC-49、TC-51 僅確認報告存在或作為同一數字之輔證，正文未單獨依賴其數字。TC-53 僅於第 3 章以標題形式引用。TC-25 之「美洲版不含弱電／AV／FF&E」說明來自同一搜尋（Q7）所附 C&W 美洲 2026 版頁面摘錄，該頁未列入本表因未用於亞洲數字。
+| TC-54 | Office Fit Out Cost Guide Americas 2026 | Cushman & Wakefield | 2026 | 英 | https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-amer-regional-en-content-pds-office | 搜尋結果內容 |
+
+> 來源備註：TC-14、TC-20、TC-42、TC-49、TC-51 僅確認報告存在或作為同一數字之輔證，正文未單獨依賴其數字。TC-53 僅於第 3 章以標題形式引用。TC-54 僅用於說明 C&W 美洲版的成本口徑（不含弱電／AV／保全／FF&E／軟成本），非亞洲數字。
