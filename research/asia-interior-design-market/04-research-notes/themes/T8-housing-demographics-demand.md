@@ -144,3 +144,159 @@ IMF 原始入口（本輪未能開啟）：[WEO 2026-04 Statistical Appendix](ht
 - 南韓 2026 年入住量（입주물량）；新加坡 2025 降溫措施（SSD 延長）與私宅轉售全年量；台灣全國房價指數 2026 與新／中古分拆；中國全國二手成交套數 2025、限購放鬆細節、LPR；印度 2025 全年銷售；印尼、菲律賓全國交易與完工；越南《土地法》2024 生效細節；日本、中國、泰國、印尼、菲律賓未售庫存官方值（泰國僅顧問估）。
 
 ---
+
+## 5. 翻修需求推估（Q4：Renovation-demand indicator）
+
+### 5.1 Takeaway
+以公開可追溯的三個變數——30 年以上存量占比（S）、中古交易占比（T）、所得（I）——建構指標 R，結果：香港 0.80 ＞ 台灣 0.74 ＞ 新加坡 0.72（S 為代理）＞ 南韓 0.58 ＞ 馬來西亞 0.55（低信心）＞ 日本 0.53–0.69 ＞ 中國 0.53 ＞ 泰國 0.51 ＞ 越南 0.29；印尼、菲律賓、印度因 T 無資料不計算，改以新屋交屋量衡量。與 T1 校準後的住宅翻修支出占 GDP 相比，排序方向一致（香港最高、韓＞日），但台灣與新加坡的 R 明顯高於其市場規模占 GDP 比重，顯示（a）台灣翻修市場的既有估計（NT$2,000–5,500 億，低信心）可能低估，或（b）台灣老屋翻修轉化率受都更／危老預期、高齡屋主不投資等因素壓抑；中國與泰國則相反（市場規模口徑含建材零售／新房精裝而偏高）。
+
+### 5.2 方法（全部為本人設計，【示意】）
+- **R = 0.4·S′ + 0.4·T′ + 0.2·I′**，三項皆正規化至 0–1。
+- **S′ = min(S ÷ 60%, 1)**，S＝30 年以上住宅占存量比（台灣 59%、南韓 30.6%、香港 48–64% 取中值 56%）；無 30 年值者用最接近代理並標註：日本以「築 43 年以上 21%」為下限、另設 45% 為情境上限（1981–1995 年建成之占比本輪無資料）；新加坡以 HIP（1997 年前建成）獲選 49.4 萬戶 ÷ 假設組屋總數約 110 萬戶 ≈ 45%（分母未經驗證）；中國以「2000 年前建成 35%」代理（屋齡 ≥25 年）。
+- **T′ = 中古占住宅交易比**：香港 39,821÷(20,525+39,821)=66%；日本首都圈 37,222÷(37,222+23,000)=62%（都會代理）；泰國 64%（2025 底）；中國 50.4%（2026H1）；台灣以「屋齡 3 年以下新屋房貸占 50.3%」反推中古 ≈50%；南韓以 1 − 完工 30 萬 ÷ 買賣 72.6 萬 ≈ 59%（代理）；新加坡以 (HDB 轉售 26,169 ＋ 私宅轉售假設 1.05 萬) ÷ (前者 ＋ 新售 10,611 ＋ BTO 19,723) ≈ 55%；馬來西亞以 1 − 完工 99,877 ÷ 住宅交易 ≈25.6 萬 ≈ 61%；越南以 1 − 一手成交 8.8 萬 ÷ 公寓＋獨立屋成交 138,025 ≈ 36%；印尼、菲律賓、印度無資料。
+- **I′ = [ln(人均 GDP 2026) − ln(2,500)] ÷ [ln(110,000) − ln(2,500)]**（對數尺度，IMF 2026 名目）：新加坡 0.99、香港 0.84、台灣 0.75、南韓 0.72、日本 0.70、中國 0.47、馬來西亞 0.47、泰國 0.31、印尼 0.20、越南 0.18、菲律賓 0.15、印度 0.03。
+- S 無資料者（泰、馬、越）改以 R = 0.6·T′ + 0.4·I′ 計算並以 ◇ 標示；T 無資料者不計算。
+
+### 5.3 指標表
+
+| 市場 | S（30 年以上占比） | S′ | T（中古占比） | T′ | I′ | **R** | 信心 | T1 校準之住宅翻修支出占 GDP（RR 口徑） | 一致性判讀 |
+|---|---|---|---|---|---|---|---|---|---|
+| 香港 | 48–64%（私樓，2023） | 0.80–1.00 | 66%（2025） | 0.66 | 0.84 | **0.80（0.75–0.83）** | 中 | 2.5–2.6%（C&SD 非地盤，含新建與機電，高估） | 一致（最高） |
+| 台灣 | 59%（2025Q2） | 0.98 | ≈50%（代理） | 0.50 | 0.75 | **0.74** | 中 | 0.69–1.89%（低信心） | **R 高於市場規模**：既有估計偏低或轉化率受抑 |
+| 新加坡 | ≈45%（HIP 代理，分母未驗證） | 0.75 | ≈55%（代理） | 0.55 | 0.99 | **0.72** | 低–中 | 0.61%（F&S fit-out 2022E） | R 高於市場規模：HIP 由政府出資、組屋翻修單價受 HDB 規範限制 |
+| 南韓 | 30.6%（2025 普查） | 0.51 | ≈59%（代理） | 0.59 | 0.72 | **0.58** | 中 | 1.23–1.41% | 一致 |
+| 馬來西亞 ◇ | 無資料 | — | ≈61%（代理） | 0.61 | 0.47 | **0.55** | 低 | 0.21–0.51% | R 高於市場規模：T 代理可能高估（住宅交易含土地／次級市場定義） |
+| 日本 | ≥21%（築 43 年以上）；情境 45% | 0.35–0.75 | 62%（首都圈 2024） | 0.62 | 0.70 | **0.53–0.69** | 中 | 1.10–1.13%（矢野，含家具） | 一致（R 上限情境） |
+| 中國大陸 | ≈35%（2000 年前建成，代理） | 0.58 | 50.4%（2026H1） | 0.50 | 0.47 | **0.53** | 中 | 1.95–2.67% | **市場規模高於 R**：口徑含新房精裝／整裝 |
+| 泰國 ◇ | 無資料 | — | 64%（2025 底） | 0.64 | 0.31 | **0.51** | 中 | 2.5%（HI 含建材零售，高估 RR） | 市場規模高於 R：口徑偏高 |
+| 越南 ◇ | 無資料 | — | ≈36%（代理） | 0.36 | 0.18 | **0.29** | 低 | 0.31–0.65% | 一致（低） |
+| 印尼 | 無資料 | — | 無資料 | — | 0.20 | 不計算 | — | 0.58%（FU 口徑） | 改看新屋交屋：FLPP 278,868 戶（2025） |
+| 菲律賓 | 無資料 | — | 無資料 | — | 0.15 | 不計算 | — | 0.53%（FU 口徑） | 改看新屋交屋：Pag-IBIG 90,727 戶（2025） |
+| 印度 | 無資料 | — | 無資料 | — | 0.03 | 不計算 | — | 0.80–0.94%（D＋FU 混合） | 改看新屋交屋：七大城推案 114,320 戶（2026Q3） |
+
+來源：S、T、I 各欄數字之 URL 見 §2–§4；T1 校準值見 [T1 §5.2](./T1-market-size-reconciliation.md)。
+
+### 5.4 Cited Findings（支撐指標之關鍵引用）
+- 台灣 30 年以上 59%、屋齡 3 年以下新屋申貸占 50.3% — [Newtalk](https://newtalk.tw/news/view/2025-09-17/994199)；[經濟日報](https://udn.com/news/story/7241/9431371)
+- 香港一手 20,525／二手 39,821 宗 — [hket（中原）](https://ps.hket.com/article/4204187/%E4%B8%AD%E5%8E%9F%EF%BC%9A9%E6%9C%88%E6%95%B4%E9%AB%94%E8%B2%B7%E8%B3%A3%E5%AE%97%E6%95%B8%E5%9B%9E%E5%8D%87%E9%80%BE1%E6%88%90%C2%A0%C2%A0%E4%B8%80%E6%89%8B%E7%A7%81%E6%A8%93%E9%87%8D%E4%B8%8A%E9%80%BE%E5%8D%83%E5%AE%97)
+- 日本首都圈中古 37,222 vs 新建 2.3 萬 — [DIME](https://dime.jp/genre/1990629/)；1980 年以前 21% — [国交省](https://www.mlit.go.jp/jutakukentiku/house/content/001857617.pdf)
+- 南韓 30.6% — [KDI](https://eiec.kdi.re.kr/policy/materialView.do?num=284799)；完工 30 萬 vs 買賣 72.6 萬 — [헤럴드경제](https://biz.heraldcorp.com/article/10887737)；[M이코노미](https://www.m-economynews.com/news/article.html?no=64226)
+- 中國 50.4% — [21 財經](https://m.21jingji.com/article/20260729/herald/df3b446d915832c3dab62856c9bf0024.html)；2000 年前 35% — [CN-verification](../verification/CN-verification.md)
+- 泰國 64% — [Bangkok Post](https://www.bangkokpost.com/property/3266023/resale-homes-take-larger-market-share)
+- 馬來西亞 完工 99,877、住宅交易占 61.6% — [IQI](https://iqiglobal.com/blog/napic-q1-2026/)；[Hartamas](https://hartamas.com/malaysia-property-market-2025-what-the-napic-data-really-shows/)
+- 越南 138,025 vs 一手 8.8 萬 — [Tạp chí KTTC](https://tapchikinhtetaichinh.vn/thi-truong-bat-dong-san-quy-iv-va-ca-nam-2025-nguon-cung-tang-giao-dich-soi-dong-140788.html)；[Vietstock VARS](https://vietstock.vn/2026/03/vars-ire-nhieu-nha-dau-tu-bat-dong-san-tang-gap-doi-tai-san-chi-trong-1-2-nam-4220-1415575.htm)
+- 中國華泰研究假設翻新週期 10–20 年、2024 年存量重裝占家裝 >50% — [華泰 PDF](https://reportify-1252068037.cos.ap-beijing.myqcloud.com/media/production/s_2d023dd8_2d023dd8457c351583068e0e7510101b.pdf)；泰國 SCB EIC 調查翻修主因為屋齡老化、預算 THB 11–30 萬 — [ThaiPublica](https://thaipublica.org/2024/08/scb-eic-residential-real-estate-survey-2567/)
+
+### 5.5 Inferences
+- 台灣 R 0.74 與市場規模 0.69–1.89% GDP 的落差，對集團而言是「結構上存在、尚未被充分貨幣化」的老屋翻修需求：59% 的 30 年以上存量 × 84% 自有率 × 人均 GDP USD 42,103，以日本單價（矢野 RR 1.1% GDP）套算，台灣 RR 合理區間應在 GDP 1.0–1.4%（NT$2,900–4,100 億）【示意】，與 T1 區間上半段相符。
+- 越南、印尼、菲律賓、印度的翻修需求在 2026–2030 年仍以「毛胚／基本完成新屋 → 首次裝修」為主，指標 R 不適用；合適的 KPI 是「年交屋戶數 × 毛胚比例 × 單價」。
+
+### 5.6 Gaps
+- 指標所需但缺的原始值：日本 30 年以上占比；新加坡組屋總數與私宅轉售全年量；南韓新／中古分拆；台灣新／中古官方分拆；印尼、菲律賓、印度中古交易占比與屋齡；各市場「翻修週期」調查（除中國華泰、泰國 SCB EIC 外皆無）。
+
+---
+
+## 6. 融資與家庭資產負債（Q5：Mortgage, household debt, renovation finance）
+
+### 6.1 Takeaway
+2026 年房貸利率分三層：低利（台灣 2.29%、日本變動型升息後仍低、香港 H 按約 3.25%）、中利（南韓 4.66%、新加坡裝修貸 3.5–6%、馬來西亞 SBR 2.75%＋加碼、泰國 GHB 政策貸 1%）、高利（印度 7.0–8.45%、印尼 BI Rate 5.75%、越南優惠 8–10% 後浮動 13–15%）。家庭負債／GDP（BIS 2025-12）南韓 88.6%、香港 87.8%、泰國 87.5%、馬來西亞 69.8%、日本 61.1%、中國 58.0%。政策性修繕融資最完整者為台灣（修繕貸款利息補貼 ≤NT$80 萬＋老宅延壽補助）、新加坡（HIP 年撥 S$4.07 億）、泰國（GHB 1% 修繕貸 ≤THB 30 萬）、南韓（그린리모델링 利息補貼 4.5–5.5%，2026-03 重啟）、日本（子育てグリーン住宅支援 ≤60 萬円）、越南（VBSP 4.8%）；銀行裝修貸額度：新加坡 S$30,000 或 6 倍月薪、馬來西亞 Maybank ≤RM250,000、印尼 Gradana ≤Rp 20 億、菲律賓 Pag-IBIG 房貸（含修繕）≤PHP 600 萬。
+
+### 6.2 十二市場融資表
+
+| 市場 | 房貸利率 2026 | 政策利率 2026 | 家庭負債／GDP | 銀行裝修貸款（產品／上限／利率） | 政府修繕融資／補助 | 來源 |
+|---|---|---|---|---|---|---|
+| 日本 | 變動型：日銀 9 月升息多在 2027-04 基準利率改定反映（具體利率無資料） | **1.25%（2026-09-18；6 月 1.00%）** | **61.1%（BIS 2025-12）** | 無資料（リフォームローン本輪未查） | **子育てグリーン住宅支援事業（裝修）S 型 ≤60 萬円／戶（≈USD 4,000／NT$12.6 萬）、A 型 ≤40 萬円**，2025-12-31 公募結束；リフォーム減税等未查 | [NHK](https://news.web.nhk/newsweb/na/nd-20260918de50968)；[モゲチェック](https://mogecheck.jp/articles/show/pnl6ZzOV4BDR2k5Ra7PY)；[TradingEconomics 家庭負債表](https://tradingeconomics.com/country-list/households-debt-to-gdp?continent=asia)；[Yahoo Finance（BIS Q4 2025）](https://finance.yahoo.com/economy/articles/ranked-countries-highest-debt-gdp-120507169.html)；[三菱電機 解說](https://www.mitsubishielectric.co.jp/ldg/ja/information/subsidy/kosodate-green/index.html)；[国交省 PDF](https://www.mlit.go.jp/report/press/content/001846077.pdf) |
+| 南韓 | **銀行新承做주담대 4.66%（2026-08；固定 4.88%、變動 4.53%）**，市場利率 9 月再 +0.20pp | **3.00%（2026-08-27；7 月 2.75%）**；下次 10-22 | **88.6%（BIS 2025-12；一年前 97.3%）** | 無資料（本輪未查） | **민간건축물 그린리모델링 이자지원 2026-03-17 重啟**：基本 4.5%、節能 ≥30%／多子女／高齡／新婚 5.5%；10·15 對策房貸上限 6／4／2 億韓元（≈USD 43／29／14 萬；NT$1,350／900／450 萬） | [한국일보](https://www.hankookilbo.com/news/article/A2026093010490005879)；[한국금융신문](https://www.fntimes.com/html/view.php?ud=202608271107018117179ad43907_18)；[TheGlobalEconomy KR](https://www.theglobaleconomy.com/rankings/household_debt_gdp/)；[korea.kr 그린리모델링](https://www.korea.kr/news/policyNewsView.do?newsId=148960908)；[머니투데이](https://www.mt.co.kr/estate/2026/03/16/2026031609173892550)；[뉴스핌 10·15](https://www.newspim.com/news/view/20251015000279) |
+| 新加坡 | 無資料（本輪未查） | 無資料 | 無資料 | **裝修貸款上限 S$30,000（≈USD 22,556／NT$71 萬）或 6 倍月薪取低者**；最長 5 年；僅限固定裝置；利率 2026 年 3.5–6%（廣告 3.88%、EIR 7.05%）；DBS 手續費 2%＋保險 1% | **HIP 2025 批次 29,000 戶／371 棟／S$4.07 億（≈USD 3.06 億／NT$96 億）**；累計 49.4 萬戶獲選、S$40 億；**HIP II**（60–70 年屋齡）2025-08 宣布 | [MoneySmart](https://www.moneysmart.sg/personal-loan/how-much-can-you-borrow-for-a-renovation-loan-in-singapore-ms)；[DBS](https://www.dbs.com.sg/personal/loans/homeloans/renovation-loan)；[SingSaver](https://www.singsaver.com.sg/blog/best-renovation-loan-in-singapore)；[SmartCalculator 2026](https://www.smartcalculator.sg/housing/renovation-loan-calculator)；[AsiaOne HIP](https://www.asiaone.com/singapore/govt-allocates-over-407m-upgrading-works-29000-hdb-flats-home-improvement-programme)；[99.co](https://www.99.co/singapore/insider/hdb-home-improvement-programme-2025/) |
+| 香港 | **H 按實際約 3.25%**；1M HIBOR 2.63%（2026-08-19）→2.88%（09-11） | 聯繫匯率隨美息 | **87.8%（BIS 2025-12）** | 無政府補貼之私人貸款：銀行實際年利率約 2.5–8%、財務公司 8–15%；2026-04 參考 HSBC 3.38%、Citi 3.58%、DBS 3.68% | **長者維修自住物業津貼 ≤HK$8 萬（≈USD 10,256／NT$32 萬，≥60 歲）**；政府免息裝修貸款已終止；中原按揭 × 好師傅 CoDECO 交叉導流 | [wuchatprop](https://www.wuchatprop.com.hk/hibor/)；[mReferral](https://www.mreferral.com/blog/%E6%8C%89%E6%8F%AD%E5%88%A9%E7%8E%87/)；[TradingEconomics](https://tradingeconomics.com/country-list/households-debt-to-gdp?continent=asia)；[MoneyHero](https://www.moneyhero.com.hk/zh/personal-loan/blog/%E8%A3%9D%E4%BF%AE%E8%B2%B8%E6%AC%BE-%E7%A7%81%E4%BA%BA%E8%B2%B8%E6%AC%BE-%E6%AF%94%E8%BC%83)；[Intermatch 2026](https://intermatch.com.hk/articles/renovation-loan-hk-2026)；[1880](https://www.1880.com.hk/loan/782/)；[中原按揭 × CoDECO](https://www.centamortgage.com/information/detail/%E4%B8%AD%E5%8E%9F%E6%8C%89%E6%8F%ADX%E5%A5%BD%E5%B8%AB%E5%82%85CoDECO%E8%A3%9D%E4%BF%AE%E9%85%8D%E5%B0%8D%E5%B9%B3%E5%8F%B0%E5%B1%95%E9%96%8B%E7%AD%96%E7%95%A5%E5%90%88%E4%BD%9C_181965) |
+| 台灣 | **五大銀行新承做購屋貸款 ≈2.29%（2026-07）**；一般方案 2.45% 起；青安 3.0 前 3 年 **1.775%**（滿 3 年後逐年減補、回復約 2.275%） | 無資料（本輪未查央行重貼現率） | 無資料（CEIC 有台灣序列，本輪數值未開啟） | 無資料（銀行裝修貸本輪未查；三商美福等業者與銀行合作裝修貸，廣編） | **修繕住宅貸款利息補貼：優惠貸款最高 NT$80 萬（≈USD 25,397）**，115 年度（2026）9/1–9/30 受理，自購＋修繕合計 6,000 戶，自購第一類 1.187%／第二類 1.762%（修繕專屬利率未取得），可搭青安；**青安 3.0 2026-08-01～2029-07-31**（2.0 額度 1,000 萬／40 年）；**老宅延壽機能復新計畫**：屋齡 ≥30 年、補助 ≤65%、公共 ≤960 萬／棟、戶內 ≤20 萬（高齡弱勢 ≤30 萬），至 2027-12-31 | [money101](https://www.money101.com.tw/blog/%E6%88%BF%E8%B2%B8%E5%88%A9%E7%8E%87)；[Yahoo 2026-07 房貸整理](https://tw.stock.yahoo.com/news/2026%E5%B9%B47%E6%9C%88%E6%88%BF%E8%B2%B8%E5%88%A9%E7%8E%87%E7%B8%BD%E6%95%B4%E7%90%86%EF%BD%9C%E5%AE%98%E6%96%B9%E5%B9%B3%E5%9D%872322%EF%BC%85-%E5%85%AC%E8%82%A1%E3%80%81%E6%B0%91%E7%87%9F%E9%8A%80%E8%A1%8C%E8%88%87%E6%96%B0%E9%9D%92%E5%AE%8930%E4%B8%80%E6%AC%A1%E7%9C%8B-081600061.html)；[房感 青安 3.0](https://www.housefeel.com.tw/article/%E9%9D%92%E5%B9%B4-%E9%A6%96%E8%B3%BC-%E8%B2%B8%E6%AC%BE-%E8%B3%BC%E5%B1%8B%E8%B2%B8%E6%AC%BE-%E5%AE%89%E5%BF%83%E6%88%90%E5%AE%B6%E8%B2%B8%E6%AC%BE/)；[住商 青安 3.0](https://www.hbhousing.com.tw/news/detail.aspx?num=5278)；[市場先生](https://rich01.com/young-housing-loans/)；[今周刊 住宅補貼](https://www.businesstoday.com.tw/article/category/183030/post/202609150009/)；[數位時代](https://www.bnext.com.tw/article/92240/2026-housing-loan-interest-subsidy)；[東森 利率](https://fnc.ebc.net.tw/fncnews/house/219833)；[國土署 老宅延壽 PDF](https://www.nlma.gov.tw/uploads/files/a5d37b464dc02a5814200514847f5c1a.pdf)；[CEIC 家庭負債](https://www.ceicdata.com/en/indicator/household-debt--of-nominal-gdp)；[商業周刊 三商美福](https://www.businessweekly.com.tw/business/indep/1005275) |
+| 中國大陸 | 無資料（LPR 本輪未取得 URL） | 無資料 | **58.0%（BIS 2025-12）** | 城商行「以舊換新」裝修貸 3.35–4.15%、額度 ≤50 萬元（≈USD 69,444／NT$219 萬）（2024） | 2026 年國補四類不含家裝（家電 15%、單件 ≤1,500 元） | [TradingEconomics](https://tradingeconomics.com/country-list/households-debt-to-gdp?continent=asia)；[中證網](https://cs.com.cn/yh/04/202407/t20240704_6422052.html)；[新華網](https://www.news.cn/politics/20260102/8280c1156) |
+| 馬來西亞 | SBR 2.75%（2025-07-14 起）＋銀行加碼；BLR 6.60% | **OPR 2.75%（2025-07 至 2026-09）** | **69.8%（BIS 2025-12）**；CEIC 另列 84.7%（2025，口徑不同） | **Maybank MyDeco 4.40% p.a. 起、上限 RM250,000（≈USD 56,818／NT$179 萬）**、融資比例 20–30%；CIMB Renovation 5.5–6.88% flat、RM200,000、10 年；**RHB × The Makeover Guys「購屋＋裝修」≤房價 120%（2026-09-15）**；Maybank Home+Reno ≤120% | 無政府修繕補助（本輪未見）；房貸核准率 39.2%（2026 年 1–4 月） | [CIMB 基準利率](https://www.cimb.com.my/en/personal/help-support/rates-charges/cimb-base-rate.html)；[Paultan](https://paultan.org/2026/09/04/bank-negara-opr-sept-2026-mpc-meeting/)；[TradingEconomics](https://tradingeconomics.com/country-list/households-debt-to-gdp?continent=asia)；[CEIC](https://www.ceicdata.com/en/indicator/household-debt--of-nominal-gdp)；[Maybank MyDeco](https://www.maybank2u.com.my/maybank2u/malaysia/en/personal/loans/home/mydeco.page)；[PropCashflow](https://propcashflow.my/blog/loan-for-house-renovation-malaysia/)；[Malay Mail RHB](https://www.malaymail.com/news/money/mediaoutreach/2026/09/15/the-makeover-guys-and-rhb-bank-introduce-the-makeover-flexi-loan-with-up-to-120-financing-for-home-purchase-and-renovation/487671)；[Global Property Guide](https://www.globalpropertyguide.com/asia/malaysia/price-history) |
+| 泰國 | 無資料（商業銀行房貸本輪未查） | 無資料（本輪未查） | **87.5%（BIS 2025-12）**；BoT 86.8%（2025Q2）；WB 86.9%（2026Q1）；SCB EIC 85.9%（2026Q1） | KTC、AP 等提供修繕貸款指南（額度未列） | **GHB（ธอส.）修繕／增建／設備貸款：利率 1.00% 起、最長 40 年、兩方案合計 ≤THB 300,000（≈USD 9,091／NT$28.6 萬）**（2026-04-09）；2025-06 版前 3 年 1.00%、≤THB 100,000；太陽能屋頂抵稅 ≤THB 20 萬（2026-03-03～2028-12-31）；LTV 100% 與 0.01% 規費延至 2027-06-30 | [TradingEconomics](https://tradingeconomics.com/country-list/households-debt-to-gdp?continent=asia)；[Thansettakij 家庭負債](https://www.thansettakij.com/economy/645297)；[Dailynews（WB）](https://dailynews.co.th/news/6252478)；[Positioning（SCB EIC）](https://positioningmag.com/insight/114547)；[GHB 2026-04](https://www.ghbank.co.th/news/detail/public-relations/press-09-04-2026)；[GHB 2025-06](https://www.ghbank.co.th/news/detail/public-relations/press-19-06-2025)；[Bangkokbiznews](https://www.bangkokbiznews.com/economics/1228967)；[Prudential 抵稅](https://www.prudential.co.th/th/knowledge-corner/growing-wealth/tips-to-reduce-personal-income-tax/)；[Thansettakij LTV](https://www.thansettakij.com/economy/659052) |
+| 越南 | **優惠 8–10%（6–24 個月）→ 浮動 13–15%（2026-09）**；2026-02 多家升至 13–14%，61% 有需求者延後購屋 6–12 個月 | 無資料 | 無資料 | 無資料（商業銀行裝修貸本輪未查） | **VBSP 社會住宅購買／新建／翻修貸款 4.8%**（最長 25 年，限住宅法對象）；2026-07-01 起 35 歲以下社宅貸款 6.5% | [Smartland](https://smartland.vn/lai-suat-vay-mua-nha-2026/)；[Dân Việt](https://danviet.vn/thang-2-2026-lai-suat-vay-mua-nha-co-de-tho-khong-d1403524.html)；[VNBA（VBSP）](https://vnba.org.vn/vi/dieu-kien-lai-suat-vay-ngan-hang-chinh-sach-mua-nha-sua-nha-11963.htm)；[LSVN 4.8%](https://lsvn.vn/lai-suat-cho-vay-mua-nha-o-xa-hoi-la-4-8-nam-1683716533-a130259.html)；[LuatVietnam](https://luatvietnam.vn/tin-van-ban-moi/chinh-thuc-ap-dung-lai-suat-65-nam-cho-nguoi-duoi-35-tuoi-vay-mua-nha-o-xa-hoi-tu-01-7-2026-186-109829-article.html) |
+| 印尼 | 無資料（KPR 利率本輪未查）；購屋者 69.87% 使用 KPR | **BI Rate 5.75%（2026-05／06 升、9 月維持；DF 4.75%、LF 6.50%）** | 無資料 | **Gradana（OJK 持牌 P2P）翻修貸款 ≤Rp 20 億（≈USD 125,000／NT$394 萬）**，依 RAB 核貸 | **FLPP 補貼房貸 2025 年 278,868 戶／Rp 34.64 兆**（配額 35 萬戶）；無獨立修繕補助 | [BI 2026Q1](https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_289726.aspx)；[Bisnis](https://finansial.bisnis.com/read/20260923/11/2006538/alasan-bank-indonesia-tahan-bi-rate-september-2026-di-575)；[Kompas BI](https://money.kompas.com/read/2026/08/19/144130626/bi-rate-tetap-575-persen-pada-agustus-2026)；[Gradana](https://gradana.co.id/grasewa-grarenov)；[Media Indonesia](https://mediaindonesia.com/ekonomi/845538/penyaluran-flpp-2025-cetak-rekor-tertinggi-tembus-278868-unit-rumah) |
+| 菲律賓 | Pag-IBIG 房貸 5.75%（1 年固定）起；社會住宅 3%、促銷 4.5% | 無資料 | 無資料 | **Pag-IBIG 房貸用途含 home improvement，上限 PHP 600 萬（≈USD 105,263／NT$332 萬）、最長 30 年** | 4PH 社會住宅 3%（2025 年 7,056 戶／PHP 76.3 億） | [Pag-IBIG Housing Loan](https://www.pagibigfund.gov.ph/HousingLoan.html)；[Manila Standard](https://manilastandard.net/business/314693903/pag-ibig-housing-loans-rose-8-to-record-p140-54-billion-in-2025.html)；[Inquirer 3%](https://business.inquirer.net/582687/pag-ibig-keeps-3-housing-rate) |
+| 印度 | **最低 7.00–7.35%（2026-10：Bank of Maharashtra 7.00%、SBI 7.25%）；SBI 區間 7.25–8.45%**；RBI 2026-10-07 據報 repo +25bp 至 5.50%（單一來源） | 5.25%（2025-12 起）→5.50%（待核） | 無資料 | SBI、HDFC 等 home improvement loan 以房貸利率計（未驗證，既有筆記） | PMAY-U 2.0 為新建／增建補助，無獨立修繕補助（未驗證） | [Upstox](https://upstox.com/news/personal-finance/latest-updates/cheapest-home-loan-rates-in-october-2026-12-lenders-offer-7-1-7-35-interest-emi-revisions-may-follow/article-201440/)；[UrbanMoney](https://www.urbanmoney.com/home-loan/state-bank-of-india/interest-rate)；[Daily Financial](https://dailyfinancial.in/home-loan-rates-in-october-2026-should-you-lock-your-interest-rate-now-or-wait-for-the-rbi-decision/)；[IN-B-rules §（未驗證）](../countries/IN-B-rules.md) |
+
+### 6.3 Cited Findings（補充）
+- BIS 口徑家庭負債／GDP（2025-12）：南韓 88.6（前值 89.4）、香港 87.8、泰國 87.5、馬來西亞 69.8、日本 61.1、中國 58.0 — [TradingEconomics 亞洲表](https://tradingeconomics.com/country-list/households-debt-to-gdp?continent=asia)；[Yahoo Finance（BIS Q4 2025）](https://finance.yahoo.com/economy/articles/ranked-countries-highest-debt-gdp-120507169.html)；南韓一年前 97.3% — [TheGlobalEconomy](https://www.theglobaleconomy.com/rankings/household_debt_gdp/)。台灣不在上述表中（缺口）。
+- 南韓 10·15 對策後 2025Q4 銀行房貸增幅由 10.9 兆降至 4.8 兆韓元；主담대 4.66% 為 2022-11（4.74%）以來最高 — [머니투데이](https://www.mt.co.kr/economy/2026/02/24/2026022411382531015)；[한국일보](https://www.hankookilbo.com/news/article/A2026093010490005879)。
+- 台灣 115 年度修繕貸款利息補貼：優惠貸款最高 80 萬、僅 1 戶老屋者可申請、同一家庭每年擇一（自購／修繕／租金） — [今周刊](https://www.businesstoday.com.tw/article/category/183030/post/202609150009/)；[數位時代](https://www.bnext.com.tw/article/92240/2026-housing-loan-interest-subsidy)。
+- 泰國 GHB 2026-04-09「一站式」修繕貸：1.00% 起、最長 40 年、月付 300 泰銖起、合計 ≤30 萬泰銖（超出 20 萬屬 Plus 1.99%、≤5 年） — [GHB](https://www.ghbank.co.th/news/detail/public-relations/press-09-04-2026)；[Bangkokbiznews](https://www.bangkokbiznews.com/economics/1228967)。
+
+### 6.4 Inferences
+- 修繕專屬政策融資的「額度」排序：馬來西亞（RM25 萬 ≈ NT$179 萬）＞ 台灣（NT$80 萬）＞ 新加坡（S$3 萬 ≈ NT$71 萬）＞ 泰國（THB 30 萬 ≈ NT$28.6 萬）＞ 日本補助（≤60 萬円 ≈ NT$12.6 萬），與各市場老屋翻新單價（台灣每坪 10–15 萬、新加坡轉售四房 S$6.4–8 萬）相比，台灣與新加坡的政策融資只能覆蓋全屋翻新的 15–40%，其餘靠自有資金或信貸——高家庭負債市場（韓、港、泰）因此對利率更敏感。
+
+### 6.5 Gaps
+- 台灣、新加坡、越南、印尼、菲律賓、印度之 BIS 口徑家庭負債；中國 LPR 與房貸利率 2026；日本リフォームローン利率與規模；南韓、新加坡、泰國、越南、印尼之商業銀行裝修貸款平均金額與筆數（各市場皆未公開）；台灣修繕貸款利息補貼之專屬利率與核定戶數；印度 PMAY／home improvement loan 驗證。
+
+---
+
+## 7. 區域與城市聚焦（Q6：Metro areas concentrating renovation demand）
+
+### 7.1 Takeaway
+翻修需求在各市場高度集中於 2–3 個都會區：日本首都圈（中古成約 >新建）、南韓首爾／首都圈（30 年以上公寓 29%、房貸管制最嚴）與大田（35%）、台灣台北（30 年以上 73.8%）＋新北／桃園（交屋潮）、中國上海（2000 年前建成 50.38%）／北京（2026H1 二手 93,583 套）／廣州與成都（二手占 >60–80%）、泰國大曼谷（639 萬戶、未售公寓 35 萬）、馬來西亞雪蘭莪（250 萬戶）＋柔佛（JS-SEZ 新增 11.5 萬戶）、越南河內／胡志明（公寓價 +20–30%）、印尼 Jabodetabek、印度 MMR／Bengaluru／Hyderabad。宜蘭 2025 年移轉 5,270 棟（−23.6%）、房價指數最抗跌、民宿全台第一（2,177 家），是「新成屋輕裝修＋民宿商空改裝」雙引擎市場。
+
+### 7.2 各市場重點都會區
+
+| 市場 | 重點都會區（2–3） | 住宅／交易數據 | 來源 |
+|---|---|---|---|
+| 日本 | **首都圈（東京・神奈川・埼玉・千葉）**；近畿圈（大阪・兵庫）；中京（愛知） | 首都圈 2024 中古公寓成約 37,222 件 vs 新建供給約 2.3 萬戶；東京都居住住宅中共同住宅 71.6%；東京都區部持ち家中共同住宅 56%（2021–23 年竣工者 52%）；リノベる直營區（東京、神奈川、大阪、兵庫、愛知）2021–23 成約 65% 為築 31 年以上；ホームテック 2025 年營收 72.8 億円居東京翻修店第 1 | [DIME](https://dime.jp/genre/1990629/)；[東京都 概要](https://www.toukei.metro.tokyo.lg.jp/jyutaku/2023/jt23tgaiyou.pdf)；[大和不動産鑑定 東京都区部](https://daiwakantei.co.jp/wp/uploads/2025/09/01a50e7ab2d4f8134dd676e8728cb8eb.pdf)；[リノベる user report](https://www.renoveru.jp/hubfs/corporate2024/pdf/20240625%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91%E3%80%8C%E3%83%AA%E3%83%8E%E3%83%99%E3%82%8B%E3%80%82%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%80%8D%E3%82%92%E5%85%AC%E9%96%8B.pdf)；[t23m-navi](https://t23m-navi.jp/magazine/?p=42901)；[大阪府 公表](https://www.pref.osaka.lg.jp/hodo/fumin/o040090/prs_51163.html) |
+| 南韓 | **首爾／首都圈**；大田；釜山等五大廣域市 | 30 年以上公寓占比：大田 35%、首爾 29%、仁川／蔚山 25%、首都圈 21%、五大廣域市 25%（2025-06）；首都圈自有自住 52.7%（2024）；未售首都圈 19,136 戶（2026-08）；10·15 對策針對首都圈全域；首例垂直增建翻修 송파 성지（2025-03 完工）、松坡另 13 社區推動、옥수극동 900 戶 2025-02 通過首爾市審議 | [한국경제（R114）](https://www.hankyung.com/article/2025061796206)；[메트로서울](https://www.metroseoul.co.kr/article/20250617500101)；[KDI 주거실태](https://eiec.kdi.re.kr/policy/materialView.do?num=273475)；[뉴데일리 미분양](https://biz.newdaily.co.kr/site/data/html/2026/09/30/2026093000005.html)；[머니투데이 성지](https://www.mt.co.kr/estate/2025/03/09/2025030909032388302)；[뉴데일리 옥수](https://biz.newdaily.co.kr/site/data/html/2025/02/26/2025022600180.html) |
+| 新加坡 | **中央區（Central）**、東部（較老轉售組屋）；Bidadari 等新 BTO 區 | Qanvast 2026 預算報告：中央區高預算比例最高、東部次之，歸因較老轉售存量；CCR 私宅空置 10.3%（2025Q1）；2025 年 Bidadari 四個 BTO 項目完工；2026-02 BTO 約 1,300 戶等候 <3 年 | [Qanvast 2026](https://qanvast.com/sg/articles/2026-qanvast-renovation-budgeting-report-insights-from-300-homeowners-3573)；[ERA 1Q2025](https://www.era.com.sg/research-articles/1q-2025-rental-report)；[EdgeProp BTO](https://www.edgeprop.sg/property-news/hdb-supplying-19600-bto-flats-2026-spread-over-three-sales-exercises)；[Malay Mail](https://www.malaymail.com/amp/news/singapore/2026/01/31/singapores-february-bto-launch-to-feature-1300-flats-with-faster-completion-times-under-three-years/207497) |
+| 香港 | 全港（分區統計本輪未取得） | 住宅買賣 62,832 宗（2025）；私樓空置 56,080 伙；普通話拼音登記買家私樓交易近 1.4 萬宗、HK$1,410 億（2025，+20%，「雙破頂」） | [hket](https://ps.hket.com/article/4204187/%E4%B8%AD%E5%8E%9F%EF%BC%9A9%E6%9C%88%E6%95%B4%E9%AB%94%E8%B2%B7%E8%B3%A3%E5%AE%97%E6%95%B8%E5%9B%9E%E5%8D%87%E9%80%BE1%E6%88%90%C2%A0%C2%A0%E4%B8%80%E6%89%8B%E7%A7%81%E6%A8%93%E9%87%8D%E4%B8%8A%E9%80%BE%E5%8D%83%E5%AE%97)；[RVD](https://www.rvd.gov.hk/doc/tc/HKPR2026_Preliminary_Findings_TC.pdf)；[Yahoo 財經（中原）](https://hk.finance.yahoo.com/news/%E6%B8%AF%E6%A8%93-%E4%B8%AD%E5%8E%9F-%E5%8E%BB%E5%B9%B4%E6%B6%89%E6%99%AE%E9%80%9A%E8%A9%B1%E6%8B%BC%E9%9F%B3%E7%99%BB%E8%A8%98%E8%B2%B7%E5%AE%B6%E7%A7%81%E6%A8%93%E4%BA%A4%E6%98%93%E8%BF%911-4%E8%90%AC%E5%AE%97%E5%A2%9E%E5%85%A9%E6%88%90-%E6%B6%891-061239279.html) |
+| 台灣 | **台北市（老屋翻新）**；**新北／桃園／台中（交屋潮）**；宜蘭（集團所在地，見 7.3） | 台北市 30 年以上 673,357 戶（73.8%，全台最高）、平均屋齡 39.1 年、買賣屋齡約 37 年（最老）；桃園 27.4–28.3 年最年輕；六都 2025 買賣移轉 205,000 棟（−24.6%）；2025H1 桃園、台中使照創新高；台中千萬以下成交 成屋 91.4%；台北／新北空屋率 7.09%／7.45% 全台最低 | [Newtalk 台北](https://newtalk.tw/news/view/2025-09-23/995218)；[聯合 買賣屋齡](https://udn.com/news/story/7241/9542785)；[理財周刊 六都](https://www.moneyweekly.com.tw/_Article?AID=206963)；[經濟日報 使照](https://udn.com/news/story/7241/8934080)；[工商時報 台中](https://www.ctee.com.tw/news/20260116701456-430601)；[經濟日報 空屋](https://money.udn.com/money/story/5621/8909453) |
+| 中國大陸 | **上海**；**北京**；廣州／成都（二手主導） | 上海 2000 年前建成住房 50.38%（全國最高）、2025 年每 97 人有 1 人買二手房、存量房裝修需求占比「突破 72%」（業者分析，低信心）、2025H1 裝修報價 +8.3%；北京 2026H1 二手網簽 93,583 套；廣州二手占比 >60%；成都逼近 80%；一二線核心城市普遍 >60% | [騰訊（普查年鑑）](https://news.qq.com/rain/a/20220628A0BO3R00)；[第一財經](https://www.yicai.com/news/102986289.html)；[搜狐 上海](https://m.sohu.com/a/947081319_122493552)；[網易 上海](https://www.163.com/dy/article/K7J9B3L30556EG2C.html)；[騰訊 北京](https://news.qq.com/rain/a/20260924A0ELOT00)；[21 財經 廣州](https://m.21jingji.com/article/20260729/herald/df3b446d915832c3dab62856c9bf0024.html)；[新浪](https://www.sina.cn/news/detail/5321584597273666.html) |
+| 馬來西亞 | **雪蘭莪／吉隆坡（巴生谷）**；**柔佛（新山，JS-SEZ）**；檳城 | 雪蘭莪住宅 250 萬戶全國最多；柔佛 2025–26 新增 11.5 萬戶、JS-SEZ 房價 +7–9%、RTS 2027-01-01 通車；overhang 中公寓／大樓占 47.1%（2025Q4） | [FMT](https://www.freemalaysiatoday.com/category/nation/2026/04/23/malaysian-housing-units-reached-10-9mil-in-2025-says-statistics-dept)；[EdgeProp 柔佛](https://www.edgeprop.my/content/1917690/johor-adds-115000-homes-meet-demand-fuelled-industrial-rts-js-sez)；[StackedHomes](https://stackedhomes.com/johor-sez-rental-yields-oversupply/)；[Threads NAPIC](https://www.threads.com/@malaysiauncapped/post/DWWc8eDkT8b/) |
+| 泰國 | **大曼谷（BMR）**；東部經濟走廊（EEC）；普吉／清邁（度假） | BMR 住宅 639 萬戶（AREA 2025）；未售公寓約 35 萬戶（5–6 年去化）；2025 新公寓推案 THB 772 億（−41%）；2026H1 全國低層 111,624 戶（+14.6%）、公寓 56,041（+24.1%）；中古公寓掛牌 49,199 戶（+25.2%，2026Q2） | [TNews（AREA）](https://www.tnews.co.th/social/social-news/637990)；[The Nation](https://www.nationthailand.com/business/property/40067333)；[Bangkok Post](https://www.bangkokpost.com/property/3217494/cautious-developers-to-cut-bangkok-housing-launches)；[Thai Press](https://www.thethaipress.com/2026/169482)；[Retail News Asia](https://retailnews.asia/thailand-resale-condo-transfers-surge-39-percent-in-second-quarter) |
+| 越南 | **河內**；**胡志明市**；峴港 | 河內、胡志明公寓價 2025 年 +20–30%；2026Q1 河內新案達 128 百萬 VND/m²；既成區二手公寓約 50 百萬 VND/m²（2025Q1）；河內舊公寓重建同意門檻降至 51% | [Người Đô Thị](https://nguoidothi.net.vn/gia-chung-cu-tai-ha-noi-va-tp-hcm-tang-toi-hon-20-30-trong-nam-2025-51374.html)；[Vietstock 2026Q1](https://vietstock.vn/2026/05/vars-ire-gia-ban-bat-dong-san-tiep-tuc-leo-thang-ha-noi-cham-128-trieum2-4220-1436994.htm)；[VARS Q1 2025](https://vars.com.vn/tin-tuc/tcbc-bao-cao-thi-truong-bat-dong-san-viet-nam-quy-1-nam-2025-kich-hoat-chu-ky-moi-n1937)；[Người Quan Sát](https://nguoiquansat.vn/ha-noi-trao-quyen-cho-cac-chu-nha-duoc-tu-de-xuat-cai-tao-chung-cu-cu-298599.html) |
+| 印尼 | **Jabodetabek（大雅加達）**；泗水；萬隆 | Jabodetabek 租屋家戶 124 萬（14.6%）；雅加達 2025 新增公寓約 2,200 戶（−50%）、存量約 232,000（低信心）；雅加達工人日薪 Rp 165,000 全國最高；維修平台 Kanggo／Gravel 僅服務 Jabodetabek、泗水 | [Kompas.id](https://www.kompas.id/artikel/harga-rumah-semakin-tak-tergapai)；[Mordor（低信心）](https://www.mordorintelligence.com/industry-reports/real-estate-market-in-indonesia)；[Kompas（BPS）](https://www.kompas.com/properti/read/2025/10/07/103000621/upah-tukang-per-hari-di-jakarta-termahal-se-indonesia)；[Investor.id Kanggo](https://investor.id/business/409706/pengguna-kanggo-tembus-36-ribu-layanan-perawatan-bangunan-kian-diminati) |
+| 菲律賓 | **Metro Manila**；宿霧；Davao | 無都會層級住宅統計（缺口）；全國：2020 普查住宅 2,850 萬、有人居住 2,520 萬 | [BusinessWorld](https://www.bworldonline.com/special-features/2024/10/24/630972/building-better-affordable-housing-for-filipino-families/) |
+| 印度 | **MMR（孟買都會區）**；**Bengaluru**；Hyderabad（Delhi-NCR、Pune、Chennai、Kolkata 2026Q3 下滑） | 2026Q3 銷售 MMR 31,750 戶、Bengaluru 16,670 戶；七大城未售 63.1 萬戶、均價 +7% | [Storyboard18](https://www.storyboard18.com/amp/how-it-works/mmr-bengaluru-drive-q3-housing-sales-as-it-grows-10-qoq-3-yoy-anarock-ws-lo-111529.htm)；[Outlook Money](https://www.outlookmoney.com/amp/story/invest/housing-market-sees-modest-sales-growth-in-q3-as-launches-jump-18-per-cent) |
+
+### 7.3 宜蘭（集團所在地）專節
+
+| 指標 | 數值 | 年份 | 來源 | 信心 |
+|---|---|---|---|---|
+| 建物買賣移轉棟數 | **約 5,270 棟（−23.6%）**；宜蘭為北台灣 2025 年推案量逆勢成長縣市但交易未同步 | 2025 | [94m 房市報告（引內政部）](https://94m.com.tw/articles/c049ff) | 中 |
+| 房價指數 | **178.63（−0.81%）**，東台灣相對抗跌 | 2025 | [94m](https://94m.com.tw/articles/c049ff) | 中 |
+| 實價登錄中位數單價 | **約 29.83 萬／坪（2025 全年）**；8 月 36.29 萬最高、2 月 27.01 萬最低；新建案樣本 956 筆／96.01 億元 | 2025 | [myhousing 宜蘭報告](https://www.myhousing.com.tw/n/n02/n0203/n020301/269746/) | 中 |
+| 成屋實價均價 | 每坪 23.6 萬（2024 年 23.5 萬，+0.2%） | 2025 | [工商時報](https://wantrich.chinatimes.com/news/20251011900027-420101)（既有筆記） | 中 |
+| 近一年成交單價（仲介平台） | 宜蘭縣約 27 萬／坪；宜蘭市約 30 萬／坪 | 2025–26 | [樂居 宜蘭縣](https://www.leju.com.tw/map/region?mode=price&city=G)；[樂居 宜蘭市](https://www.leju.com.tw/map/region?city=G&area=G260) | 低（平台） |
+| 交易結構（大廈 vs 透天） | **電梯大樓 43.5% 首度超越透天 38.6%**（聯徵）；2024 年 43% vs 38%，2015 年透天 50%、大廈 17% | 2024–25 | [myhousing](https://www.myhousing.com.tw/n/n02/n0203/n020301/269746/)；[NOWnews](https://www.nownews.com/news/6561997) | 中 |
+| 新成屋占比 | 屋齡 5 年以下新成屋買賣占 19.5%，高於全台 | 年份待核 | [理財周刊](https://www.moneyweekly.com.tw/_Article?AID=156359) | 低 |
+| 預售解約 | 2026Q1 預售屋解約 29 件，全國第五、超過雙北 | 2026Q1 | [經濟日報](https://money.udn.com/money/amp/story/5621/9514871) | 中 |
+| 成交屋齡分布 | **無資料**（僅單筆實價登錄屋齡） | — | — | — |
+| 外地買家占比 | **無資料**；全國外國人取得建物 857 棟（2005 年以來最低，非宜蘭專屬）；質性：移居宜蘭買房者增加（「幸福指數」報導） | 2025 | [myhousing](https://www.myhousing.com.tw/n/n02/n0203/n020301/269746/)；[聯合 房產](https://house.udn.com/house/story/123589/9206196) | 低 |
+| 合法民宿家數 | **2,177 家、8,085 房（2025-05，全台第一；花蓮 1,748、台東 1,563）**；全國 114 年合法民宿 12,551 家（+407）；非法民宿 566 家，宜蘭 71 家（第 3）、裁罰金額宜蘭 651 萬元居首 | 2025 | [公視](https://news.pts.org.tw/article/803305)；[工商時報 2026-01-11](https://www.ctee.com.tw/news/20260111700312-431401)；[經濟日報 非法旅館](https://money.udn.com/money/amp/story/5621/9257993)（搜尋摘要引述，各數字之確切網址待核） | 中 |
+| 宜蘭 2025 年底民宿家數、裝修市場規模 | **無資料** | — | 建議查觀光署臺灣旅宿網縣市統計 | — |
+
+### 7.4 Inferences
+- 宜蘭「大廈交易占比 43.5% ＞ 透天 38.6%」＋「5 年內新屋占 19.5%」＋「民宿全台第一」三者，指出集團在地的三條產品線：新成屋（大廈）輕裝修套餐、透天／老屋全室翻新、民宿與餐飲商空改裝；2026Q1 預售解約居全國第五則提示交屋裝修訂單有遞延風險。
+- 民宿非法家數 566 家（全國）、宜蘭裁罰金額居首，意味「合法化改裝」（消防、無障礙、建築用途變更）是可被政策推動的裝修需求。
+
+### 7.5 Gaps
+- 香港分區、菲律賓都會、印尼全國交易等都會統計；宜蘭成交屋齡分布、外地（非宜蘭籍）買家占比、2025 年底民宿家數、宜蘭裝修市場規模；台北市信義區層級數據（本輪未搜尋）。
+
+---
+
+## 8. 12 市場橫向比較表
+
+（各數字之 URL 見 §2–§7 對應列；「無資料」＝本輪未找到；R 指標見 §5）
+
+| 市場 | 人均 GDP 2026（USD） | 65+（2025） | 住宅存量 | 30 年以上占比 | 自有率 | 空屋率 | 2025 住宅交易 | 中古占比 | 新完工／推案 2025 | 2026 循環位置 | 房貸利率 2026 | 家庭負債／GDP | 政策修繕融資 | R |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 日本 | 35,703 | 29.5%（2026） | 6,505 萬戶（2023） | ≥21%（築 43 年以上） | 60.9% | 13.8% | 首都圈中古公寓 37,222（2024） | ≈62%（首都圈） | 著工 740,667（−6.5%） | 升息（1.25%）、新建創低 | 變動型待 2027-04 反映 | 61.1% | 子育てグリーン ≤60 萬円 | 0.53–0.69 |
+| 南韓 | 37,412 | 21.4%（2026） | 2,018 萬戶（2025） | 30.6% | 61.4%（保有）／58.4%（自住） | 無資料 | 726,111（+13.0%） | ≈59%（代理） | 完工 ≈30 萬（−33%） | 升息（3.00%）、信貸限額、未售 6.9 萬 | 4.66% | 88.6% | 그린리모델링 利息補貼 4.5–5.5% | 0.58 |
+| 新加坡 | 107,758 | 無資料 | 無資料（組屋居民 76%） | ≈45%（HIP 代理） | 組屋居民 90% | 私宅 6.4%（2026Q2） | HDB 轉售 26,169＋私宅 26,492 | ≈55%（代理） | BTO 19,723；私宅完工 6,123 | HDB 價 +2.9%、量五年低 | 裝修貸 3.5–6% | 無資料 | HIP S$4.07 億／年；銀行裝修貸 ≤S$3 萬 | 0.72 |
+| 香港 | 59,640 | 25.0% | 3,047 千伙（2025-03） | 私樓 48–64% | 50.9% | 私樓 4.3% | 62,832 宗 | 66% | 落成 19,370 | 撤辣後回升，CCL 160.1 | H 按 ≈3.25% | 87.8% | 長者維修津貼 ≤HK$8 萬 | 0.80 |
+| 台灣 | 42,103 | ≈20% | ≈934–940 萬宅【示意】 | 59% | 83.95%（2025） | 9.79%（低度用電） | 261,308 棟（−25.5%） | ≈50%（代理） | 使照 ≈143,000 宅（新高） | 量縮、管制微鬆（第二戶 7 成） | ≈2.29%；青安 1.775% | 無資料 | 修繕貸款補貼 ≤NT$80 萬；老宅延壽 | 0.74 |
+| 中國大陸 | 14,874 | 無資料 | 城鎮 3.74 億套（2023） | ≈35%（2000 年前） | 無資料 | 無資料 | 30 城二手 174 萬套 | 50.4%（2026H1） | 住宅竣工 −20.2% | 新房 −11.6%（2026H1）、二手過半 | 無資料 | 58.0% | 以舊換新貸 ≤50 萬元（城商行） | 0.53 |
+| 馬來西亞 | 15,085 | 8.1%（2024） | 1,090 萬戶（2025） | 無資料 | 78.0% | 無資料 | 住宅 ≈25.6 萬宗（全物業 416,413） | ≈61%（代理） | 完工 99,877 | HPI +2.6%、overhang 32,801 | SBR 2.75%＋加碼 | 69.8% | Maybank MyDeco ≤RM25 萬 | 0.55 ◇ |
+| 泰國 | 8,105 | 16.0% | 無資料（≥10 年 >2,340 萬戶） | 無資料 | 無資料 | 全國空屋 164 萬 | 316,214（−9.1%） | 64–67% | BKK 公寓推案 THB 772 億（−41%） | 刺激反彈（2026H1 +17.6%） | GHB 政策貸 1% | 87.5% | GHB 修繕貸 ≤THB 30 萬 | 0.51 ◇ |
+| 越南 | 5,115 | 9.5% | 無資料 | 無資料 | 無資料 | 無資料 | 579,718（含土地） | ≈36%（代理） | 商品房 29,901＋社宅 102,633 | 量升價漲、利率高 | 優惠 8–10%→13–15% | 無資料 | VBSP 4.8% | 0.29 ◇ |
+| 印尼 | 5,362 | 7.3%（2024） | 無資料（backlog 929 萬戶） | 無資料 | 85.07% | 無資料 | 無資料（2026Q1 一級 −25.67%） | 無資料 | FLPP 278,868 戶 | 降溫、升息（5.75%） | 無資料 | 無資料 | FLPP；Gradana ≤Rp 20 億 | 不計算 |
+| 菲律賓 | 4,443 | 5.8%（2021 估） | 2,850 萬單位（2020） | 無資料 | 無資料 | 無資料 | 無資料（Pag-IBIG 90,727 戶） | 無資料 | 4PH 7,056 戶 | 無資料 | Pag-IBIG 5.75% 起／3% | 無資料 | Pag-IBIG ≤PHP 600 萬（含修繕） | 不計算 |
+| 印度 | 2,813 | 6.8%（2021 估） | 無資料 | 無資料 | 無資料 | 無資料 | 七大城 2026Q3 100,220 | 無資料 | 七大城推案 114,320（2026Q3） | 價升 +7%、庫存 63.1 萬 | 7.00–8.45% | 無資料 | 無獨立修繕補助（未驗證） | 不計算 |
+
+---

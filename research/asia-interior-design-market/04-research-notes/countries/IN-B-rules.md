@@ -454,3 +454,263 @@ IIID（1972 年成立）是室內設計的頂層自願組織（官網稱 10,000 
 6. **工班策略：長期合作而非臨時招募**：木工、油漆、水電正是 NAREDCO 2025 年點名最缺的工種（短缺近 200 萬），日薪 Rs 750–1,300（≈ NT$275–476）雖低但流動率高；印度為勞力輸出國，無法引進外籍工班。建議在目標城市與 3–5 組工班建立固定合作、提供訓練（可與 CSDCI／IIID 分會合作），以 HomeLane 材料占營收 43%、人事 32% 為成本結構基準做可行性試算。
 
 ---
+## 11. 資料缺口
+
+| # | 關鍵問題 | 缺口項目 | 本輪嘗試 | 建議取得方式（下一輪） |
+|---|---|---|---|---|
+| 1 | Q1 法規 | CoA 註冊建築師總數；外國人註冊互惠（§25）細則；Architects (Amendment) Bill 2023–2026 動態 | 1 次搜尋，結果未含 | coa.gov.in 統計頁；PRS India 法案追蹤 |
+| 2 | Q1 法規 | NBC 2016 Part 4 對內裝材料燃燒性能與逃生之要求；各邦採納；**單戶內裝消防 NOC 適用性** | 搜尋含「fire NOC」，僅得 2018 年建物層級報導 | bis.gov.in NBC 頁；馬邦消防局；BMC 消防處 |
+| 3 | Q1 法規 | 德里（UBBL 2016）、班加羅爾（BBMP、KAOA）、海得拉巴、浦那之裝修許可與 NOC 實務 | 僅孟買有結果 | 各市政府官網；在地律師 |
+| 4 | Q1 法規 | BMC Act §342 原文與罰款條號；合作社示範規約第 159 條原文 | 業者指南引用 | indiacode／馬邦合作社註冊官網 |
+| 5 | Q2 消保 | CPA 2019 三級委員會金額管轄（2021 年規則）；NCH／E-Jagriti 裝修分項統計 | 未取得 | consumerhelpline.gov.in 年報；E-Jagriti 統計 |
+| 6 | Q2 消保 | HomeLane、DesignCafe、Bonito 判例；Shipra Rana 案判決金額與年份；警方裝修詐騙統計 | 1 次搜尋 | Casemine 全文；NCDRC 判決庫 |
+| 7 | Q2 消保 | Livspace／HomeLane 保固條款與付款節奏官方頁；escrow 是否存在 | 未取得 | 公司 T&C 頁 |
+| 8 | Q3 外資 | 2025 年 MHA Employment Visa 官方公告；Business Visa 限制；LLP／分公司 FEMA 條件 | 多源一致但無官方 | mha.gov.in；indianvisaonline.gov.in；RBI FEMA 22(R) |
+| 9 | Q3 外資 | Nomura Koumuten、IKEA India、韓國、中國、台灣業者進入案例 | 1 次搜尋，僅得 Nitori | 日經、Korea Herald、經濟部投審司台商名錄 |
+| 10 | Q3 外資 | 台印 DTAA（2011）技術服務費扣繳率；印台 BIA（2018）保障範圍 | 未檢索 | 財政部；經濟部投審司 |
+| 11 | Q4 消費者 | 獨立屋主調查（新屋 vs 中古 vs 出租；決策週期；資訊來源；風格；付款階段） | 1 次搜尋，僅得業者部落格 | Redseer／Technopak／Kantar；Livspace DRHP（若申請上市） |
+| 12 | Q4 消費者 | §24(b) 對修繕貸款之官方解釋（Rs 30,000 上限 vs 不適用） | 來源矛盾 | incometax.gov.in 條文 |
+| 13 | Q5 人才 | 設計科系學校數與年畢業人數（CoA／AICTE／NID／CEPT／INIFD）；執業設計師人數 | 1 次搜尋，結果僅 IIID | AICTE 核准名單；CoA 認可學院清單 |
+| 14 | Q5 人才 | 泥作、水電、油漆日薪；德里等邦最低工資公告（2025） | 搜尋結果僅木工 | 各邦勞工局最低工資公告；Labour Bureau |
+| 15 | Q5 人才 | 四部勞動法典施行狀態；BOCW 登錄人數；跨邦移工統計；外籍工人政策官方文件 | 未取得 | labour.gov.in；各邦 BOCW 福利委員會 |
+| 16 | Q6 材料 | Asian Paints、Jaquar、Berger、Merino、Action Tesa 營收；各品類市占率 | 1 次搜尋，5/7 公司有營收、0 市占 | BSE／NSE 年報；券商產業報告 |
+| 17 | Q6 材料 | WPI 建材指數 2022–2026（水泥、鋼、木材、磁磚）；Morbi→都會物流成本 | 印地語價格搜尋僅得點值 | eaindustry.nic.in WPI 月報 |
+| 18 | Q6 材料 | CBIC 正式稅則（HS 4412／9401／9403）；MDF 反傾銷日落複審結果；美耐板、磁磚、衛浴 QCO 時程 | 商業部落格 | cbic.gov.in；DGTR |
+| 19 | Q7 組織 | ACETECH 主辦方正式數據；India Design ID 規模；IIID 會員數年份；IIA、IGBC、FFSC | 1 次搜尋 | ABEC 新聞稿；IIID 年報 |
+| 20 | 全部 | 所有 URL 未開頁核對；匯率為假設值；多數操作性數據為 C 級業者來源 | — | 整合協議 §3、§10；V2 由可開網頁之 AI 逐條核對 |
+
+---
+
+## 12. 來源清單（標題｜機構｜年份｜URL｜取得途徑）
+
+取得途徑：R2 = 本輪（2026-10-09）自行搜得；R1 = 第 1 輪轉引自 T1／T2／T3／T8／TW-B 筆記。全部未開頁核對。
+
+### 12.1 本輪自行搜得（R2）
+
+| # | 標題 | 機構 | 年份 | URL | 途徑 |
+|---|---|---|---|---|---|
+| 1 | The Architects Act, 1972 (As on 3 Dec 2025) | India Code（法務部） | 2025 | https://www.indiacode.nic.in/bitstream/123456789/1690/1/A1972-20.pdf | R2 |
+| 2 | The Architects Act, 1972 | Architexturez | n.d. | https://architexturez.net/system/files/architects.act_.1972.pdf | R2 |
+| 3 | Amendments to the Architects Act 1972: an idea whose time has come | Mondaq | 2020 | https://www.mondaq.com/india/construction-planning/920434/amendments-to-the-architects-act-1972-an-idea-whose-time-has-come | R2 |
+| 4 | How to start an interior design business in India (2026) | CalcGuru | 2026 | https://calcguru.in/how-to-start-an-interior-design-business-in-india/ | R2 |
+| 5 | Does interior designers need license in India? | Home Design Institute | n.d. | https://homedesigninstitute.com/question/762/does_interior_designers_need_license_in_india/ | R2 |
+| 6 | The Architects Act 1972: the law that built trust | Member of Architecture | 2025 | https://www.memberofarchitecture.com/blog/68bfee480de7a3b964b9-the-architects-act-1972-the-law-that-built-trust-in-indian-architecture | R2 |
+| 7 | Can I call myself an interior architect? | Interior A to Z | n.d. | https://interioratoz.com/can-i-call-myself-an-interior-architect/ | R2 |
+| 8 | Council of Architecture | Wikipedia | 2025 | https://en.wikipedia.org/wiki/Council_of_Architecture | R2 |
+| 9 | Society rules for flat renovation in Mumbai | NoBrokerHood | n.d. | https://www.nobrokerhood.com/blog/society-rules-for-flat-renovation-in-mumbai/ | R2 |
+| 10 | BMC and TMC society renovation NOC rules (2026 update) | AMS Civil Work | 2026 | https://www.amscivilwork.in/blog/society-renovation-noc-rules-mumbai | R2 |
+| 11 | BMC rules & society permissions for flat renovation in Mumbai (2026 guide) | AMS Civil Work | 2026 | https://www.amscivilwork.in/blog/bmc-rules-society-permissions-flat-renovation-mumbai | R2 |
+| 12 | घर Renovation करवा रहे हैं? ध्यान दें BMC की गाइडलाइन्स（印地語） | Housivity | n.d. | https://housivity.com/blog/mumbai-home-renovation-bmc-rules | R2 |
+| 13 | Code of conduct for repairs and renovation of members' flats | Saket CHSL（塔那） | 2015 | https://saketparisaralm.blogspot.com/2015/09/code-of-conduct-for-repairs-and.html | R2 |
+| 14 | How to apply for a Society NOC (2026) | RTI Wiki | 2026 | https://righttoinformation.wiki/apply-society-noc-2026 | R2 |
+| 15 | BMC won't manually inspect buildings for fire safety NOCs | Hindustan Times（PressReader） | 2018 | https://www.pressreader.com/india/hindustan-times-st-mumbai/20181206/281728385594244 | R2 |
+| 16 | Bombay High Court ends mandatory NOC for CHS redevelopment | Ghar.tv | n.d. | https://www.ghar.tv/blog/bombay-high-court-ends-mandatory-noc-requirement-for-cooperative-housing-society-redevelopment-across-maharashtra/artid4569 | R2 |
+| 17 | Rules & regulations for members and tenants | ZipGrid Society Sunday | n.d. | https://zipgrid.com/societysunday/rules-regulations-for-members-and-tenants/ | R2 |
+| 18 | Shipra Rana v. Livspace（地區消費者委員會判決） | Casemine | c.2022 | https://www.casemine.com/judgement/in/62277716b50db936d28817ae | R2 |
+| 19 | Livspace – unfair refund delay（投訴） | Voxya | n.d. | https://voxya.com/consumer-complaints/unfair-refund-delay-cancellation-within-24-hours-project-id-/261056 | R2 |
+| 20 | Livspace didn't complete the project on time | Kaanoon | n.d. | https://www.kaanoon.com/258071/livspace-didn-t-complete-the-project-on-time | R2 |
+| 21 | Livspace Review 2026 | Ongrid Design | 2026 | https://elevations.ongrid.design/learn/livspace-review-2026/ | R2 |
+| 22 | Complaint regarding fraudulent practices by Livspace | ConsumerCourt.net | n.d. | https://consumercourt.net/threads/complaint-regarding-fraudulent-practices-by-livspace.564/ | R2 |
+| 23 | Livspace not refunding amount even after hold of project | ConsumerCourt.net | n.d. | https://consumercourt.net/threads/livspace-interior-company-not-refunding-amount-even-after-hold-of-project.2456/ | R2 |
+| 24 | Interior designer took advance and backed out? Legal recourse | Sudhir Rao 律師事務所 | n.d. | https://sudhirrao.com/interior-designer-took-advance-and-backed-out-legal-recourse-for-cheating/ | R2 |
+| 25 | Interior designer or contractor took advance and delayed work | RTI Wiki | 2025 | https://righttoinformation.wiki/interior-designer-contractor-advance-refund-india | R2 |
+| 26 | DesignCafe reviews | Trustpilot | 2025 | https://ch.trustpilot.com/review/designcafe.com | R2 |
+| 27 | Singapore interior designer gets 14 months' jail（對照） | Malay Mail | 2024 | https://www.malaymail.com/news/singapore/2024/05/31/singapore-interior-designer-gets-14-months-jail-for-pocketing-over-s20000-from-homeowners-to-settle-gambling-debts/137527 | R2 |
+| 28 | 浦那 Punawale 預付款案法院文件 | Scribd | 2025 | https://www.scribd.com/document/885294432/Display-PDF-php | R2 |
+| 29 | Designs that define elegance（詐騙宣導） | SYNEWS | n.d. | https://synews.co.in/ | R2 |
+| 30 | Cheating and fraud by interior designers | LawRato | n.d. | https://lawrato.com/consumer-court-legal-advice/cheating-and-fraud-by-interior-designers-109575 | R2 |
+| 31 | Cheating by interior designer | Vidhikarya | n.d. | https://www.vidhikarya.com/FreeLegalAdvice/68633/cheating-by-interior-designer | R2 |
+| 32 | Cheated by interior designer | Kaanoon | n.d. | https://www.kaanoon.com/212058/cheated-by-interior-designer | R2 |
+| 33 | E-Jagriti | Wikipedia | 2025 | https://en.wikipedia.org/wiki/E-Jagriti | R2 |
+| 34 | File a complaint against your interior designer | Kanoon360 | n.d. | https://kanoon360.com/blog/interior-designer-complaint-know-the-steps/ | R2 |
+| 35 | Work visas in India: a guide for employers | RemotePass | n.d. | https://www.remotepass.com/country/india/work-visas | R2 |
+| 36 | Work permit and visa in India: complete 2025 guide | Asanify | 2025 | https://asanify.com/blog/employer-of-record-india/work-permit-and-visa-in-india-process-your-complete-2025-guide/ | R2 |
+| 37 | India work visa and work permit: 2026 guide | Wisemonk | 2026 | https://www.wisemonk.io/blogs/india-work-visa-and-permit | R2 |
+| 38 | India employment visa | Smith Stone Walters | n.d. | https://smithstonewalters.com/global-immigration/india-middle-east/india-employment-visa | R2 |
+| 39 | Employment Visa | 印度駐都柏林大使館 | 舊 | https://www.indianembassydublin.gov.in/page/employment-visa2/ | R2 |
+| 40 | India work visa requirements 2026 | Omnivoo | 2026 | https://www.omnivoo.com/blog/india-work-visa-requirements | R2 |
+| 41 | Work permit India 2025 | Aniday | 2025 | https://aniday.com/en/blog/work-permit-india-guide-3317 | R2 |
+| 42 | Employment visa India 2026 | Fargo Worldwide | 2026 | https://fargoworldwide.com/employment-visa-india/ | R2 |
+| 43 | Work permits in India (2026 legal guide) | Commoner Law | 2026 | https://commoner-law.com/india/immigration-rights/work-permit-rights | R2 |
+| 44 | Japanese retailer Nitori plans India market entry | FashionNetwork India | 2024 | https://in.fashionnetwork.com/news/Japanese-retailer-nitori-plans-india-market-entry,1664520.html | R2 |
+| 45 | Nitori makes grand entry into India with first store at R City Mall | Indian Retailer | 2024 | https://www.indianretailer.com/news/retail-india-news-nitori-makes-grand-entry-india-first-store-r-city-mall-mumbai | R2 |
+| 46 | Japan's largest furniture retailer Nitori to enter Indian market（Kala Ghoda 店） | Indian Retailer | 2025 | https://www.indianretailer.com/news/japans-largest-furniture-retailer-nitori-enter-indian-market-mumbai-store-launch | R2 |
+| 47 | Nitori Group opening first store in India in December 2024 | Nitori Holdings | 2024 | https://www.nitorihd.co.jp/en/news/items/714b740ef69bcab4cb77be8e948e0a21.pdf | R2 |
+| 48 | Japan's furniture retailer Nitori enters India | BW Retail World | 2024 | https://bwretailworld.com/bw-connect/japans-furniture-retailer-nitori-enters-india-opens-store-in-mumbai | R2 |
+| 49 | Nitori opens first store in India at R City Mall | Furniture Design India | 2024 | https://www.furnituredesignindia.com/articles/90891/nitori-opens-first-store-in-india-at-r-city-mall-mumbai | R2 |
+| 50 | GST for interior designers & architects | TaxBuddy | 2025 | https://www.taxbuddy.com/blog/gst-filing-architects-interior-designers-taxbuddy | R2 |
+| 51 | GST for interior designers and contractors | DisyTax | 2025 | https://disytax.com/gst-for-interior-designers-and-contractors/ | R2 |
+| 52 | GST for renovation business | DisyTax | 2025 | https://disytax.com/gst-for-renovation-business/ | R2 |
+| 53 | Confused about GST for interior designers? | Coohom | n.d. | https://www.coohom.com/article/understanding-gst-for-interior-designers | R2 |
+| 54 | 2BHK interior design cost: taxes and GST | The News Minute（partner） | n.d. | https://www.thenewsminute.com/partner/2bhk-interior-design-cost-what-homeowners-dont-know-about-taxes-and-gst | R2 |
+| 55 | GST rates for furniture 2026 | Razorpay | 2026 | https://razorpay.com/learn/gst-rate-on-furniture/ | R2 |
+| 56 | More attractive Indian tax policy for foreign companies in 2025 | IndiaConnected | 2025 | https://www.indiaconnected.co.uk/blog-articles/indian-tax-policy-2025-gst-cit-changes-foreign-companies/ | R2 |
+| 57 | Foreign subsidiary taxation in India 2026 | Viswanathan Associates | 2026 | https://viswanathanassociates.com/foreign-subsidiary-taxation-india-2025.html | R2 |
+| 58 | India Budget 2026 foreign companies impact | Beacon Filing | 2026 | https://beaconfiling.com/blog/budget-day-analysis-foreign-companies | R2 |
+| 59 | Income tax for foreign company in India FY2025-26 | Shoonya | 2025 | https://blog.shoonya.com/income-tax-for-foreign-company/ | R2 |
+| 60 | India corporate tax guide | Wise | n.d. | https://wise.com/gb/blog/india-corporate-tax | R2 |
+| 61 | 3BHK interior design cost guide 2026 | Livspace Magazine | 2026 | https://www.livspace.com/in/magazine/calculate-the-average-cost-of-a-3-bhk-apartment-interior-design | R2 |
+| 62 | 2BHK interior design cost guide 2025 | Tint Tone & Shade | 2025 | https://tinttoneandshade.com/blog/interior-design-cost-2bhk-flats-guide | R2 |
+| 63 | 3BHK interior design costs in 2025 | SKF Contractor | 2025 | https://www.skfcontractor.in/3bhk-interior-design-costs-2025 | R2 |
+| 64 | Interior design cost in Bangalore 2025 | Elegante Interior | 2025 | https://eleganteinterior.com/interior-design-cost-bangalore-2025/ | R2 |
+| 65 | Cost of home interior design in Delhi | Scribd | n.d. | https://www.scribd.com/document/735387476/The-Cost-of-Home-Interior-Design-in-Delhi-2-Bhk-3-Bhk-And-More | R2 |
+| 66 | 2BHK interior design cost in India 2025 | Tatva Interiors | 2025 | https://tatvainteriorsanddesignstudio.com/2bhk-interior-design-cost-planning-guide/ | R2 |
+| 67 | Interior cost estimator India 2026 | GharKaBudget | 2026 | https://gharkabudget.com/interior/ | R2 |
+| 68 | 2BHK interior design cost in India 2025 | Kasapros | 2025 | https://kasapros.com/in/blog/2bhk-interior-design-cost-in-india | R2 |
+| 69 | Interior designing cost for 2BHK flat (2025) | Interior A to Z | 2025 | https://interioratoz.com/interior-designing-cost-for-2bhk-flat/ | R2 |
+| 70 | Home interiors: re-designed, re-engineered（品牌合作） | Forbes India | 舊 | https://www.forbesindia.com/article/brand-connect/home-interiors-redesigned-reengineered/59549/1 | R2 |
+| 71 | India interior design market | Ken Research | 2024 | https://www.kenresearch.com/industry-reports/india-interior-design-market | R2 |
+| 72 | HomeLane franchise 2026 | FranchiseBazar | 2026 | https://www.franchisebazar.com/blog/homelane-franchise-2026-indias-fastest-growing-home-interiors-opportunity | R2 |
+| 73 | Review of HomeLane interiors | NoBroker 論壇 | n.d. | https://www.nobroker.in/forum/what-is-the-review-of-homelane-interiors-intrw/ | R2 |
+| 74 | Livspace India 官網 | Livspace | 2026 | https://www.livspace.com/in | R2 |
+| 75 | Home renovation loan | BankBazaar | 2024 | https://www.bankbazaar.com/home-loan/home-renovation-loan.html | R2 |
+| 76 | HDFC home improvement loans | Paisabazaar | 2023 | https://www.paisabazaar.com/home-loan/hdfc-home-improvement-loans/ | R2 |
+| 77 | Home renovation loan | Paisabazaar | n.d. | https://www.paisabazaar.com/home-loan/home-renovation-loan/ | R2 |
+| 78 | Home renovation loan | HDFC Bank | 2025–26 | https://homeloans.hdfc.bank.in/housing-loans/home-renovation-loans | R2 |
+| 79 | SBI home renovation loan interest rate | NoBroker 論壇 | n.d. | https://www.nobroker.in/forum/what-is-sbi-home-renovation-loan-interest-rate/ | R2 |
+| 80 | Home renovation loan | MyMoneyMantra | 2026 | https://www.mymoneymantra.com/home-renovation-loan | R2 |
+| 81 | SBI home renovation loan 2026 | UrbanMoney | 2026 | https://www.urbanmoney.com/home-loan/state-bank-of-india/home-renovation-loan-hlprop | R2 |
+| 82 | Section 24B & home loan interest | TaxBuddy | 2025 | https://www.taxbuddy.com/blog/section-24b-home-loan-interest-explained | R2 |
+| 83 | Section 24 deductions | ClearTax | 2025 | https://cleartax.in/s/deductions-under-section24-income-from-house-property | R2 |
+| 84 | Home loan interest deduction under Section 24 | Godrej Capital | n.d. | https://www.godrejcapital.com/media-blog/knowledge-centre/home-loan-interest-deduction-under-section-24 | R2 |
+| 85 | Section 24b of Income Tax Act | HomeFirst | n.d. | https://homefirstindia.com/blog/article/section-24b-of-income-tax-act-home-loan-interest-deduction | R2 |
+| 86 | Interior designer salary in New Delhi 2025 | Glassdoor | 2025 | https://www.glassdoor.com/Salaries/new-delhi-india-interior-designer-salary-SRCH_IL.0,15_IM1083_KO16,33.htm | R2 |
+| 87 | Interior design salary India | Glassdoor India | 2025 | https://www.glassdoor.co.in/Salaries/interior-design-salary-SRCH_KO0,15.htm | R2 |
+| 88 | Interior designer salary in Bangalore 2025 | Glassdoor | 2025 | https://www.glassdoor.com/Salaries/bangalore-india-interior-designer-salary-SRCH_IL.0,15_IM1091_KO16,33.htm | R2 |
+| 89 | Interior designer salary per month 2025 | Terratern | 2025 | https://terratern.com/blog/interior-designer-salary-per-month/ | R2 |
+| 90 | Interior designer salary in India ₹3L to ₹30L | Vogue Fashion Institute | n.d. | https://www.voguefashioninstitute.com/interior-designer-salary-in-india-from-%E2%82%B93l-to-%E2%82%B930l-career-path/ | R2 |
+| 91 | Interior designer salary in India 2026 | IIFT Bangalore | 2026 | https://www.iiftbangalore.com/blog/salary-of-interior-designer-in-india/ | R2 |
+| 92 | Interior designer salary in India 2025 | Artemisia College | 2025 | https://www.artemisiacollege.com/blog/interior-designer-salary-india/ | R2 |
+| 93 | Interior designer salary in India (2025) | Jobted | 2025 | https://www.jobted.in/salary/interior-designer | R2 |
+| 94 | Interior designer salary India 2025 guide | CareerPlanB | 2025 | https://www.careerplanb.co/interior-designer-salary-india-2025-monthly-annual-pay-guide/ | R2 |
+| 95 | Site supervisor salary in India | Glassdoor India | 2024 | https://www.glassdoor.co.in/Salaries/site-supervisor-salary-SRCH_KO0,15.htm | R2 |
+| 96 | Site supervisor salary in Bangalore | Glassdoor India | 2025 | https://www.glassdoor.co.in/Salaries/bangalore-site-supervisor-salary-SRCH_IL.0,9_IM1091_KO10,25.htm | R2 |
+| 97 | Site supervisor salary in India | Indeed India | 2025 | https://in.indeed.com/career/site-supervisor/salaries | R2 |
+| 98 | Site supervisor salary India (2026) | ERI SalaryExpert | 2026 | https://www.salaryexpert.com/salary/job/site-supervisor/india | R2 |
+| 99 | Construction sector facing shortage of 10 million workers: CREDAI | Moneylife | n.d. | https://www.moneylife.in/article/construction-sector-facing-shortage-of-10-million-workers-credai/6891.html | R2 |
+| 100 | Mind the workforce gap | Outlook India | 2025 | https://www.outlookindia.com/announcements/news-media-wire/mind-the-workforce-gap | R2 |
+| 101 | India's construction sector and the future of work 2025–2030 | Construction Placements | 2025 | https://www.constructionplacements.com/construction-jobs-outlook-india-2025-2030/ | R2 |
+| 102 | Skilling India: construction sector demand and supply | CSDCI | 2023 | https://www.csdcindia.org/wp-content/uploads/2023/04/Domestic-Skill-Gap-Report.pdf | R2 |
+| 103 | India's construction sector grapples with 2 million skilled worker shortage | GeoSquare | 2025 | https://www.geosquare.in/indias-construction-sector-grapples-with-2-million-skilled-worker-shortage-126642218078-news/ | R2 |
+| 104 | Labour shortage hits India's construction sector and projects | Realty Plus | 2025 | https://www.rprealtyplus.com/news-views/labour-shortage-hits-indias-construction-sector-and-projects-122137.html | R2 |
+| 105 | CSDCI 官網 | CSDCI | 2025 | https://www.csdcindia.org/author/csdci/ | R2 |
+| 106 | Carpenter salary in India 2026 | Solve24 | 2026 | https://solve24.in/blog/carpenter-salary-in-india-2026 | R2 |
+| 107 | Construction wage index | Nirmaan Setu | 2026 | https://nirmansetu.in/construction-wages-india/?v=aabc60074eee | R2 |
+| 108 | Carpenter salary in Mumbai | ERI | 2025 | https://www.erieri.com/salary/job/carpenter/india/mumbai | R2 |
+| 109 | Construction labour rates India 2026 | IS Code Hub | 2026 | https://www.iscodehub.com/rate-analysis/construction-labour-rates-india | R2 |
+| 110 | Construction labour rates India 2026: daily wages by state | Yojo | 2026 | https://yojoapp.com/en/blog/labor-rates-construction-india-2026-complete-guide/ | R2 |
+| 111 | Carpenter rate guide 2026 | Sainik710 | 2026 | https://www.sainik710.com/blog/carpenter-rate-guide-labour-charges-india | R2 |
+| 112 | Labour rates price in Delhi NCR | InfraLens | 2026 | https://infralens.in/prices/labour/delhi | R2 |
+| 113 | Average carpenter salary in Mumbai 2025 | WorldSalaries | 2025 | https://worldsalaries.com/average-carpenter-salary-in-mumbai/india/ | R2 |
+| 114 | House construction labour rates 2026 | Aecord | 2026 | https://aecord.com/blog/labour-rates-for-house-construction-india-2026 | R2 |
+| 115 | Carpenter labour charges Mumbai | Quora | n.d. | https://www.quora.com/What-are-carpenter-labor-charges-for-making-kitchen-cabinet-drawers-and-wardrobe-in-Mumbai | R2 |
+| 116 | Kajaria Ceramics FY25 revenue ₹4,218.82 Cr | HouseGyan | 2025 | https://www.housegyan.com/blog/kajaria-ceremics-ltd-q4-and-fy24-financial-report | R2 |
+| 117 | Century Ply Q4FY26 consolidated net up 49 pc | ThePrint | 2026 | https://theprint.in/economy/century-ply-q4fy26-consolidated-net-up-49-pc-to-rs-79-cr/2938864/ | R2 |
+| 118 | Century Plyboards revenue | AlphaSpread | 2026 | https://www.alphaspread.com/security/nse/centuryply/financials/income-statement/revenue | R2 |
+| 119 | Greenpanel vs Century vs Greenply vs Action TESA vs Kajaria | Strategy Boffins | n.d. | https://www.strategyboffins.com/value_investing/greenpanel-vs-century-vs-greenply-vs-tesa-vs-archidply-vs-kajaria/ | R2 |
+| 120 | Building Materials – Initiating Coverage | Axis Securities | 2025-07 | https://simplehai.axisdirect.in/app/index.php/insights/reports/downloadReport/file/Initiating+Coverage+-+Building+Materials+-+16072025+(2)_16-07-2025_10.pdf/type/fundamental | R2 |
+| 121 | Kajaria Ceramics exits from plywood business | Business Standard | 2025-05 | https://www.business-standard.com/amp/companies/news/kajaria-ceramics-exits-from-plywood-business-due-to-continued-losses-125050600980_1.html | R2 |
+| 122 | Cera, Kajaria, Somany hit 52-week lows | Business Standard | 2025-02 | https://www.business-standard.com/amp/markets/news/cera-sanitaryware-kajaria-somany-hit-52-week-lows-on-sluggish-demand-125022000473_1.html | R2 |
+| 123 | BIS QCO for plywood IS 303 | Aleph India | 2025 | https://alephindia.in/bis-qco-for-the-Plywood-for-general-purposes.php | R2 |
+| 124 | New BIS QCO implementations February 2025 | Certification-India | 2025 | https://www.certification-india.com/en/new-bis-quality-control-orders-implementations-next-month-february-2025/ | R2 |
+| 125 | Plywood and panel imports in the post-QCO era | FIPPI | 2025 | https://fippi.org/blog/plywood-and-panel-imports-in-the-post-quality-control-orders-qcos-era/ | R2 |
+| 126 | Plywood industry to implement mandatory quality control norms | Realty Plus | 2025 | https://www.rprealtyplus.com/allied/plywood-industry-to-implement-mandatory-quality-control-norms-118231.html | R2 |
+| 127 | BIS QCO plywood IS 303:1989 | EVTL India | 2025 | https://evtlindia.com/bis-qco-for-plywood-for-general-purposes-is-303-1989 | R2 |
+| 128 | India: mandatory standards for panels and furniture worry manufacturers | Global Wood Markets Info | 2025 | https://www.globalwoodmarketsinfo.com/india-mandatory-standards-for-for-panels-and-furniture-worry-manufacturers/ | R2 |
+| 129 | Plywood for general purposes QCO | Era Global | 2025 | https://www.eraglobal.co.in/plywood-for-general-purposes/ | R2 |
+| 130 | BIS certificate of plywood QCO | Sun Consultants | 2025 | https://sunconsultants.co.in/notifications/plywood-for-general-purposes | R2 |
+| 131 | India temporarily lifts BIS requirement for plywood（舊訊，矛盾） | Plywood Inspection | 2024 | https://www.plywoodinspection.com/india-temporarily-lifts-bis-certification-quality-mark-requirement-for-plywood/ | R2 |
+| 132 | Import duty on furniture in India (2026) | iWishBag | 2026 | https://www.iwishbag.com/in/import-duty/furniture | R2 |
+| 133 | Plywood HS code 4412 tariffs | FreightAmigo | n.d. | https://www.freightamigo.com/en/blog/logistics/hs-code-for-plywood-veneered-panels-and-similar-laminated-wood/ | R2 |
+| 134 | Import duty on wooden furniture in India 2026 | DeepBeez | 2026 | https://deepbeez.com/import-duty/import-duty-on-wooden-furniture-in-india | R2 |
+| 135 | Chinese MDF export prices: 2025 review | Timber Insider | 2025 | https://timberinsider.com/chinese-mdf-export-price-2025/ | R2 |
+| 136 | How to import furniture from China to India | Eximpedia | n.d. | https://www.eximpedia.app/blog/furniture-imports-from-china-to-india | R2 |
+| 137 | 2025 में भारत में सीमेंट की कीमतें（印地語） | 99acres | 2025 | https://www.99acres.com/articles/cement-price-list-in-india-in-2022.html | R2 |
+| 138 | UltraTech cement price in India 2025 | 99acres | 2025 | https://www.99acres.com/articles/ultratech-cement-price.html | R2 |
+| 139 | प्लाईवुड की कीमत 2026（印地語） | Apple Ply | 2026 | https://www.appleply.in/blog/plywood-price-hindi-guide-2026 | R2 |
+| 140 | सीमेंट की हर बोरी में बचेंगे 35 रुपए — GST 新稅率（印地語） | Zee Business Hindi | 2025 | https://www.zeebiz.com/hindi/real-estate/gst-rate-cuts-all-you-need-how-much-one-sack-of-cement-price-will-reduce-after-new-slabs-231236 | R2 |
+| 141 | 12x12 कमरे की टाइलिंग खर्च（印地語） | Kota Stone | n.d. | https://kotastone.online/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%AE%E0%A5%87%E0%A4%82-12x12-%E0%A4%95%E0%A5%87-%E0%A4%95%E0%A4%AE%E0%A4%B0%E0%A5%87-%E0%A4%95%E0%A5%8B-%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%B2-%E0%A4%95/ | R2 |
+| 142 | दृढ़ लकड़ी प्लाईवुड प्राइस（印地語 B2B） | TradeIndia | 2025 | https://www.tradeindia.com/hi/manufacturers/hardwood-plywood.html | R2 |
+| 143 | IIID 官網 | Indian Institute of Interior Designers | 2025 | https://www.iiid.in/ | R2 |
+| 144 | IIID Awards | IIID | 2025 | https://awards.iiid.in/ | R2 |
+| 145 | IIID Mumbai Regional Chapter – About | IIID Mumbai | n.d. | https://www.iiidmumbai.org/about_us | R2 |
+| 146 | About IIID | IIID Raipur | n.d. | https://www.iiidraipur.in/about | R2 |
+| 147 | About us | IIID.net.in | n.d. | https://iiid.net.in/about-us/ | R2 |
+| 148 | JECRC University IIID membership write-up | JECRC University | 2023 | https://jecrcuniversity.edu.in/wp-content/uploads/2023/12/IIID-MEMBERSHIP-WRITE-UP.pdf | R2 |
+| 149 | IIID introduction and membership details | Scribd | n.d. | https://www.scribd.com/document/872686921/IIID-Introduction-and-Membershiip-Details | R2 |
+| 150 | ACETECH Bangalore (Oct 2026) | 10times | 2026 | https://10times.com/et-acetech-bangalore | R2 |
+| 151 | ACETECH Delhi (Dec 2026) | 10times | 2026 | https://10times.com/et-acetech-delhi | R2 |
+| 152 | ACETECH | Visitexpo | 2026 | https://visitexpo.in/event/acetech/ | R2 |
+| 153 | ACETECH Expo 2026 India guide | Top Interiors India | 2026 | https://topinteriorsindia.com/acetech-expo-india/ | R2 |
+| 154 | ACETECH 2025 Mumbai | Top Interiors India | 2025 | https://topinteriorsindia.com/acetech-2025-mumbai/ | R2 |
+| 155 | Plumbex India | Wikipedia | n.d. | https://en.wikipedia.org/wiki/Plumbex_India | R2 |
+
+### 12.2 第 1 輪轉引（R1；取得途徑見括號）
+
+| # | 標題 | 機構 | 年份 | URL | 途徑 |
+|---|---|---|---|---|---|
+| 156 | Council of Architecture v. Mukesh Goyal（最高法院） | Indian Kanoon | 2020 | https://indiankanoon.org/doc/41555114/ | R1（T3）＋R2 |
+| 157 | The unique position of the Architects Act 1972 | Mondaq | 2021 | https://www.mondaq.com/india/construction-planning/1077872/the-unique-position-of-the-architects-act-1972 | R1（T3）＋R2 |
+| 158 | Scope boundaries: architect, designer, contractor in India | studiomatrx | n.d. | https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india | R1（T3）＋R2 |
+| 159 | NCH resolves 67K complaints, recovers Rs 45 cr in 2025 | Business Standard | 2025-12 | https://www.business-standard.com/india-news/national-consumer-helpline-resolves-67k-complaints-recovers-45-cr-in-2025-125122700291_1.html | R1（T3） |
+| 160 | National Consumer Helpline 新聞稿 | PIB | 2025 | https://www.pib.gov.in/PressReleasePage.aspx?PRID=2179780&reg=48&lang=2 | R1（T3） |
+| 161 | FDI Policy: sectors under automatic route | DPIIT | 2025-07 | https://www.dpiit.gov.in/static/uploads/2025/07/1b12c69de7c2e698a7b68f7b8fcf4fe3.pdf | R1（T3） |
+| 162 | FDI reviews 2026: India | White & Case | 2026 | https://www.whitecase.com/insight-our-thinking/foreign-direct-investment-reviews-2026-india | R1（T3） |
+| 163 | Foreign investment in the Indian construction development sector | IJPIEL | 2022 | https://ijpiel.com/index.php/2022/07/01/foreign-investment-in-the-indian-construction-development-sector-entry-routes-and-associated-conditions/ | R1（T3） |
+| 164 | Livspace posts Rs 1,460 Cr revenue in FY25 | Entrackr | 2025 | https://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863 | R1（T2） |
+| 165 | Livspace FY25 loss declines 43% | Inc42 | 2025 | https://inc42.com/buzz/livspaces-fy25-loss-declines-43-to-inr-243-cr/ | R1（T2） |
+| 166 | Livspace revenue rises 23% in FY25 | Outlook Business | 2025 | https://www.outlookbusiness.com/corporate/livspace-revenue-rises-23-to-1460-cr-in-fy25-losses-come-down | R1（T2） |
+| 167 | Livspace CBO exits after mass layoffs | Entrackr | 2026 | https://entrackr.com/news/livspace-cbo-lalit-mittal-exits-after-co-founder-departure-and-mass-layoffs-11150871 | R1（T2） |
+| 168 | 100 job cuts at Livspace | HRKatha | 2025 | https://www.hrkatha.com/news/layoff/100-job-cuts-at-livspace/ | R1（T2） |
+| 169 | Livspace Series F US$180M led by KKR | Business Wire | 2022 | https://www.businesswire.com/news/home/20220207005993/en | R1（T2） |
+| 170 | Livspace turns unicorn | The Edge Singapore | 2022 | https://testing.dev.theedgesingapore.com/news/company-news/backed-edbi-and-major-ikea-franchisee-renovation-platform-livspace-turns-unicorn | R1（T2） |
+| 171 | Livspace raises USD 90 million | KrASIA | 2020 | https://kr-asia.com/home-renovation-platform-livspace-raises-usd-90-million-to-expand-in-southeast-asia-australia | R1（T2） |
+| 172 | Acquisition of majority stake in Qanvast | Allen & Gledhill | 2022 | https://www.allenandgledhill.com/perspectives/articles/21509/acquisition-of-a-majority-stake-in-qanvast-pte-ltd-by-interiortepte-ltd | R1（T2） |
+| 173 | IKEA and Livspace at Kuala Lumpur outlets | EdgeProp Singapore | n.d. | https://edgeprop.sg/property-news/ikea-and-livspace-offer-interior-design-solutions-kuala-lumpur-outlets | R1（T2） |
+| 174 | HomeLane records Rs 748 Cr revenue in FY25 | Entrackr | 2025 | https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234 | R1（T2） |
+| 175 | HomeLane 22% revenue growth FY25 | Franchise India | 2025 | https://www.franchiseindia.com/index.php/insights/en/news/homelane-reports-22-revenue-growth-in-fy25-achieves-ebitda-profitability-in-q4.57729 | R1（T2） |
+| 176 | HomeLane FY25 note | Motilal Oswal | 2025 | https://www.motilaloswal.com/news/stocks/107588 | R1（T2） |
+| 177 | Space Matrix acquires Pursuite（SCMP 轉載） | AOL | 2018 | https://www.aol.com/news/singapore-office-design-firm-space-093000697.html | R1（T2） |
+| 178 | Space Matrix company profile | CB Insights | 2022 | https://www.cbinsights.com/company/space-matrix | R1（T2） |
+| 179 | India leads Asia Pacific in fit-out cost efficiency（C&W 2026） | Construction World | 2026 | https://www.constructionworld.in/latest-construction-news/real-estate-news/india-leads-asia-pacific-in-fit-out-cost-efficiency/88743 | R1（T1） |
+| 180 | Office Fit Out Cost Guide APAC 2026 | Cushman & Wakefield | 2026 | https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office | R1（T1） |
+| 181 | Instant home services and the next habit loop | Redseer | 2025 | https://redseer.com/articles/tapping-into-the-everyday-instant-home-services-and-the-next-habit-loop/ | R1（T1） |
+| 182 | Online interior design market updates | Redseer | 2019 | https://redseer.com/articles/online-interior-design-market-updates/ | R1（T1） |
+| 183 | Disruption in Indian furniture retailing | Redseer | 2018 | https://redseer.com/wp-content/uploads/2018/09/Disruption-in-Indian-furniture-retailing-_-31-August-2018-v1.pdf | R1（T1） |
+| 184 | India interior design market | Mordor Intelligence | 2025 | https://www.mordorintelligence.com/industry-reports/india-interior-design-market | R1（T1）＋R2 |
+| 185 | India interior design market | IMARC | 2025 | https://www.imarcgroup.com/india-interior-design-market | R1（T1） |
+| 186 | GDP per capita Asia 2025 | Worldometers（IMF 轉載） | 2026 | https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal | R1（T1） |
+| 187 | Indian, Vietnamese, Malaysian, Indonesian tile imports ruled as dumping | Taiwan News | n.d. | https://www.taiwannews.com.tw/en/topic/ceramic%20tiles | R1（TW-B） |
+| 188 | 磁磚業面臨東南亞與印度低價傾銷 | 工商時報 | 2025-09 | https://www.ctee.com.tw/news/20250902700647-431206 | R1（TW-B） |
+| 189 | 國土署：全國室內裝修業約 1.7 萬餘家（台灣對照） | 中央社 | 2026-04 | https://www.cna.com.tw/news/ahel/202604140322.aspx | R1（T3） |
+| 190 | RBI 首頁（T8 融資背景入口） | RBI | — | https://www.rbi.org.in/ | R1（T8，未開啟） |
+
+**來源統計**：R2 本輪自行搜得 155 條（其中印地語頁面 6 條：#12、#137、#139、#140、#141、#142）；R1 轉引 35 條（#156–#190，其中 4 條本輪再度搜得）；合計 **190 條**。全部未開頁核對；D 級線索（附錄 A）不計入。
+
+---
+
+## 附錄 A：待驗證線索（D 級，無 URL；禁止當作事實引用）
+
+| 領域 | 機構／法規／說法（原文） | 預期可取得內容 | 入口（未開啟） |
+|---|---|---|---|
+| 法規 | Architects Act 1972 §25（外國人互惠）、§36（罰則）；CoA 註冊統計 | 外國設計師註冊條件、罰款額 | https://www.coa.gov.in/ |
+| 法規 | NBC 2016 Part 4；MoHUA Model Building Bye-Laws 2016；Delhi UBBL 2016；Maharashtra Fire Prevention and Life Safety Measures Act 2006（Form B）；Delhi Fire Service Act 2007 | 內裝消防要求 | https://www.bis.gov.in/ |
+| 法規 | Maharashtra Co-operative Societies Act 1960；住宅合作社示範規約（Model Bye-laws）第 159 條等 | NOC 條文原文 | 馬邦合作社註冊官網 |
+| 法規 | RERA 2016 §14(3)（建商 5 年結構瑕疵責任） | 條文 | https://www.indiacode.nic.in/ |
+| 消保 | Consumer Protection (Jurisdiction) Rules 2021 金額門檻 | 三級委員會管轄 | https://consumerhelpline.gov.in/ |
+| 外資 | Consolidated FDI Policy 2020；FEMA 22(R)/2016；Companies Act 2013；LLP Act 2008；MHA 簽證手冊 | 設立形式、簽證細則 | https://www.dpiit.gov.in/ ；https://www.mha.gov.in/ |
+| 稅務 | 台印 DTAA（2011）；印台 BIA（2018-12） | 扣繳率、投資保障 | 財政部；經濟部投審司 |
+| 人才 | AICTE／CoA 學院清單；NID、CEPT、Sir J.J.、Pearl Academy、IIAD、INIFD、Dream Zone | 畢業人數 | 各校官網 |
+| 勞動 | 四部勞動法典（據稱 2025-11-21 施行）；BOCW Act 1996 之 1% 建築工程捐；各邦最低工資 | 施行狀態、工資 | https://labour.gov.in/ |
+| 材料 | Asian Paints（Beautiful Homes、Sleek、White Teak）、Berger、Kansai Nerolac、Birla Opus、Jaquar、Cera、Parryware、Kohler India、Havells、Crompton、Signify、Godrej Interio、Nilkamal、Häfele、Hettich、Saint-Gobain Gyproc、Merino、Action Tesa、Greenlam | 營收、市占 | BSE／NSE |
+| 組織 | IIA、IGBC、FFSC；India Design ID、Index Fairs、MATECIA、Vibrant Ceramics、IndiaWood；AD India、Elle Decor India、Surfaces Reporter | 規模、監測 | 各官網 |
+
+**常用但仍無 URL 的說法（禁止直接引用）**：「設計訂金 5–10%、下單時 40–50%」「模組化櫃體保固 5–10 年、施工 1 年」「CoA 註冊建築師逾 10 萬人」「IKEA India 海得拉巴 2018、納維孟買 2020、班加羅爾 2022」「四部勞動法典 2025-11-21 施行」。
+
+## 附錄 B：本輪已執行之 20 條搜尋（2026-10-09）
+
+英文（15）：(1) interior designer licence Architects Act 1972 CoA registered number；(2) housing society NOC renovation Mumbai BMC structural fire NOC；(3) consumer commission order Livspace HomeLane deficiency；(4) interior designer scam advance payment 2025；(5) employment visa minimum salary USD 25,000 FRRO；(6) Nitori India Nomura Koumuten IKEA；(7) Livspace HomeLane homeowner survey budget 2025；(8) home renovation loan HDFC SBI §24(b)；(9) interior designer salary site supervisor AmbitionBox Glassdoor；(10) skilled labour shortage CREDAI CSDCI；(11) Century Ply Greenply Kajaria Somany Hindware Jaquar FY25；(12) BIS QCO plywood MDF import duty furniture；(13) IIID membership chapters colleges graduates；(14) ACETECH 2025 India Design ID 2026；(15) GST interior design works contract corporate tax foreign subsidiary。
+印地語（5）：(16) हाउसिंग सोसाइटी एनओसी इंटीरियर रेनोवेशन नियम मुंबई；(17) इंटीरियर डिजाइनर धोखाधड़ी शिकायत उपभोक्ता आयोग 2025；(18) घर इंटीरियर बजट 2BHK 3BHK खर्च 2025 लाख；(19) बढ़ई मिस्त्री दिहाड़ी मजदूरी 2025 दिल्ली मुंबई बेंगलुरु；(20) प्लाईवुड सीमेंट टाइल कीमत 2025 भारत。
+未能執行（額度限制）：NBC 2016 Part 4 消防；CoA 註冊人數專搜；Nomura Koumuten 專搜；泥作／水電日薪專搜；WPI 建材指數專搜；India Design ID 專搜。
+
+---

@@ -342,3 +342,230 @@
 | 小紅書 需求帖增速／#我的裝修記錄 | +175%（Y24 vs Y23）／183.3 億次 | 2024–2025 | [36 氪](https://www.36kr.com/p/3331683375458568) | — | 中 |
 | 小紅書 設計師單場直播 GMV | 2,000 萬 CNY（≈USD 278 萬／TWD 8,750 萬） | 2025 | 同上 | 軟裝設計師 @一顆KK | 中低 |
 | 新加坡 4 房 BTO 裝修成本 | S$33,000–58,000（≈USD 24,400–43,000／TWD 77–135 萬） | 2024 | [Home & Decor（Homees）](https://www.homeanddecor.com.sg/renovation/interior-designer-or-contractor) | 成本輸入，非 CPL | 中低 |
+
+---
+
+## 11. 對台灣業者（室內裝修＋不動產＋家居零售集團）的啟示
+
+1. **把 3D／AI 設計 SaaS 當「低價採購」而非「科技投資」**：酷家樂 2025 年單家企業年均訂閱僅 1.41 萬元人民幣（≈TWD 6.2 萬）、45.4% 企業客戶由免費版轉化、海外版 Coohom 起價 USD 9.90／月、Planner 5D USD 4.99／月；全球調查顯示設計師最看重「速度」（Mattoboard 57%）且 Houzz 自報每週省逾 3 小時、HomeLane 自報設計成本 −25%。集團應以訂閱制統一設計部門的出圖、報價與效果圖，將「即時 3D 效果圖＋估價」做成簽單前端。沒有任何證據支持自研工具（群核上市後仍會計虧損、收入增速降至 8.6%、AI 新業務僅 0.6%）。
+2. **不自建媒合平台，把預算放在既有流量母體的案例與創作者內容**：2024–2026 年平台端的新證據一致為負——오늘의집 2025 再轉虧（−147 億韓元）、Livspace 以 AI 為由裁員 12%、NocNoc 連虧五年後關閉、Dekoruma 售出、土巴兔 COO 坦言 2025 下半年全行業流量下滑、齊屹線索量 −20%。正面證據集中在內容：小紅書家裝 GMV +2.5 倍、需求帖 +175%、30+ 博主單月漲粉 10 萬+。台灣對應作法是在 100室內設計（月訪 200 萬）、Instagram／YouTube 以「設計師創作者」經營工地實景與完工案例，並以仲介交易（貝殼模式 39% 導流）與家居門店（三翼鳥模式）作主獲客引擎。
+3. **把「履約保證＋節點付款＋第三方託管」做成可行銷的信任產品**：오늘의집導入施工責任保障後施工交易額近倍增並累計破 1 兆韓元、2025 年施工交易營收再增 3.5 倍；Qanvast 以 S$50,000 訂金保障＋訂閱制（不抽佣）建立中立形象；台灣住保會 2025 年履約 2,866 件／3.17 億元、國土署定型化契約草案即將施行。這是 12 市場中 ROI 證據最直接、成本最低的數位化項目。
+4. **BIM 以「甲方需求」而非「法規」規劃**：新加坡 CORENET X（2025-10 起分三階段）與香港（2025-04 公共工程）的 BIM 強制門檻皆在建築層級（新增 GFA ≥5,000 ㎡／公共工程），室內裝修未被涵蓋；香港私人圖則路線圖業界提及 2029 年。集團承接新加坡／香港商辦或公共案時須具備 IFC 輸出能力，住宅翻修線三年內無合規壓力。台灣可參考日本 ANDPAD（23 萬社）把施工管理 App 當作「工地透明化」的信任工具，而非 BIM。
+5. **裝配式／系統櫃：先建立台灣自己的基準數據**：中國政策（2025 住建部意見、2026 國務院十五五規劃、裝配式裝修指導意見徵求稿）把裝配式裝修綁在保障性租賃住房與城市更新，C 端滲透率無官方數字、市場規模各機構相差近一倍；台灣系統櫃則連產業統計都查無。集團家居零售線若要把系統櫃做成可線上下單的標準品（參考 Tokopedia 全裝套裝、三商美福設計＋家具＋貸款），須先以自身銷售數據建立滲透與毛利基準。
+6. **智慧家庭綁裝修以小規模合作試點**：唯一規模化案例是海爾三翼鳥的「家電門店導流整裝」（2024 零售破百億、260 家店入駐天貓、2025 近千店轉型），且 2025 年海爾已不再公布零售額；亞太市場規模研究機構數字互相矛盾（USD 302 億 vs 502 億）、五大品牌寡占 47%。台灣可與家電通路／櫻花等做「場景整裝」合作並量測綁售率，不宜自建 IoT 方案。
+7. **出海數位化優先順序：韓國平台入駐 > 中國小紅書內容 > 東南亞社群**：韓國 65.3% 消費者用過平台；中國獲客須掛在仲介／家電／定製家居的相鄰交易上並經營小紅書（商業筆記 +45%、信息流成本在大促前上漲）；東南亞平台正在退出（NocNoc、Dekoruma），獲客回到 Facebook／Zalo／Instagram 社團與建商交屋合作；馬來西亞須注意 LAM 2026 年起透過網路平台稽查未註冊業者。
+8. **補數據後再決策**：本輪仍缺 Coohom 台灣用戶與官方定價、任何亞洲設計師 AI 採用率調查、ANDPAD 官方導入數、CORENET X 室內條文、台灣系統櫃市占、各市場 CPL 基準、三翼鳥 2025 數據（見 §12）；任何「科技投資」決策應待這些補齊。
+
+---
+
+## 12. 資料缺口
+
+| 缺口項目 | 本輪狀態 | 建議取得方式 |
+|---|---|---|
+| 群核科技 2025 年報原文（MAU、個人付費、海外／台灣用戶、Coohom 官方定價） | 僅券商與媒體轉述；營收 8.20 vs 8.29 億口徑不一 | 港交所披露易 00068 2025 年報；Coohom 官網定價頁 |
+| Homestyler、Planner 5D、Spacely、SketchUp／Enscape／D5 Render 在亞洲各市場用戶數與官方定價 | 僅第三方比價站定價（互有矛盾）；用戶數無 | 各公司新聞稿、App 商店排名、Trimble／Chaos 年報 |
+| 亞洲 12 市場任一本地設計師 AI／3D 採用率與情緒調查（2025）、生產力量測 | 僅全球（Mattoboard）與美國（Houzz）調查 | CSID、KOSID、JID、HDII、MIID、SIDS 年度調查；Coohom／Houzz 亞洲版 |
+| 오늘의집 2025 累計施工交易額、MAU、抽成率；집닥 2025 累計交易額與財務 | 未公開；혁신의숲報告付費牆 | DART 감사보고서；집닥 보도자료；thevc.kr Pro |
+| ホームプロ／リショップナビ／SUUMO リフォーム 累計相談件數、成約數、抽成；加盟數 4,000／1,200 之官方出處 | 僅比較網站 | リクルート決算說明、各平台加盟店募集頁 |
+| ANDPAD 官方 2025 導入社数新聞稿與定價；Photoruction 等 | 僅比較網站（23 萬社） | アンドパッド プレスリリース、IR |
+| CORENET X Code of Practice 對室內 fit-out／PPVC 條文；香港私人圖則 BIM 強制年份；韓國 BIM 義務化、台灣 BIM | 建築層級規定已取得；室內條文無 | BCA COP 原文；DEVB 路線圖定稿；국토부 BIM 로드맵 |
+| 中國裝配式裝修全國滲透率（住建部口徑）與指導意見定稿；日本ユニットバス出貨；韓國빌트인滲透；新加坡 PPVC 室內規定；台灣系統櫃市場規模與市占；馬來西亞 IBS | 政策鏈已取得；滲透率全無；台灣系統櫃查無統計 | 住建部官網；住宅設備システム協會；BCA DfMA 指南；台灣家具公會／經濟部統計處；上市櫃系統家具廠年報 |
+| 三翼鳥 2025 零售額／門店數；Samsung SmartThings、Xiaomi、LIXIL、Panasonic、LG 於裝修案綁售率；各市場翻修案智慧家庭滲透率 | 海爾 2025 僅質性；研究機構市場規模矛盾 | 海爾智家 2025 年報；奧維雲網全屋智能報告；各品牌 IR |
+| 各市場「首次接觸管道」調查、社群線索占比、CPL 基準（新加坡／馬來西亞／台灣 Meta／Google）、轉化率 | 僅中（齊屹 527 元）、韓（資訊來源調查）；CPL 全無 | 各國消費者調查；Meta／Google 行業基準；代理商案例 |
+| Hometrust、Renopedia、Decor8、幸福空間、設計家、好好住、Recommend.my、Atap、Happynest 2025 用戶／案件數 | 全無（Hometrust 搜尋完全未出現） | 各平台官網／媒體；ACRA／SSM／商業司登記 |
+| NocNoc 結束服務之確切年份與 2025 年 GMV；Dekoruma 2025 營運數據 | 標題層級 | SCG 年報／季報；Blibli（BELI）年報 |
+| 所有引用 URL 均未開頁核對（WebFetch 封鎖） | 搜尋摘要層級 | 查核代理逐條開啟 |
+
+---
+
+## 13. 來源清單（標題｜機構｜年份｜URL；「本輪」＝本回合搜得；「繼承」＝沿用前版）
+
+### 中國大陸
+1. 群核科技 2025 年報解讀（企業客戶 47,416、ARPU、PLG 45.4%、SpatialVerse）｜36 氪｜2026｜https://www.36kr.com/p/3705744943460485｜本輪
+2. 國泰海通首次覆蓋群核科技「增持」目標價 24.90 港元｜同花順｜2026-05-22｜https://stock.10jqka.com.cn/20260522/c676897096.shtml｜本輪
+3. 群核科技(0068.HK)首次覆蓋報告：雲原生空間設計軟體領導者｜格隆匯｜2026｜https://m.gelonghui.com/news/5239188｜本輪
+4. 群核科技年報分析｜鈦媒體｜2026｜https://www.tmtpost.com/7960361.html｜本輪
+5. 群核科技 ITValue 文章｜鈦媒體｜2026｜https://www.tmtpost.com/7924100.html｜本輪
+6. 群核科技報導｜鳳凰科技｜2026｜https://tech.ifeng.com/c/8rxjRnyVj0p｜本輪
+7. 群核科技報導｜界面新聞｜2026｜https://www.jiemian.com/article/14341537.html｜本輪
+8. 群核科技報導｜界面新聞｜2026｜https://www.jiemian.com/article/14236839.html｜本輪
+9. 群核科技品牌分析｜數英｜2026｜https://www.digitaling.com/articles/1318302.html｜本輪
+10. 互聯網家裝平台 MAU 排名（Fastdata 2021-03）｜前瞻產業研究院｜2022-01｜https://bg.qianzhan.com/trends/detail/506/220129-cdb79966.html｜本輪
+11. 互聯網家裝平台活躍用戶規模 2016–2020｜前瞻產業研究院｜2021-08｜https://www.qianzhan.com/analyst/detail/220/210818-a123bf72.html｜本輪
+12. 土巴兔第十一屆生態大會 COO 復盤 2025｜楚天都市報｜2025-12｜https://www.ctdsb.net/c1734_202512/2623176.html｜本輪
+13. 好好住產品分析報告｜人人都是產品經理｜—｜https://www.woshipm.com/evaluating/5450670.html｜本輪
+14. 小紅書家居家裝 GMV +2.5 倍、博主漲粉、需求帖 +175%｜36 氪｜2025｜https://www.36kr.com/p/3331683375458568｜本輪
+15. 小紅書家居內容（海外站）｜36 氪｜2025｜https://eu.36kr.com/zh/p/3081593117145480｜本輪
+16. 千瓜：2025 年 1–5 月家居種草互動 >3 億、商業筆記 +45%｜人人都是產品經理｜2025｜https://www.woshipm.com/share/6243948.html｜本輪
+17. 小紅書家居行業分析｜人人都是產品經理｜2025｜https://www.woshipm.com/ai/6283320.html｜本輪
+18. 小紅書家居電商報導｜界面新聞｜2025｜https://www.jiemian.com/article/13491969.html｜本輪
+19. 小紅書紅貓計畫｜界面新聞｜2025｜https://www.jiemian.com/article/12790194.html｜本輪
+20. 2025 小紅書 618【大家電&家具&家裝設計】策略解碼｜發現報告｜2025｜https://www.fxbaogao.com/detail/5556825｜本輪
+21. 裝配式內裝助力「好房子」建設（住建部意見、十五五規劃）｜新華網｜2026-09-01｜https://www.news.cn/house/20260901/7f4f87117cd64456bbcfbce729c89b23/c.html｜本輪
+22. 住建部《促進裝配式裝修發展的指導意見（徵求意見稿）》｜格隆匯快訊｜2026｜https://m.gelonghui.com/live/2658510｜本輪
+23. 裝配式建築 2025 年 30% 目標｜中國證券報｜2022-02｜https://cs.com.cn/xwzx/hg/202202/t20220224_6244541.html｜本輪
+24. 福建省裝配式裝修試點文件｜福建省住建廳｜2024-03｜https://zjt.fujian.gov.cn/xxgk/zfxxgkzl/xxgkml/dfxfgzfgzhgfxwj/jzsc/202403/P020240311498323463954.pdf｜本輪
+25. 上海市裝配式相關文件｜上海市住建委｜—｜https://zjw.sh.gov.cn/cmsres/de/de8050460b294f9e81f3f3198e8b0367/b80791aa8c389e36eb5f8dc5f0058ce6.pdf｜本輪
+26. 裝配式裝修市場規模 2016–2025｜智研諮詢｜2025｜https://www.chyxx.com/cyzx/1274143.html｜本輪
+27. 裝配式裝修市場規模（另一口徑）｜智研諮詢｜—｜https://www.chyxx.com/industry/1256864.html｜本輪
+28. 裝配式裝修行業報告｜觀研天下｜2025-09｜https://www.chinabaogao.com/baogao/202509/765872.html｜本輪
+29. 裝配式裝修行業報告｜觀研天下｜2026-04｜https://www.chinabaogao.com/baogao/202604/789870.html｜本輪
+30. 裝配式裝修從 To B 到 To C｜鈦媒體｜—｜https://www.tmtpost.com/7451937.html｜本輪
+31. 三翼鳥門店首批 260 家入駐天貓喵店｜海爾｜2024-03-15｜https://www.haier.com/press-events/news/20240315_236326.shtml｜本輪
+32. 三翼鳥月活 675 萬、15,747 套方案｜海爾｜2022-03-02｜https://www.haier.com/press-events/news/20220302_176521.shtml｜本輪
+33. 三翼鳥建博會 AI 智慧家（Uhome 大模型）｜海爾｜2025-07-10｜https://www.haier.com/about_haier/xinwen/20250710_268034.shtml｜本輪
+34. 海爾智家 2025 近千家品牌店「變身」｜海爾｜2025-12-16｜https://www.haier.com/about_haier/xinwen/20251216_284062.shtml｜本輪
+35. 三翼鳥批評報導｜界面新聞｜—｜https://www.jiemian.com/article/9656862.html｜本輪
+36. 三翼鳥報導｜界面新聞｜—｜https://www.jiemian.com/article/10683531.html｜本輪
+37. 群核 MAU／付費客戶／NRR｜新浪港股｜2026-02-24｜https://finance.sina.com.cn/stock/hkstock/hkzmt/2026-02-24/doc-inhnyyvp1282748.shtml｜繼承
+38. 群核上市｜21 經濟網｜2026-04-09｜https://www.21jingji.com/article/20260409/herald/4a8ab282072f3daa5bf46a36e81fe0cc.html｜繼承
+39. 群核上市 3 個月跌回發行價｜新浪科技｜2026-08-07｜https://finance.sina.com.cn/tech/roll/2026-08-07/doc-inimnenp3338147.shtml｜繼承
+40. 群核招股書解讀（海外 7.4%）｜36 氪｜2025｜https://www.36kr.com/p/3169957639825921｜繼承
+41. China's answer to Autodesk｜SCMP｜2025｜https://www.scmp.com/tech/tech-trends/article/3309107/chinas-answer-autodesk-manycore-bets-ai-future-spatial-intelligence｜繼承
+42. 齊屹科技 2024 年報（線索 527 元）｜同花順｜2025-04-27｜https://stock.10jqka.com.cn/20250427/c667789677.shtml｜繼承
+43. 土巴兔招股書銷售費用率｜華爾街見聞｜2022｜https://wallstreetcn.com/articles/3634603｜繼承
+44. 貝殼 2025 家裝家居｜新浪｜2026-03-16｜https://finance.sina.com.cn/stock/estate/integration/2026-03-16/doc-inhrequs9902543.shtml｜繼承
+45. 互聯網家裝滲透率 20.8%｜前瞻｜2024｜https://www.qianzhan.com/analyst/detail/220/240428-25c71993.html｜繼承
+46. 貝殼交易導流 39%｜21 經濟網｜2023｜https://www.21jingji.com/article/20230318/herald/e28a277c5184a40ee1804a3896d521ba.html｜繼承
+47. 土巴兔節點付款託管｜澎湃｜2024｜https://www.thepaper.cn/newsDetail_forward_27769661｜繼承
+48. 三翼鳥 2024 零售破百億｜新浪科技｜2025-01-20｜https://finance.sina.com.cn/tech/roll/2025-01-20/doc-inefrnxv9444188.shtml｜繼承
+49. 家裝廚衛煥新補貼（商辦消費函〔2025〕29 號）｜中國政府網｜2025-01｜https://www.gov.cn/zhengce/zhengceku/202501/content_7001494.htm｜繼承
+50. 亞廈股份 2025 年報｜新浪｜2026-04-30｜https://finance.sina.cn/2026-04-30/detail-inhwhene7094454.d.html｜繼承
+
+### 韓國
+51. 오늘의집 창사 첫 매출 3,000억 돌파（2025 매출 3,215억, 영업손실 147억）｜데일리안｜2026-04｜https://www.dailian.co.kr/news/view/1633470/｜本輪
+52. 오늘의집 비즈니스모델 분석（2024 매출 2,879억·시공 누적 1조）｜데모데이｜2025｜https://demoday.co.kr/bm-analysis/109｜本輪
+53. 오늘의집 창사 10년 만에 첫 연간 흑자｜디지털데일리｜2025-03-31｜https://www.ddaily.co.kr/page/view/2025033115305138841｜本輪
+54. 오늘의집 2024 실적｜뉴데일리｜2025-03-31｜https://biz.newdaily.co.kr/site/data/html/2025/03/31/2025033100342.amp.html｜本輪
+55. 버킷플레이스 기업정보｜The VC｜2026｜https://thevc.kr/bucketplace｜本輪
+56. 프롭테크 스타트업 성장 비교분석（직방·오늘의집·집닥；付費牆）｜혁신의숲｜—｜https://innoforest.co.kr/report/NS00000030｜本輪
+57. 오늘의집 딜 관련｜딜사이트｜—｜https://dealsite.co.kr/articles/139114｜本輪
+58. 집닥 累計交易額（投資方）｜빅뱅엔젤스｜—｜https://blog.bigbangangels.com/zipdoc/｜繼承
+59. 아파트멘터리×LG전자｜테크42｜2025-10｜https://www.tech42.co.kr/아파트멘터리-lg전자-전략적-투자-유치-ai융합-몰입형/｜繼承
+60. 公正委 4 平台自律協約｜korea.kr｜2024-12-16｜https://www.korea.kr/briefing/pressReleaseView.do?newsId=156665860&pWise=sub&pWiseSub=C2｜繼承
+61. 더리빙 消費者調查（2680／3198／1962 人）｜더리빙｜2023–2025｜https://www.theliving.co.kr/news/articleView.html?idxno=21707｜繼承
+62. KiwiSurvey 裝修資訊管道｜KiwiSurvey｜2023｜https://kiwisurvey.kr/report/detail?id=85｜繼承
+63. KCA 對숨고등平台警示｜경향신문｜2025-07｜https://www.khan.co.kr/article/202507011523011｜繼承
+
+### 日本
+64. リフォーム比較サイト（リショップナビ 4,000 社／ホームプロ 1,200 社）｜crexgroup｜2025｜https://crexgroup.com/ja/reform/?p=1966｜本輪
+65. 『ホームプロ&SUUMO SUCCESS MEET 2026』25 週年｜PR TIMES｜2026｜https://prtimes.jp/main/html/rd/p/000000005.000136710.html｜本輪
+66. ニッカホーム ホームプロ・SUUMO 雙料得獎｜koubo.jp（PR TIMES）｜2026｜https://koubo.jp/press-release/prtimes/c74598_r329｜本輪
+67. SUUMO カウンター リフォーム 相談方式｜ダイヤモンド不動産｜—｜https://diamond-fudosan.jp/articles/-/1111670｜本輪
+68. ANDPAD 利用社数 23 萬社／68 萬人（MIC 2025-12）｜IT トレンド｜2026-03｜https://it-trend.jp/construction_management_system/15908｜本輪
+69. ANDPAD App Store（13 萬社／33 萬人）｜Apple｜—｜https://apps.apple.com/jp/app/andpad-カンタン施工管理アプリ/id1067643333｜本輪
+70. ANDPAD サービス開始 1 年で 350 社｜THE BRIDGE｜2017-01｜https://thebridge.jp/2017/01/andpad｜本輪
+71. ANDPAD AWARD 2025 DX カンパニー部門｜koubo.jp（PR TIMES）｜2025｜https://koubo.jp/press-release/prtimes/c18154_r143｜本輪
+72. 建築基準法四號特例縮小｜国土交通省｜2025｜https://www.mlit.go.jp/common/001500388.pdf｜繼承
+73. 生活堂 リフォーム売上ランキング｜生活堂｜2025-12｜https://www.seikatsu-do.com/information/20251224.php｜繼承
+74. 點檢商法諮詢件數｜国民生活センター｜2025｜https://www.kokusen.go.jp/soudan_topics/data/reformtenken.html｜繼承
+
+### 台灣
+75. 數字科技拓室內設計版圖 平台月訪量突破 200 萬次｜鉅亨網（Yahoo）｜2024-04｜https://tw.stock.yahoo.com/news/房產-數字科技拓室內設計版圖-平台月訪量突破200萬次-075452062.html｜本輪
+76. 裝修市場熱！年產值上看 5,500 億 業者曝 2026 裝修趨勢（精準媒合系統）｜經濟日報｜2026-01｜https://udn.com/news/story/7241/9245511｜本輪
+77. PULO 裝潢平台（專家版）｜App Store｜—｜https://apps.apple.com/tw/app/pulo-裝潢平台-專家版/id1266584276｜本輪
+78. PULO 裝潢平台（屋主版）｜App Store｜—｜https://apps.apple.com/app/id1163661219｜本輪
+79. 幸福空間設計師頁｜hhh.com.tw｜—｜https://hhh.com.tw/designers/detail/2｜本輪
+80. 台灣裝修平台比較｜LINE TODAY｜2026｜https://today.line.me/tw/v3/article/gzXWjgz｜本輪
+81. 100室內設計 2025 年 15,000 筆需求／4,000 筆簽約｜NOWnews｜2026｜https://www.nownews.com/news/6770793｜繼承
+82. 住保會 2025 履約 2,866 件｜理財周刊｜2026｜https://www.moneyweekly.com.tw/_Article?AID=247503｜繼承
+83. 國土署定型化契約草案｜國土署｜2025-11｜https://www.nlma.gov.tw/uploads/files/4a4f5b6c19d35226adf133a9a2bde45d.pdf｜繼承
+84. 全球模組化儲存系統市場（非台灣）｜GII｜2025｜https://www.gii.tw/report/gis2107936-modular-storage-system-market-analysis-forecast.html｜本輪
+
+### 新加坡／馬來西亞
+85. Qanvast About Us（70,000+ 屋主）｜Qanvast｜—｜https://qanvast.com/sg/about-us｜本輪
+86. Qanvast About Us（MY）｜Qanvast｜—｜https://qanvast.com/my/about-us｜本輪
+87. Qanvast 訂閱制說明｜G2｜—｜https://www.g2.com/products/qanvast/discuss｜本輪
+88. 新裝修屋主調查／平台生態（Qanvast S$50,000 保障）｜TODAY／Malay Mail｜2024-07-15｜https://malaymail.com/news/life/2024/07/15/to-build-your-dream-home-must-you-endure-a-nightmare-what-new-homeowners-wish-theyd-known-before-starting-renovations/143750｜本輪
+89. Guide to Renovation and Interior Design Comparison Platforms in Singapore｜SingSaver｜2025｜https://www.singsaver.com.sg/blog/renovation-interior-design-comparison-platforms-singapore｜本輪
+90. Qanvast app 介紹｜Vulcan Post｜—｜https://vulcanpost.com/522341/the-only-interior-designing-app-in-singapore-you-need-for-an-easy-renovation-journey/｜本輪
+91. CORENET X 實施計畫（DC23-07）｜URA｜2023｜https://www.ura.gov.sg/guidelines/circulars/dc23-07/｜本輪
+92. URA 通函 DC23-01｜URA｜2023｜https://www.ura.gov.sg/Corporate/Guidelines/Circulars/dc23-01｜本輪
+93. BCA revises CORENET X timeline（2025-10／2026-10／2027-10）｜Southeast Asia Construction｜2025-01-24｜https://bkt.tradelinkmedia.biz/publications/7/news/5701｜本輪
+94. From October 2025 CORENET X mandatory｜99.co｜2025｜https://www.99.co/singapore/insider/from-october-2025-corenet-x-mandatory-for-building-submissions/｜本輪
+95. Building Information Modelling (BIM) 要求（GFA ≥5,000 ㎡、IFC-SG）｜BCA｜現行｜https://www1.bca.gov.sg/safety-and-standards/lifts-escalators-and-mechanised-car-parking-systems/building-information-modelling-bim/｜本輪
+96. Guide to BDAS for COP 2022（2026-03 版；DfMA 合規途徑）｜BCA｜2026｜https://isomer-user-content.by.gov.sg/338/a3a927bf-f335-418d-9e96-ba76a3c9eb84/Guide%20to%20BDAS%20for%20COP%202022_Mar26%20version%20v1.pdf｜本輪
+97. 新加坡裝修成本（Homees 2024）｜Home & Decor｜2024｜https://www.homeanddecor.com.sg/renovation/interior-designer-or-contractor｜本輪
+98. Cost of interior designer Singapore｜SingSaver｜2025｜https://www.singsaver.com.sg/blog/cost-of-interior-designer-singapore｜本輪
+99. Interior Design Malaysia 指南｜Shinjiru｜2026｜https://digital.shinjiru.com.my/?p=3976｜本輪
+100. Recommend.my 公司檔案｜Craft.co｜—｜https://craft.co/recommend-my｜本輪
+101. Atap.co solves your renovation problems｜Digital News Asia｜2017｜https://www.digitalnewsasia.com/startup-scaleups/atapco-solves-your-renovation-problems-clever-online-tools｜本輪
+102. Qanvast 併購｜Allen & Gledhill｜2022｜https://www.allenandgledhill.com/perspectives/articles/21509/acquisition-of-a-majority-stake-in-qanvast-pte-ltd-by-interiortepte-ltd｜繼承
+103. LAM 2026 第 1 號通函｜LAM（X）｜2026｜https://x.com/LembagaArkitek/status/2065266904147939778｜繼承
+
+### 香港
+104. HK DECOMAN TECHNOLOGY Limited｜HKTDC 一帶一路｜—｜https://beltandroad.hktdc.com/en/node/62513｜本輪
+105. Benny Liu Pui Yin（裝修佬創辦人，估值 HK$1.5 億）｜PolyU 校友｜2023｜https://www.polyu.edu.hk/alumni/featured-alumni/young-achievers/benny-liu-pui-yin/?sc_lang=en｜本輪
+106. 裝修佬 Decoman 進軍台灣（1,500 家業者）｜INSIDE｜—｜https://www.inside.com.tw/article/27152-decoman｜本輪
+107. 裝修佬報導（交易額 HK$2 億）｜鉅亨號｜—｜https://hao.cnyes.com/post/229203｜本輪
+108. 裝修平台比較 2025｜MoneyHero｜2025｜https://www.moneyhero.com.hk/blog/zh/裝修全攻略-全屋裝修報價-裝修平台比較｜本輪
+109. HKSAR Government's Current Directives for BIM Development（TC(W) 1/2025）｜FTI Consulting｜2025｜https://www.fticonsulting.com/insights/articles/hksar-governments-directives-bim-development｜本輪
+110. Evolution of Hong Kong's BIM policy｜Turner & Townsend｜2025｜https://www.turnerandtownsend.com/insights/digital-built-environment-evolution-of-hong-kongs-bim-policy/｜本輪
+111. BIM Book｜發展局（DEVB）｜—｜https://www.devb.gov.hk:443/filemanager/en/content_2373/BIM-Book-content-en.pdf｜本輪
+112. Building Information Modelling 頁（鼓勵採用、圖則為準）｜屋宇署｜現行｜https://bd.gov.hk/en/resources/online-tools/building-information-modelling/index.html｜本輪
+113. PL071e｜屋宇署｜2023｜https://www.bd.gov.hk/doc/en/resources/codes-and-references/notices-and-reports/SFCQ2023/PL071e.pdf｜本輪
+114. CIC BIM 委員會紀錄（2029 目標）｜CIC｜2024-07｜https://cic.hk/files/committee_file/6/file/10700/en/CIC-BIM-M-002-24_e.pdf｜本輪
+115. HKIE 對 BIM 路線圖意見書｜HKIE｜2025-11｜https://hkie.org.hk/wp-content/uploads/hkie/20251119/65e6c27d1dc04.pdf｜本輪
+116. BIM Policy in HK｜CIC｜—｜https://bim.cic.hk/en/bim_in_hk｜本輪
+
+### 印度
+117. HomeLane targets IPO within two years（FY25 Rs 747.8 crore）｜D2C Insider｜2025｜https://pulse.d2cinsider.com/homelane-targets-ipo-within-two-years-as-ai-powered-home-interiors-brand-accelerates-expansion-and-growth/｜本輪
+118. HomeLane eyes Rs 1,000 crore（AI 設計成本 −25%）｜D2C Insider｜2025｜https://pulse.d2cinsider.com/homelane-eyes-e2-82-b91000-crore-revenue-as-ai-and-category-expansion-drive-growth/｜本輪
+119. Inside HomeLane's Decade-Long Quest｜Inc42｜2025｜https://inc42.com/?p=566464｜本輪
+120. HomeLane SpaceCraft（AI＋AR）｜Inc42｜—｜https://inc42.com/?p=185338｜本輪
+121. HomeLane raises USD 30 million｜KrASIA｜—｜https://kr-asia.com/accel-backed-indian-interior-design-startup-homelane-raises-usd-30-million｜本輪
+122. Livspace 公司檔案（FY25、EBITDA）｜CB Insights｜2025｜https://www.cbinsights.com/company/livspace｜本輪
+123. Livspace AI 裁員 ~1,000 人｜AI Market Watch｜2026｜https://www.ai-market-watch.com/company/livspace｜本輪
+124. HomeLane 公司檔案｜CB Insights｜—｜https://www.cbinsights.com/company/homelane｜本輪
+125. Livspace FY25 淨損 Rs 242 crore｜Entrackr｜2025｜https://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863｜繼承
+126. HomeLane FY25 費用結構｜Entrackr｜2025｜https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234｜繼承
+
+### 印尼
+127. Blibli.com to acquire Dekoruma for IDR 1.16 trillion｜IDN Financials｜2024｜https://www.idnfinancials.com/news/50131/blibli-com-to-acquire-dekoruma-for-idr-1-16-trillion?sl=en｜本輪
+128. Dekoruma 混合模式（Endeavor）｜Endeavor Indonesia｜2024｜https://indonesia.endeavor.org/?p=400259｜本輪
+129. Dekoruma 投資人檔案｜CB Insights｜—｜https://www.cbinsights.com/investor/dekoruma｜本輪
+130. Blibli acquires Dekoruma｜Techleap｜2024｜https://finder.techleap.nl/news/feed/blibli-acquires-dekoruma-for-rp-1-16t｜本輪
+131. Dekoruma 資產檔案｜Preqin｜—｜https://preqin.com/data/profile/asset/pt-dekoruma-inovasi-lestari/299315｜本輪
+132. Fabelio 破產｜CNBC Indonesia｜2022｜https://www.cnbcindonesia.com/tech/20221012071341-37-379004/sudah-galang-rp-300-miliar-startup-fabelio-kini-pailit｜繼承
+133. Kanggo 月活 3.6 萬｜Investor.id｜2025｜https://investor.id/business/409706/pengguna-kanggo-tembus-36-ribu-layanan-perawatan-bangunan-kian-diminati｜繼承
+
+### 泰國
+134. ทุนใหญ่ผนึกกำลัง ดัน Nocnoc（SCG+Musby >39 億泰銖）｜ไทยรัฐ｜—｜https://www.thairath.co.th/money/tech_innovation/tech_companies/2698864｜本輪
+135. NocNoc ยอดขายโต 100% สะสม 15,000 ล้านบาท｜Marketeer｜—｜https://marketeeronline.co/archives/339473｜本輪
+136. NocNoc 2020–2024 無獲利｜ประชาชาติธุรกิจ｜2026-01｜https://www.prachachat.net/?p=1948208｜本輪
+137. NocNoc 宣布結束服務（2 月 9 日）｜ฐานเศรษฐกิจ｜2026｜https://www.thansettakij.com/technology/648571｜本輪
+138. NocNoc 報導｜Bangkok Post｜—｜https://www.bangkokpost.com/business/general/2677164｜本輪
+139. Spacely AI Secures US$1 Million Seed Round｜TechSauce｜2025-07｜https://techsauce.co/en/news/spacely-ai-raises-1m-generative-ai-architecture｜本輪
+140. Spacely AI Seed（公司部落格）｜Spacely AI｜2025-07｜https://spacely.ai/blog/spacely-ai-secures-us-1-million-seed-round-to-super-charge-generative-ai-design-for-architects-worldwide｜本輪
+141. Spacely AI Pre-Seed from SCB 10X｜Spacely AI｜2024-03｜https://resources.spacely.ai/spacely-ai-raises-pre-seed-funding-from-scb-10x-and-launches-revolutionary-spatial-design-apis｜本輪
+142. Spacely AI 募資｜DealStreetAsia｜2024｜https://dealstreetasia.com/?p=388186｜本輪
+143. Spacely AI Seed｜Barchart｜2025-07｜https://www.barchart.com/story/news/33532372/spacely-ai-secures-us-1-million-seed-round-to-supercharge-generative-ai-design-for-architects-worldwide｜本輪
+
+### 越南／菲律賓（繼承）
+144. Happynest 介紹｜Happynest｜—｜https://v2.happynest.vn/gioi-thieu｜繼承
+145. Vietbuild 2025 智慧家居攤位｜Mekong ASEAN｜2025｜https://mekongasean.vn/cac-gian-hang-giai-phap-nha-thong-minh-hut-khach-tai-vietbuild-2025-42065.html｜繼承
+146. 越南社群趨勢 2026｜Elite Asia｜2026｜https://www.eliteasia.co/top-digital-and-social-media-trends-in-vietnam-in-2026/｜繼承
+147. Wilcon 2024 專案銷售｜Inquirer Plus｜2025｜https://plus.inquirer.net/?p=256738｜繼承
+
+### 跨國：AI 工具、設計師調查、智慧家庭
+148. Mattoboard State of AI & Interior Design Report（n=328）｜officeinsight｜2025-11｜https://officeinsight.com/officenewswire/the-first-state-of-ai-interior-design-report-from-mattoboard-reveals-an-ai-paradox-adoption-is-widespread-but-creative-integrity-fears-persist/｜本輪
+149. Interior designers share mixed feelings about AI use｜Gifts & Decorative Accessories｜2025-11-20｜https://www.giftsanddec.com/research-and-analysis/help-or-hindrance-interior-designers-share-mixed-feelings-about-ai-use/｜本輪
+150. A new Houzz report says AI saves designers $75K｜Business of Home｜2025-07-18｜https://businessofhome.com/articles/a-new-houzz-report-says-ai-saves-designers-75k｜本輪
+151. US AI Adoption in Construction and Design 2025（Houzz）｜Hiverlab｜2025｜https://hiverlab.com/us-ai-adoption-in-construction-new-2025-highs-houzz/｜本輪
+152. Houzz AI report｜Kitchen & Bath Design News｜2025｜https://www.kitchenbathdesign.com/?p=202951｜本輪
+153. Houzz UK AI adoption｜kbbfocus｜2025｜https://kbbfocus.com/news/6084-new-houzz-report-ai-adoption-grows-across-uk-construction-and-design｜本輪
+154. 2025 Industry Report: State of Design Software and AI Integration（92%）｜Forem／scour.ing｜2025｜https://scour.ing/@minezone/p/https://future.forem.com/futureform_lab/2025-industry-report-the-state-of-design-software-and-ai-integration-57k7｜本輪
+155. The acceptance of AI by an Australian interior design community｜Torrens University｜2025｜https://research.torrens.edu.au/en/publications/the-acceptance-of-artificial-intelligence-ai-by-an-australian-int/｜本輪
+156. Compare Coohom vs D5 Render（定價）｜Capterra｜2026｜https://capterra.com/compare/192882-10005615/Coohom-vs-D5-Render｜本輪
+157. Homestyler Pricing, Alternatives｜Capterra｜2026｜https://www.capterra.com/p/10016145/Homestyler/reviews｜本輪
+158. Planner 5D 定價｜Capterra（IE）｜2026｜https://www.capterra.ie/software/164022/planner-5d｜本輪
+159. Top 9 Coohom Alternatives｜DesignFiles｜2025｜https://blog.designfiles.co/coohom-alternative/｜本輪
+160. Homestyler alternatives｜GetApp｜2025｜https://www.getapp.com/all-software/a/homestyler/alternatives｜本輪
+161. 3D Home Design Free tools｜Wearify｜2025｜https://thewearify.com/3d-home-design-free/｜本輪
+162. Asia Pacific Smart Home Automation Market（USD 30.2bn 2025）｜Ken Research｜2025｜https://www.kenresearch.com/asia-pacific-smart-home-automation-market｜本輪
+163. Asia Pacific Smart Homes Market（USD 50.2bn 2024）｜Ken Research｜2025｜https://www.kenresearch.com/industry-reports/asia-pacific-smart-homes-market｜本輪
+164. Asia Pacific Smart Home Market｜Spherical Insights｜2025｜https://www.sphericalinsights.com/reports/asia-pacific-smart-home-market｜本輪
+165. 스마트 홈 시장（五大品牌 47%）｜Global Market Insights｜2025｜https://www.gminsights.com/ko/industry-analysis/smart-home-market｜本輪
+166. Connected homes: APAC embraces smart home living（Braze）｜Marketing-Interactive｜2026-05｜https://www.marketing-interactive.com/connected-homes-apac-embraces-smart-home-living｜本輪
+167. Samsung SmartThings／Xiaomi IoT 投資（舊聞）｜Business Wire｜2019｜https://www.businesswire.com/news/home/20190110005268/en/｜本輪
+168. Smart homes in China 主題頁｜Statista｜—｜https://statista.com/topics/7207/smart-homes-in-china｜本輪
