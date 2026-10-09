@@ -504,5 +504,37 @@ TW,〔r2〕詩肯居家獨立店數,12,家,無資料,TE-84,https://news.cnyes.co
 | TE-53 | Steve Leung Design Group 2022 中期業績 | HKEXnews／梁志天設計集團 | 2022 | 英文 | https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0818/2022081800211.pdf | 搜尋結果內容 |
 | TE-54 | Steve Leung Design Group 2025 中期業績摘要 | TipRanks | 2025 | 希伯來文 | https://il.tipranks.com/news/company-announcements/2358049 | 搜尋結果內容 |
 | TE-55 | Steve Leung Design Group Limited – second largest interior design services provider in the PRC and Hong Kong – announces details of proposed listing | Media OutReach | 2018 | 英文 | https://www.media-outreach.vn/news/hong-kong/2018/06/26/5879/steve-leung-design-group-limited-second-largest-interior-design-services-providers-in-the-prc-and-hong-kong1-announces-details-of-proposed-listing-on-main-board-of-sehk/ | 搜尋結果內容 |
+| TE-56〔r2〕 | ABOUT－亞俬設計顧問有限公司 | 亞俬設計顧問（Arez Design Consultant） | 無資料（現行頁面） | 繁中 | https://www.arezdesignconsultant.com/paper/other_page.php?id=1868 | 搜尋結果內容 |
+| TE-57〔r2〕 | 大和ハウス・住友林業・野村不動産、ベトナムで高級住宅開発、住宅各社・東南アジアの住宅市場開拓加速 | 住宅新報 | 無資料（摘要稱約 2,800 天前） | 日文 | https://www.housenews.jp/house/10847 | 搜尋結果內容 |
+| TE-58〔r2〕 | 【業界を読む】米国、豪州、アジア、そして欧州へ 住宅大手による海外住宅事業の今 | NetIB-News（データ・マックス） | 無資料 | 日文 | https://www.data-max.co.jp/article/77749 | 搜尋結果內容 |
+| TE-59〔r2〕 | Japanese HomeBuilders Pouring Into American Market | The Real Deal | 2026 | 英文 | https://therealdeal.com/international/2026/03/31/japanese-homebuilders-pouring-into-american-market/ | 搜尋結果內容 |
+| TE-60〔r2〕 | Sekisui House | Wikipedia | 無資料 | 英文 | https://en.wikipedia.org/wiki/Sekisui_House | 搜尋結果內容 |
+| TE-61〔r2〕 | 大和ハウスの注文住宅、最低価格5000万円に コスト高で23道県は撤退 | 日本経済新聞 | 2026 | 日文 | https://www.nikkei.com/article/DGXZQOUF281MV0Y6A820C2000000/ | 搜尋結果內容 |
+| TE-62〔r2〕 | LIXIL 2017年3月期第2四半期決算説明資料（適時開示 PDF） | LIXIL／日本取引所グループ | 2016 | 日文 | https://www2.jpx.co.jp/disc/59380/140120161107432620.pdf | 搜尋結果內容 |
+| TE-63〔r2〕 | Japan's Lixil plans to divest majority stake in home improvement store unit | DealStreetAsia | 無資料 | 英文 | https://dealstreetasia.com/?p=191968 | 搜尋結果內容 |
+| TE-64〔r2〕 | LIXIL 米国浴槽事業譲渡（M&A ニュース） | 日本M&Aセンター | 2025 | 日文 | https://www.nihon-ma.co.jp/news/20250402_5938-14/ | 搜尋結果內容 |
+| TE-65〔r2〕 | Japan's LIXIL denies report it considered MBO, move to Singapore | Business Standard／Reuters | 2019 | 英文 | https://www.business-standard.com/amp/article/reuters/japan-s-lixil-denies-report-it-considered-mbo-move-to-singapore-119012100084_1.html | 搜尋結果內容 |
+| TE-66〔r2〕 | Ikano Retail | Ikano Group | 無資料（現行頁面） | 英文 | https://group.ikano/stories/ikano-retail/ | 搜尋結果內容 |
+| TE-67〔r2〕 | Ikea franchisee Ikano posts RM1.58bil revenue in Malaysia | New Straits Times | 2023 | 英文 | https://www.nst.com.my/amp/business/corporate/2023/10/966041/ikea-franchisee-ikano-posts-rm158bil-revenue-malaysia | 搜尋結果內容 |
+| TE-68〔r2〕 | IKEA franchisee reports 3.3% revenue growth to P42 billion | BusinessWorld | 無資料 | 英文 | https://www.bworldonline.com/?p=403770 | 搜尋結果內容 |
+| TE-69〔r2〕 | IKEA pivots to smaller stores, shutting 7 China sites | Jing Daily | 2026 | 英文 | https://jingdaily.com/intels/2026-01/08/ikea-pivots-to-smaller-stores-shutting-7-china-sites | 搜尋結果內容 |
+| TE-70〔r2〕 | IKEA to close seven stores in China amid strategy shift | Tuổi Trẻ News | 2026 | 英文 | https://news.tuoitre.vn/print/ikea-to-close-seven-stores-in-china-amid-strategy-shift-103260108083722246.htm | 搜尋結果內容 |
+| TE-71〔r2〕 | IKEA to close seven China stores | Retail Insight Network | 2026 | 英文 | https://www.retail-insight-network.com/newsletters/ikea-close-seven-china-stores | 搜尋結果內容 |
+| TE-72〔r2〕 | Exclusive: With Reverse Flip In Cart, Livspace Nets INR 427 Cr From Singapore Parent | Inc42 | 無資料 | 英文 | https://inc42.com/buzz/exclusive-with-reverse-flip-in-cart-livspace-nets-inr-427-cr-from-singapore-parent/ | 搜尋結果內容 |
+| TE-73〔r2〕 | Livspace launches experience centres in Singapore | Inside Retail Asia | 2022 | 英文 | https://insideretail.asia/2022/11/29/livspace-launches-experience-centres-in-singapore/ | 搜尋結果內容 |
+| TE-74〔r2〕 | Livspace（公司頁） | LinkedIn | 無資料 | 英文 | https://sg.linkedin.com/company/livspace | 搜尋結果內容 |
+| TE-75〔r2〕 | 梁志天設計集團 2026 年中期報告（東方財富轉載 PDF） | 梁志天設計集團／東方財富 | 2026 | 中文 | https://pdf.dfcfw.com/pdf/H2_AN202608251828407478_1.pdf | 搜尋結果內容 |
+| TE-76〔r2〕 | 梁志天設計（02262）公告列表 | 理杏仁 Lixinger | 2026 | 簡中 | https://www.lixinger.com/equity/company/detail/hk/02262/2262/announcement | 搜尋結果內容 |
+| TE-77〔r2〕 | 欧派172.3亿，索菲亚93.7亿、尚品宅配35.52亿、金牌家居33亿…九大定制家居上市企业2025年业绩全览 | 新浪財經 | 2026 | 簡中 | https://finance.sina.com.cn/wm/2026-04-29/doc-inhwcvfh7817283.shtml?cre=tianyi&mod=pcfinhkst&loc=9&r=0&rfunc=4&tj=cxvertical_pc_finhkst&tr=12 | 搜尋結果內容 |
+| TE-78〔r2〕 | 定制家居企业上半年业绩承压，索菲亚营利双降，多数企业出海、发力存量房业务 | 新浪財經 | 2025 | 簡中 | https://finance.sina.com.cn/roll/2025-09-03/doc-infpftfy7581179.shtml | 搜尋結果內容 |
+| TE-79〔r2〕 | 索菲亚：AI全链路赋能提效降本，海外业务成重要增量 | 瑞財經 | 無資料 | 簡中 | https://m.rccaijing.com/news-7467096612750948211.html | 搜尋結果內容 |
+| TE-80〔r2〕 | 家居企业"半年考"：欧派、顾家净利润同比下滑，企业寻求海外市场突破 | 21 經濟網 | 2024 | 簡中 | https://www.21jingji.com/article/20240916/herald/a447195ac38b84dfd1e6f3a1787f3783.html | 搜尋結果內容 |
+| TE-81〔r2〕 | 超全！欧派82.4亿、索菲亚45.5亿、志邦18.9亿、尚品15.5亿、金牌14.7亿…9大定制2025半年报一览 | 新浪財經 | 2025 | 簡中 | https://finance.sina.com.cn/stock/relnews/cn/2025-08-29/doc-infnsira2494201.shtml | 搜尋結果內容 |
+| TE-82〔r2〕 | 群核科技上市相關報導 | 新浪財經 | 2026 | 簡中 | https://finance.sina.com.cn/roll/2026-04-15/doc-inhupqxi8541563.shtml | 搜尋結果內容 |
+| TE-83〔r2〕 | 酷家乐母公司群核科技赴美上市，能否开启互联网家装新篇章？｜IPO见闻 | 華爾街見聞 | 無資料 | 簡中 | https://wallstreetcn.com/articles/3634297 | 搜尋結果內容 |
+| TE-84〔r2〕 | 詩肯代理 Nolte Group 旗下 CS Schmal 相關報導 | 鉅亨網 | 無資料 | 繁中 | https://news.cnyes.com/news/id/628493 | 搜尋結果內容 |
+| TE-85〔r2〕 | Factory owner Lu opens store prototype in Taiwan | Furniture Today | 2011 | 英文 | https://www.furnituretoday.com/business-news/factory-owner-lu-opens-store-prototype-in-taiwan | 搜尋結果內容 |
+| TE-86〔r2〕 | IKEA'nın küçük mağaza planı tutmadı mı? 13 perakende noktası kapanıyor | CNBC-e | 2026 | 土耳其文 | https://www.cnbce.com/sirket-haberleri/ikeanin-kucuk-magaza-plani-tutmadi-mi-13-perakende-noktasi-kapaniyor-h37141 | 搜尋結果內容 |
+| TE-87〔r2〕 | LIXIL 適時開示（2024，美國子公司 DPI 解散相關） | LIXIL／日本取引所グループ | 2024 | 日文 | https://www2.jpx.co.jp/disc/59380/140120240219539414.pdf | 搜尋結果內容 |
 
 > 來源說明：TE-04、TE-11、TE-44 為保留編號（未引用）；實際引用 52 條。在地語言來源（引用者）：繁中 3（TE-01～03）、韓文 6（TE-05～10）、日文 9（TE-12、13、15～21）、越南文 1（TE-24）、希伯來文 1（TE-54，二手摘要）。所有 URL 均原樣取自本輪 WebSearch 結果，未經建構或修改；讀取方式均為搜尋結果內容（未以 WebFetch 開啟全文），故數字信心上限多為「中」，僅港交所公告與多源一致之印度申報數字列「高」。
