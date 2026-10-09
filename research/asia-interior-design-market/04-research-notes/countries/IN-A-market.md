@@ -412,3 +412,173 @@ IIID 或 CoA 的官方收費指引：本輪未取得。
 | 15 | 所有 URL 未開頁核對；匯率為假設；人口／GDP 為 T1 轉載 | — | 整合時逐條重開 |
 
 ---
+
+## 11. 來源清單（標題｜機構｜年份｜URL）
+
+**A. 本輪（2026-10-09）搜尋取得**
+
+| # | 標題 | 機構 | 年份 | URL |
+|---|---|---|---|---|
+| 1 | India Interior Design Market Size, Share, Growth and Forecast 2030 | TechSci Research | 2025 | https://www.techsciresearch.com/report/india-interior-design-market/24673.html |
+| 2 | India Interior Design Market to Grow with a CAGR of 12.60% through 2030 | TechSci Research | 2025 | https://www.techsciresearch.com/news/20107-india-interior-design-market.html |
+| 3 | India Interior Design Market, By Region, Competition, Forecast 2020-2030F | Research and Markets | 2025 | https://www.researchandmarkets.com/reports/6027737/india-interior-design-market-region |
+| 4 | India Interior Design Market Size, Share & Demand Analysis | P&S Intelligence | 2024 | https://www.psmarketresearch.com/market-analysis/india-interior-design-market |
+| 5 | Decoding the Success of the Interior Design Industry in India | IBEF | 2024 | https://www.ibef.org/blogs/decoding-the-success-of-the-interior-design-industry-in-india |
+| 6 | India Interior Design Market Size & Outlook, 2025-2030 | Grand View Research | 2025 | https://www.grandviewresearch.com/horizon/outlook/interior-design-market/india |
+| 7 | India's Interior Design Market to Reach USD 81.2 Billion by 2030 | Asia Designers Directory | 2024 | https://add.directory/news/indias-interior-design-market-to-reach-usd-81-2-billion-by-2030/ |
+| 8 | India Interior Design Market Size, Share & Forecast | IMARC Group | 2025 | https://www.imarcgroup.com/india-interior-design-market |
+| 9 | India Interior Design Market Size & Share Analysis | Mordor Intelligence | 2025 | https://www.mordorintelligence.com/industry-reports/india-interior-design-market |
+| 10 | India Interior Design Market 2026-2036 | MarkWide Research | 2026 | https://markwideresearch.com/india-interior-design-market |
+| 11 | Real Scope of Interior Designing in India | Vogue Fashion Institute（部落格） | 2025 | https://www.voguefashioninstitute.com/real-scope-of-interior-designing-in-india/ |
+| 12 | Remodeling Market Size, 2025-2034 | Global Market Insights | 2025 | https://www.gminsights.com/industry-analysis/remodeling-market |
+| 13 | India Home Improvement Services Market Report 2026-2034 | IMARC Group | 2025 | https://www.imarcgroup.com/india-home-improvement-services-market |
+| 14 | India Residential Construction Market Size, Trends 2026 | Mordor Intelligence | 2025 | https://www.mordorintelligence.com/industry-reports/india-residential-construction-market |
+| 15 | India Residential Construction Market 2025-2031 | Ken Research | 2025 | https://www.kenresearch.com/industry-reports/india-residential-construction-market |
+| 16 | Home Remodeling Market | Market Research Future | 2025 | https://www.marketresearchfuture.com/reports/home-remodeling-market-29719 |
+| 17 | India Modular Kitchen Market Report 2034 | IMARC Group | 2025 | https://www.imarcgroup.com/india-modular-kitchen-market |
+| 18 | India Modular Kitchen Market Report 2031 | Mordor Intelligence | 2025 | https://www.mordorintelligence.com/industry-reports/india-modular-kitchen-market |
+| 19 | India Modular Kitchen Market Size, Competitors & Forecast | Research and Markets | 2025 | https://www.researchandmarkets.com/report/india-modular-kitchen-market |
+| 20 | India Modular Kitchen Market 2031F | TechSci Research | 2025 | https://www.techsciresearch.com/report/india-modular-kitchen-market/3921.html |
+| 21 | India Modular Kitchen Market 2025–2033 | Verified Market Research | 2025 | https://www.verifiedmarketresearch.com/product/india-modular-kitchen-market/ |
+| 22 | India Kitchen Furniture Market Size | Mordor Intelligence | 2025 | https://www.mordorintelligence.com/industry-reports/india-kitchen-furniture-market |
+| 23 | India Home Furnishings Market Size, Forecast 2034 | IMARC Group | 2025 | https://www.imarcgroup.com/india-home-furnishings-market |
+| 24 | India Retail Furniture Market (2026-2034) | Deep Market Insights | 2025 | https://deepmarketinsights.com/vista/insights/retail-furniture-market/india |
+| 25 | Interior Design Cost Per Square Foot in India (2025 Price Guide) | Near Me Interiors | 2025 | https://nearmeinteriors.com/interior-design-cost-per-square-foot-in-india-2025-price-guide/ |
+| 26 | Interior Design Cost per Sq Ft in India: 2025 Update | Near Me Interiors | 2025 | https://nearmeinteriors.com/interior-design-cost-per-sq-ft-in-india-2025/ |
+| 27 | Interior Design Cost Per Square Foot in India (2026 Guide) | Near Me Interiors | 2026 | https://nearmeinteriors.com/interior-design-cost-per-square-foot-in-india-2026-guide-what-youll-really-pay-for-home-interiors/ |
+| 28 | Interior Design Cost Per Square Foot in India [2025 Guide] | GetMyQuotation | 2025 | https://www.getmyquotation.com/blogs/interior-design-cost-per-sqft-india |
+| 29 | Average Interior Design Cost in India: Complete 2025 Guide | Interior A to Z | 2025 | https://interioratoz.com/average-interior-design-cost-in-india-complete-2025-guide/ |
+| 30 | Interior designer fees in India | Interior A to Z | 2025 | https://interioratoz.com/interior-designer-fees-in-india/ |
+| 31 | Interior Design Cost in Bangalore 2025 | Elegante Interior | 2025 | https://eleganteinterior.com/interior-design-cost-bangalore-2025/ |
+| 32 | Interior Design Cost in Bangalore 2026 | NoBroker Interiors | 2026 | https://www.nobroker.in/interiors/design-guides/interior-design-cost-in-bangalore/ |
+| 33 | Interior Designer Costs in India 2026 | NoBroker Interiors | 2026 | https://www.nobroker.in/interiors/design-guides/interior-designer-costs-in-india/ |
+| 34 | Interior design cost per square foot in India guide | NoBroker Interiors | 2026 | https://www.nobroker.in/interiors/design-guides/interior-design-cost-per-sq-ft/ |
+| 35 | Interior Design Cost Breakdown in Bangalore | Yoho Designs | 2025 | https://www.yohodesigns.com/blog/interior-design-cost-breakdown-in-bangalore-typical-costs-per-sq-ft-project-types/ |
+| 36 | Interior Design Cost Per Sq Ft in India | Aecord | 2025 | https://aecord.com/blog/interior-design-cost-per-sq-ft-in-india |
+| 37 | How Much Interior Designer Charge? Cost Guide 2026 | Space Heaven | 2026 | https://spaceheaven.in/how-much-interior-designer-charge-cost-guide-2026/ |
+| 38 | How Much Interior Designers Charge in India | Amodini Systems | 2025 | https://amodinisystems.com/how-much-interior-designers-charge-in-india/ |
+| 39 | How Much Does an Interior Designer Cost in India? | Behomly | 2025 | https://behomly.com/how-much-does-an-interior-designer-cost-in-india/ |
+| 40 | Ultimate 2025 Guide to House Interior Design Cost in India | Tint Tone and Shade | 2025 | https://tinttoneandshade.com/blog/house-interior-design-cost-india-guide |
+| 41 | Home Interior Design Cost India: ₹1,000–₹4,500/sq ft (2026) | RealCostIQ | 2026 | https://realcostiq.com/in/home-interior-design-cost-calculator/ |
+| 42 | The Ultimate Guide to Architect & Interior Designer Fees in India 2025 | Member of Architecture | 2025 | https://www.memberofarchitecture.com/blog/68c003f8a7ac6f0a242b-the-ultimate-guide-to-architect-interior-designer-fees-in-india-2025-moa |
+| 43 | Modular Kitchen Cost in India (2026) | Ashiana Construction | 2026 | https://ashianaconstruction.com/blogs/modular-kitchen-cost-in-india-2026/ |
+| 44 | Cost of Kitchen Remodeling in India (2025 Guide) | The Renovation Experts | 2025 | https://therenovationexperts.in/cost-of-kitchen-remodeling-in-india-2025-guide/ |
+| 45 | Kitchen Renovation Cost in India 2026 | Cohere TDA | 2026 | https://www.coheretda.com/post/kitchen-renovation-cost-india-2026 |
+| 46 | Kitchen Renovation Cost India 2026 | Comaron | 2026 | https://www.comaron.com/blog/kitchen-renovation-cost-india-2026-complete-breakdown |
+| 47 | Modular Kitchen Cost in 2025 | Arbor Realty | 2025 | https://arborrealty.in/blog/modular-kitchen-cost/ |
+| 48 | Modular Kitchen Cost in India 2026: Price by Layout | Dreamworkz Interiors | 2026 | https://www.dreamworkzinteriors.in/post/modular-kitchen-cost-in-india-2026-price-by-layout-material-size |
+| 49 | Unsold Homes Up 4% in 2025 Across Top 7 Cities: Anarock | Outlook Business | 2026-01 | https://www.outlookbusiness.com/markets/unsold-homes-up-4-in-2025-across-top-7-cities-as-new-supply-outstrips-demand-anarock |
+| 50 | Unsold housing units in top 7 cities rose 4pc to 5.77 lakh in 2025 | The Federal | 2026-01 | https://thefederal.com/category/business/unsold-housing-units-in-top-7-cities-rose-4pc-2025-223956 |
+| 51 | Housing Sales Dip 20% YoY in Q2 2025 Across Top 7 Cities: ANAROCK | Realty & More | 2025-07 | https://www.realtynmore.com/housing-sales-dip-20-yoy-in-q2-2025-across-top-7-cities-anarock/ |
+| 52 | Residential Absorption vs New Supply in India | Puravankara（建商部落格） | 2025 | https://www.puravankara.com/real-estate-blog/residential-absorption-vs-new-supply-in-india-is-the-market-heading-for-a-shortage |
+| 53 | PMAY-HFA(Urban) 儀表板 | MoHUA | 2026 | https://pmaymis.gov.in/ |
+| 54 | A Decade of PMAY-Urban: What the Numbers Say | ORF | 2026-09 | https://www.orfonline.org/expert-speak/a-decade-of-pmay-urban-what-the-numbers-say-about-housing-for-all |
+| 55 | Angikaar 2025: Bridging the Housing Gap under PMAY-U 2.0 | DD News | 2025 | https://ddnews.gov.in/en/angikaar-2025-bridging-the-housing-gap-in-urban-india-under-pmay-urban-2-0/ |
+| 56 | India Affordable Housing Finance Market 2026（引 CRISIL） | HomeFirst India | 2026 | https://homefirstindia.com/blog/article/india-affordable-housing-finance-market-2026 |
+| 57 | An overview of the PMAY-U scheme | The Hindu（PressReader） | 2024-04 | https://www.pressreader.com/india/the-hindu-erode-9WW6/20240424/282475713886298 |
+| 58 | Office Fit Out Cost India 2026 | Cushman & Wakefield | 2026 | https://www.cushmanwakefield.com/en/india/insights/office-fit-out-cost-guide |
+| 59 | India Reinforces Its Position as APAC's Most Cost-Competitive Fit-Out Market | Realty & More | 2026 | https://realtynmore.com/competitive-fit-out-market-cushman-wakefield/ |
+| 60 | Office Fit-Out Costs Rise in India, Mumbai Leads at $73/Sq Ft | The Flex Insights | 2026 | https://theflexinsights.com/office-fit-out-costs-surge-in-india-mumbai-top/ |
+| 61 | Office Fit-Out Costs Rise in India amid Demand for Premium Workspaces | Construction World | 2024 | https://www.constructionworld.in/resources-company-news/office-fit-out-costs-rise-in-india-amid-demand-for-premium-workspaces/70591 |
+| 62 | Office fit-out costs across India increase slightly, up 4.5% YoY | JLL India | 2024 | https://www.jll.com/en-in/newsroom/office-fit-out-costs-across-india-increase-slightly-up-45-year-on-year-jll |
+| 63 | JLL reports a 4.5% yearly increase in office fit-out costs in India | Construction Week India | 2024 | https://www.constructionweekonline.in/business/jll-reports-a-4-5-yearly-increase-in-office-fit-out-costs-in-india |
+| 64 | India's office market scales unprecedented highs: 83.3 msf in 2025 | JLL India | 2026-01 | https://www.jll.com/en-in/newsroom/india-s-office-market-scales-unprecedented-highs-with-gross-leasing-activity-at-83-3-million-sq-ft-for-the-year-2025-jll |
+| 65 | India office leasing touches record 86.4 mn sq ft in 2025: Knight Frank | The Tribune | 2026-01 | https://www.tribuneindia.com/news/2025-report/india-office-leasing-touches-record-86-4-mn-sq-ft-in-2025-knight-frank |
+| 66 | India's Office Sector Growth in Q4 2025 | Cushman & Wakefield | 2026-01 | https://www.cushmanwakefield.com/en/india/news/2026/01/india-office-market-growth-in-q4-2025 |
+| 67 | India's office market defies global headwinds: 21.5 msf in Q1 2026 | JLL India | 2026-04 | https://www.jll.com/en-in/newsroom/india-s-office-market-defies-global-headwinds-with-record-breaking |
+| 68 | Global Hotel Construction Pipeline Reaches Record High (Q2 2026) | Hospitality Net／Lodging Econometrics | 2026 | https://www.hospitalitynet.org/news/4134029/the-global-hotel-construction-pipeline-reaches-a-record-high-project-count-as-le-debuts-2028-new-hotel-openings-forecast-at-q2-2026-close |
+| 69 | APEC Hotel Development Pipeline Reaches 2,506 Projects as India Leads | Hotel News Resource | 2026 | https://www.hotelnewsresource.com/article142406.html |
+| 70 | India Hotel & Hospitality Real Estate Report 2026 | Ghar.tv | 2026 | https://www.ghar.tv/intelligence/india-hotel-hospitality-real-estate-report-2026/artgi141 |
+| 71 | Livspace Revenue Up 23% to ₹1,460 Cr in FY'25 | Outlook Business | 2025-10 | https://www.outlookbusiness.com/corporate/livspace-revenue-rises-23-to-1460-cr-in-fy25-losses-come-down |
+| 72 | Livspace posts 23% revenue growth in FY25, eyes India domicile shift | YourStory | 2025-10 | https://yourstory.com/2025/10/livspace-posts-23-revenue-growth-in-fy25-narrows-ebitda-loss-by-50 |
+| 73 | Livspace posts Rs 1,460 Cr revenue in FY25; losses shrink 42% | StartupNews.fyi | 2025-10 | https://startupnews.fyi/2025/10/15/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42/ |
+| 74 | Livspace Reports ₹1,460 Cr Revenue for FY25, Eyes Reverse Flip | Whalesbook | 2025-10 | https://www.whalesbook.com/news/English/consumer-products/Livspace-Reports-indian-rupee1460-Cr-Revenue-for-FY25-Halves-EBITDA-Loss-Eyes-India-Reverse-Flip-and-Expansion/68ecfe55c390407930f561b8 |
+| 75 | Livspace | Wikipedia | 2025 | https://en.wikipedia.org/wiki/Livspace |
+| 76 | Is Livspace the Best Home Interior Design Franchise for 2026? | FranchiseBazar | 2026 | https://www.franchisebazar.com/blog/is-livspace-the-best-home-interior-design-franchise-for-2026 |
+| 77 | HomeLane Cuts FY25 Loss By 8% To INR 111 Cr | Inc42 | 2025-10 | https://inc42.com/buzz/homelane-cuts-fy25-loss-by-8-to-inr-111-cr/ |
+| 78 | HomeLane Financials 2026 | Inc42 | 2026 | https://inc42.com/company/homelane/financials/ |
+| 79 | Peak XV-Backed HomeLane Seeks Buyout Of DesignCafe At $360 Mn Tag | Inc42 | 2024 | https://inc42.com/buzz/peak-xv-backed-homelane-seeks-buyout-of-designcafe-at-360-mn-tag/ |
+| 80 | HomeLane plans IPO in 12–24 months, targets INR 30 billion revenue by FY31 | PropNewsTime | 2025 | https://propnewstime.com/latestnewsstories/MzE4Mzg=/homelane-plans-ipo-in-12-24-months-targets-inr-30-billion-revenue-by-fy31 |
+| 81 | Homelane records Rs 748 revenue in FY25 but falls short of projections | StartupNews.fyi | 2025-10 | https://startupnews.fyi/2025/10/23/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections/ |
+| 82 | HomeLane IPO Kab Hoga?（Hinglish，印地語混合） | Whalesbook | 2025 | https://www.whalesbook.com/news/Hinglish/other/HomeLane-Eyes-IPO-in-Two-Years-Expansion-and-Profit-Goals/6a30ed48d017fdb50997a3a3 |
+| 83 | HomeLane Franchise 2026 | FranchiseBazar | 2026 | https://www.franchisebazar.com/blog/homelane-franchise-2026-indias-fastest-growing-home-interiors-opportunity |
+| 84 | How Pepperfry Lost Its Moat | StartupChai | 2025 | https://startupchai.substack.com/p/how-pepperfry-lost-its-moat |
+| 85 | Pepperfry's Marketplace-to-Inventory Evolution Strategy | Markhub24 | 2025 | https://www.markhub24.com/post/pepperfry-s-marketplace-to-inventory-evolution-strategy |
+| 86 | Urban Ladder: The Rise And Fall Of A High Street Furniture eMart | Inc42 | 2021 | https://inc42.com/features/urbanladder-reliance-furniture-market/ |
+| 87 | What Happened to Urban Ladder? | A Junior VC | 2024 | https://www.ajuniorvc.com/urban-ladder-reliance-acquisition-furniture-startup-pepperfry-sold |
+| 88 | IKEA India's Profitability Push Amidst Rising Losses & Expansion | Whalesbook | 2026 | https://www.whalesbook.com/news/English/consumer-products/IKEA-Indias-Profitability-Push-Amidst-Rising-Losses-and-Expansion/69a9b7c43d2913aa7c30aa03 |
+| 89 | IKEA Opens India Product Hub to Combat Margin Compression | Whalesbook | 2026 | https://www.whalesbook.com/news/English/consumer-products/IKEA-Opens-India-Product-Hub-to-Combat-Margin-Compression/6a219b4fb64aca61a921f489 |
+| 90 | Indian Homes Have A Million Stories To Tell. So Do Home-Decor Brands | TVW News India | 2026-08 | https://tvwnewsindia.com/2026/08/09/indian-homes-have-a-million-stories-to-tell-so-do-home-decor-brands/ |
+| 91 | Interio by Godrej's revenue grew 12% to ₹4,000 crore in FY26 | Business Standard | 2026-06 | https://www.business-standard.com/companies/news/godrej-interio-expands-footprint-as-fy26-revenue-rises-12-to-4-000-cr-126062301210_1.html |
+| 92 | Godrej Interio – Company Profile & Financials | Tracxn | 2026 | https://tracxn.com/d/companies/godrejinterio/__AepM9ynVoIStLC0lrhOrVAqyPZTMJyfdu4qtLdIs6VQ |
+| 93 | Asian Paints Reports Decline in Q3 FY'25 Consolidated Net Sales | PCI Magazine | 2025 | https://www.pcimag.com/articles/113222-asian-paints-reports-decline-in-q3-fy25-consolidated-net-sales |
+| 94 | Asian Paints' Beautiful Homes: Building a Lifestyle Communication Platform | Markhub24 | 2025 | https://www.markhub24.com/post/asian-paints-beautiful-homes-building-a-lifestyle-communication-platform-in-a-commodity-category |
+| 95 | Asian Paints Limited – Top Company Profile | Coatings World | 2026 | https://www.coatingsworld.com/top-company-profile/asian-paints-limited/ |
+| 96 | Space Matrix Design Consultants Pvt Ltd – Profile & Financials | Tracxn | 2026 | https://tracxn.com/d/legal-entities/india/space-matrix-design-consultants-private-limited/__wwBY-ost7UWczD-BpjPjDG7UqYN1uQu9b71E5lsH2T4 |
+| 97 | Space Matrix Design Consultants Financials | Tofler | 2025 | https://www.tofler.in/space-matrix-design-consultants-private-limited/company/U74994KA2001PTC029676 |
+| 98 | Space Matrix Design Consultants – Rating Press Release | CARE Ratings | 2025-07 | https://www.careratings.com/upload/CompanyFiles/PR/202507130721_Space_Matrix_Design_Consultants_Private_Limited.pdf |
+| 99 | Space Matrix Design Consultants – Company Profile | EMIS | 2025 | https://www.emis.com/php/company-profile/IN/Space_Matrix_Design_Consultants_Private_Limited_en_5940979.html |
+| 100 | Cherry Hill Interiors Pvt Ltd – Profile & Financials | Tracxn | 2026 | https://tracxn.com/d/legal-entities/india/cherry-hill-interiors-private-limited/__j9junUhVweIVQN8Jui-4D8if39uzpxOmziCelP1eDfU |
+| 101 | Cherry Hill Interiors – Company Profile | Crunchbase | 2025 | https://www.crunchbase.com/organization/cherry-hill-interiors |
+| 102 | Morphogenesis (architecture firm) | Wikipedia | 2025 | https://en.wikipedia.org/wiki/Morphogenesis_(architecture_firm) |
+| 103 | List of 4,545 Interior Designers Startups in India | Tracxn | 2026-08 | https://tracxn.com/d/explore/interior-designers-startups-in-india/__hVMq_SvfouSavYtGTT238mMr1EB-DUKcZ2elTP6d9Pc |
+| 104 | Roomstory.ai Secures Rs 3 Cr to Reinvent Interior Shopping | SiliconIndia | 2025-06 | https://www.siliconindia.com/startup/startup-funding/roomstoryai-secures-rs-3-cr-to-reinvent-interior-shopping-nwid-49665.html |
+| 105 | From Burn To Breakdown: 25 Startups That Shut Down In 2025 | Inc42 | 2025-12 | https://inc42.com/features/25-indian-startups-shut-down-in-2025/ |
+| 106 | India's Startup Shutdowns Drop to 730 in 2025（Tracxn） | ScanX | 2026 | https://scanx.trade/stock-market-news/stocks/india-s-startup-shutdowns-drop-to-730-in-2025-as-ecosystem-recalibrates-after-funding-winter/28624848 |
+| 107 | AI SaaS Startup Shutdowns Slam India as Investors Turn Wary | StartupFeed | 2025 | https://startupfeed.in/ai-saas-startup-shutdowns-india-vc-writeoffs/ |
+| 108 | Indian Institute of Interior Designers（官網） | IIID | 2026 | https://www.iiid.in/ |
+| 109 | IIID Mumbai Regional Chapter – About | IIID Mumbai | n.d. | https://www.iiidmumbai.org/about_us |
+| 110 | The Institute of Indian Interior Designers – About Us | IIID | n.d. | https://iiid.net.in/about-us/ |
+| 111 | How Many Interior Designers Are There in India | Jennifer Mehditash（部落格） | 2025 | https://jennifermehditash.com/how-many-interior-designers-are-there-in-india/ |
+| 112 | Latest Home Interior Design Trends in India for 2026 | Livspace Magazine | 2026 | https://www.livspace.com/in/magazine/top-interior-design-trends-in-india |
+| 113 | Modern Home Interior Design Trends in India 2026 | Wipro Consumer Lighting | 2026 | https://www.wiproconsumerlighting.com/blog/modern-home-interior-design-trends-2026 |
+| 114 | 15 Indian Home Interior Design Trends (2026 Edition) | 3D Spaces | 2026 | https://www.3dspaces.ai/blog/15-most-popular-home-interior-design-trends-for-an-indian-home |
+| 115 | Interior Design Trends 2026 in India: Wabi-Sabi to Biophilic | Woodensure | 2026 | https://www.woodensure.com/blog/wabi-sabi-biophilic-design-indian-interior-trends |
+| 116 | 9 Best AI Interior Design Apps for Designers in India | The Green Fortune | 2025 | https://thegreenfortune.com/ai-interior-design-apps-for-designers-in-2025/ |
+| 117 | 7 AI-Powered Home And Interior Designing Tools | The Architect's Diary | 2025 | https://thearchitectsdiary.com/7-ai-powered-home-and-interior-designing-tools/ |
+| 118 | AiHouse India | AiHouse | 2026 | https://aihouseindia.com/ |
+| 119 | AI Interior Design — A 2026 Consumer Cornerstone for Indian Homes | Studio Matrx | 2026 | https://www.studiomatrx.org/guides/ai-interior-design |
+| 120 | Disruption in Indian Furniture Retailing | RedSeer | 2018 | https://redseer.com/wp-content/uploads/2018/09/Disruption-in-Indian-furniture-retailing-_-31-August-2018-v1.pdf |
+
+**B. 第 1 輪保留（經由 T1／T2／T3／他國筆記轉錄，未開頁）**
+
+| # | 標題 | 機構 | 年份 | URL | 途徑 |
+|---|---|---|---|---|---|
+| 121 | India Interior Design Market | Verified Market Research | 2024 | https://www.verifiedmarketresearch.com/product/india-interior-design-market/ | T1 |
+| 122 | How India's home and interior market skyrocketed to $29.5 billion | Indian Retailer | ~2024 | https://www.indianretailer.com/article/retail-business/home/how-indias-home-and-interior-market-skyrocketed-295-billion-top-trends | T1 |
+| 123 | India Home Furniture Market | IMARC Group | 2025 | https://www.imarcgroup.com/india-home-furniture-market | T1 |
+| 124 | India Home Decor Market | IMARC Group | 2025 | https://www.imarcgroup.com/india-home-decor-market | T1 |
+| 125 | India Home Furniture Market | Research and Markets | 2025 | https://www.researchandmarkets.com/report/india-home-furniture-market | T1 |
+| 126 | India Home Furnishing Market | TechSci Research | 2025 | https://www.techsciresearch.com/report/india-home-furnishing-market/15229.html | T1 |
+| 127 | Tapping into the everyday: instant home services | Redseer | 2025 | https://redseer.com/articles/tapping-into-the-everyday-instant-home-services-and-the-next-habit-loop/ | T1 |
+| 128 | Online Interior Design Market Updates | Redseer | 2019 | https://redseer.com/articles/online-interior-design-market-updates/ | T1 |
+| 129 | India's furniture industry to touch $40 billion by 2026: Redseer | medianews4u | n.d. | https://www.medianews4u.com/indias-furniture-industry-to-touch-40-billion-by-2026-redseer-report/ | T1 |
+| 130 | GDP per capita, Asia 2025（IMF WEO 轉載） | Worldometers | 2026 | https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal | T1 |
+| 131 | Asia-Pacific office fit-out costs（Knight Frank 2026） | IREI | 2026 | https://irei.com/publications/article/asia-pacific-office-fit-out-costs/ | T1 |
+| 132 | Livspace posts Rs 1,460 Cr revenue in FY25; losses shrink 42% | Entrackr | 2025 | https://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863 | T2 |
+| 133 | Livspace's FY25 Loss Declines 43% To INR 243 Cr | Inc42 | 2025 | https://inc42.com/buzz/livspaces-fy25-loss-declines-43-to-inr-243-cr/ | T2 |
+| 134 | Livspace CBO Lalit Mittal exits after co-founder departure and mass layoffs | Entrackr | 2026 | https://entrackr.com/news/livspace-cbo-lalit-mittal-exits-after-co-founder-departure-and-mass-layoffs-11150871 | T2 |
+| 135 | 100 job cuts at Livspace | HRKatha | 2025 | https://www.hrkatha.com/news/layoff/100-job-cuts-at-livspace/ | T2 |
+| 136 | Livspace Series F US$180M led by KKR | Business Wire | 2022 | https://www.businesswire.com/news/home/20220207005993/en | T2 |
+| 137 | Acquisition of a majority stake in Qanvast by Interiortech | Allen & Gledhill | 2022 | https://www.allenandgledhill.com/perspectives/articles/21509/acquisition-of-a-majority-stake-in-qanvast-pte-ltd-by-interiortepte-ltd | T2 |
+| 138 | HomeLane records Rs 748 Cr revenue in FY25 but falls short of projections | Entrackr | 2025 | https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234 | T2 |
+| 139 | HomeLane reports 22% revenue growth in FY25, EBITDA profitability in Q4 | Franchise India | 2025 | https://www.franchiseindia.com/index.php/insights/en/news/homelane-reports-22-revenue-growth-in-fy25-achieves-ebitda-profitability-in-q4.57729 | T2 |
+| 140 | Singapore office design firm Space Matrix acquires Pursuite | AOL／SCMP | 2018 | https://www.aol.com/news/singapore-office-design-firm-space-093000697.html | T2 |
+| 141 | Space Matrix company profile | CB Insights | 2022 | https://www.cbinsights.com/company/space-matrix | T2 |
+| 142 | Council of Architecture vs Mukesh Goyal | Indian Kanoon（最高法院） | 2020 | https://indiankanoon.org/doc/41555114/ | T3 |
+| 143 | The unique position of the Architects Act 1972 | Mondaq | 2021 | https://www.mondaq.com/india/construction-planning/1077872/the-unique-position-of-the-architects-act-1972 | T3 |
+| 144 | Scope boundaries: architect, designer, contractor in India | Studio Matrx | n.d. | https://www.studiomatrx.org/guides/scope-boundaries-architect-designer-contractor-india | T3 |
+| 145 | FDI Policy: Sectors under Automatic Route | DPIIT | 2025-07 | https://www.dpiit.gov.in/static/uploads/2025/07/1b12c69de7c2e698a7b68f7b8fcf4fe3.pdf | T3 |
+| 146 | Foreign direct investment reviews 2026: India | White & Case | 2026 | https://www.whitecase.com/insight-our-thinking/foreign-direct-investment-reviews-2026-india | T3 |
+| 147 | 國土署：全國登記室內裝修業約 1.7 萬餘家（台灣對照） | 中央社 | 2026-04 | https://www.cna.com.tw/news/ahel/202604140322.aspx | T3 |
+| 148 | 磁磚業面臨東南亞與印度低價傾銷 | 工商時報 | 2025-09 | https://www.ctee.com.tw/news/20250902700647-431206 | TW-B |
+
+來源數：148 條（本輪新取得 120、第 1 輪保留 28）；語言：英文 145、繁中 2、**印地語／Hinglish 1**（未達 5 條在地語言要求，列入缺口）。所有 URL 均未開頁核對原文。
+
+---
+
+## 附錄：本輪已執行的 20 條搜尋
+
+英文（17）：India interior design market size 2025 2030 forecast｜India home interiors market organized unorganized share RedSeer Livspace 2025｜India home renovation remodeling market size 2025｜India home decor furnishing retail market size 2025 modular kitchen market｜interior design cost per square foot India 2025 Bangalore Mumbai basic premium｜interior designer fee percentage India per sq ft 2025｜India residential sales 2025 Anarock top 7 cities housing completions｜India office fit-out cost per sq ft 2025 Cushman Wakefield JLL｜Livspace revenue FY25 valuation IPO｜HomeLane Design Cafe revenue FY25 loss｜Pepperfry Urban Ladder IKEA India revenue FY25｜Asian Paints Beautiful Homes Sleek Godrej Interio revenue FY25｜Space Matrix Cherry Hill Interiors Morphogenesis revenue India interior firms｜India interior startups shutdowns 2024 2025 AI interior design funding｜India office leasing 2025 record gross absorption hotel pipeline 2026｜India urban housing stock units census PMAY completions 2025 housing shortage｜India interior design trends 2026 AI 3D tools modular prefab number of interior designers IIID
+
+印地語（3）：इंटीरियर डिजाइन लागत प्रति वर्ग फुट 2025 घर खर्च｜भारत इंटीरियर डिजाइन बाजार 2025 करोड़ लिवस्पेस होमलेन｜घर रेनोवेशन खर्च 2025 मॉड्यूलर किचन कीमत 2BHK（三條均主要回傳英文頁面）

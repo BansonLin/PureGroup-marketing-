@@ -278,3 +278,67 @@
 
 ### 推論
 - 台灣平台滲透率（<1% GMV）遠低於韓國（65.3% 用過平台）與中國（互聯網家裝 20.8%），平台化空間存在，但依中韓經驗將由既有流量母體（數字科技、城邦、電商、仲介）而非新進者取得；集團應「入駐＋內容」而非「自建」。
+
+---
+
+## 9. 12 市場橫向比較表
+
+| 市場 | 主要消費者平台（公開數據） | AI／3D 設計工具 | BIM／施工管理 SaaS／履約託管 | 預製／模組化內裝 | 智慧家庭×裝修 | 數位獲客證據 | 資料信心 |
+|---|---|---|---|---|---|---|---|
+| 日本 | リショップナビ 約 4,000 社／ホームプロ 約 1,200 社（比較網站，2025）；ホームプロ 25 週年（2026）；累計相談件數無資料；生活堂網路專業第 1；LIXIL FC 549 店 | 無資料 | ANDPAD 23 萬社／68 萬用戶、8 年市占第一（比較網站引 MIC 2025-12）；建築確認 2025-04 擴大（35 日）；瑕疵保險 4,496 件 | ユニットバス滲透無資料 | LIXIL／Panasonic 綁售無資料 | OB 顧客＋仲介一站式＋網路見積；點檢商法諮詢 2025 年度 5,544 件 | 中低 |
+| 韓國 | 오늘의집 2025 營收 3,215 億韓元、營業損失 147 億、施工交易營收 +3.5×；2024 施工累計 >1 兆；집닥 2025 累計無資料 | 오늘의집 AI 端到端；아파트멘터리×LG；Archisketch AI；GVR 軟體市場 USD 1.28 億（2024） | 施工責任保障（2023）；公正委 4 平台協約（2024-12）；KCA 警示（2025-07）；BIM 無資料 | 빌트인滲透無資料 | 아파트멘터리×LG전자（質性） | 65.3% 用過平台、22.9% 平台發包；SNS／YouTube ≈40%、入口搜尋 ≈40–52%、平台 ≈31–37% | 中 |
+| 新加坡 | Qanvast 自報累計 7 萬屋主（SG+MY+HK）、訂閱制不抽佣、S$50,000 保障；Renopedia 僅工具；Hometrust 無資料 | 無資料 | CORENET X 2025-10／2026-10／2027-10 三階段強制；BIM 門檻新增 GFA ≥5,000 ㎡；室內 fit-out 條文無；HDB DRC；CaseTrust 自願 | DfMA 為可建性合規途徑之一；PPVC 室內規定無 | 無資料 | CPL 基準無；設計費 5–10% 預算 | 中低 |
+| 香港 | 裝修佬 DecoMan：估值 HK$1.5 億（2023）、1,500+ 師傅／設計公司、進軍台灣；累計交易 HK$2 億（未標日期）；Decor8 無資料 | 裝修佬「AI 智能配對」（自稱） | 公共工程招標 BIM 強制（2025-04-01，TC(W) 1/2025）；私人圖則 BIM 路線圖諮詢中（業界提 2029）；屋宇署僅「鼓勵」 | 無資料 | 無資料 | 無資料 | 低 |
+| 台灣 | 100室內設計 月訪 200 萬、1,400 家設計公司、年媒合 2 萬筆（2024）；2025 年 4,000+ 簽約（自報）；PULO 95% 統包／設計需求；設計家／幸福空間 2025 無資料 | 100室內設計免費 AI 工具；採用率無資料 | 室內裝修審查 7 日；住保會履約 2,866 件／3.17 億（2025）；定型化契約草案；BIM 無 | 系統櫃市占**無任何產業統計**；100室內設計主推模組化 | 櫻花 AI 廚電（質性） | 平台 GMV 推算 <1%；資訊來源調查無 | 中低 |
+| 中國大陸 | 群核 2025 營收 8.20–8.29 億元、企業客戶 47,416 家、MAU 250 萬；齊屹線索 527 元／條（2024）；土巴兔 COO 稱 2025H2 全行業流量下滑；貝殼家裝 154 億（2025）；MAU 排名最後公開為 2021 | 酷家樂訂閱 96.9%、企業 ARPU 1.41 萬元、大客戶 ARPU 85.6 萬、PLG 45.4%、毛利率 82.2%、SpatialVerse 0.6% | 貝殼 BIM＋模組化；土巴兔節點付款；聖都銀行存管；預付款常達 6 成 | 住建部《提升住房品質意見》（2025）＋國務院「十五五」城市更新（2026-05）＋裝配式裝修指導意見（徵求意見）；市場規模 3,431.5 億（智研，矛盾）；滲透率無官方數字 | 三翼鳥 2024 零售 >100 億、260 店入駐天貓（2024-03）、2025 近千店轉型；五大品牌 47%（GMI）；49.45% 已購智能家居 | 小紅書家裝 GMV +2.5×（2024）、互動 >3 億／月、商業筆記 +45%、需求帖 +175%、#我的裝修記錄 183.3 億；線上觸點影響 >70% | 中高 |
+| 馬來西亞 | Qanvast MY（Livspace 系）；Recommend.my（2014 成立）、Atap.co（2018 後無資訊）無 2025 數據 | 無資料 | LAM 2026 平台稽查通函 | IBS 對室內無資料 | 無資料 | 線上廣告為未註冊業者主要管道；CPL 無；2 房公寓套裝 RM35,000–120,000 | 低 |
+| 泰國 | NocNoc（SCG 系）累計銷售 150 億泰銖、SCG+Musby 投資 >39 億泰銖、2020–2024 連虧、宣布結束服務（2 月 9 日，年份待核）；HomePro 不分項 | Spacely AI：2025-07 種子 USD 100 萬、1,500+ 事務所／50+ 國、200 萬張渲染（自報） | 無資料 | 無資料 | 無資料 | 無資料 | 低–中 |
+| 越南 | Happynest 月訪 400 萬、社團 40 萬（自報 ≈2023）；GMV 無 | AiHouse、Homestyler 越南文版；採用率無 | 無資料 | 無資料 | Vietbuild 2025 智慧家居攤位最熱；Happynest×LG | Facebook 7,900 萬／Zalo 7,830 萬 MAU；TikTok 新職種 | 低–中 |
+| 印尼 | Dekoruma 2024-06 售予 Blibli Rp 1.16 兆（99.83%；USD 7,060 萬）；2025 數據無；Fabelio 2022 破產；Kanggo 3.6 萬月活；Sejasa 75 萬客戶 | 趨勢文提 BIM／VR／AR | SejasaPay；Mitra10 全通路 | Tokopedia 全裝套裝 Rp 2,499 萬–7,500 萬 | 趨勢文（AI 感測） | 平台滲透低（推論）；社群占比無 | 低–中 |
+| 菲律賓 | 平台無資料；Wilcon 專案銷售 ₱347M | 無資料 | 無資料 | 無資料 | 無資料 | 無資料 | 無 |
+| 印度 | Livspace FY25 Rs 1,460 crore、EBITDA 損 Rs 131 crore、2026 裁員 ~1,000 人（AI）；HomeLane FY25 Rs 747.8 crore、淨損 Rs 111.4 crore、目標 Rs 1,000 crore／IPO 兩年內 | HomeLane SpaceCraft（AI＋AR）、自報設計成本 −25%、方案數分鐘產出；Livspace AI 代理 | 無資料 | Livspace／HomeLane 模組化櫃體標準交付 | 無資料 | HomeLane 廣告 Rs 84 crore ≈ 營收 11%（本人計算） | 中 |
+
+---
+
+## 10. 關鍵數字總表
+
+| 指標 | 數值 | 年份 | 來源 | 定義／備註 | 信心 |
+|---|---|---|---|---|---|
+| 群核科技 營收 | 8.20 億 CNY（≈USD 1.14 億／TWD 35.9 億）；36 氪引 8.29 億 | 2025 | [同花順／國泰海通](https://stock.10jqka.com.cn/20260522/c676897096.shtml)；[36 氪](https://www.36kr.com/p/3705744943460485) | 2023／2024：6.64／7.55 億；增速 13.7%→8.6% | 高 |
+| 群核 毛利率 | 76.8%／80.9%／82.2% | 2023–2025 | 同上 | 券商口徑 | 高 |
+| 群核 歸母淨損／經調整淨利 | −4.28 億／+5,712.7 萬 CNY | 2025 | 同上 | 2023／2024 淨損 −6.46／−5.13 億 | 高 |
+| 群核 企業客戶數 | 47,416 家（2023：41,070） | 2025 | [36 氪](https://www.36kr.com/p/3705744943460485) | +15%；企業收入 6.69 億元（>80%） | 中高 |
+| 群核 單家企業年訂閱收入 | 1.41 萬 CNY（≈USD 1,958／TWD 6.2 萬） | 2025 | 同上 | 2023：1.37 萬 | 中高 |
+| 群核 大客戶數／ARPU | 424 家／85.6 萬 CNY（≈USD 11.9 萬／TWD 374 萬） | 2025 | 同上 | 年貢獻 ≥20 萬元；2023：353 家／72.9 萬 | 中高 |
+| 群核 MAU | 約 250 萬 | 2025 | 同上 | 新企業客戶 45.4% 由免費／個人版轉化 | 中高 |
+| 群核 訂閱占比／SpatialVerse | 96.9%／520 萬 CNY（0.6%，16 客戶） | 2025 | 同上 | 研發占營收 35.5%；銷售 2.74 億 | 中高 |
+| 互聯網家裝平台 MAU 排名 | 齊家 460 萬、好好住 281.6 萬、酷家樂 221.5 萬、土巴兔 217.7 萬 | 2021-03 | [前瞻](https://bg.qianzhan.com/trends/detail/506/220129-cdb79966.html) | Fastdata；最後公開排名 | 中低 |
+| 齊屹 每條線索均價 | 527 CNY（≈USD 73／TWD 2,306） | 2024 | [同花順](https://stock.10jqka.com.cn/20250427/c667789677.shtml) | 線索 633,769 條（−20%）；繼承 | 高 |
+| 오늘의집 營收 | 3,215 億 KRW（≈USD 2.30 億／TWD 72.3 億） | 2025 | [데일리안](https://www.dailian.co.kr/news/view/1633470/) | +11.7%；2025 監查報告 | 高 |
+| 오늘의집 營業損益 | −147 億 KRW（≈−USD 1,050 萬／TWD 3.3 億） | 2025 | 同上 | 2024 首度獲利後再轉虧 | 高 |
+| 오늘의집 施工交易營收 | 年增 3.5 倍以上 | 2025 | 同上 | 金額未揭露 | 中高 |
+| 오늘의집 施工累計交易額 | >1 兆 KRW（≈USD 7.1 億／TWD 225 億） | 2024 | [데모데이](https://demoday.co.kr/bm-analysis/109) | 施工責任保障後近倍增 | 中 |
+| Qanvast 累計服務屋主 | 70,000+（SG+MY+HK） | 未標年 | [Qanvast](https://qanvast.com/sg/about-us) | 自報；訂閱制、不抽佣；S$50,000 保障 | 中低 |
+| 100室內設計 月訪／設計公司／年媒合 | 200 萬次／1,400 家／2 萬筆 | 2024 | [鉅亨網 Yahoo](https://tw.stock.yahoo.com/news/%E6%88%BF%E7%94%A2-%E6%95%B8%E5%AD%97%E7%A7%91%E6%8A%80%E6%8B%93%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88%E7%89%88%E5%9C%96-%E5%B9%B3%E5%8F%B0%E6%9C%88%E8%A8%AA%E9%87%8F%E7%AA%81%E7%A0%B4200%E8%90%AC%E6%AC%A1-075452062.html) | 平台自報 | 中低 |
+| 裝修佬 DecoMan 估值／合作業者 | HK$1.5 億（≈USD 1,920 萬／TWD 6.1 億）／1,500+ | 2023 更新／未標年 | [理大](https://www.polyu.edu.hk/alumni/featured-alumni/young-achievers/benny-liu-pui-yin/?sc_lang=en)；[INSIDE](https://www.inside.com.tw/article/27152-decoman) | Pre-A 2018 | 中低 |
+| HomeLane FY25 營收／淨損 | Rs 747.8 crore（≈USD 8,700 萬／TWD 27.4 億）／Rs 111.38 crore | FY25 | [D2C Insider](https://pulse.d2cinsider.com/homelane-targets-ipo-within-two-years-as-ai-powered-home-interiors-brand-accelerates-expansion-and-growth/) | +22%；另源 Rs 756 crore | 中 |
+| HomeLane AI 設計成本降幅 | 約 −25%；方案「數分鐘」產出 | 2025 | [D2C Insider](https://pulse.d2cinsider.com/homelane-eyes-e2-82-b91000-crore-revenue-as-ai-and-category-expansion-drive-growth/) | 公司自報 | 中低 |
+| Livspace FY25 營收／調整 EBITDA | Rs 1,460 crore（≈USD 1.70 億／TWD 53.5 億）／−Rs 131 crore | FY25 | [CB Insights](https://www.cbinsights.com/company/livspace) | 2026-02 裁員 ~1,000 人（12%，AI 重組） | 中 |
+| Blibli 收購 Dekoruma | IDR 1.16 兆（≈USD 7,060 萬／TWD 22.6 億），99.83% C 輪股 | 2024-06 | [IDN Financials](https://www.idnfinancials.com/news/50131/blibli-com-to-acquire-dekoruma-for-idr-1-16-trillion?sl=en) | 26,167 股（另源 26,217） | 高 |
+| NocNoc 累計銷售／股東投資 | 150 億 THB（≈USD 4.55 億／TWD 143 億）／>39 億 THB | 第 5 年（≈2023）／未標年 | [Marketeer](https://marketeeronline.co/archives/339473)；[ไทยรัฐ](https://www.thairath.co.th/money/tech_innovation/tech_companies/2698864) | 2020–2024 無獲利；宣布結束服務 | 中 |
+| Spacely AI 種子輪 | USD 100 萬（≈TWD 3,150 萬） | 2025-07 | [TechSauce](https://techsauce.co/en/news/spacely-ai-raises-1m-generative-ai-architecture) | 自報 1,500+ 事務所、200 萬張渲染、營收 10× | 高（金額）／低（營運） |
+| 設計師 AI 使用率（全球） | 82%（Mattoboard，n=328／70 國） | 2025-07–09 | [officeinsight](https://officeinsight.com/officenewswire/the-first-state-of-ai-interior-design-report-from-mattoboard-reveals-an-ai-paradox-adoption-is-widespread-but-creative-integrity-fears-persist/) | 85% 用 ChatGPT；57% 重速度；54% 憂同質化 | 中低 |
+| 設計師 AI 使用率（美國） | 31%（Houzz，n=722 家） | 2025-05 | [Business of Home](https://businessofhome.com/articles/a-new-houzz-report-says-ai-saves-designers-75k) | 自報每週省 >3 小時；設計公司年效益 USD 74,400 | 中 |
+| 設計工具起價 | Coohom USD 9.90／月；Planner 5D USD 4.99／月（Pro 33.33）；Homestyler USD 9.9 或 3.90（矛盾）；D5 需報價 | 2025–2026 | [Capterra](https://capterra.com/compare/192882-10005615/Coohom-vs-D5-Render)；[Capterra Planner 5D](https://www.capterra.ie/software/164022/planner-5d) | 第三方比價站 | 低 |
+| CORENET X 強制時程 | 2025-10-01（GFA ≥30,000 ㎡）／2026-10-01（所有新案）／2027-10-01（進行中） | 2025-01 修訂 | [SEAC 2025-01](https://bkt.tradelinkmedia.biz/publications/7/news/5701)；[URA DC23-07](https://www.ura.gov.sg/guidelines/circulars/dc23-07/) | 原訂 2025-04-01 | 中高 |
+| 新加坡 BIM 提交門檻 | 新建或新增 GFA ≥5,000 ㎡ 之重大 A&A；IFC-SG | 現行 | [BCA](https://www1.bca.gov.sg/safety-and-standards/lifts-escalators-and-mechanised-car-parking-systems/building-information-modelling-bim/) | 室內 fit-out 未涵蓋 | 高 |
+| 香港公共工程 BIM 強制 | 2025-04-01 起招標資料含 BIM（TC(W) 1/2025） | 2025 | [FTI](https://www.fticonsulting.com/insights/articles/hksar-governments-directives-bim-development) | 私人圖則路線圖諮詢中（業界提 2029） | 中高 |
+| ANDPAD 利用社数／用戶 | 23 萬社／68 萬人；8 年市占第一 | 2026-03 頁面（MIC 2025-12） | [IT トレンド](https://it-trend.jp/construction_management_system/15908) | 比較網站；App Store 舊版 13 萬社 | 中低 |
+| 中國裝配式裝修市場規模 | 3,431.5 億 CNY（≈USD 477 億／TWD 1.50 兆）；另頁預測 6,390 億 | 2025 | [智研](https://www.chyxx.com/cyzx/1274143.html) | 研究機構，口徑矛盾，非官方 | 低 |
+| 三翼鳥 門店入駐天貓喵店 | 首批 260 家 | 2024-03 | [海爾](https://www.haier.com/press-events/news/20240315_236326.shtml) | 2022 月活 675 萬；2024 零售 >100 億（繼承） | 中低 |
+| 亞太智慧家庭五大品牌份額 | 47%（海爾、三星、LG、Amazon、小米） | 2025 | [GMI](https://www.gminsights.com/ko/industry-analysis/smart-home-market) | 研究機構 | 中低 |
+| 小紅書 家居家裝 GMV 增速 | +2.5 倍 | 2024 | [36 氪](https://www.36kr.com/p/3331683375458568) | 官方未披露絕對值 | 中 |
+| 小紅書 家居內容互動／商業筆記 | 月均 >3 億／+45% | 2025 1–5 月 | [人人都是產品經理（千瓜）](https://www.woshipm.com/share/6243948.html) | 第三方監測 | 中低 |
+| 小紅書 需求帖增速／#我的裝修記錄 | +175%（Y24 vs Y23）／183.3 億次 | 2024–2025 | [36 氪](https://www.36kr.com/p/3331683375458568) | — | 中 |
+| 小紅書 設計師單場直播 GMV | 2,000 萬 CNY（≈USD 278 萬／TWD 8,750 萬） | 2025 | 同上 | 軟裝設計師 @一顆KK | 中低 |
+| 新加坡 4 房 BTO 裝修成本 | S$33,000–58,000（≈USD 24,400–43,000／TWD 77–135 萬） | 2024 | [Home & Decor（Homees）](https://www.homeanddecor.com.sg/renovation/interior-designer-or-contractor) | 成本輸入，非 CPL | 中低 |
