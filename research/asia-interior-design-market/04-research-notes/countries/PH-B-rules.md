@@ -1,364 +1,267 @@
-# 菲律賓（Philippines）— LENS B：法規證照、消費者保護、外資進入、消費者行為、人才勞動、材料供應鏈、產業組織
+# 菲律賓室內裝修設計市場 — LENS B：法規證照、消費者保護、外資進入、消費者行為、人才勞動、材料供應鏈、產業組織
 
-> 研究日期：2026-10-08｜研究者：Claude（市場研究子代理，PH-B）
-> 匯率假設（沿用 PH-A／T1，2026-10 近似值，非官方牌告）：**1 USD ≈ PHP 57 ≈ NT$31.5；1 PHP ≈ NT$0.553**。PHP 1 億 ≈ USD 175 萬 ≈ NT$5,530 萬。
->
-> **執行紀錄與資料狀態（整合者務必先讀）**
-> 1. 本子代理啟動時，本回合所有代理共享的 WebSearch 額度（每回合 200 次）**已用罄**；規劃的 20 條搜尋（見附錄 A）**一次都未能執行**。環境政策同時封鎖 WebFetch／curl，亦不得改用第三方代理、快取或閱讀器服務繞過。
-> 2. 因此本檔的來源分三層，**來源清單與各表格都標明取得途徑**：
->    - 【T1／T2／T3】：同一工作階段兄弟代理在其搜尋結果摘要中記錄的 URL（搜尋摘要層級、未開頁核對）。
->    - 【背景＋正本 URL】：研究者背景知識中的法規與機關，附法規正本（LawPhil／Official Gazette）或主管機關官網 URL；**本輪未開頁核對**，條號、金額、日期可能有出入，信心一律 ≤ 中。
->    - 【D 級線索】：研究者記憶中的數字或公司，**無 URL**，只列於附錄 B 供下一輪定向，**不得當作數字引用**。
-> 3. 依 `02-integration-protocol.md` §3／§10，本檔所有數字與法規陳述在驗證階段須逐條重開 URL；未通過核對者一律降為【示意】。
-> 4. 在地語言（菲律賓語／Tagalog）來源：**0 條**。菲律賓的法規、統計與產業來源幾乎全為英文（英語為官方語言之一），菲律賓語內容主要存在於 Facebook 社團、YouTube 與論壇（消費者行為、工班行情），本輪無法取得，列為缺口。
-> 5. 使用者下一則訊息即可觸發新回合（搜尋額度重置），請以附錄 A 的 20 條查詢直接續跑並原地覆寫本檔。
+> 研究日期：2026-10-09｜研究者：market-research subagent（Lens B）
+> 匯率假設（2025–2026 概略）：1 USD = 58 PHP；1 USD = 31 TWD；故 1 PHP ≈ 0.0172 USD ≈ 0.534 TWD。文中所有換算皆以此為準。
+> 方法限制：本環境禁止抓取網頁全文（WebFetch 被封鎖），僅能使用 20 次 WebSearch 的結果摘要；所有引用皆附 URL，但未能逐頁核對原文。請在正式引用法條前，以 Official Gazette / LawPhil 原文複核。
 
 ---
 
 ## 1. 摘要
 
-1. **菲律賓是本專案 12 市場中對「室內設計」法定管制最嚴的市場**：《2012 年菲律賓室內設計法》（Republic Act No. 10350, Philippine Interior Design Act of 2012）規定只有專業管制委員會（Professional Regulation Commission, PRC）室內設計委員會（Board of Interior Design）註冊並持照的室內設計師可執業；§29「外國互惠」（Foreign Reciprocity）條款使外國人除非其本國給予菲籍室內設計師同等待遇否則不得註冊，外國設計師僅能就特定專案向 PRC 申請臨時／特別許可（temporary/special permit）；非法執業可處 6 個月至 3 年監禁（T3 摘要）。憲法第 XII 條第 14 節更把「所有專業之執業」原則上保留給菲律賓公民。
-2. **施工端由承包商執照法（RA 4566）下的菲律賓承包商認證委員會（Philippine Contractors Accreditation Board, PCAB）管制**：Regular 執照須 ≥60% 菲資，外資／合資僅能逐案申請 Special 執照；AAAA 類（淨值 ≥PHP 10 億 ≈ USD 1,750 萬 ≈ NT$5.5 億）為外資可取得 Regular 執照的例外。最高法院 2020 年 *PCAB v. Manila Water*（G.R. No. 217590）判 PCAB 的國籍限制逾越母法授權，但歐洲商會（ECCP）2025 年立場文件指全外資承包商實務上仍只能申請 Special 執照——**法律上已開、行政上未落實**。
-3. **外資負面清單**：第 12 版（EO 175，2022）List A 明列室內設計為「依法保留菲籍」之專業（引 RA 10350 §15、§29）；第 13 版（EO 113）2026-04-13 簽署、2026-05-02 生效，**是否保留該條目本輪未能確認**。零售端則相對開放：《零售業自由化法》修正（RA 11595，2021）將外資零售商最低實收資本降至 PHP 2,500 萬（≈ USD 44 萬 ≈ NT$1,380 萬）——**家居零售是台灣集團在現行法下最可行的入口**。
-4. **消費者保護沒有裝修專屬機制**：無法定標準契約、訂金上限、託管、法定保固期或裝修保險；依據為一般法——《消費者法》（RA 7394）、《民法》（RA 386）承攬契約條文（第 1713–1731 條；第 1723 條建築師／承包商 15 年結構責任）、《建築業仲裁委員會》（CIAC, EO 1008）仲裁、小額訴訟（上限 PHP 100 萬）與村里調解（Katarungang Pambarangay）。DTI 2023 年受理約 28,800 件消費者投訴，**無裝修分項**。
-5. **住宅裝修許可**：《國家建築法》（PD 1096）§301 規定任何建造、改建、修繕均須向地方政府建築官（Office of the Building Official, OBO）申請建築許可，附屬許可（電氣、衛生、機械等）須持照專業人員簽章；消防局（BFP）依《消防法》（RA 9514）核發消防安全評估許可（FSEC）與檢查證（FSIC）；公寓依《公寓法》（RA 4726）與各管委會（condominium corporation）住戶規約另設裝修許可與押金——實務上小型非結構性修繕多未申請（執法落差大，待驗證）。
-6. **人才與勞動**：首都圈（NCR）法定日最低工資 2025-07-18 起 PHP 695（≈ USD 12.2 ≈ NT$384）；PRC 每年舉辦一次室內設計師執照考試；室內設計學程由 CHED 認可（UP、UST、DLS-CSB、PSID 等）。PRC 註冊設計師人數、年度及格人數、設計師與工班薪資、缺工數據：**本輪全部無 URL 來源**，列為缺口。
-7. **材料與供應鏈**：PSA 每月發布 NCR 建材躉售／零售物價指數（CMWPI／CMRPI）；本土品牌（Mariwasa、Boysen、Davies、Eurotiles、Uratex、Firefly 等）與進口（磁磚、板材、五金、衛浴）並存；台灣衛浴品牌 HCG（和成）在菲律賓設有子公司（成立年份待核）。2022–2026 價格漲幅數字本輪無來源。
-8. **本檔信心等級總評**：法規架構（哪些法、哪個機關）＝中～高；具體數字（罰金、考試及格率、人數、薪資、物價）＝低或無資料。T3 對菲律賓的台商進入可行性評分為**設計 1／承攬 1**（1＝幾乎封閉，5＝完全開放；12 市場最低）。
+1. 菲律賓是**全球少數以法律保護「室內設計師」頭銜與執業範圍的國家**：《2012 年菲律賓室內設計法》（Republic Act No. 10350, Philippine Interior Design Act of 2012）規定僅有通過專業管理委員會（Professional Regulation Commission, PRC）室內設計委員會（Board of Interior Design）考試並登記的設計師，或持有「臨時／特別許可」（Temporary/Special Permit）的外籍設計師，才能執業；違者可處 ₱300,000–₱1,000,000 罰金（≈ USD 5,172–17,241；≈ TWD 160,000–534,000）及／或 6 個月至 3 年徒刑，**聘用未經許可外籍設計師的本地業主／開發商同樣負連帶刑責**（來源：Official Gazette / LawPhil）。
+2. 2025 年 7 月 PRC 室內設計師證照考試（IDLE）414 人應考、226 人及格，及格率 54.59%；2024 年 7 月僅 119/400（29.75%）及格，顯示每年新增持照設計師僅約 100–250 人，供給極為有限（來源：PRC）。
+3. 外資進入有兩道門檻：**專業執業**列於第 12 版外資負面清單（EO 175, 2022）List A「專業執業 0% 外資」項下，室內設計明列 RA 10350 §15、§29，僅在互惠（reciprocity）下例外；**營造承攬**則需菲律賓承包商認證委員會（PCAB）執照，外國承包商傳統上只能申請逐案的「特別執照」（Special License），但 2020 年最高法院判決廢除「外資不得超過 40%」的正規執照（Regular License）門檻，惟 PCAB 迄今未發布實施細則（來源：Supreme Court E-Library、law.asia、jur.ph）。
+4. 住宅裝修需三層核准：大樓管委會（condominium corporation）、地方建築官（Office of the Building Official, OBO；依 PD 1096 國家建築法規）、消防局（BFP；依 RA 9514 消防法，FSEC 隨建照核發、FSIC 於使用前核發）；大樓常收 ₱10,000–30,000+ 的施工保證金。
+5. 消費者保護主要靠民法（Civil Code）第 1713、1714、1723 條（建物倒塌 15 年責任，監造建築師／工程師負連帶責任）與契約約定（缺陷責任期常見 3–12 個月、保留款 5–10%）；DTI 受理消費者申訴並調解，PCAB/CIAP 可對持照承包商行政處分；**找不到 2025 年裝修糾紛的官方統計**。
+6. 勞動成本：2025 年 7 月 18 日起馬尼拉大都會區（NCR）最低日薪 ₱695（≈ USD 12.0；≈ TWD 371，Wage Order NCR-26）；熟練泥作／木工在 Metro Manila 市場價約 ₱800–1,200／日（≈ TWD 428–641）；室內設計師平均月薪約 ₱27,000–32,000（≈ TWD 14,400–17,200，Indeed 2025）。
+7. 材料價格：PSA 的 NCR 建材躉售物價指數（CMWPI）2025 年全年平均僅 +0.1%（2024 年 +0.6%），但 2026 年 5–7 月加速至 +2.8%／+2.9%／+3.5%，為近三年最高，主因鋼材、混凝土製品與披索貶值推升進口成本。全國最大建材零售商 Wilcon Depot 2025 年營收 ₱354.4 億（≈ USD 6.11 億；≈ TWD 189 億），門市 104 家（2026 年 6 月增至 109 家）。
+8. 公寓（condo）裝修行情約 ₱20,000–60,000／㎡（≈ TWD 10,700–32,000／㎡），設計費多以總工程款 10–45%（平均 15–30%）或 ₱50,000–250,000 固定費計算；主要政策金融工具為 Pag-IBIG Fund 房貸（2025 年 1 年重定價利率 5.75%、3 年 6.25%），其住宅改良貸款（Home Improvement Loan）存在但未查得 2025 年利率。
 
 ---
 
-## 2. 法規與證照：誰可以合法執業室內設計與施工
+## 2. 法規與證照（Regulation & Licensing）
 
-### 2.1 重點（Takeaway）
-設計端與施工端各有一道法定門檻且相互獨立：設計須 PRC 註冊室內設計師（RA 10350），施工須 PCAB 執照（RA 4566）；兩者對外國人／外資皆設有以國籍為基礎的限制。住宅裝修許可由地方政府建築官依 PD 1096 核發，消防由 BFP 依 RA 9514 把關，公寓另受 RA 4726 與管委會規約約束。
+### 2.1 誰可以合法從事室內設計？
 
-### 2.2 室內設計執業管制（RA 10350）
+| 項目 | 內容 | 來源 |
+|---|---|---|
+| 主要法律 | 《2012 年菲律賓室內設計法》Republic Act No. 10350（Philippine Interior Design Act of 2012），2012-12-17 公布，取代舊法 RA 8534 | https://www.officialgazette.gov.ph/2012/12/17/republic-act-no-10350/ ；https://www.lawphil.net/statutes/repacts/ra2012/ra_10350_2012.html |
+| 主管機關 | 專業管理委員會（Professional Regulation Commission, PRC）下設室內設計委員會（Board of Interior Design） | https://www.prc.gov.ph/article/july-2025-licensure-examination-interior-designers-results-released-fourteen-14-working |
+| 執業資格 | 持有效登記證（Certificate of Registration）與專業身分證（Professional ID）的登記室內設計師；持臨時／特別許可（Temporary/Special Permit）的外籍持照設計師；依法登記的獨資／合夥等法人亦可執業 | https://www.digest.ph/laws/philippine-interior-design-act-of-2012?tab=summary |
+| 執業範圍定義 | 室內空間之規劃、設計、規格制定與監造（planning, designing, specifying, supervising interior design work） | https://jur.ph/law/summary/philippine-interior-design-act-of-2012 |
+| 考試 | 室內設計師證照考試（Licensure Examination for Interior Designers, IDLE／LEID），每年 7 月於 NCR、Cebu、Davao 舉行；及格門檻加權平均 70% | https://www.rappler.com/bulletin-board/examination-results/licensure-interior-designers-july-2025/ |
+| 2025 年考試結果 | 414 人應考，226 人及格，及格率 54.59%（2025-07，14 個工作日放榜） | https://www.prc.gov.ph/article/july-2025-licensure-examination-interior-designers-results-released-fourteen-14-working |
+| 2024 年考試結果 | 400 人應考，119 人及格（29.75%） | https://www.thesummitexpress.com/2025/07/idle-results-july-2025-interior-designer-board-exam-list-of-passers-top-10.html |
+| 2025 年榜首 | Jan Marie Pepito Trocino（University of San Carlos，89.70 分） | https://www.gmanetwork.com/news/topstories/nation/953787/usc-grad-tops-july-2025-licensure-exam-for-interior-designers/story/ |
+| 罰則 | 非法執業、冒用頭銜或違反本法：罰金 ₱300,000–₱1,000,000（≈ USD 5,172–17,241；≈ TWD 160,000–534,000）及／或 6 個月至 3 年徒刑；**聘用未經認可外籍執業者的本地個人、公司或開發商負同等責任**；委員會得經通知與聽證後撤銷／停止登記證或取消外籍許可 | https://www.digest.ph/laws/philippine-interior-design-act-of-2012?tab=summary ；https://lifestyle.inquirer.net/90691/the-philippine-interior-design-act-gets-tougher/ |
+| 施行細則 | RA 10350 IRR：與菲籍設計師共同執業之外籍人士，須與菲籍對口共同簽署契約、圖說與署名 | https://www.studocu.com/ph/document/university-of-santo-tomas/bs-architecture/implementing-rules-and-regulations-of-ra-no-10350-for-interior-design/144215049 |
 
-| 項目 | 事實 | 來源／取得途徑 | 信心 |
-|---|---|---|---|
-| 憲法基礎 | 《1987 年憲法》第 XII 條第 14 節：「所有專業之執業以菲律賓公民為限，法律另有規定者除外」（The practice of all professions in the Philippines shall be limited to Filipino citizens, save in cases prescribed by law） | [Official Gazette 1987 Constitution](https://www.officialgazette.gov.ph/constitutions/1987-constitution/)【背景＋正本 URL】 | 高（條文存在）／中（字句） |
-| 法源 | 《Republic Act No. 10350 — Philippine Interior Design Act of 2012》，2012-12 公布；取代 1998 年的 RA 8534 | [LawPhil RA 10350](https://www.lawphil.net/statutes/repacts/ra2012/ra_10350_2012.html)；[Official Gazette](https://www.officialgazette.gov.ph/2012/12/17/republic-act-no-10350/)【T3】；取代 RA 8534 為【背景】 | 高（法律存在）／中（取代關係） |
-| 主管機關 | 專業管制委員會（Professional Regulation Commission, PRC）轄下室內設計委員會（Professional Regulatory Board of Interior Design） | [PRC 官網](https://www.prc.gov.ph/)【背景＋正本 URL】 | 高 |
-| 業務獨占 | 僅 PRC 註冊並持有效執照（PIC／ID card）之室內設計師得執業、使用「Interior Designer」頭銜與專用印鑑（seal）；法人提供室內設計服務須由註冊設計師負責 | [LawPhil RA 10350](https://www.lawphil.net/statutes/repacts/ra2012/ra_10350_2012.html)【T3；條號細節為背景】 | 中～高 |
-| 執業範圍（§3 定義） | 室內空間之規劃、設計、材料與裝修規格、傢俱與固定物、施工監造、顧問等（原文定義詳見條文） | 同上【背景】 | 中 |
-| 考試資格 | 菲律賓公民（或互惠國公民）、品行良好、持 CHED 認可學校之室內設計學士（BS Interior Design）學位；是否另須實務年資**待核** | 同上；[FINL EO 175 引 RA 10350 §15](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/95421)【T3】 | 中 |
-| 考試 | PRC 室內設計師執照考試（Interior Designer Licensure Examination），通常每年一次（10 月前後）；及格標準（加權平均與單科下限）**待核原文** | [PRC 官網](https://www.prc.gov.ph/)【背景】 | 中（制度）／無資料（及格率） |
-| 公認專業組織（APO） | 菲律賓室內設計師學會（Philippine Institute of Interior Designers, PIID，1965 年成立）為 RA 10350 指定之整合公認專業組織 | [PIID 官網（網址待核）](https://piid.org.ph/)【背景】 | 中 |
-| 持續專業教育 | 《CPD 法》（RA 10912, 2016）要求換照須累積 CPD 學分；PRC 2019 年決議將換照門檻降為 15 學分（決議編號待核） | [LawPhil RA 10912](https://www.lawphil.net/statutes/repacts/ra2016/ra_10912_2016.html)【背景＋正本 URL】 | 中（法律）／低（15 學分） |
-| 外國人 | §29 外國互惠：外國人除非其本國法律允許菲籍室內設計師以同等條件執業，否則不得參加考試或註冊；外國設計師參與特定專案須向 PRC／Board 申請臨時／特別許可（temporary/special permit），通常須與本地持照設計師合作 | [LawPhil RA 10350](https://www.lawphil.net/statutes/repacts/ra2012/ra_10350_2012.html)；[jur.ph 摘要](https://jur.ph/law/summary/philippine-interior-design-act-of-2012)【T3】 | 高（互惠條款存在）／中（許可細節） |
-| 罰則 | 非法執業、冒用頭銜、違法使用印鑑：罰金（jur.ph 摘要稱「總收費之 30%」，**金額範圍待核原文**）及／或 **6 個月至 3 年監禁**；法院得永久禁業 | [jur.ph](https://jur.ph/law/summary/philippine-interior-design-act-of-2012)【T3】 | 中 |
-| 與建築師法之重疊 | 《建築法》（RA 9266, 2004）建築師執業範圍含「architectural interiors」，與 RA 10350 室內設計範圍重疊；實務上建築許可圖說由建築師簽章，室內設計圖由室內設計師簽章，兩者分工之 PRC 解釋**待核** | [LawPhil RA 9266](https://www.lawphil.net/statutes/repacts/ra2004/ra_9266_2004.html)【背景＋正本 URL】 | 中 |
+**外籍設計師規定（RA 10350）**：
+- 外籍室內設計師除非其母國允許菲籍室內設計師以相同基礎執業（互惠），否則不得取得登記證或本法權利 — https://www.officialgazette.gov.ph/2012/12/17/republic-act-no-10350/
+- 外籍人士欲於菲律賓提供專業服務（政府發起之外資專案或私人企業專案），須經委員會與 PRC 核發臨時或特別許可 — https://www.lawphil.net/statutes/repacts/ra2012/ra_10350_2012.html
+- 二手來源（學生題庫）稱外籍人士在任何情況下須與「連續執業至少 10 年」之菲籍持照設計師合作；**此 10 年數字未能在一手來源確認**，請核對 IRR 原文 — https://quizlet.com/88322372/ra-10350-piid-irr-standard-fees-contracts-obligations-contracts-flash-cards/
 
-### 2.3 施工承攬管制（RA 4566／PCAB）
+**建築師（RA 9266）**：外資負面清單附件將建築列於 RA 9266 §13、§27；RA 9266 §37(a) 僅允許菲籍建築師成立並登記建築師事務所，故合格外籍建築師不得投資或持有本地建築師事務所股權 — https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/95421
 
-| 項目 | 事實 | 來源／取得途徑 | 信心 |
-|---|---|---|---|
-| 法源 | 《承包商執照法》（RA 4566, Contractors' License Law, 1965），經 PD 1746（1980）修正並設立菲律賓建築業管理局（Construction Industry Authority of the Philippines, CIAP，隸屬貿工部 DTI） | [LawPhil RA 4566](https://lawphil.net/statutes/repacts/ra1965/ra_4566_1965.html)【背景＋正本 URL】；[law.asia PCAB](https://law.asia/pcab-licence-philippine-contracting-projects/)【T3】 | 高 |
-| 主管機關 | 菲律賓承包商認證委員會（Philippine Contractors Accreditation Board, PCAB），CIAP 轄下 | [CIAP／PCAB 官網（網址待核）](https://ciap.dti.gov.ph/)【背景】 | 高 |
-| 執照類型 | **Regular licence**（年度換照；申請人須 ≥60% 菲資）；**Special licence**（外資、合資／聯營體，逐案核發、限單一專案） | [law.asia](https://law.asia/pcab-licence-philippine-contracting-projects/)【T3】 | 高 |
-| 分級 | AAAA、AAA、AA、A、B、C、D、Trade（依淨值、技術人員、設備分級；各級淨值門檻**待核**）；AAAA 淨值 ≥PHP 10 億（≈ USD 1,750 萬 ≈ NT$5.5 億）為外資可核 Regular 之例外 | [law.asia](https://law.asia/pcab-licence-philippine-contracting-projects/)【T3】；分級名稱為【背景】 | 高（AAAA 門檻）／中（其餘） |
-| 人員要件 | 須有授權管理人（Authorized Managing Officer, AMO，須完成 PCAB AMO 研習）與持照技術人員（Sustaining Technical Employee, STE：土木工程師／建築師等） | [CIAP／PCAB](https://ciap.dti.gov.ph/)【背景】 | 中 |
-| 2020 年最高法院判決 | *PCAB v. Manila Water Co.*（G.R. No. 217590，2020-03-10）：RA 4566 本身未區分本國／外國承包商，PCAB 施行細則限制 Regular 執照僅給菲資企業屬逾越授權 | [PwC 2020](https://www.pwc.com/ph/en/tax/tax-publications/taxwise-or-otherwise/2020-taxwise-or-otherwise/tearing-down-pcabs-concrete-wall-of-foreign-equity-restriction.html)；[Lexology](https://www.lexology.com/library/detail.aspx?g=a618a774-9a85-412d-970d-2f005a2ef1c6)【T3】；判決全文 [LawPhil（網址依格式推定，待核）](https://lawphil.net/judjuris/juri2020/mar2020/gr_217590_2020.html)【背景】 | 高（判決存在）／中 |
-| 2025 年現況 | ECCP 立場文件：全外資承包商實務上仍只能申請 Special 執照（逐案），判決未落實於 PCAB 行政作業 | [ECCP 2025 PDF](https://www.eccp.com/storage/app/media/Advocacy/Materials/2025/eccp-position-on-pcab-licensing.pdf)【T3】 | 中 |
-| 無照承攬之後果 | RA 4566 原文罰則金額為 1965 年水準（極低）；實務上最主要的制裁是**無照承包商不得就工程款提起訴訟**（RA 4566 第 35 條前後，條號待核）及不得參與公共工程投標 | [LawPhil RA 4566](https://lawphil.net/statutes/repacts/ra1965/ra_4566_1965.html)【背景】 | 中 |
-| 小額住宅裝修是否實務上要求 PCAB | **未查證**。市場上大量小型工班（pakyaw／labour-only）未持 PCAB 執照，建築許可申請時 OBO 是否要求承包商 PCAB 執照因地方政府而異 | 缺口 | — |
+### 2.2 誰可以合法施作裝修工程？— PCAB 承包商執照
 
-### 2.4 住宅裝修許可路徑（建管／消防／公寓／公宅）
+| 項目 | 內容 | 來源 |
+|---|---|---|
+| 主管機關 | 菲律賓承包商認證委員會（Philippine Contractors Accreditation Board, PCAB），隸屬 DTI 之營建業管理局（Construction Industry Authority of the Philippines, CIAP） | https://www.respicio.ph/commentaries/how-to-file-a-consumer-fraud-complaint-against-a-construction-contractor-in-the-philippines |
+| 法律依據 | RA 4566（Contractors' License Law）；投標行為亦視為承攬行為，即使工程分包給本地商仍須持照 | https://law.asia/pcab-licence-philippine-contracting-projects/ |
+| 正規執照（Regular License） | 針對本國公司，傳統上要求至少 60% 菲資；效期一個會計年度（7 月 1 日至次年 6 月 30 日），每年換發 | https://philippines.incorp.asia/guides/pcab-license/ ；https://www.filepino.com/pcab-license-philippines/ |
+| 特別執照（Special License） | 逐案核發給合資、聯合體與外國承包商；於專案完工或一年後自動失效（視核准條件） | https://www.tripleaaaconsultancy.com/post/special-pcab-licenses |
+| 2020 年最高法院判決 | 廢除「外國承包商股權不得超過 40%」的規則，100% 外資的菲律賓公司可申請正規執照；**但 PCAB 尚未發布實施細則，外資公司如何申請仍有不確定性** | https://law.asia/pcab-licence-philippine-contracting-projects/ |
+| 外國承包商特別執照指引（PCAB Resolution No. 214, 1997） | 申請人須為母國合法承包商；其子公司或分公司須在 SEC 登記為營建承攬；專案須屬外資／國際標、雙邊協定允許或 BOT 法（RA 7718）專案；須達申請類別之最低淨值；母公司背對背保證；須有同類型規模已完工並經業主驗收之實績；須在菲設立分公司或子公司，本地資產須以現金與營建設備形式持有且執照效期內不得匯出 | https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/11/44534 ；https://jur.ph/law/summary/guidelines-for-issuance-of-special-license-foreign-contractors ；https://www.respicio.ph/commentaries/pcab-special-license-requirements-for-foreign-construction-firms-in-the-philippines |
 
-| 層級 | 事實 | 來源／取得途徑 | 信心 |
-|---|---|---|---|
-| 建築許可 | 《國家建築法》（PD 1096, National Building Code of the Philippines, 1977）§301：任何人非經建築官（Building Official）核發建築許可，不得建造、改建（alter）、修繕（repair）、遷移、變更用途或拆除建築物；2004 年修訂施行細則（Revised IRR，DPWH 發布）為現行版本 | [LawPhil PD 1096](https://lawphil.net/statutes/presdecs/pd1977/pd_1096_1977.html)；[DPWH](https://www.dpwh.gov.ph/)【背景＋正本 URL】 | 高（§301）／中（IRR 細節） |
-| 核發單位 | 各市／鎮之建築官辦公室（Office of the Building Official, OBO），隸屬地方政府（LGU） | 同上【背景】 | 高 |
-| 附屬許可 | 建築（Architectural）、土木／結構、電氣（依菲律賓電氣規範 PEC）、機械、衛生／給排水（Sanitary／Plumbing，依 RA 1378 給排水法）、電子等附屬許可，各須對應持照專業人員（建築師 RA 9266、土木工程師、電機工程師、給排水師 master plumber）簽章 | [LawPhil PD 1096](https://lawphil.net/statutes/presdecs/pd1977/pd_1096_1977.html)【背景】 | 中～高 |
-| 豁免 | 2004 IRR 對「小型工程與修繕」（minor constructions and repairs）設有免許可清單（如不涉結構之隔間修繕、門窗更換、油漆、不改變管線之修繕等）——**條號與清單原文待核** | [DPWH](https://www.dpwh.gov.ph/)【背景】 | 中 |
-| 完工 | 完工後須申請使用執照（Certificate of Occupancy，PD 1096 §309） | [LawPhil PD 1096](https://lawphil.net/statutes/presdecs/pd1977/pd_1096_1977.html)【背景】 | 中～高 |
-| 消防 | 《2008 年菲律賓消防法》（RA 9514, Fire Code of the Philippines）及 2019 年修訂施行細則：建築許可前須取得消防局（Bureau of Fire Protection, BFP）之消防安全評估許可（Fire Safety Evaluation Clearance, FSEC），使用／營業前須取得消防安全檢查證（Fire Safety Inspection Certificate, FSIC）；室內裝修材料依火焰蔓延分級（Class A／B／C）限制 | [LawPhil RA 9514](https://lawphil.net/statutes/repacts/ra2008/ra_9514_2008.html)；[BFP](https://bfp.gov.ph/)【背景＋正本 URL】 | 高（法律）／中（分級細節） |
-| 公寓（condominium） | 《公寓法》（RA 4726, Condominium Act, 1966）：專有部分（unit）與共用部分（common areas）之界定由總約定書（master deed）定之，住戶不得擅自變更共用部分（含結構、外牆、管道間）；公寓法人（condominium corporation）之住戶規約（house rules）通常要求：裝修前向大樓管理處申請裝修許可、繳交裝修押金（renovation bond）、限制施工時段、承包商登錄與保險、禁止變更結構與主要管線 | [LawPhil RA 4726](https://lawphil.net/statutes/repacts/ra1966/ra_4726_1966.html)【背景＋正本 URL】；規約慣例為【背景】 | 高（法律）／中（慣例） |
-| 社區／別墅 | 《住戶協會大憲章》（RA 9904, Magna Carta for Homeowners and Homeowners' Associations, 2010）賦予住戶協會訂定建築與裝修規範（deed of restrictions）之權 | [LawPhil RA 9904](https://lawphil.net/statutes/repacts/ra2010/ra_9904_2010.html)【背景＋正本 URL】 | 中～高 |
-| 公共／社會住宅 | 國家住宅局（National Housing Authority, NHA）與人居暨都市發展部（DHSUD）之社會住宅（含 4PH 計畫）裝修規範：**本輪無資料** | [DHSUD](https://dhsud.gov.ph/)【背景】 | 缺口 |
+### 2.3 住宅裝修的許可流程（建築／消防／大樓管委會）
 
-### 2.5 2023–2026 法規變動
+**國家建築法規（PD 1096, National Building Code）**
+- 凡變更建物之工程原則上皆須建照（building permit），所有權人亦不豁免；僅狹義的「小型工程」免許可：更換地板、更換門窗、更換非承重隔間；結構工程、重大格局變更、新開口、重大水電機械消防工程須經地方建築官（OBO）審查與許可 — https://www.respicio.ph/commentaries/building-permit-requirements-for-interior-renovations-in-the-philippines
+- 不得僅憑申請書、評估單或繳費收據開工；必須取得核發之許可 — https://www.lawyer-philippines.com/articles/understanding-the-difference-between-a-building-permit-and-a-renovation-permit-in-the-philippines
+- 常見文件：Barangay Clearance、原建照、工程範圍與材料清單、持照建築師或工程師簽證之裝修圖、所有權證明、承包商執照 — https://www.cdohomebuilder.com/post/do-you-need-a-permit-for-renovation-in-the-philippines
 
-| 日期 | 變動 | 內容 | 來源 | 信心 |
+**公寓大樓（Condominium）規則**
+- 公寓單位裝修可能同時需要大樓管委會核准與地方政府許可，特別是結構、給排水、電氣、機械或格局變更 — https://www.lamudi.com.ph/journal/renovation-permit-philippines/
+- 馬卡蒂（Makati）某大樓（Century Properties 管理）之住戶裝修規範：須提交簽證竣工圖（As-Built Plans）；重大裝修須向 Makati 市建築官取得使用許可（Occupancy Permit） — https://sbcorp.gov.ph/wp-content/uploads/2023/07/Annex_A_Building_Guidelines.pdf
+- 施工保證金（construction bond）約 ₱10,000–30,000+（≈ USD 172–517；≈ TWD 5,300–16,000），無損壞公共區域則退還；許多大樓明文禁止結構修改 — https://www.mainlinepowerph.com/blogs/articles/condo-renovation-cost-in-the-philippines
+
+**消防法（RA 9514, Revised Fire Code of the Philippines, 2008）**
+- 需設置消防系統之專案，業主須提交 FSCR 申請消防安全評估許可（Fire Safety Evaluation Clearance, FSEC），作為建照前提；施工期間消防局（BFP）依 FSEC 檢查；使用前檢查後核發消防安全檢查證明（Fire Safety Inspection Certificate, FSIC） — https://vizcodeph.com/code-library/ra-9514-fire-code-of-the-philippines/
+- 公寓大樓：管委會負責公共區域合規，單位所有權人負責單位內合規；2008 年前建物曾有 2 年過渡期 — https://www.lawyer-philippines.com/articles/who-is-responsible-for-ra-9514-fire-safety-compliance-in-pre-2008-condominiums-without-turnover
+
+### 2.4 2023–2026 法規變動
+- 本次搜尋**未發現** RA 10350 或 PCAB 規則在 2023–2026 間的修法；最重要的結構性變動仍是 2020 年最高法院廢除 PCAB 正規執照外資 40% 上限（細則未定） — https://law.asia/pcab-licence-philippine-contracting-projects/
+- 外資負面清單現行版本為 2022-06-27 EO 175（第 12 版），約每兩年檢討一次；本次搜尋未見第 13 版發布 — https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/95421 ；https://www.philstar.com/business/2022/06/28/2191529/duterte-approves-eo-updating-foreign-investment-rules
+
+---
+
+## 3. 消費者保護與糾紛（Consumer Protection & Disputes）
+
+### 3.1 法定責任與保固
+| 條文／機制 | 內容 | 來源 |
+|---|---|---|
+| 民法第 1723 條（Civil Code Art. 1723） | 建物於完工後 15 年內因施工缺陷、劣質材料或違約而倒塌，承包商負責；若建築師／工程師兼監造，負連帶責任 | https://www.magsalinlaw.com.ph/news/legal-education/building-responsibilities-brick-by-brick-liabilities-of-building-contractors-under-article-1723-of-the-new-civil-code/ ；https://ciap.dti.gov.ph/content/can-contractor-be-held-liable-any-loss-or-damage-suffered-third-persons-any-defects-work |
+| 民法第 1713 條 | 以固定價格承攬建造或**修繕**建物者，於完工前對工程負責 | https://asg.ph/insights/construction-defects-contractors-liability-and-owners-rights-under-philippine-law |
+| 民法第 1714 條 | 承包商須依約定圖說與規格妥為施工 | 同上 |
+| 隱蔽瑕疵（律師事務所見解） | 業主須於發現後 6 個月內通知承包商，4 年內起訴；**此說法未附法條依據，需核實** | https://aedoconstruction.com/blog/engineer-architect-liability-law-philippines/ |
+| 契約保固（DLP） | 契約常見缺陷責任期 3–12 個月；法定責任可超過 DLP | https://www.whitecase.com/insight-our-thinking/managing-construction-risks-asia-pacific-philippines |
+| 保固起算 | 實務案例：保固自業主書面最終驗收起算一年；無書面驗收則保固未起算；業主使用有瑕疵之工程不視為放棄要求修正 | https://www.lawyer-philippines.com/articles/renovation-warranty-concerns-under-philippine-law-a-legal-inquiry |
+| 保留款（Retention） | 通常為契約價 5–10%，待完工且瑕疵修復後釋放；須符合民法第 1306 條公平原則 | https://www.respicio.ph/commentaries/construction-contract-warranty-for-residential-houses-defects-liability-and-remedies-under-philippine-law |
+| 實務建議 | 瑕疵未修復前勿簽署最終驗收、quitclaim、放棄書或保留款釋放文件；若需入住，書面保留隱蔽瑕疵與保固請求權 | https://www.respicio.ph/commentaries/legal-remedies-against-a-home-contractor-who-fails-to-repair-defects-and-withholds-retention-philippines |
+
+### 3.2 申訴與爭議解決管道
+- **DTI 消費者申訴**：適用於消費交易中之欺騙、不公平、顯失公平或保固相關行為（收款後棄工、劣質材料、謊稱持照、拒修瑕疵）；可至 DTI 省辦公室或線上表單提出；DTI 調解官主持調解，結果可為退款、更換、修復或減價；和解可依 ADR 規則第 13 條作為和解判決執行；某律師事務所稱調解成功率約 60%（**未能他處核實**） — https://www.respicio.ph/commentaries/how-to-file-a-consumer-fraud-complaint-against-a-construction-contractor-in-the-philippines ；https://www.lawyer-philippines.com/articles/business-scam-complaint-filing-with-dti
+- **PCAB/CIAP 行政申訴**：針對無照或持照承包商；論壇稱持照承包商被投訴屬實可被列入黑名單、不再核照（非權威來源） — https://www.philippinewatchclub.org/forum/viewtopic.php?f=51&t=52023
+- **民事訴訟**（退款、損害賠償）與**刑事詐欺（estafa）**告訴（收款後失聯） — https://www.respicio.ph/commentaries/legal-remedies-for-construction-defects-and-contractor-misrepresentation-in-the-philippines
+- 開發商／住宅糾紛可能涉及 DHSUD（原 HLURB）管轄 — https://www.respicio.ph/commentaries/report-scam-company-to-sec-and-dti-philippines
+
+### 3.3 常見詐欺模式與申訴量
+- 搜尋結果中常見模式：收取大額頭期款後棄工、使用劣質材料、謊稱 PCAB 執照、拒絕修復瑕疵、扣留保留款 — https://www.respicio.ph/commentaries/construction-defects-and-incomplete-work-in-the-philippines-contractor-liability-explained
+- **缺口**：英文與他加祿語（Tagalog）搜尋均**未找到** 2025 年菲律賓裝修承包商申訴件數或 DTI 分類統計；他加祿語查詢「pagpapaayos ng bahay kontratista scam」僅回傳美國消費者指南與無關結果。
+- 承包商常用抗辯：業主自供材料、業主變更設計（variation order）、業主後續改裝或超載、未維護；極端天氣只是揭露而非造成瑕疵時承包商仍負責 — https://asg.ph/insights/construction-defects-contractors-liability-and-owners-rights-under-philippine-law
+
+---
+
+## 4. 外資進入規則（Foreign-Entry Rules）
+
+### 4.1 設計業務：專業執業保留給菲律賓公民
+- 第 12 版外資負面清單（EO 175，2022-06-27）List A 第 2 項「專業執業」外資上限 0%，除法律特別允許者外；附件明列**室內設計（RA 10350 §15、§29）**、建築（RA 9266 §13、§27）等，外籍人士僅能在相關法律的互惠條款下執業 — https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/95421 ；https://www.philstar.com/business/2022/06/28/2191529/duterte-approves-eo-updating-foreign-investment-rules
+- 專業之「法人執業」限制僅及於建築（architecture）；室內設計未列入法人執業限制，但執業者個人仍須為 PRC 登記設計師或持特別許可之外籍人士 — https://www.dayananconsulting.com/12th-regular-foreign-investment-negative-list-a-b/
+- **台灣與菲律賓互惠**：本次搜尋**未找到**台灣是否被 PRC 認定為對菲籍室內設計師開放互惠的國家；台灣《建築物室內裝修管理辦法》對外籍人士之規定亦非本 Lens 範圍。此為關鍵待核事項。
+- 實務解讀：台灣公司可於菲律賓設立公司提供設計服務，但簽圖、署名與對業主的專業責任須由 PRC 登記之菲籍室內設計師承擔；外籍設計師若要在菲掛名執業須申請 RA 10350 特別許可並與菲籍對口共同署名 — https://www.studocu.com/ph/document/university-of-santo-tomas/bs-architecture/implementing-rules-and-regulations-of-ra-no-10350-for-interior-design/144215049
+
+### 4.2 施工業務：PCAB 執照
+- 外國承包商傳統路徑：特別執照（逐案、限外資／國際標／BOT 專案、需 SEC 登記分公司或子公司、本地資產須為現金與設備且不得匯出） — https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/11/44534
+- 2020 年最高法院判決後，100% 外資的菲律賓公司理論上可申請正規執照，惟 PCAB 未定細則；法律顧問建議申請前與 PCAB 或菲律賓營建律師確認 — https://law.asia/pcab-licence-philippine-contracting-projects/
+- 新公司申請正規執照之文件（供參考）：董事會決議、公證／認證之公司章程、6 個月內查核財報、NBI 清查、技術人員（Sustaining Technical Employee）證明等 — https://www.respicio.ph/commentaries/pcab-license-requirements-for-new-construction-companies-in-the-philippines
+
+### 4.3 工作簽證
+- **缺口**：本次 20 次搜尋配額未涵蓋外籍設計師／工地主管之工作簽證（9(g) 簽證、DOLE 外籍人士就業許可 AEP、PRC 特別許可間的關聯）；請在後續研究補查 Bureau of Immigration 與 DOLE AEP 規則。
+
+### 4.4 已進入菲律賓的外國設計／裝修／營建公司
+| 公司 | 母國 | 進入方式 | 現況／備註 | 來源 |
 |---|---|---|---|---|
-| 2026-04-13 簽署／2026-05-02 生效 | 第 13 版外資負面清單（EO 113） | 取代 EO 175（2022）；室內設計條目是否保留**未確認** | [Global Law Experts](https://globallawexperts.com/13th-foreign-investment-negative-list-philippines/)【T3】 | 中 |
-| 2025 | ECCP 對 PCAB 執照之立場文件 | 外資 Regular 執照仍未落實；呼籲落實 2020 年判決 | [ECCP](https://www.eccp.com/storage/app/media/Advocacy/Materials/2025/eccp-position-on-pcab-licensing.pdf)【T3】 | 中 |
-| 2024-11 | CREATE MORE 法（RA 12066） | 企業稅誘因調整（詳 §4.4） | [LawPhil RA 12066（網址依格式推定）](https://lawphil.net/statutes/repacts/ra2024/ra_12066_2024.html)【背景】 | 中 |
-| 2026-06 | CPTPP 啟動菲律賓加入談判 | 與台灣申請案無直接連動 | [Taipei Times 2026-03-31](https://www.taipeitimes.com/News/taiwan/archives/2026/03/31/2003854764)；[DFAT](https://www.dfat.gov.au/trade/agreements/in-force/cptpp/comprehensive-and-progressive-agreement-for-trans-pacific-partnership)【T3】 | 高 |
-| 2023–2026 | RA 10350、PD 1096、RA 9514 本身 | **本輪未查得修法**；PD 1096 全面修訂案（新國家建築法）長期在國會審議中，狀態待核 | 缺口 | — |
+| M Moser Associates | 香港（總部） | 馬尼拉辦公室（Makati, Locsin Building, Ayala Ave.） | 企業辦公室設計建造；頁面稱「去年正式開設辦公室」但未標年份 | https://www.mmoser.com/offices/manila/ |
+| Space Matrix | 新加坡 | 馬尼拉辦公室（BGC, Taguig） | 辦公室設計建造 | https://www.spacematrix.com/en/contact-us/location/manila |
+| Nomura Real Estate（野村不動產） | 日本 | 與 Federal Land 合資 Federal Land NRE Global, Inc.（野村持 34%），2022 年成立、資本約 ₱480 億 | 日式住宅社區開發，非裝修業 | https://filipinotimes.net/tft-reach/2022/01/28/philippines-federal-land-japans-nomura-form-new-company-pegged-at-p48-billion-pesos/ ；https://mb.com.ph/2025/1/4/explore-japanese-inspired-living-federal-land-nomura-real-estate |
+| Takenaka Corp.（竹中工務店） | 日本 | 2024 年 4 月與 Ayala Land 營建子公司 Makati Development Corp. 成立新公司，探索複雜設計施工專案 | 營建／設計施工合資 | https://tribune.net.ph/2025/02/22/japan-excellence-filipino-heart |
+| Shimizu（清水建設） | 日本 | 連續取得大型基礎建設合約 | 基建，非裝修 | https://www.shimz.co.jp/en/company/about/news-release/2020/2019051.html |
+| Depa Group | 阿聯 | 維基條目列為國際室內裝修集團 | 未確認在菲營運 | https://en.wikipedia.org/wiki/Depa_Group |
 
-### 2.6 推論（Inferences）
-- 菲律賓的「雙重門檻」（PRC 設計執照＋PCAB 承攬執照）在法條上比台灣（業者登記＋專業技術人員）嚴格得多，但執法落差大：住宅小型裝修大量由未持照工班承攬、未申請建築許可（此為研究者推論，待以 OBO 統計或媒體報導驗證）。
-- 對台灣集團而言，法規風險的核心不是「能否取得執照」而是「以誰的名義執業」：設計圖說與印鑑必須是 PRC 註冊設計師，承攬契約主體必須是 PCAB 持照公司——任何合作架構都必須圍繞這兩個「法定簽章人」設計。
+- **缺口**：未找到任何台灣、韓國、中國室內設計或裝修公司於 2024–2025 年進入菲律賓的公開報導；亦未找到台資營建／裝修子公司。本地辦公室裝修承包商（Don Pin、Elcad、Neptel、Polymath、Jeco）皆未顯示外資背景 — https://www.linkedin.com/company/don-pin-corporation ；https://ellcad.com.ph/ ；https://www.neptel.ph/
+- 觀察：外資成功案例集中於（a）跨國企業辦公室設計建造（香港／新加坡系）與（b）與本地大型開發商（Federal Land、Ayala Land）合資的日系營建商；住宅裝修零售市場未見外資品牌。
 
-### 2.7 缺口（Gaps）
-- RA 10350 原文條號、及格標準、罰金金額；PRC 室內設計委員會對外國設計師特別許可的作業規則（IRR）。
-- PCAB 各級淨值門檻、執照承包商家數（Regular／Special、各級）、2024–2026 核發外資 Special 執照件數。
-- PD 1096 2004 IRR 免許可工程清單原文；各地方政府（Quezon City、Makati、Taguig／BGC 等）對住宅裝修許可的實務要求與規費。
-- 公寓管委會裝修押金與規費行情（PHP）；DHSUD／NHA 社宅裝修規範。
+### 4.5 稅務提示（僅提示，非稅務建議）
+- 本次搜尋未涵蓋；後續應確認：公司所得稅（CREATE 法案後稅率）、12% VAT 對設計服務與工程款之適用、外籍人員個人所得稅居住者判定、PEZA 等投資優惠是否適用設計服務。
 
 ---
 
-## 3. 消費者保護與糾紛
+## 5. 消費者行為（Consumer Behaviour）
 
-### 3.1 重點
-菲律賓沒有任何裝修專屬的消費者保護機制（無法定契約範本、訂金上限、託管、法定保固期、裝修保險）；保障來自一般法（消費者法、民法承攬契約條文、刑法詐欺罪）與一般糾紛管道（DTI 調解、CIAC 仲裁、小額訴訟、村里調解）。投訴統計無裝修分項。
-
-### 3.2 引用事實
-
-| 項目 | 事實 | 來源／取得途徑 | 信心 |
-|---|---|---|---|
-| 一般消費者法 | 《菲律賓消費者法》（RA 7394, Consumer Act of the Philippines, 1992）涵蓋消費性商品與服務，貿工部（DTI）為主要執法機關（Fair Trade Enforcement Bureau）；消費者投訴可向 DTI 提出，先調解後裁決 | [LawPhil RA 7394](https://lawphil.net/statutes/repacts/ra1992/ra_7394_1992.html)；[DTI](https://www.dti.gov.ph/)【背景＋正本 URL】 | 高 |
-| 投訴量 | DTI 2023 年受理約 **28,800 件**消費者投訴（31% 進入調解裁決、69% 轉介），**無裝修分項** | [PhilStar 2024-03-19](https://www.philstar.com/business/2024/03/19/2341515/consumer-complaints-rise-2023-dti)【T3】 | 中 |
-| 承攬契約（民法） | 《民法》（RA 386）第 1713–1731 條「承攬」（contract for a piece of work）：承包商須依約定品質完成工作、無瑕疵，否則定作人得要求除去瑕疵或重做（第 1715 條）；第 1723 條：建築物因設計或施工瑕疵（或地基）而於完工後 **15 年內倒塌**，繪圖之工程師／建築師與承包商負連帶損害賠償責任，訴訟須於倒塌後 10 年內提起；第 1170 條（遲延、過失、詐欺之損害賠償）、第 1191 條（解除契約） | [LawPhil RA 386 Civil Code](https://lawphil.net/statutes/repacts/ra1949/ra_386_1949.html)【背景＋正本 URL】 | 高（第 1723 條）／中（其餘條號） |
-| 法定保固期 | **無**裝修專屬法定保固期；私人工程慣例上以契約約定「瑕疵責任期」（defects liability period），業界常用 CIAP Document 102《私人工程統一契約通則》（Uniform General Conditions of Contract for Private Construction）作範本，含保留款（retention）與完工後一年保證之慣例——**原文條款待核** | [CIAP](https://ciap.dti.gov.ph/)【背景】 | 中（文件存在）／低（一年） |
-| 標準契約 | 無法定裝修契約範本；PIID 是否發布標準設計服務契約**待核**；CIAP Document 102 為業界慣用 | 缺口／【背景】 | 低 |
-| 訂金／付款慣例 | 無法定上限或託管制度；業界慣例為動員款（mobilization／downpayment）＋進度款＋保留款（**比例待核**，見附錄 B） | 缺口 | — |
-| 保險 | 無強制裝修保險；承包商全險（Contractor's All Risks, CAR）為大型工程慣例，住宅裝修少見；公寓管委會常要求承包商投保責任險（慣例，待核） | 缺口／【背景】 | 低 |
-| 仲裁 | 《建築業仲裁委員會》（Construction Industry Arbitration Commission, CIAC，EO 1008，1985）對當事人約定仲裁之建築契約爭議有原始且專屬管轄權；《替代性爭議解決法》（RA 9285, 2004）第 34–35 條再確認 | [LawPhil EO 1008](https://lawphil.net/executive/execord/eo1985/eo_1008_1985.html)；[LawPhil RA 9285](https://lawphil.net/statutes/repacts/ra2004/ra_9285_2004.html)【背景＋正本 URL】 | 高 |
-| 小額訴訟 | 最高法院小額訴訟規則（A.M. No. 08-8-7-SC）金額上限 **PHP 100 萬（≈ USD 1.75 萬 ≈ NT$55 萬）**（2022 年修正後），不得委任律師、程序簡速 | [最高法院（網址待核）](https://sc.judiciary.gov.ph/)【背景】 | 中 |
-| 村里調解 | 《地方政府法》（RA 7160, 1991）第七章 Katarungang Pambarangay：同一市／鎮居民間之民事爭議須先經村里（barangay）調解才可起訴 | [LawPhil RA 7160](https://lawphil.net/statutes/repacts/ra1991/ra_7160_1991.html)【背景＋正本 URL】 | 高 |
-| 詐欺刑責 | 承包商收取訂金後棄工、虛偽承諾：依《修正刑法》第 315 條詐欺（estafa）追訴；此類案件在菲律賓媒體與社群極常見（**件數無統計**） | 【背景】 | 中（法條）／無資料（件數） |
-| 專業紀律 | 對持照室內設計師之不當行為可向 PRC 室內設計委員會申訴（吊扣／吊銷執照） | [PRC](https://www.prc.gov.ph/)【背景】 | 中 |
-
-### 3.3 常見糾紛／詐騙型態（無統計，依研究者背景知識，待驗證）
-- 承包商收取 30–50% 動員款後失聯或工程無限期停擺（最常見）；
-- 低報價承攬後以「追加」（variation orders）抬價；
-- 使用劣質／仿冒建材（水電線材、油漆、磁磚）；
-- 無照工班施工導致公寓管委會勒令停工；
-- 設計師與承包商未分離、設計費與工程款綁定使消費者難以議價。
-（以上全部為 D 級線索，**無 URL**；下一輪以「renovation scam Philippines 2025」、「contractor estafa Philippines」查證。）
-
-### 3.4 推論
-- 投訴數據缺乏裝修分項，加上糾紛多走刑事（estafa）而非消費者管道，使菲律賓的裝修糾紛**嚴重被低估**；對進入者而言，「有合約、有保固、有保險」本身就是差異化訴求（與新加坡 CaseTrust 模式類似，但菲律賓沒有任何官方背書機制可借力）。
-
-### 3.5 缺口
-- DTI 消費者投訴中「家居修繕／承包商」分項（2023–2025）；CIAC 年度案件量與住宅案比例；PRC 對室內設計師之紀律案件數。
-- CIAP Document 102 保留款比例與保證期條款原文；PIID 標準設計服務契約。
-- 媒體報導之裝修詐騙案例（英文與菲律賓語）。
-
----
-
-## 4. 外資進入規則：台灣公司能否設立設計公司或裝修承包商
-
-### 4.1 重點
-設計執業（RA 10350 互惠條款＋FINL List A）對台灣業者**實質封閉**；承攬（PCAB Regular 60% 菲資）**受限**，外資只能逐案 Special 執照或以 AAAA 級（淨值 PHP 10 億）申請 Regular；**零售與一般商業公司**則相對開放（外資可 100% 持有，但有最低資本門檻）。台灣是否被 PRC 認定為互惠國、第 13 版 FINL 是否仍列室內設計，是進入與否的前提問題，本輪未能確認。
-
-### 4.2 設計公司
-
-| 項目 | 事實 | 來源／取得途徑 | 信心 |
-|---|---|---|---|
-| 專業執業 | 憲法第 XII 條第 14 節＋RA 10350 §29：外國人原則不得註冊；僅特定專案之臨時／特別許可 | [Official Gazette 憲法](https://www.officialgazette.gov.ph/constitutions/1987-constitution/)；[LawPhil RA 10350](https://www.lawphil.net/statutes/repacts/ra2012/ra_10350_2012.html)【T3／背景】 | 高 |
-| 負面清單 | 第 12 版 FINL（EO 175，2022）List A「專業之執業」項下列室內設計（引 RA 10350 §15、§29）——外資 0%；第 13 版 FINL（EO 113，2026-05-02 生效）條目**待核** | [最高法院 e-Library EO 175](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/95421)；[Global Law Experts EO 113](https://globallawexperts.com/13th-foreign-investment-negative-list-philippines/)【T3】 | 中 |
-| 台灣是否為互惠國 | **無資料**。台灣對外國人執行室內設計無法定證照限制（台灣無室內設計師法定證照，僅室內裝修業登記與專業技術人員），PRC 如何認定「互惠」無來源 | 缺口 | — |
-| 可行架構 | 外資可 100% 持有「非專業執業」之商業公司（如家居零售、傢俱貿易、專案管理顧問），但室內設計圖說與簽章必須由 PRC 註冊設計師出具；實務上外國設計品牌多以「設計分包／品牌授權給本地持照事務所」或「以持照菲籍設計師為合夥人」運作（研究者推論，與 T3 §10 第 3 點一致） | T3【推論】 | 中 |
-| 公司設立 | 《修正公司法》（RA 11232, 2019）允許外國人設立國內公司或單人公司（One Person Corporation）；外資 >40% 之內需企業依《外國投資法》（RA 7042，經 RA 11647 於 2022 年修正）須最低實收資本 **USD 20 萬（≈ PHP 1,140 萬 ≈ NT$630 萬）**，若僱用 ≥15 名菲籍員工或涉先進技術可降為 **USD 10 萬** | [LawPhil RA 11232](https://lawphil.net/statutes/repacts/ra2019/ra_11232_2019.html)；[LawPhil RA 7042](https://lawphil.net/statutes/repacts/ra1991/ra_7042_1991.html)；[LawPhil RA 11647（網址依格式推定）](https://lawphil.net/statutes/repacts/ra2022/ra_11647_2022.html)【背景＋正本 URL】 | 中 |
-| 零售（家居建材） | 《零售業自由化法》修正（RA 11595，2021-12）：外資零售商最低實收資本降為 **PHP 2,500 萬（≈ USD 43.9 萬 ≈ NT$1,380 萬）**；開設多家門市者每店投資 ≥PHP 1,000 萬（≈ USD 17.5 萬 ≈ NT$553 萬）；廢除原 USD 250 萬門檻 | [LawPhil RA 11595（網址依格式推定）](https://lawphil.net/statutes/repacts/ra2021/ra_11595_2021.html)【背景＋正本 URL】 | 中 |
-
-### 4.3 裝修承包商
-
-| 項目 | 事實 | 來源／取得途徑 | 信心 |
-|---|---|---|---|
-| PCAB Regular | 須 ≥60% 菲資 | [law.asia](https://law.asia/pcab-licence-philippine-contracting-projects/)【T3】 | 高 |
-| PCAB Special | 外資／合資逐案申請，限單一專案 | 同上【T3】 | 高 |
-| AAAA 例外 | 淨值 ≥PHP 10 億（≈ USD 1,750 萬 ≈ NT$5.5 億）之外資承包商可申請 Regular | 同上【T3】 | 高 |
-| 判決與現況 | 2020 年最高法院判 PCAB 國籍限制無效；2025 年 ECCP 稱仍未落實 | [PwC](https://www.pwc.com/ph/en/tax/tax-publications/taxwise-or-otherwise/2020-taxwise-or-otherwise/tearing-down-pcabs-concrete-wall-of-foreign-equity-restriction.html)；[ECCP](https://www.eccp.com/storage/app/media/Advocacy/Materials/2025/eccp-position-on-pcab-licensing.pdf)【T3】 | 中 |
-| 公共工程 | FINL List A 另對「本國資金之公共工程承攬」設 25% 外資上限（例外：BOT／外國融資工程）——與私人住宅裝修無關，僅供參考 | [EO 175](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/95421)【T3；條目細節為背景】 | 中 |
-| 可行架構 | （a）與 ≥60% 菲資之 PCAB 持照公司合資（台資 ≤40%）；（b）台灣公司作為設計／專案管理顧問，施工由本地 PCAB 承包商承攬；（c）大型商辦／飯店專案以 Special 執照逐案進入 | T3【推論】 | 中 |
-
-### 4.4 工作簽證（設計師、工地主管）
-
-| 項目 | 事實 | 來源／取得途徑 | 信心 |
-|---|---|---|---|
-| 外籍人士就業許可 | 勞工部（DOLE）核發外國人就業許可（Alien Employment Permit, AEP），須通過勞動市場測試（公告徵才、證明無菲籍勝任者），效期 1–3 年；DOLE 2021 年 Department Order No. 221-21 為現行主要規則（2025 年是否再修訂**待核**） | [DOLE](https://www.dole.gov.ph/)【背景】 | 中 |
-| 工作簽證 | 移民局（Bureau of Immigration）9(g) 預先安排就業簽證（pre-arranged employment visa），以 AEP 為前提；短期（≤6 個月）可用特別工作許可（Special Work Permit, SWP） | [Bureau of Immigration](https://immigration.gov.ph/)【背景】 | 中 |
-| 專業人員 | 外籍室內設計師／建築師／工程師除 AEP 外，尚須依各專業法向 PRC 申請特別臨時許可（Special Temporary Permit, STP），通常以專案為限並須菲籍持照對口 | [PRC](https://www.prc.gov.ph/)【背景】 | 中 |
-| 工地主管（非專業） | 無專業法限制，但 AEP 勞動市場測試對「可由菲籍勝任」之職位核准率低（研究者判斷，待驗證） | 缺口 | 低 |
-
-### 4.5 已進入的外國業者（本輪僅能列出有把握存在者，營運結果無來源）
-
-| 業者 | 國別 | 類型 | 事實 | 來源／取得途徑 | 信心 |
-|---|---|---|---|---|---|
-| IKEA Philippines（Ikano Retail 加盟） | 瑞典／新加坡 Ikano | 家居零售 | 2021-11 於 Pasay（MOA 商圈）開幕，開幕時宣稱為全球最大 IKEA 門市之一 | [IKEA Philippines](https://www.ikea.com/ph/en/)【背景】 | 中 |
-| Nitori（ニトリ） | 日本 | 家居零售 | 2022 年起在馬尼拉（BGC 三越）開設菲律賓首店，其後擴店（店數待核） | [Nitori Philippines（網址待核）](https://www.nitori.com.ph/)【背景】 | 中 |
-| MUJI（SSI Group 代理） | 日本 | 家居零售 | 由本地上市零售集團 SSI 代理經營多年 | 【背景】 | 中 |
-| HCG 和成（Hocheng Philippines Corporation） | **台灣** | 衛浴製造／銷售 | 在菲律賓設有子公司與工廠（Laguna；成立年份待核） | [HCG Philippines（網址待核）](https://www.hcg.com.ph/)【背景】 | 中 |
-| Mariwasa Siam Ceramics（SCG 持股） | 泰國 | 磁磚製造 | 泰國暹羅水泥集團（SCG）控股之本土磁磚龍頭 | 【背景】 | 中 |
-| Space Matrix | 新加坡 | 商辦室內設計施工 | 在馬尼拉設有辦公室，服務 BPO／跨國企業辦公室（持照架構待核） | 【背景】 | 低 |
-| 中國國企承包商（如 CSCEC） | 中國 | 承包 | 以 Special 執照承攬大型公共／私人工程 | 【背景】 | 低 |
-| 台灣室內設計／裝修公司 | 台灣 | — | **本輪未找到任何有 URL 的案例** | 缺口 | — |
-| 韓國室內設計／裝修公司 | 韓國 | — | **本輪未找到任何有 URL 的案例** | 缺口 | — |
-
-HKTDC 研究稱菲律賓本地室內設計公司「尋求國際夥伴」（質性）— [HKTDC](https://research.hktdc.com/en/article/MTk2OTMyNDExNA)【T1】。
-
-### 4.6 稅務提示（僅標示項目，不構成建議）
-- 企業所得稅：CREATE 法（RA 11534，2021）將一般公司稅率定為 25%，淨應稅所得 ≤PHP 500 萬且總資產 ≤PHP 1 億之國內小型公司 20%；CREATE MORE 法（RA 12066，2024-11）調整登記企業之誘因 — [LawPhil RA 11534](https://lawphil.net/statutes/repacts/ra2021/ra_11534_2021.html)；[BIR](https://www.bir.gov.ph/)【背景】（中）。
-- 加值稅 12%（服務含設計與承攬） — [BIR](https://www.bir.gov.ph/)【背景】（高）。
-- 承攬款項之擴大預扣稅（expanded withholding tax）對承包商適用（稅率待核）；外國承包商以 Special 執照承攬者之常設機構與預扣問題應諮詢稅務顧問 — 【背景】（低）。
-- 台菲無全面性雙邊投資協定之公開資訊本輪未查；台菲租稅協定狀態**待核**（缺口）。
-
-### 4.7 推論
-- 「設計 1／承攬 1」的 T3 評分在本輪仍成立；但若把「家居零售（RA 11595）＋設計分包給本地 PRC 事務所＋施工交本地 PCAB 承包商」視為一個整體模式，可行性可提升至 2–3（研究者判斷）。
-- 判例（2020）與行政（2025 仍未落實）之落差，表示 PCAB 的外資 Regular 執照短期內不宜列為進入前提。
-
-### 4.8 缺口
-- EO 113 第 13 版 FINL 全文中的專業執業條目；PRC 對台灣（中華民國）互惠之認定紀錄或先例。
-- PCAB 2024–2026 核發外資 Special 執照件數與國別。
-- DOLE 2025 年 AEP 新規（若有）之編號與勞動市場測試細節；9(g) 簽證核發時程與費用。
-- 日、韓、新、台業者進入菲律賓室內設計／裝修的具名案例與結果（含退出案例）。
-- 台菲租稅協定、承攬預扣稅率。
-
----
-
-## 5. 消費者行為
-
-### 5.1 重點
-本輪**沒有任何**附 URL 的菲律賓裝修消費者行為來源（誰在裝修、預算分級、決策歷程、風格偏好、付款慣例）。可引用者僅限融資制度（Pag-IBIG 住宅貸款含修繕用途）與總經錨點（人均 GDP、海外菲勞匯款）。
-
-### 5.2 引用事實
-
-| 項目 | 事實 | 來源／取得途徑 | 信心 |
-|---|---|---|---|
-| 總經錨點 | 2025 年名目人均 GDP **USD 4,270**（≈ NT$134,500），為台灣（USD 39,489）的約 1/9；人口約 1.14 億 | [Worldometers（IMF WEO 轉載）](https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal)【T1】 | 中 |
-| 海外菲勞匯款 | 菲律賓央行（BSP）每月公布海外菲人（OF）現金匯款；2024 年全年現金匯款約 **USD 345 億（≈ PHP 1.97 兆 ≈ NT$1.09 兆）**（研究者記憶，**待核**） | [BSP](https://www.bsp.gov.ph/)【背景】 | 低（數字）／高（序列存在） |
-| 住房缺口 | DHSUD 常引用之住房缺口約 **650 萬戶**（2022–2023 基準，待核），4PH（Pambansang Pabahay para sa Pilipino）計畫目標每年 100 萬戶 | [DHSUD](https://dhsud.gov.ph/)【背景】 | 低 |
-| 政府融資 | 住宅發展互助基金（Pag-IBIG Fund／HDMF，RA 9679）住宅貸款用途含購屋、建屋與**住宅修繕（home improvement）**，最高貸款額 **PHP 600 萬（≈ USD 10.5 萬 ≈ NT$332 萬）**，期限最長 30 年，利率依重訂期自 **5.75%（1 年固定）**起（2024–2025 公告，待核） | [Pag-IBIG Housing Loan](https://www.pagibigfund.gov.ph/HousingLoan.html)；[LawPhil RA 9679](https://lawphil.net/statutes/repacts/ra2009/ra_9679_2009.html)【背景】 | 中（制度）／低（利率） |
-| 補貼 | Pag-IBIG「可負擔住宅計畫」（Affordable Housing Program）對低收入會員提供補貼利率（3% 起，額度上限待核）；**無針對私人住宅裝修之政府補貼或租稅優惠**（研究者判斷） | [Pag-IBIG](https://www.pagibigfund.gov.ph/)【背景】 | 低 |
-| 銀行融資 | 主要商業銀行（BDO、BPI、Metrobank、Security Bank 等）之住宅貸款產品含「建屋／修繕」用途，另有無擔保個人貸款；利率與條件**無來源** | 缺口 | — |
-| 付款慣例 | 動員款＋進度款＋保留款（比例待核）；設計費以工程款百分比或每 m² 計（PIID 指引待核） | 缺口 | — |
-
-### 5.3 推論（研究者判斷，無來源，低信心）
-- 以人均 GDP 與匯款規模推論，付費設計需求集中於馬尼拉都會區中高收入家庭、OFW 家庭（匯款用於建屋／修繕）與公寓投資客（出租單位 fit-out）；大眾市場以自建自修、工班直包、零售商（Wilcon、AllHome）購料為主。
-- 公寓交屋多為「bare shell／semi-finished」，交屋後 fit-out 是公寓區隔的主要裝修觸發點（待以建商資料驗證）。
-
-### 5.4 缺口
-- 誰在裝修（首購／中古／高齡／出租／房東）比例；預算分級（PHP/m²）；決策歷程與資訊來源（Facebook 社團、YouTube、Lamudi、Pinterest）；風格偏好；信任議題調查；付款時程；銀行修繕貸款利率。
-- BSP《消費者期望調查》（Consumer Expectations Survey）中「購屋／住宅支出」意向序列；PSA《家庭收支調查》（FIES 2023）中住宅修繕支出分項。
-- 菲律賓語來源（Facebook 社團、YouTube「pagpapaayos ng bahay」、論壇）0 條。
-
----
-
-## 6. 人才與勞動
-
-### 6.1 重點
-制度面（PRC 考試、CHED 學程、TESDA 技能證照、最低工資）有法規與機關可查；數字面（註冊設計師人數、年度及格人數、畢業生數、薪資、工班日薪、缺工規模）**本輪全部無 URL 來源**。唯一可引用的數字是首都圈法定日最低工資 PHP 695（2025-07-18 起）。
-
-### 6.2 引用事實
-
-| 項目 | 事實 | 來源／取得途徑 | 信心 |
-|---|---|---|---|
-| 設計師教育 | 室內設計學士（BS Interior Design）由高等教育委員會（CHED）訂定學程標準（CMO，編號待核）；主要學校：菲律賓大學（UP Diliman，建築學院）、聖多瑪斯大學（UST）、德拉薩聖班尼德學院（DLS-CSB）、遠東大學（FEU）、菲律賓女子大學（PWU）、Assumption College、聖卡洛斯大學（USC，宿霧）；菲律賓室內設計學校（Philippine School of Interior Design, PSID，1967 年成立）為業界知名之文憑學校 | [CHED](https://ched.gov.ph/)【背景】；學校名單為【背景】 | 中（學校存在）／無資料（畢業人數） |
-| 執照考試 | PRC 室內設計師執照考試每年一次；及格人數與及格率**無來源**（PRC 新聞稿每年公布） | [PRC](https://www.prc.gov.ph/)【背景】 | 無資料 |
-| 註冊設計師人數 | **無資料**（PRC／PIID 未取得） | 缺口 | — |
-| 設計師薪資 | **無 URL 來源**；記憶量級見附錄 B | 缺口 | — |
-| 法定最低工資（NCR） | 首都圈三方工資委員會（RTWPB-NCR）第 26 號工資令：2025-07-18 起非農業日最低工資 **PHP 695（≈ USD 12.2 ≈ NT$384）**，較前一工資令（第 25 號，2024-07，PHP 645）調升 PHP 50 | [NWPC 區域最低工資表](https://nwpc.dole.gov.ph/regionandwages/national-capital-region/)【背景＋正本 URL】 | 中（未開頁核對） |
-| 工班日薪 | 木工、泥作、貼磚、水電等技術工日薪**無 URL 來源**；市場報價網站（如 philconprices.com）定期刊登工資行情，待核 | [philconprices.com（二手）](https://philconprices.com/)【背景】 | 無資料 |
-| 技能認證 | 技術教育與技能發展署（TESDA）核發國家證照（National Certificate）：木工 NC II（Carpentry）、泥作 NC II（Masonry）、貼磚 NC II（Tile Setting）、水電裝修 NC II（Electrical Installation and Maintenance）、給排水 NC II（Plumbing）、建築油漆 NC II 等 | [TESDA](https://www.tesda.gov.ph/)【背景】 | 中～高 |
-| 缺工 | 業界（菲律賓建築商協會 PCA）與 DTI《建築業路線圖 2020–2030》多次指出技術工短缺，常引數字為「2030 年前需新增約 250 萬名工人」（**待核**）；主因為技術工外移（中東、日本特定技能、新加坡）與職訓供給不足 | [CIAP](https://ciap.dti.gov.ph/)【背景】 | 低（數字）／中（現象） |
-| 移工政策（流入） | 菲律賓為勞力輸出國，建築工種幾乎無引進外籍藍領之政策；外籍技術人員須 AEP＋9(g)（見 §4.4） | [DOLE](https://www.dole.gov.ph/)【背景】 | 中 |
-| 移工政策（流出） | 2021 年成立移工部（Department of Migrant Workers, DMW，RA 11641）統籌海外就業；建築技術工為主要輸出職類之一 | [LawPhil RA 11641（網址依格式推定）](https://lawphil.net/statutes/repacts/ra2021/ra_11641_2021.html)【背景】 | 中 |
-| 高齡化 | 菲律賓人口中位數約 25 歲（年輕），工班高齡化問題不如東亞嚴重；問題是外移而非老化（研究者判斷） | 【背景】 | 低 |
-
-### 6.3 推論
-- 菲律賓工班成本（法定日薪 PHP 695 ≈ NT$384）約為台灣技術工日薪的 1/6–1/8（台灣側數字見 TW-B-rules），但技術工外移使「可用的熟練工」供給緊、流動率高；對台灣業者而言，菲律賓的優勢是人力成本而非人力穩定度。
-- 英語能力與 TESDA 證照體系使台灣業者相對容易建立標準作業訓練；反向的機會是**台灣引進菲律賓建築移工**（台灣自 2024–2025 年起開放營造業移工配額），本研究未納入但值得集團另案評估。
-
-### 6.4 缺口
-- PRC 註冊室內設計師累計人數；2023–2025 年執照考試應考／及格人數；PIID 會員數；CHED 各校室內設計畢業生數。
-- 設計師、工地主管薪資（Jobstreet／Glassdoor／PSA 職業工資調查 OWS）；木工／泥作／貼磚／水電日薪（NCR 與宿霧）；PSA 勞動力調查中建築業就業人數。
-- PCA／DTI 缺工估計原文；TESDA 建築相關 NC II 年度核發人數。
-
----
-
-## 7. 材料與供應鏈
-
-### 7.1 重點
-菲律賓建材市場為「本土基礎材（水泥、鋼筋、油漆、磁磚部分、泡棉傢俱）＋進口裝修材（磁磚大宗、板材、五金、衛浴中高階、照明）」結構；PSA 每月公布 NCR 建材躉售／零售物價指數可作監測；進口依 ASEAN／中國 FTA 與 MFN 稅率，部分品項曾有防衛稅與強制性國家標準（PS／ICC 標誌）。2022–2026 價格漲幅數字本輪無來源。
-
-### 7.2 引用事實
-
-| 項目 | 事實 | 來源／取得途徑 | 信心 |
-|---|---|---|---|
-| 官方物價指數 | 菲律賓統計署（PSA）每月發布《首都圈建材躉售物價指數》（Construction Materials Wholesale Price Index, CMWPI）與《建材零售物價指數》（CMRPI），含水泥、鋼筋、木材、磁磚、油漆、電材、管材等分項；2022 年為近年漲幅高點，2023–2025 年回落至低個位數（**具體年增率待核**） | [PSA CMWPI（網址待核）](https://psa.gov.ph/statistics/construction-materials-wholesale-price-index)【背景】 | 高（序列存在）／無資料（數值） |
-| 強制標準 | 貿工部菲律賓標準局（Bureau of Philippine Standards, BPS）對水泥、鋼筋、PVC 管、電線、斷路器、陶瓷磁磚、衛生陶瓷等實施強制性產品認證（PS 標誌／進口商品 ICC 標誌） | [BPS](https://www.bps.dti.gov.ph/)【背景】 | 中 |
-| 含鉛油漆 | 環境與自然資源部（DENR）化學品管制令 2013-24 禁止含鉛油漆（建築漆 2016 年、工業漆 2019 年完成淘汰） | [DENR](https://www.denr.gov.ph/)【背景】 | 中～高 |
-| 關稅 | ASEAN 貨品貿易協定（ATIGA）對東協原產品 0%；中國產磁磚等依 ACFTA 多為 0–5%；MFN 稅率與曾實施之陶瓷磁磚防衛稅（2019 年起，是否延長**待核**）由關稅委員會（Tariff Commission）公布 | [Tariff Commission](https://tariffcommission.gov.ph/)【背景】 | 低～中 |
-| 物流 | 群島地形使島際海運成本高，馬尼拉以外（宿霧、達沃）建材價格普遍高於 NCR；零售龍頭以全國門市網（Wilcon 100 店）克服配送問題 | [Quartr Wilcon](https://quartr.com/events/wilcon-depot-inc-wlcon-q4-2024_FtvIy3pe)【T2】；物流為【背景】 | 中 |
-| 零售通路 | Wilcon Depot 2024 年淨銷售 **PHP 341.7 億（≈ USD 6.0 億 ≈ NT$189 億）**、毛利率 39.1%、專案銷售僅 PHP 3.47 億（≈1%）、100 店 | [Inquirer Plus](https://plus.inquirer.net/?p=256738)；[Quartr](https://quartr.com/events/wilcon-depot-inc-wlcon-q4-2024_FtvIy3pe)；[Context.ph](https://context.ph/2026/03/30/wilcons-net-income-drops-despite-higher-sales/)【T2】 | 高 |
-
-### 7.3 主要本土／在地品牌（名稱為研究者背景知識；營收、市占、產地**無資料**）
-
-| 品類 | 本土／在地製造 | 主要進口來源／外資品牌 | 備註 |
-|---|---|---|---|
-| 水泥 | Holcim Philippines（2024 年股權變動待核）、Republic Cement（Aboitiz／CRH）、Eagle Cement（San Miguel）、Cemex Philippines（2024 年售予 DMCI 集團，待核） | 越南進口水泥（曾為反傾銷調查對象） | 強制 PS 標誌 |
-| 磁磚 | Mariwasa Siam Ceramics（SCG）、Eurotiles Industrial Corp.、Lepanto Ceramics | 中國、越南、印尼、西班牙、義大利（Floor Center 等進口商） | 曾有防衛稅 |
-| 油漆 | Pacific Paint（Boysen）、Davies Paints、Rain or Shine | Nippon Paint、Jotun、Dutch Boy | 無鉛油漆規範 |
-| 木材／板材 | 本土合板廠（菲律賓木材製品協會）、Matimco（處理木材） | MDF／塑合板（泰、馬、中）、美耐板（Formica、Wilsonart） | 原木砍伐受限 |
-| 廚房 | 本土木工訂製為主；La Germania、Fabriano（廚電）、Condura（Concepcion Industrial） | 歐洲／日本廚電、系統廚具進口 | 系統櫃品牌化程度低 |
-| 衛浴 | Saniwares（本土）、**HCG 和成（台灣，在菲設廠）** | American Standard（LIXIL）、Kohler、TOTO | 強制 PS／ICC |
-| 照明 | Firefly（FELCO）、Akari、Omni | Philips、Panasonic、中國 LED | — |
-| 傢俱／床墊 | Uratex（RGC 集團，泡棉）、Mandaue Foam、San-Yang、Blims、Kenneth Cobonpue（設計出口） | IKEA、Nitori、MUJI、Crate & Barrel／Pottery Barn（SSI 代理） | 宿霧為傢俱出口重鎮 |
-| 綜合零售 | Wilcon Depot（WLCON）、AllHome（HOME，Villar）、SM Our Home／Ace Hardware（SM）、Handyman（Robinsons）、MC Home Depot、CW Home Depot、Citi Hardware、MR DIY | — | 僅 Wilcon 有本輪財報來源 |
-
-### 7.4 推論
-- 菲律賓「裝修材」（磁磚、板材、五金、衛浴中高階、照明）高度依賴進口，台灣集團若有既有供應鏈（系統櫃、衛浴、五金、燈具），以「建材進口＋零售／專案供應」切入，面對的障礙是標準認證（PS／ICC）、關稅與島際物流，而非專業執業法——這是本檔最明確的「可行通道」。
-- 2022 年後建材通膨趨緩（待核）表示 2025–2026 進入時的成本波動風險低於疫後高峰。
-
-### 7.5 缺口
-- PSA CMWPI／CMRPI 2022–2026 年增率（全國與 NCR，分品項）。
-- 磁磚、衛浴、板材進口量與來源國（PSA 貿易統計／BOC）；關稅稅率表（HS 6907、6910、4410–4412、9405）；防衛稅現況。
-- 各品牌營收／市占；系統廚具與系統櫃市場是否有品牌化玩家。
-
----
-
-## 8. 產業組織與監測來源
-
-### 8.1 產業協會與機關
-
-| 機構 | 性質 | 與本研究之關聯 | 來源／取得途徑 | 信心 |
+### 5.1 誰在裝修／裝修預算
+| 類型 | 價格區間（PHP／㎡） | USD／㎡ | TWD／㎡ | 來源 |
 |---|---|---|---|---|
-| 菲律賓室內設計師學會（Philippine Institute of Interior Designers, PIID） | RA 10350 指定之公認專業組織，1965 年成立 | 會員數、收費指引、年會（PIID Interior Design Week／展覽） | [PIID（網址待核）](https://piid.org.ph/)【背景】 | 中 |
-| PRC 室內設計委員會（Board of Interior Design） | 政府 | 執照考試、註冊、紀律、外國人特別許可 | [PRC](https://www.prc.gov.ph/)【背景】 | 高 |
-| 菲律賓建築師聯合會（United Architects of the Philippines, UAP） | 建築師 APO | 建築許可圖說簽章、與室內設計分工 | [UAP（網址待核）](https://united-architects.org/)【背景】 | 中 |
-| 菲律賓建築商協會（Philippine Constructors Association, PCA） | 承包商公會 | 缺工倡議、PHILCONSTRUCT 展 | [PCA（網址待核）](https://philconstructors.org/)【背景】 | 中 |
-| CIAP／PCAB／CIAC（DTI 轄下） | 政府 | 承包商執照、仲裁、建築業路線圖 | [CIAP](https://ciap.dti.gov.ph/)【背景】 | 高 |
-| 菲律賓傢俱工業商會（Chamber of Furniture Industries of the Philippines, CFIP）、宿霧傢俱工業基金會（CFIF） | 傢俱製造公會 | 傢俱供應鏈、Manila FAME | 【背景】 | 中 |
-| 菲律賓綠建築委員會（Philippine Green Building Council, PHILGBC） | 非營利 | BERDE 綠建築評等 | [PHILGBC（網址待核）](https://philgbc.org/)【背景】 | 中 |
-| 歐洲商會（ECCP） | 外商商會 | PCAB 外資執照倡議 | [ECCP](https://www.eccp.com/storage/app/media/Advocacy/Materials/2025/eccp-position-on-pcab-licensing.pdf)【T3】 | 高 |
+| 公寓裝修（Metro Manila，整體） | ₱20,000–60,000 | 345–1,034 | 10,700–32,000 | https://www.mainlinepowerph.com/blogs/articles/condo-renovation-budget |
+| 公寓裝修（依範圍） | ₱6,000–30,000 | 103–517 | 3,200–16,000 | https://jmgbuild.com/affordable-condo-renovation-philippines/ |
+| 經濟級／標準級／高級（Metro Manila 計算器） | ₱15,000–20,000／₱25,000–40,000／₱50,000+ | 259–345／431–690／862+ | 8,000–10,700／13,400–21,400／26,700+ | https://www.renovationcalcph.com/ |
+| 中價位規劃值（馬尼拉） | ₱20,000–45,000 | 345–776 | 10,700–24,000 | https://www.mainlinepowerph.com/blogs/articles/home-renovation-cost-philippines |
+| 新建住宅造價 2026（經濟／標準／中高） | ₱20,000–26,000／₱27,000–38,000／₱38,000–55,000 | 345–448／466–655／655–948 | 10,700–13,900／14,400–20,300／20,300–29,400 | https://aedoconstruction.com/blog/magkano-pagpapatayo-ng-bahay-pilipinas-2026/ |
 
-### 8.2 展會
+- 40 ㎡公寓中價位至高級翻修總價約 ₱800,000–1,800,000（≈ USD 13,800–31,000；≈ TWD 427,000–962,000）；省區費率比 Metro Manila 低 20–40%；公寓因進出管制、工時限制、物流而每㎡成本偏高 — https://www.mainlinepowerph.com/blogs/articles/condo-renovation-cost-in-the-philippines ；https://www.renovationcalcph.com/
+- 預算外項目：施工保證金 ₱10,000–30,000+、許可費、10–20% 預備金 — https://www.mainlinepowerph.com/blogs/articles/condo-renovation-cost-in-the-philippines
+- 2026 年趨勢報導：菲律賓屋主偏好「實用升級」（多功能家具、耐用地板、收納）而非大規模昂貴翻修 — https://tribune.net.ph/2026/07/31/building-better-homes
 
-| 展會 | 主辦 | 時間／地點 | 來源 | 信心 |
+### 5.2 設計費行情
+| 計費方式 | 行情 | 來源 |
+|---|---|---|
+| 固定費（小套房／一房公寓） | ₱50,000–100,000（≈ TWD 26,700–53,400） | https://www.designing-corner.com/condo-design-rates/ |
+| 固定費（較大單位） | ₱100,000–250,000+（≈ TWD 53,400–133,600） | 同上 |
+| 固定費（承包商指南） | ₱20,000–100,000 | https://www.mainlinepowerph.com/blogs/articles/condo-renovation-cost-in-the-philippines |
+| 時薪 | ₱500–1,500（≈ TWD 267–801） | https://eurobel.com.ph/blogs/finding-an-interior-designer-in-the-philippines/ |
+| 總工程款百分比 | 10–45%，平均 15–30% | https://qaltik.com/business/what-is-the-average-cost-of-interior-design-for-a-condo-in-manila/ |
+| 每㎡設計費（來源不一致） | ₱600–2,500／₱5,000–10,000／USD 15–50 | https://www.presello.com/how-much-does-an-interior-designer-cost/ ；https://www.coohom.com/article/how-interior-designers-price-condo-projects-in-the-philippines |
+
+### 5.3 融資與政策工具
+- Pag-IBIG Fund（HDMF）房貸利率 2025 年全年不變：1 年重定價 5.75%、3 年重定價 6.25% — https://business.inquirer.net/529457/pag-ibig-home-loan-rates-unchanged-throughout-2025 ；https://www.philstar.com/business/2025/06/07/2448673/pag-ibig-extends-low-home-loan-rates-until-end-2025
+- 社會住宅（Expanded 4PH）首購者前 5 年 3% 年利率；₱180 萬以下貸款另有 4.5% 促銷利率（2025 年 4,811 戶、₱62 億）；2026 年維持 3% — https://www.pna.gov.ph/articles/1266253 ；https://business.inquirer.net/582687/pag-ibig-keeps-3-housing-rate
+- Pag-IBIG 2025 年房貸放款達 ₱1,405.4 億（≈ USD 24.2 億；≈ TWD 751 億），產品包含住宅修繕與改良融資，**但未查得住宅改良貸款（Home Improvement Loan）2025 年利率** — https://www.pna.gov.ph/articles/1267430
+- 銀行裝修貸款：**未查得**任何 2025 年利率資料（缺口）。
+- 稅務優惠：**未查得**針對住宅裝修的個人稅務優惠（缺口）。
+
+### 5.4 決策歷程、風格偏好、信任
+- 設計公司部落格描述 2025 年趨勢：永續、極簡、智慧家庭（意見性內容，非調查） — https://www.pencilstudio.ph/blog/filipino-house-design-trends-2025 ；https://www.ab-archidesigns.com/home-interior-design-trends-shaping-the-philippines-in-2025
+- **缺口**：未找到任何 2025 年菲律賓屋主裝修行為調查（誰裝修、資訊來源、Facebook 承包商信任度、付款習慣）；Lamudi 最新資料僅為 2024 Q2 房產搜尋趨勢（宿霧高檔公寓瀏覽量 +19% YoY） — https://www.lamudi.com.ph/journal/2q2024-quarterly-trend-report/
+
+---
+
+## 6. 人才與勞動（Talent & Labour）
+
+### 6.1 設計師供給
+- 每年新增持照室內設計師：2025 年 226 人、2024 年 119 人（PRC 考試及格人數）；考試每年一次 — https://www.prc.gov.ph/article/july-2025-licensure-examination-interior-designers-results-released-fourteen-14-working ；https://www.thesummitexpress.com/2025/07/idle-results-july-2025-interior-designer-board-exam-list-of-passers-top-10.html
+- 主要養成學校（依榜首與考場）：University of San Carlos（Cebu）、University of Santo Tomas 等；**缺口**：未查得全國室內設計科系畢業生人數與 PRC 累計登記設計師總數。
+
+### 6.2 薪資
+| 職位 | 數值 | 年份 | 來源 | 備註 |
 |---|---|---|---|---|
-| WORLDBEX（Philippine World Building and Construction Exposition） | Worldbex Services International | 每年 3 月，馬尼拉世界貿易中心（WTC）及 SMX | [Worldbex](https://www.worldbex.com/)【背景】 | 中 |
-| PHILBEX（Philippine Building and Construction Exposition） | Worldbex Services International | 區域場（宿霧、達沃） | 同上【背景】 | 中 |
-| PHILCONSTRUCT（Manila／Visayas／Mindanao） | PCA × Global-Link MP | 每年 11 月（馬尼拉 SMX） | [Philconstruct（網址待核）](https://philconstructevents.com/)【背景】 | 中 |
-| Manila FAME | 貿工部國際貿易展覽中心（CITEM） | 每年 4 月與 10 月，傢俱與家飾出口展 | [Manila FAME](https://manilafame.com/)【背景】 | 中 |
-| Design Week Philippines | CITEM | 設計產業活動 | 【背景】 | 低 |
+| 室內設計師平均月薪（全國） | ₱27,034／月（≈ USD 466；≈ TWD 14,440）；區間 ₱16,646–43,907 | 2025 | https://ph.indeed.com/career/interior-designer/salaries | 338 筆職缺薪資 |
+| 室內設計師平均月薪（馬尼拉） | ₱32,115／月（≈ USD 554；≈ TWD 17,150） | 2025-11 | https://ph.indeed.com/career/interior-designer/salaries/Manila | 46 筆 |
+| 初階（junior）平均 | ₱21,401／月（≈ TWD 11,430） | 2025 | https://ph.indeed.com/career/interior-designer/salaries | |
+| 職場室內設計師職缺 | ₱50,000–60,000／月（≈ TWD 26,700–32,000） | 2025 | https://ph.indeed.com/career/interior-designer/salaries/Manila | 單一職缺 |
+| 初階／資深年薪（ERI） | ₱352K／₱599K（≈ TWD 188,000／320,000） | 2026 | https://www.erieri.com/salary/job/interior-designer/philippines/manila | 模型估計 |
+| <2 年／10–15 年經驗年薪 | ₱273,000／₱660,500 | 2025 | https://worldsalaries.com/average-interior-designer-salary-in-philippines/ | 模型估計 |
+| 工地主管（site manager） | **缺口**：未查得 | | | |
 
-### 8.3 媒體
-- BluPrint（One Mega Group；建築與設計雜誌）、Real Living（Summit Media；家居）、Kanto.PH（設計評論）、Philippine Daily Inquirer「Property」版、Philippine Star「Modern Living」、Lamudi Journal（房地產入口）、BusinessWorld／BusinessMirror（產業新聞）——全部為【背景】，中信心；菲律賓語內容以 Facebook 社團與 YouTube 為主（缺口）。
+### 6.3 技術工種工資
+| 項目 | 數值 | 年份 | 來源 |
+|---|---|---|---|
+| NCR 法定最低日薪（非農業） | ₱695（≈ USD 12.0；≈ TWD 371），自 ₱645 調升，2025-07-18 生效（Wage Order NCR-26） | 2025 | https://www.philstar.com/pilipino-star-ngayon/bansa/2025/07/15/2458151/dagdag-sahod-sa-metro-manila-epektibo-na-sa-hulyo-18 ；https://www.pna.gov.ph/articles/1227990 |
+| NCR 最低日薪（農業／小零售／小製造） | ₱658 | 2025 | https://www.payrollsolutions.ph/articles/113 |
+| NCR 最低日薪累計調幅 | 自 2023 年起累計 +₱125 | 2025 | https://www.pna.gov.ph/articles/1274109 |
+| NCR-27（未經官方核實） | ₱755（2026-07-19）、₱780（2027-01-20） | 2026 | https://sprout.ph/articles/how-much-is-the-minimum-wage-in-manila/ |
+| 泥作／木工（Metro Manila 市場價） | ₱800–1,200／日（≈ USD 13.8–20.7；≈ TWD 428–641）；省區 ₱650–900 | 2026 | https://aedoconstruction.com/blog/construction-labor-rates-philippines-2026/ |
+| 電工／水電工 | Metro Manila ₱850–1,200／日；省區 ₱700–1,000 | 2026 | 同上 |
+| 泥作職缺（Lipa） | ₱600–1,200／日 | 2025 | https://ph.indeed.com/career/mason/salaries |
+| 歷史對照 | 熟練工 ₱450–650／日（Equal Times）；₱530–560／日（舊表） | 2019–2022 | https://www.equaltimes.org/the-low-paid-workers-propping-up?lang=en ；https://www.scribd.com/document/579829839/Labor-Rates-and-Equipment |
 
-### 8.4 應定期監測之統計與報告
+### 6.4 技工短缺、老化與海外流失
+- 菲律賓營建商協會（Philippine Constructors Association, PCA）疫情期間調查：74% 業者難以補足人力，其中 57% 最缺熟練工 — https://richestph.com/skilled-labor-shortages-addressing-the-workforce-crisis-in-the-philippine-construction-sector/
+- DOLE 2025 年 1 月將營建與運輸列為「關鍵」部門，強調技能提升；TESDA 提供免費訓練與認證 — https://businessmirror.com.ph/2025/01/29/dole-lists-construction-transportation-among-critical-sectors-in-2025/
+- TESDA 勞動市場情報報告《Future-Proofing the Construction Sector》（2022） — https://tesda.gov.ph/Uploads/File/LMIR/2022/LMI_Future-Proofing%20Construction%20Sector.pdf
+- 海外吸力：招募協會稱熟練工在海外月薪 USD 500–800（≈ TWD 15,500–24,800），2019 年 DOLE 曾考慮限制熟練工輸出中東 — https://www.gmanetwork.com/news/pinoyabroad/dispatch/609405/dole-eyes-limiting-number-of-skilled-workers-sent-abroad-to-address-local-shortage/story/
+- 15 年經驗工人若無 TESDA 認證仍被歸類為非熟練工 — https://www.equaltimes.org/the-low-paid-workers-propping-up?lang=en
+- 2019 年總統府指示 TESDA 處理木工、焊工等專才短缺，短缺被歸咎為「Build, Build, Build」延宕原因 — https://newsinfo.inquirer.net/1086216/palace-govt-to-address-shortage-of-skilled-workers
+- **缺口**：未查得 2025 年技工短缺量化數據；菲律賓為勞力輸出國，**未發現**引進外籍營建技工的政策（實務上外籍技工進入菲律賓營建業不具可行性，亦不符成本邏輯）。
 
-| 來源 | 內容 | 頻率 | URL | 信心 |
-|---|---|---|---|---|
-| PSA《核准建築許可建築統計》（Construction Statistics from Approved Building Permits） | 住宅／非住宅件數、樓地板面積、價值（含「增建／改建」類別） | 季 | [PSA Construction](https://psa.gov.ph/statistics/construction)【背景】 | 高（存在） |
-| PSA CMWPI／CMRPI（NCR） | 建材躉售／零售物價 | 月 | [PSA](https://psa.gov.ph/)【背景】 | 高（存在） |
-| PSA《菲律賓商業與產業年度調查》（ASPBI） | 建築業（含 specialized construction activities）與專業服務業營收、家數 | 年 | [PSA](https://psa.gov.ph/)【背景】 | 中 |
-| PSA《家庭收支調查》（FIES 2023） | 家庭住宅修繕支出 | 3 年 | [PSA FIES](https://psa.gov.ph/statistics/income-expenditure/fies)【背景】 | 中 |
-| PSA《職業工資調查》（OWS） | 各職業月薪（含建築工種） | 2 年 | [PSA](https://psa.gov.ph/)【背景】 | 中 |
-| BSP《住宅不動產價格指數》（RREPI）、《消費者期望調查》（CES）、海外菲人匯款 | 房價、住宅支出意向、匯款 | 季／月 | [BSP](https://www.bsp.gov.ph/)【背景】 | 高（存在） |
-| PRC 執照考試結果新聞稿 | 室內設計師年度及格人數 | 年 | [PRC](https://www.prc.gov.ph/)【背景】 | 高（存在） |
-| DTI 消費者投訴年報 | 投訴件數（期望有分項） | 年 | [DTI](https://www.dti.gov.ph/)；[PhilStar](https://www.philstar.com/business/2024/03/19/2341515/consumer-complaints-rise-2023-dti)【T3】 | 中 |
-| Colliers／Leechiu／JLL／Santos Knight Frank 馬尼拉季報 | 公寓供給與未售存量、辦公室空置與 BPO 需求、飯店管線 | 季 | 【背景】 | 中 |
-| C&W／JLL／Knight Frank／Turner & Townsend 亞太辦公室裝修成本指南 | 馬尼拉 fit-out 單價 | 年 | [C&W 2026](https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office)；[T&T 2026](https://reports.turnerandtownsend.com/office-fit-out-cost-guide-2026/asia-pacific)【T1】 | 高（存在）／缺口（馬尼拉值） |
-| Wilcon Depot／AllHome／SM Investments 年報（PSE） | 家居建材零售營收、專案銷售 | 年／季 | [Inquirer Plus](https://plus.inquirer.net/?p=256738)【T2】 | 高 |
-| DHSUD 住房缺口與 4PH 進度 | 住宅需求引擎 | 不定期 | [DHSUD](https://dhsud.gov.ph/)【背景】 | 中 |
+---
 
-### 8.5 缺口
-- PIID 會員數與收費指引；UAP／PCA 會員統計；各展會參展商與觀眾數；Facebook 社團與 YouTube 菲律賓語裝修社群規模。
+## 7. 材料與供應鏈（Materials & Supply Chain）
+
+### 7.1 價格走勢（PSA 建材躉售物價指數 CMWPI，NCR，2018=100）
+| 期間 | 年增率 | 分項 | 來源 |
+|---|---|---|---|
+| 2024 全年平均 | +0.6% | | https://www.bworldonline.com/economy/2026/01/16/724720/wholesale-price-growth-of-ncr-building-materials-steady-in-december/ |
+| 2025 全年平均 | +0.1% | | 同上 |
+| 2025-09 | −0.2% | 水泥 −1.2%、磁磚工程 +1.6% | https://www.pna.gov.ph/articles/1260207 |
+| 2025-10 | 持平 | 結構鋼 −2.9%、水泥 −1.6%、磁磚工程 +3.3% | https://businessmirror.com.ph/2025/11/13/structural-steel-keeps-ncr-construction-price-steady/ |
+| 2025-12 | +0.8% | 水泥 −1.5%、磁磚工程 +3.4%、結構鋼 −3% | https://www.bworldonline.com/economy/2026/01/16/724720/wholesale-price-growth-of-ncr-building-materials-steady-in-december/ |
+| 2026-01 | +0.9% | | 同上 |
+| 2026-05 | +2.8%（2023 年以來最高） | 自 4 月 1.9% 加速 | https://bworldonline.com/top-stories/2026/06/10/755626/ncr-building-material-inflation-quickens-in-may/ |
+| 2026-06 | +2.9% | 結構鋼 +3.7%、水泥 +1.2% | https://businessmirror.com.ph/2026/07/14/psa-reports-hike-in-price-of-construction-materials/ |
+| 2026-07（初步） | +3.5%（近三年高） | 混凝土製品 +5.2% | https://ec2-98-80-42-11.compute-1.amazonaws.com/ncr-construction-prices-jump-to-nearly-3-year-high-in-july/ （鏡像站，謹慎） |
+| PSA 官方月報範例 | 2025 年 2 月 | | https://psa.gov.ph/content/construction-materials-wholesale-price-index-national-capital-region-2018100-february-2025 |
+
+- 經濟學家指出美元兌披索走強推升含進口成分建材的成本 — https://bworldonline.com/top-stories/2026/06/10/755626/ncr-building-material-inflation-quickens-in-may/
+- **缺口**：2022–2023 年價格資料與磁磚 2026 年走勢未在本次搜尋取得；進口建材關稅稅率與菲律賓標準（PNS／BPS 強制認證）未查。
+
+### 7.2 主要本地品牌與通路
+| 類別 | 品牌／公司 | 市場地位（來源性質） | 來源 |
+|---|---|---|---|
+| 建材家居零售 | Wilcon Depot, Inc.（PSE: WLCON） | 2025 年淨營收 ₱354.44 億（+3.7%；≈ USD 6.11 億；≈ TWD 189 億）；淨利 ₱24.46 億（−3.3%）；2025 年底 104 店（94 Depot + 10 Do-It-Wilcon）；同店銷售 −0.3%；2026-06-30 增至 109 店 | https://investor.wilcon.com.ph/wp-content/uploads/2026/04/WLCON-2025-17A-Annual-Report-with-Exhibits-PSE-submission_1.pdf ；https://tribune.net.ph/2026/03/30/wilcon-income-slips-3-despite-higher-sales ；https://quartr.com/companies/wilcon-depot-inc_24210 |
+| 磁磚 | Mariwasa（Mariwasa Siam Ceramics） | 自稱菲律賓最大陶瓷磚製造商（1966 年創立）；2024 年擴充產品線 | https://mariwasa.com/about-us/ ；https://mb.com.ph/2024/3/17/mariwasa-to-expand-product-lines-for-filipino-market |
+| 塗料 | Boysen（Pacific Paint） | 2012 年報導稱為國內最大塗料製造商、傳統市場領導者 | https://www.philstar.com/lifestyle/business-life/2012/08/20/839973/hidden-champions-philippine-business |
+| 塗料 | Davies（Charter Chemical & Coating Corp., 1982） | 挑戰者 | 同上 |
+| 泡棉／床墊 | Uratex | 自稱 PU 泡棉領導者，逾 50 年 | https://www.linkedin.com/company/uratex-for-business/ |
+| 泡棉 | RGC Foam Group | 被描述為本地泡棉業最主導業者 | https://www.owler.com/company/uratex |
+| 廚具（La Germania）、照明、系統家具、木地板／美耐板 | **缺口** | 搜尋未回傳任何結果 | |
+
+---
+
+## 8. 產業組織與監測來源（Industry Organisation & Monitoring）
+
+| 類型 | 名稱 | 說明 | 來源 |
+|---|---|---|---|
+| 專業公會 | 菲律賓室內設計師學會（Philippine Institute of Interior Designers, PIID） | RA 10350 認可之專業組織；全國總會及 Cebu、Mindanao、Panay、Negros、Eastern Visayas 分會；2025 年會長 Tessa Prieto、副會長 Paolo Castro；2026 年新任全國會長 Cecil Ravelas；設有 College of Fellows | https://worldbex.com/worldbex-2025-unveils-the-future-of-sustainable-interior/ ；https://worldbex.com/worldbex-2026-officially-launched-marking-29-years-of-building-opportunities-and-sustaining-lives/ ；https://www.adobomagazine.com/design/piids-new-board-charts-a-conscious-future-for-philippine-interior-design/ |
+| 營建公會 | 菲律賓營建商協會（Philippine Constructors Association, PCA） | 人力調查來源 | https://richestph.com/skilled-labor-shortages-addressing-the-workforce-crisis-in-the-philippine-construction-sector/ |
+| 主管機關 | PRC Board of Interior Design；CIAP／PCAB（DTI）；DOLE／RTWPB-NCR；BFP；各市 OBO | 證照、承包商執照、工資、消防、建照 | https://www.prc.gov.ph/ ；https://ciap.dti.gov.ph/ |
+| 展會 | WORLDBEX（Philippine World Building and Construction Exposition） | 2025 年 3 月 13–16 日 WTC Metro Manila，500+ 參展商，號稱亞洲最大營建展；2026 年 3 月 12–15 日（第 29 屆）SMX Manila + WTC；設「World of Interior Design」專區，PIID 總會與分會設攤 | https://archikonst.com.ph/expo-ordinary-worldbex-2025-pushes-beyond-sustainnovation/ ；https://mega-asia.com/lifestyle/worldbex-2026/ |
+| 展會（區域） | PHILBEX Davao（2026-05-07～10，SMX Lanang，100+ 公司，PIID Mindanao 分會）；PHILBEX Iloilo（2026-07-09～12，Iloilo Convention Center） | | https://philbex.ph/beyond-blueprints-and-breakthroughs-inside-philbex-davao-2026/ ；https://worldbexevents.com/worldbex-presents-philbex-iloilo-western-visayas-premier-construction-and-design-expo/ |
+| 統計 | PSA 建材躉售物價指數（CMWPI, NCR）月報；PSA 建材零售物價指數 | 每月 | https://psa.gov.ph/content/construction-materials-wholesale-price-index-national-capital-region-2018100-february-2025 |
+| 統計 | PRC 證照考試結果（每年 7 月） | 設計師供給 | https://www.prc.gov.ph/article/july-2025-licensure-examination-interior-designers-results-released-fourteen-14-working |
+| 統計 | Pag-IBIG Fund 年度放款（PNA 報導） | 住宅金融 | https://www.pna.gov.ph/articles/1267430 |
+| 媒體 | BusinessWorld（CMWPI 每月解讀）、BusinessMirror、Philippine Daily Inquirer、Philstar、Manila Bulletin、Daily Tribune、PNA、adobo Magazine（設計）、Archikonst | | https://www.bworldonline.com/ ；https://www.adobomagazine.com/ |
+| 上市公司 | Wilcon Depot 17-A 年報與 17-Q 季報 | 建材零售景氣 | https://investor.wilcon.com.ph/ |
+| 法規資料庫 | Official Gazette、LawPhil、Supreme Court E-Library、jur.ph、Respicio & Co.（律師事務所評論） | | https://www.officialgazette.gov.ph/ ；https://elibrary.judiciary.gov.ph/ |
 
 ---
 
@@ -366,185 +269,179 @@ HKTDC 研究稱菲律賓本地室內設計公司「尋求國際夥伴」（質�
 
 | 指標 | 數值 | 年份 | 來源 | 定義／備註 | 信心 |
 |---|---|---|---|---|---|
-| RA 10350 非法執業刑期 | 6 個月–3 年監禁（罰金待核） | 現行 | [jur.ph](https://jur.ph/law/summary/philippine-interior-design-act-of-2012)【T3】 | 搜尋摘要層級 | 中 |
-| PCAB Regular 執照菲資比例 | ≥60% | 現行 | [law.asia](https://law.asia/pcab-licence-philippine-contracting-projects/)【T3】 | RA 4566 施行細則 | 高 |
-| PCAB AAAA 淨值門檻（外資可核 Regular） | ≥PHP 10 億 ≈ USD 1,750 萬 ≈ NT$5.5 億 | 現行 | 同上【T3】 | — | 高 |
-| PCAB v. Manila Water 判決 | G.R. No. 217590，2020-03-10 | 2020 | [PwC](https://www.pwc.com/ph/en/tax/tax-publications/taxwise-or-otherwise/2020-taxwise-or-otherwise/tearing-down-pcabs-concrete-wall-of-foreign-equity-restriction.html)【T3】 | 外資 Regular 執照在法律上開放 | 高 |
-| 第 12 版 FINL（EO 175）室內設計條目 | List A，外資 0%（引 RA 10350 §15、§29） | 2022 | [e-Library EO 175](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/95421)【T3】 | — | 中 |
-| 第 13 版 FINL（EO 113） | 2026-04-13 簽署、2026-05-02 生效 | 2026 | [Global Law Experts](https://globallawexperts.com/13th-foreign-investment-negative-list-philippines/)【T3】 | 室內設計條目待核 | 中 |
-| 外資零售最低實收資本（RA 11595） | PHP 2,500 萬 ≈ USD 43.9 萬 ≈ NT$1,380 萬；多店每店 ≥PHP 1,000 萬 | 2021 起 | [LawPhil RA 11595](https://lawphil.net/statutes/repacts/ra2021/ra_11595_2021.html)【背景】 | 未開頁核對 | 中 |
-| 外資內需企業最低實收資本（FIA） | USD 20 萬（≈ NT$630 萬）；僱 ≥15 菲籍員工或先進技術者 USD 10 萬 | 2022 起（RA 11647） | [LawPhil RA 7042](https://lawphil.net/statutes/repacts/ra1991/ra_7042_1991.html)【背景】 | 未開頁核對 | 中 |
-| 企業所得稅 | 25%（小型國內公司 20%：淨所得 ≤PHP 500 萬且資產 ≤PHP 1 億） | 2021 起 | [LawPhil RA 11534](https://lawphil.net/statutes/repacts/ra2021/ra_11534_2021.html)【背景】 | CREATE 法 | 中 |
-| 加值稅 | 12% | 現行 | [BIR](https://www.bir.gov.ph/)【背景】 | — | 高 |
-| 民法第 1723 條結構責任期 | 完工後 15 年；倒塌後 10 年內起訴 | 現行 | [LawPhil RA 386](https://lawphil.net/statutes/repacts/ra1949/ra_386_1949.html)【背景】 | 僅限「倒塌」情形 | 高 |
-| 小額訴訟上限 | PHP 100 萬 ≈ USD 1.75 萬 ≈ NT$55 萬 | 2022 起 | [最高法院](https://sc.judiciary.gov.ph/)【背景】 | A.M. No. 08-8-7-SC 修正 | 中 |
-| DTI 消費者投訴 | 約 28,800 件（31% 調解裁決、69% 轉介） | 2023 | [PhilStar](https://www.philstar.com/business/2024/03/19/2341515/consumer-complaints-rise-2023-dti)【T3】 | 全部門，無裝修分項 | 中 |
-| NCR 法定日最低工資 | PHP 695 ≈ USD 12.2 ≈ NT$384（2024-07 為 PHP 645） | 2025-07-18 起 | [NWPC](https://nwpc.dole.gov.ph/regionandwages/national-capital-region/)【背景】 | 非農業；Wage Order NCR-26 | 中 |
-| Pag-IBIG 住宅貸款上限 | PHP 600 萬 ≈ USD 10.5 萬 ≈ NT$332 萬；最長 30 年；利率自 5.75% 起（待核） | 2024–2025 | [Pag-IBIG](https://www.pagibigfund.gov.ph/HousingLoan.html)【背景】 | 用途含住宅修繕 | 中（上限）／低（利率） |
-| 名目人均 GDP | USD 4,270 ≈ NT$134,500 | 2025 | [Worldometers（IMF 轉載）](https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal)【T1】 | — | 中 |
-| Wilcon Depot 淨銷售／毛利率／專案銷售 | PHP 341.7 億（≈ USD 6.0 億 ≈ NT$189 億）／39.1%／PHP 3.47 億（≈1%） | 2024 | [Inquirer Plus](https://plus.inquirer.net/?p=256738)【T2】 | 上市公司財報 | 高 |
-| Wilcon 門市數 | 100（89 Depot＋11 Do-It-Wilcon） | 2024 | [Quartr](https://quartr.com/events/wilcon-depot-inc-wlcon-q4-2024_FtvIy3pe)【T2】 | — | 高 |
-| T3 台商進入可行性評分 | 設計 1／承攬 1（1–5） | 2026 | T3 §7 | 分析師判斷 | — |
-| PRC 註冊室內設計師人數、年度及格人數 | **無資料** | — | — | 缺口 | — |
-| 設計師／工班薪資 | **無 URL 資料**（記憶量級見附錄 B） | — | — | 缺口 | — |
-| CMWPI 年增率 2022–2025 | **無資料** | — | [PSA](https://psa.gov.ph/) | 缺口 | — |
+| RA 10350 違法執業罰金 | ₱300,000–1,000,000（≈ USD 5,172–17,241；TWD 160,000–534,000）及／或 6 個月–3 年徒刑 | 2012（現行） | https://www.digest.ph/laws/philippine-interior-design-act-of-2012?tab=summary | 二手摘要，需核對原文 | 中 |
+| IDLE 2025 應考／及格 | 414／226，54.59% | 2025-07 | https://www.prc.gov.ph/article/july-2025-licensure-examination-interior-designers-results-released-fourteen-14-working | PRC 官方 | 高 |
+| IDLE 2024 應考／及格 | 400／119，29.75% | 2024-07 | https://www.thesummitexpress.com/2025/07/idle-results-july-2025-interior-designer-board-exam-list-of-passers-top-10.html | 二手引用 PRC | 中高 |
+| 考試及格門檻 | 加權平均 70% | 2025 | https://www.rappler.com/bulletin-board/examination-results/licensure-interior-designers-july-2025/ | | 高 |
+| 外資負面清單：專業執業外資上限 | 0%（互惠例外） | 2022（EO 175） | https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/95421 | List A 第 2 項 | 高 |
+| PCAB 正規執照效期 | 7/1–次年 6/30，每年換發 | 現行 | https://www.filepino.com/pcab-license-philippines/ | | 中 |
+| PCAB 外資 40% 上限 | 2020 年最高法院廢除，細則未定 | 2020 | https://law.asia/pcab-licence-philippine-contracting-projects/ | 法律事務所文章 | 中高 |
+| 公寓施工保證金 | ₱10,000–30,000+（TWD 5,300–16,000） | 2025 | https://www.mainlinepowerph.com/blogs/articles/condo-renovation-cost-in-the-philippines | 承包商指南 | 中 |
+| 民法 1723 條責任期 | 15 年（建物倒塌） | 現行 | https://www.magsalinlaw.com.ph/news/legal-education/building-responsibilities-brick-by-brick-liabilities-of-building-contractors-under-article-1723-of-the-new-civil-code/ | 另有來源稱 10 年，以法條 15 年為準 | 高 |
+| 契約缺陷責任期 | 3–12 個月 | 2025 | https://www.whitecase.com/insight-our-thinking/managing-construction-risks-asia-pacific-philippines | 市場慣例 | 中 |
+| 保留款 | 契約價 5–10% | 2025 | https://www.respicio.ph/commentaries/construction-contract-warranty-for-residential-houses-defects-liability-and-remedies-under-philippine-law | 市場慣例 | 中 |
+| 公寓裝修單價 | ₱20,000–60,000／㎡（TWD 10,700–32,000） | 2025–2026 | https://www.mainlinepowerph.com/blogs/articles/condo-renovation-budget | Metro Manila，承包商指南 | 中 |
+| 公寓裝修分級單價 | 經濟 ₱15–20K；標準 ₱25–40K；高級 ₱50K+／㎡ | 2026 | https://www.renovationcalcph.com/ | 省區低 20–40% | 中 |
+| 40 ㎡公寓翻修總價 | ₱800,000–1,800,000（TWD 427,000–962,000） | 2025 | https://www.mainlinepowerph.com/blogs/articles/condo-renovation-cost-in-the-philippines | 中價至高級 | 中 |
+| 設計費百分比 | 10–45%，平均 15–30% | 2025 | https://qaltik.com/business/what-is-the-average-cost-of-interior-design-for-a-condo-in-manila/ | 總工程款比例 | 中低 |
+| 設計固定費（小公寓） | ₱50,000–100,000（TWD 26,700–53,400） | 2022 文章 | https://www.designing-corner.com/condo-design-rates/ | 設計師部落格，較舊 | 中低 |
+| Pag-IBIG 房貸利率 | 5.75%（1 年）／6.25%（3 年） | 2025 | https://business.inquirer.net/529457/pag-ibig-home-loan-rates-unchanged-throughout-2025 | 一般房貸，非裝修貸 | 高 |
+| Pag-IBIG 2025 房貸放款 | ₱1,405.4 億（USD 24.2 億；TWD 751 億） | 2025 | https://www.pna.gov.ph/articles/1267430 | 含修繕改良融資 | 高 |
+| 室內設計師平均月薪（全國） | ₱27,034（TWD 14,440） | 2025 | https://ph.indeed.com/career/interior-designer/salaries | 338 筆 | 中 |
+| 室內設計師平均月薪（馬尼拉） | ₱32,115（TWD 17,150） | 2025-11 | https://ph.indeed.com/career/interior-designer/salaries/Manila | 46 筆 | 中 |
+| NCR 最低日薪 | ₱695（USD 12.0；TWD 371） | 2025-07-18 起 | https://www.pna.gov.ph/articles/1227990 | Wage Order NCR-26，非農業 | 高 |
+| 泥作／木工日薪（Metro Manila） | ₱800–1,200（TWD 428–641） | 2026 | https://aedoconstruction.com/blog/construction-labor-rates-philippines-2026/ | 承包商估計 | 中 |
+| 電工／水電工日薪（Metro Manila） | ₱850–1,200 | 2026 | 同上 | | 中 |
+| PCA 人力短缺調查 | 74% 難補人力；57% 缺熟練工 | 2020–2021 | https://richestph.com/skilled-labor-shortages-addressing-the-workforce-crisis-in-the-philippine-construction-sector/ | 二手引用 | 中低 |
+| 海外熟練工月薪 | USD 500–800 | 2019 | https://www.gmanetwork.com/news/pinoyabroad/dispatch/609405/dole-eyes-limiting-number-of-skilled-workers-sent-abroad-to-address-local-shortage/story/ | 招募協會 | 中 |
+| CMWPI NCR 年均 | 2024：+0.6%；2025：+0.1% | 2024–2025 | https://www.bworldonline.com/economy/2026/01/16/724720/wholesale-price-growth-of-ncr-building-materials-steady-in-december/ | PSA，2018=100 | 高 |
+| CMWPI NCR 2026-07 | +3.5%（初步）；混凝土製品 +5.2% | 2026-07 | https://ec2-98-80-42-11.compute-1.amazonaws.com/ncr-construction-prices-jump-to-nearly-3-year-high-in-july/ | 鏡像站 | 中 |
+| CMWPI NCR 2026-06 | +2.9%；結構鋼 +3.7%；水泥 +1.2% | 2026-06 | https://businessmirror.com.ph/2026/07/14/psa-reports-hike-in-price-of-construction-materials/ | PSA | 高 |
+| Wilcon 2025 淨營收 | ₱354.44 億（USD 6.11 億；TWD 189 億），+3.7% | 2025 | https://investor.wilcon.com.ph/wp-content/uploads/2026/04/WLCON-2025-17A-Annual-Report-with-Exhibits-PSE-submission_1.pdf | 17-A 年報 | 高 |
+| Wilcon 2025 淨利 | ₱24.46 億（USD 4,220 萬；TWD 13.1 億），−3.3% | 2025 | https://tribune.net.ph/2026/03/30/wilcon-income-slips-3-despite-higher-sales | | 高 |
+| Wilcon 門市數 | 104（2025-12-31）；109（2026-06-30） | 2025–2026 | https://quartr.com/companies/wilcon-depot-inc_24210 | 94 Depot + 10 Do-It-Wilcon | 高 |
+| WORLDBEX 2025 參展商 | 500+ | 2025-03 | https://archikonst.com.ph/expo-ordinary-worldbex-2025-pushes-beyond-sustainnovation/ | 主辦方 | 中高 |
 
 ---
 
 ## 10. 對台灣業者的啟示
 
-1. **把「法定簽章人」當作架構核心，而不是繞過它**：菲律賓的設計圖說必須由 PRC 註冊室內設計師（或建築師）簽章，承攬契約主體必須是 PCAB 持照公司（Regular 須 60% 菲資）。可行的三層架構是：台灣公司持有 100% 的「設計管理／品牌／採購」公司（非專業執業，受 FIA 資本門檻 USD 20 萬／10 萬約束）＋以持照菲籍設計師為合夥人或分包的設計事務所＋≤40% 持股的 PCAB 合資承包商或純外包本地承包商。任何跳過這兩個簽章人的做法都直接觸犯 RA 10350／RA 4566。
-2. **先確認兩個前提，再談市場**：（a）第 13 版 FINL（EO 113，2026-05-02 生效）是否仍把室內設計列於 List A；（b）PRC 室內設計委員會是否曾對台灣（或無證照制度之國家）認定互惠。這兩題各只需一次官方查詢（Official Gazette EO 113 全文；PRC 公告），卻決定設計端是「1 分」還是「3 分」。
-3. **家居零售與建材供應是現行法下最寬的門**：RA 11595 把外資零售門檻降到 PHP 2,500 萬（≈ NT$1,380 萬），Wilcon 以 100 店、39% 毛利率證明建材家居零售在菲律賓可規模獲利，但其專案銷售僅 1%——「零售＋設計分包＋施工外包」的整合模式尚無人占據。台灣集團若有系統櫃、衛浴（HCG 已在菲設廠可為供應鏈夥伴或對照組）、五金燈具供應鏈，應以進口＋零售＋專案供應切入，障礙是 PS／ICC 強制認證、關稅與島際物流，而非執業法。
-4. **消費者保護真空是差異化機會也是風險**：菲律賓沒有訂金上限、託管、法定保固或裝修保險，糾紛多走刑事詐欺而非消費者管道。台灣業者可把「書面契約＋分期付款＋一年保固＋CIAC 仲裁條款＋承包商全險」做成品牌承諾；但同時要預期本地承包商與工班對正式契約與保留款的抗拒，以及公寓管委會對無照承包商的勒令停工風險。
-5. **人力成本低但穩定度差**：NCR 法定日薪 PHP 695（≈ NT$384）遠低於台灣，但技術工大量外移（中東、日本、新加坡），TESDA NC II 證照與英語環境是建立標準化訓練的基礎。集團若同時評估「引進菲律賓營造移工到台灣」，兩案可共用同一套 TESDA 對接與訓練體系。
-6. **本輪數據空白本身就是結論**：菲律賓的註冊設計師人數、及格率、薪資、工班日薪、投訴分項、建材通膨——這些在日韓新港都能一次查到的數字，在菲律賓要靠 PRC 新聞稿、PSA 專頁、業界報價網站逐條拼湊。進入決策前至少需要一輪完整搜尋（附錄 A）與一次實地訪談（PIID、PCAB、一家 PCAB 承包商、一家公寓管委會）。
+1. **設計品牌可進、設計簽證不可取代**：菲律賓將室內設計列為「保留給公民」的專業（FINL List A 0%、RA 10350 互惠條款），台灣公司若要在菲營運，必須由 PRC 登記的菲籍室內設計師擔任簽證與對外負責人；台籍設計師僅能以特別許可＋菲籍對口共同署名方式參與。建議先確認台菲互惠認定（PRC 是否承認台灣開放菲籍設計師執業），否則採「台灣總部設計、菲籍持照設計師在地簽證」的合資／合作模式。
+2. **施工端的法律空間已開但細則未定**：2020 年最高法院廢除 PCAB 正規執照 40% 外資上限，100% 台資子公司理論上可申請正規執照，但 PCAB 尚無細則；務實路徑是與持 PCAB 執照的本地承包商合資（台方 ≤40% 可穩妥取得正規執照）或先做設計＋專案管理、分包給持照本地商。注意：未持 PCAB 執照而投標或承攬即屬違法。
+3. **人才供給極薄、成本極低**：每年僅約 100–250 名新持照設計師，馬尼拉設計師月薪僅 ≈ TWD 17,000、熟練技工日薪 ≈ TWD 430–640（約台灣 1/4–1/3），但 TESDA 認證體系薄弱、熟練工持續外流中東。台灣業者的機會在於「輸出工法標準與現場管理 SOP」，將台灣的系統櫃、乾式工法、施工品管訓練作為差異化；不宜期待引進外籍技工。
+4. **大樓裝修流程高度在地化**：公寓裝修需管委會、OBO 建照、BFP 消防三層核准，且各大樓規範（保證金、工時、電梯使用）不一；進入馬尼拉公寓市場的首要資產是熟悉各大開發商（Ayala、SMDC、DMCI、Megaworld、Federal Land）物業管理規則的在地專案經理。
+5. **消費者保護靠契約而非監管**：無官方裝修糾紛統計、無強制履約保證或代管制度，DTI 調解為主；台灣業者可將「書面驗收＋保固卡＋保留款制度＋施工保險」包裝成信任差異化，並留意民法 1723 條 15 年結構責任與監造連帶責任，裝修契約中應明確區分結構／非結構工程。
+6. **材料策略**：本地磁磚（Mariwasa）、塗料（Boysen／Davies）、泡棉（Uratex）供應成熟，Wilcon 109 店通路可達全國；但 2026 年建材通膨回升（+3.5%）且披索貶值推升進口成本，台灣系統家具、五金、燈具若以進口方式供應需納入匯率與關稅風險（關稅細節為本次缺口）。
 
 ---
 
 ## 11. 資料缺口
 
-| # | 缺口項目 | 本輪狀態 | 建議取得方式（下一輪） |
-|---|---|---|---|
-| 1 | RA 10350 原文條號、及格標準、罰金金額、外國人特別許可 IRR | 僅 T3 搜尋摘要 | 開啟 LawPhil 全文；PRC Board of Interior Design 頁 |
-| 2 | PRC 註冊室內設計師累計人數；2023–2025 考試應考／及格人數與及格率 | 無 | PRC 新聞稿「Interior Designer Licensure Examination results」；PIID |
-| 3 | PCAB 各級淨值門檻；持照承包商家數；外資 Special 執照件數 2024–2026 | 僅 AAAA 門檻 | PCAB 官網執照要件頁；CIAP 年報 |
-| 4 | PD 1096 2004 IRR 免許可工程清單；地方政府（QC、Makati、Taguig）裝修許可實務與規費；公寓管委會押金行情 | 無 | DPWH IRR PDF；各 LGU OBO 網頁；建商／管委會規約範本 |
-| 5 | EO 113 第 13 版 FINL 全文中專業執業條目；PRC 對台灣互惠之認定 | 未確認 | Official Gazette EO 113；PRC 公告 |
-| 6 | DTI 投訴裝修分項；CIAC 案件量；PRC 紀律案件；裝修詐騙案例（英／菲語） | 無 | DTI 年報；CIAC 年報；媒體（Inquirer、Rappler、GMA）、Facebook 社團 |
-| 7 | CIAP Document 102 保留款／保證期條款；PIID 標準契約；付款慣例比例 | 無 | CIAP 文件；PIID；業者報價單 |
-| 8 | 消費者行為：誰在裝修、預算分級（PHP/m²）、決策歷程、風格偏好、信任議題、付款時程 | 全空 | Lamudi／Hoppler 指南、建商交屋資料、BSP CES、FIES 2023、菲語社群 |
-| 9 | 銀行修繕貸款利率；Pag-IBIG 利率表與 AHP 額度 | 僅制度 | Pag-IBIG 官網利率頁；BDO／BPI 產品頁 |
-| 10 | 設計師、工地主管薪資；木工／泥作／貼磚／水電日薪（NCR、宿霧）；OWS 建築工種工資 | 無 URL | Jobstreet／Glassdoor；philconprices；PSA OWS 2022／2024 |
-| 11 | 缺工規模（PCA／DTI 路線圖原文）；TESDA 建築 NC II 年度核發數；建築業就業人數 | 無 | CIAP《Construction Industry Roadmap 2020–2030》；TESDA；PSA LFS |
-| 12 | CMWPI／CMRPI 2022–2026 年增率；進口磁磚／衛浴／板材量與來源國；關稅與防衛稅現況 | 無 | PSA CMWPI 月報；PSA 貿易統計；Tariff Commission |
-| 13 | 各建材品牌營收／市占；系統廚具／系統櫃品牌化玩家 | 無 | 公司官網、PSE 年報（Holcim、Eagle、Concepcion）、媒體 |
-| 14 | PIID 會員數與收費指引；展會規模；媒體與菲語社群規模 | 無 | PIID；Worldbex／Philconstruct 主辦方；Facebook 社團 |
-| 15 | 日、韓、新、台、中業者進入案例與結果（含退出） | 無 | 搜尋「Taiwanese interior design firm Philippines」、「Korean fit-out contractor Manila」、PCAB Special 執照公告 |
-| 16 | 台菲租稅協定、承攬預扣稅率 | 無 | BIR；財政部 |
-| 17 | 菲律賓語來源 | 0 條 | 附錄 A 第 15–20 條查詢 |
-| 18 | 所有【背景＋正本 URL】來源未開頁核對；【T1／T2／T3】來源亦為搜尋摘要層級 | — | 整合協議 §3、§10 逐條重開 |
+1. **PRC 累計登記室內設計師總數**與全國室內設計科系年畢業生人數：未找到。
+2. **RA 10350 特別許可核發數量**（每年多少外籍設計師獲准）與互惠國清單（含台灣是否互惠）：未找到。
+3. **外籍設計師／工地主管工作簽證**（9(g)、AEP、特別許可之銜接）：未搜尋（配額用罄）。
+4. **DTI／PCAB 裝修糾紛申訴件數 2023–2025**：英文與他加祿語均未找到；DTI 調解成功率 60% 僅見於單一律師事務所文章。
+5. **Pag-IBIG 住宅改良貸款（Home Improvement Loan）2025 年利率與放款額**、銀行裝修貸款利率、裝修相關稅務優惠：未找到。
+6. **菲律賓屋主裝修行為調查**（裝修動機、資訊來源、Facebook／社群承包商信任、付款比例慣例）：未找到任何 2024–2025 年本地調查；僅有設計公司趨勢文章。
+7. **工地主管（site manager／project engineer）薪資**：未查。
+8. **技工短缺 2025 年量化數據與年齡結構**：最新為 2020–2021 年 PCA 調查。
+9. **廚具（La Germania）、照明、系統家具、木地板／美耐板品牌與市占**：搜尋無結果。
+10. **進口建材關稅與 PNS/BPS 強制標準**、**2022–2023 年 CMWPI 走勢**：未查。
+11. **台灣、韓國、中國設計／裝修公司在菲案例**：未找到任何公開報導；M Moser 馬尼拉辦公室開設年份未標示。
+12. **RA 10350 IRR「10 年執業經驗之菲籍對口」規定**：僅見於學生題庫，未在一手來源確認。
+13. **Wage Order NCR-27（₱755／₱780）**：未能以 DOLE／RTWPB 官方來源核實。
+14. 多數裝修單價、設計費來源為承包商／設計師行銷頁面，非官方統計；彼此落差大（設計費每㎡ ₱600 至 ₱10,000）。
 
 ---
 
-## 12. 來源清單（標題｜機構｜年份｜URL｜取得途徑）
+## 12. 來源清單
 
-| # | 標題 | 機構 | 年份 | URL | 取得途徑 |
-|---|---|---|---|---|---|
-| 1 | Republic Act No. 10350 — Philippine Interior Design Act of 2012 | LawPhil | 2012 | https://www.lawphil.net/statutes/repacts/ra2012/ra_10350_2012.html | T3 |
-| 2 | Republic Act No. 10350 | Official Gazette of the Philippines | 2012 | https://www.officialgazette.gov.ph/2012/12/17/republic-act-no-10350/ | T3 |
-| 3 | Summary: Philippine Interior Design Act of 2012 | jur.ph | n.d. | https://jur.ph/law/summary/philippine-interior-design-act-of-2012 | T3 |
-| 4 | PCAB licence a must for Philippine contracting projects | Law.asia | n.d. | https://law.asia/pcab-licence-philippine-contracting-projects/ | T3 |
-| 5 | Tearing down PCAB's concrete wall of foreign equity restriction | PwC Philippines | 2020 | https://www.pwc.com/ph/en/tax/tax-publications/taxwise-or-otherwise/2020-taxwise-or-otherwise/tearing-down-pcabs-concrete-wall-of-foreign-equity-restriction.html | T3 |
-| 6 | PCAB v. Manila Water（判決評析） | Lexology | 2020 | https://www.lexology.com/library/detail.aspx?g=a618a774-9a85-412d-970d-2f005a2ef1c6 | T3 |
-| 7 | ECCP Position on PCAB Licensing | European Chamber of Commerce of the Philippines | 2025 | https://www.eccp.com/storage/app/media/Advocacy/Materials/2025/eccp-position-on-pcab-licensing.pdf | T3 |
-| 8 | Executive Order No. 175 — Twelfth Regular Foreign Investment Negative List | Supreme Court E-Library | 2022 | https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/95421 | T3 |
-| 9 | 13th Foreign Investment Negative List Philippines（EO 113） | Global Law Experts | 2026 | https://globallawexperts.com/13th-foreign-investment-negative-list-philippines/ | T3 |
-| 10 | Consumer complaints rise in 2023 – DTI | PhilStar | 2024-03-19 | https://www.philstar.com/business/2024/03/19/2341515/consumer-complaints-rise-2023-dti | T3 |
-| 11 | Taiwan missed out on CPTPP three times | Taipei Times | 2026-03-31 | https://www.taipeitimes.com/News/taiwan/archives/2026/03/31/2003854764 | T3 |
-| 12 | CPTPP（成員與加入進度） | DFAT（澳洲） | 2026 | https://www.dfat.gov.au/trade/agreements/in-force/cptpp/comprehensive-and-progressive-agreement-for-trans-pacific-partnership | T3 |
-| 13 | Wilcon Depot FY2024 results | Inquirer Plus | 2025 | https://plus.inquirer.net/?p=256738 | T2 |
-| 14 | Wilcon Depot (WLCON) Q4 2024 earnings summary | Quartr | 2025 | https://quartr.com/events/wilcon-depot-inc-wlcon-q4-2024_FtvIy3pe | T2 |
-| 15 | Wilcon's net income drops despite higher sales | Context.ph | 2026-03-30 | https://context.ph/2026/03/30/wilcons-net-income-drops-despite-higher-sales/ | T2 |
-| 16 | GDP per capita, Asia 2025（IMF WEO 轉載） | Worldometers | 2026 | https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal | T1 |
-| 17 | Philippine interior design firms seek international partners | HKTDC Research | n.d. | https://research.hktdc.com/en/article/MTk2OTMyNDExNA | T1 |
-| 18 | APAC Office Fit Out Cost Guide 2026 | Cushman & Wakefield | 2026 | https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office | T1 |
-| 19 | Office Fit-out Cost Guide 2026 – Asia Pacific | Turner & Townsend | 2026 | https://reports.turnerandtownsend.com/office-fit-out-cost-guide-2026/asia-pacific | T1 |
-| 20 | 1987 Constitution of the Republic of the Philippines（Art. XII Sec. 14） | Official Gazette | 1987 | https://www.officialgazette.gov.ph/constitutions/1987-constitution/ | 背景＋正本 URL |
-| 21 | Republic Act No. 4566 — Contractors' License Law | LawPhil | 1965 | https://lawphil.net/statutes/repacts/ra1965/ra_4566_1965.html | 背景＋正本 URL |
-| 22 | PCAB v. Manila Water, G.R. No. 217590（判決全文） | LawPhil | 2020 | https://lawphil.net/judjuris/juri2020/mar2020/gr_217590_2020.html | 背景（網址依格式推定） |
-| 23 | Presidential Decree No. 1096 — National Building Code of the Philippines | LawPhil | 1977 | https://lawphil.net/statutes/presdecs/pd1977/pd_1096_1977.html | 背景＋正本 URL |
-| 24 | 2004 Revised IRR of the National Building Code | DPWH | 2004 | https://www.dpwh.gov.ph/ | 背景（機關首頁） |
-| 25 | Republic Act No. 9514 — Fire Code of the Philippines of 2008 | LawPhil | 2008 | https://lawphil.net/statutes/repacts/ra2008/ra_9514_2008.html | 背景＋正本 URL |
-| 26 | Bureau of Fire Protection（FSEC／FSIC） | BFP | 現行 | https://bfp.gov.ph/ | 背景（機關首頁） |
-| 27 | Republic Act No. 4726 — The Condominium Act | LawPhil | 1966 | https://lawphil.net/statutes/repacts/ra1966/ra_4726_1966.html | 背景＋正本 URL |
-| 28 | Republic Act No. 9904 — Magna Carta for Homeowners and Homeowners' Associations | LawPhil | 2010 | https://lawphil.net/statutes/repacts/ra2010/ra_9904_2010.html | 背景＋正本 URL |
-| 29 | Republic Act No. 9266 — The Architecture Act of 2004 | LawPhil | 2004 | https://lawphil.net/statutes/repacts/ra2004/ra_9266_2004.html | 背景＋正本 URL |
-| 30 | Republic Act No. 10912 — Continuing Professional Development Act of 2016 | LawPhil | 2016 | https://lawphil.net/statutes/repacts/ra2016/ra_10912_2016.html | 背景＋正本 URL |
-| 31 | Professional Regulation Commission | PRC | 現行 | https://www.prc.gov.ph/ | 背景（機關首頁） |
-| 32 | Philippine Institute of Interior Designers | PIID | 現行 | https://piid.org.ph/ | 背景（網址待核） |
-| 33 | Construction Industry Authority of the Philippines／PCAB | CIAP-DTI | 現行 | https://ciap.dti.gov.ph/ | 背景（網址待核） |
-| 34 | Republic Act No. 7394 — Consumer Act of the Philippines | LawPhil | 1992 | https://lawphil.net/statutes/repacts/ra1992/ra_7394_1992.html | 背景＋正本 URL |
-| 35 | Republic Act No. 386 — Civil Code of the Philippines（Arts. 1713–1731, 1723） | LawPhil | 1949 | https://lawphil.net/statutes/repacts/ra1949/ra_386_1949.html | 背景＋正本 URL |
-| 36 | Executive Order No. 1008 — Construction Industry Arbitration Law | LawPhil | 1985 | https://lawphil.net/executive/execord/eo1985/eo_1008_1985.html | 背景＋正本 URL |
-| 37 | Republic Act No. 9285 — Alternative Dispute Resolution Act of 2004 | LawPhil | 2004 | https://lawphil.net/statutes/repacts/ra2004/ra_9285_2004.html | 背景＋正本 URL |
-| 38 | Republic Act No. 7160 — Local Government Code（Katarungang Pambarangay） | LawPhil | 1991 | https://lawphil.net/statutes/repacts/ra1991/ra_7160_1991.html | 背景＋正本 URL |
-| 39 | Supreme Court of the Philippines（小額訴訟規則） | 最高法院 | 2022 | https://sc.judiciary.gov.ph/ | 背景（機關首頁） |
-| 40 | Department of Trade and Industry | DTI | 現行 | https://www.dti.gov.ph/ | 背景（機關首頁） |
-| 41 | Republic Act No. 11232 — Revised Corporation Code | LawPhil | 2019 | https://lawphil.net/statutes/repacts/ra2019/ra_11232_2019.html | 背景＋正本 URL |
-| 42 | Republic Act No. 7042 — Foreign Investments Act of 1991 | LawPhil | 1991 | https://lawphil.net/statutes/repacts/ra1991/ra_7042_1991.html | 背景＋正本 URL |
-| 43 | Republic Act No. 11647 — FIA 修正 | LawPhil | 2022 | https://lawphil.net/statutes/repacts/ra2022/ra_11647_2022.html | 背景（網址依格式推定） |
-| 44 | Republic Act No. 11595 — Retail Trade Liberalization Act 修正 | LawPhil | 2021 | https://lawphil.net/statutes/repacts/ra2021/ra_11595_2021.html | 背景（網址依格式推定） |
-| 45 | Republic Act No. 11534 — CREATE Act | LawPhil | 2021 | https://lawphil.net/statutes/repacts/ra2021/ra_11534_2021.html | 背景＋正本 URL |
-| 46 | Republic Act No. 12066 — CREATE MORE Act | LawPhil | 2024 | https://lawphil.net/statutes/repacts/ra2024/ra_12066_2024.html | 背景（網址依格式推定） |
-| 47 | Bureau of Internal Revenue | BIR | 現行 | https://www.bir.gov.ph/ | 背景（機關首頁） |
-| 48 | Department of Labor and Employment（AEP） | DOLE | 現行 | https://www.dole.gov.ph/ | 背景（機關首頁） |
-| 49 | Bureau of Immigration（9(g)、SWP） | BI | 現行 | https://immigration.gov.ph/ | 背景（機關首頁） |
-| 50 | Republic Act No. 11641 — Department of Migrant Workers Act | LawPhil | 2021 | https://lawphil.net/statutes/repacts/ra2021/ra_11641_2021.html | 背景（網址依格式推定） |
-| 51 | National Capital Region daily minimum wage rates | NWPC-DOLE | 2025 | https://nwpc.dole.gov.ph/regionandwages/national-capital-region/ | 背景＋正本 URL |
-| 52 | TESDA（National Certificates） | TESDA | 現行 | https://www.tesda.gov.ph/ | 背景（機關首頁） |
-| 53 | Commission on Higher Education | CHED | 現行 | https://ched.gov.ph/ | 背景（機關首頁） |
-| 54 | Pag-IBIG Fund Housing Loan | Pag-IBIG Fund（HDMF） | 2025 | https://www.pagibigfund.gov.ph/HousingLoan.html | 背景（網址待核） |
-| 55 | Republic Act No. 9679 — Home Development Mutual Fund Law of 2009 | LawPhil | 2009 | https://lawphil.net/statutes/repacts/ra2009/ra_9679_2009.html | 背景＋正本 URL |
-| 56 | Bangko Sentral ng Pilipinas（匯款、RREPI、CES） | BSP | 現行 | https://www.bsp.gov.ph/ | 背景（機關首頁） |
-| 57 | Department of Human Settlements and Urban Development | DHSUD | 現行 | https://dhsud.gov.ph/ | 背景（機關首頁） |
-| 58 | Construction Materials Wholesale Price Index | PSA | 月 | https://psa.gov.ph/statistics/construction-materials-wholesale-price-index | 背景（網址待核） |
-| 59 | Construction Statistics from Approved Building Permits | PSA | 季 | https://psa.gov.ph/statistics/construction | 背景（網址待核） |
-| 60 | Family Income and Expenditure Survey | PSA | 2023 | https://psa.gov.ph/statistics/income-expenditure/fies | 背景（網址待核） |
-| 61 | Bureau of Philippine Standards | BPS-DTI | 現行 | https://www.bps.dti.gov.ph/ | 背景（機關首頁） |
-| 62 | Tariff Commission | Tariff Commission | 現行 | https://tariffcommission.gov.ph/ | 背景（機關首頁） |
-| 63 | DENR（含鉛油漆 CCO 2013-24） | DENR | 2013 | https://www.denr.gov.ph/ | 背景（機關首頁） |
-| 64 | IKEA Philippines | IKEA／Ikano | 現行 | https://www.ikea.com/ph/en/ | 背景 |
-| 65 | Nitori Philippines | Nitori | 現行 | https://www.nitori.com.ph/ | 背景（網址待核） |
-| 66 | HCG Philippines | Hocheng Philippines Corp. | 現行 | https://www.hcg.com.ph/ | 背景（網址待核） |
-| 67 | philconprices（建材與工資行情） | philconprices.com | 2025 | https://philconprices.com/ | 背景（二手，待核） |
-| 68 | WORLDBEX／PHILBEX | Worldbex Services International | 2026 | https://www.worldbex.com/ | 背景 |
-| 69 | PHILCONSTRUCT | PCA × Global-Link MP | 2026 | https://philconstructevents.com/ | 背景（網址待核） |
-| 70 | Manila FAME | CITEM-DTI | 2026 | https://manilafame.com/ | 背景 |
-
-來源數：70 條（英文 70、繁中 0、菲律賓語 0）；其中 19 條經由 T1／T2／T3（搜尋摘要層級），51 條為研究者背景知識附法規正本或機關 URL（本輪未開頁）。**沒有任何一條經本子代理親自搜得或開啟。**
-
----
-
-## 附錄 A：本輪已規劃但未能執行的 20 條搜尋（供下一回合直接續跑）
-
-英文（14）：
-1. Republic Act 10350 Philippine Interior Design Act full text foreign nationals penalties section
-2. PRC interior designer licensure examination 2025 results passers passing rate
-3. PRC number of registered interior designers Philippines PIID members
-4. PCAB license categories net worth requirements 2025 Regular Special foreign contractor
-5. building permit renovation condominium unit Philippines PD 1096 IRR exemption minor repairs
-6. condominium corporation renovation rules bond Philippines house rules contractor
-7. renovation contractor scam estafa Philippines 2025
-8. DTI consumer complaints 2024 2025 home improvement contractor
-9. Pag-IBIG home improvement loan 2025 interest rate maximum loan
-10. condo fit-out cost per sqm Philippines 2025 interior design fee
-11. interior designer salary Philippines 2025 Jobstreet
-12. construction worker daily wage Metro Manila 2025 carpenter mason electrician rate
-13. PSA construction materials wholesale price index 2025 NCR annual growth
-14. Taiwanese OR Japanese OR Korean interior design fit-out firm Philippines Manila office
-
-菲律賓語（6）：
-15. magkano ang gastos sa pagpapaayos ng bahay 2025
-16. interior designer lisensya PRC board exam 2025 pumasa
-17. kontraktor scam estafa bahay renovation 2025
-18. sahod ng karpintero mason tubero 2025 Metro Manila
-19. presyo ng tiles semento 2025 Wilcon
-20. Pag-IBIG housing loan pagpapaayos ng bahay 2025
-
-## 附錄 B：D 級記憶線索（無 URL；僅供下一輪定向，禁止當作數字引用）
-
-- **付款慣例**：動員款 30–50%、進度款、保留款 10%；設計費為工程款 8–15% 或按 m² 計（PIID 指引）。
-- **公寓 fit-out 單價**：部落格與業者常引 PHP 15,000–40,000+/m²（基本到高階）。
-- **設計師薪資量級（Jobstreet／Glassdoor 類來源）**：新人月薪 PHP 18,000–25,000；中階 30,000–50,000；資深 60,000–100,000+。
-- **工班日薪量級（philconprices 類來源，NCR）**：工頭 PHP 900–1,500；技術工（木工、泥作、貼磚、水電）700–1,000；助手 500–650。
-- **PRC 室內設計師考試**：每年應考數百人、及格率約四至六成（各年差異大）。
-- **缺工**：「2030 年前需新增 250 萬名建築工人」（DTI／CIAP 路線圖或 PCA 說法）。
-- **匯款**：BSP 2024 年現金匯款約 USD 345 億、個人匯款約 USD 383 億。
-- **住房缺口**：DHSUD「650 萬戶」。
-- **HCG 菲律賓**：Hocheng Philippines Corporation，工廠位於 Laguna（Cabuyao），1980 年代設立。
-- **Nitori**：2022 年 BGC 三越首店，其後於馬尼拉南區擴店。
-- **IKEA Pasay**：2021-11-25 開幕，約 6.5 萬 m²，開幕時稱全球最大。
-- **CIAP Document 102**：保留款 10%、完工後一年瑕疵責任期。
-- **Pag-IBIG 利率**：5.75%（1 年）、6.25%（3 年）、6.5%（5 年）…至 30 年重訂期逐級上升；AHP 補貼利率 3%。
-- **磁磚防衛稅**：2019 年起對進口陶瓷磁磚課徵防衛稅（每 m² 數披索），曾延長。
+| # | 標題 | 機構 | 年份 | URL |
+|---|---|---|---|---|
+| 1 | Republic Act No. 10350（Philippine Interior Design Act of 2012） | Official Gazette | 2012 | https://www.officialgazette.gov.ph/2012/12/17/republic-act-no-10350/ |
+| 2 | Republic Act No. 10350 全文 | LawPhil | 2012 | https://www.lawphil.net/statutes/repacts/ra2012/ra_10350_2012.html |
+| 3 | Law Summary: Philippine Interior Design Act of 2012 | digest.ph | n.d. | https://www.digest.ph/laws/philippine-interior-design-act-of-2012?tab=summary |
+| 4 | Philippine Interior Design Act Regulation（摘要） | jur.ph | n.d. | https://jur.ph/law/summary/philippine-interior-design-act-of-2012 |
+| 5 | The Philippine Interior Design Act gets tougher | Philippine Daily Inquirer | 2013 | https://lifestyle.inquirer.net/90691/the-philippine-interior-design-act-gets-tougher/ |
+| 6 | IRR of RA 10350（學生上傳） | Studocu | n.d. | https://www.studocu.com/ph/document/university-of-santo-tomas/bs-architecture/implementing-rules-and-regulations-of-ra-no-10350-for-interior-design/144215049 |
+| 7 | July 2025 Licensure Examination for Interior Designers Results | PRC | 2025 | https://www.prc.gov.ph/article/july-2025-licensure-examination-interior-designers-results-released-fourteen-14-working |
+| 8 | RESULTS: July 2025 Licensure Examination for Interior Designers | Rappler | 2025 | https://www.rappler.com/bulletin-board/examination-results/licensure-interior-designers-july-2025/ |
+| 9 | USC grad tops July 2025 licensure exam for Interior Designers | GMA News | 2025 | https://www.gmanetwork.com/news/topstories/nation/953787/usc-grad-tops-july-2025-licensure-exam-for-interior-designers/story/ |
+| 10 | IDLE Results July 2025 list of passers, top 10 | The Summit Express | 2025 | https://www.thesummitexpress.com/2025/07/idle-results-july-2025-interior-designer-board-exam-list-of-passers-top-10.html |
+| 11 | PCAB licence a must for Philippine contracting projects | Law.asia | 2024 | https://law.asia/pcab-licence-philippine-contracting-projects/ |
+| 12 | PCAB Resolution No. 214（外國承包商特別執照指引） | Supreme Court E-Library | 1997 | https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/11/44534 |
+| 13 | Guidelines for Foreign Contractor Special License | jur.ph | n.d. | https://jur.ph/law/summary/guidelines-for-issuance-of-special-license-foreign-contractors |
+| 14 | PCAB Special License requirements for foreign construction firms | Respicio & Co. | 2025 | https://www.respicio.ph/commentaries/pcab-special-license-requirements-for-foreign-construction-firms-in-the-philippines |
+| 15 | PCAB License Requirements for New Construction Companies | Respicio & Co. | 2025 | https://www.respicio.ph/commentaries/pcab-license-requirements-for-new-construction-companies-in-the-philippines |
+| 16 | PCAB License Guide | InCorp Philippines | n.d. | https://philippines.incorp.asia/guides/pcab-license/ |
+| 17 | How to Get a PCAB License in the Philippines | FilePino | n.d. | https://www.filepino.com/pcab-license-philippines/ |
+| 18 | Special PCAB Licenses | Triple A Consultancy | n.d. | https://www.tripleaaaconsultancy.com/post/special-pcab-licenses |
+| 19 | Executive Order No. 175（第 12 版外資負面清單） | Supreme Court E-Library | 2022 | https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/95421 |
+| 20 | Duterte approves EO updating foreign investment rules | Philstar | 2022 | https://www.philstar.com/business/2022/06/28/2191529/duterte-approves-eo-updating-foreign-investment-rules |
+| 21 | 12th Regular Foreign Investment Negative List A & B | Dayanan Consulting | 2022 | https://www.dayananconsulting.com/12th-regular-foreign-investment-negative-list-a-b/ |
+| 22 | Building Permit Requirements for Interior Renovations | Respicio & Co. | 2025 | https://www.respicio.ph/commentaries/building-permit-requirements-for-interior-renovations-in-the-philippines |
+| 23 | Building Permit vs Renovation Permit | Respicio & Co. | 2025 | https://www.lawyer-philippines.com/articles/understanding-the-difference-between-a-building-permit-and-a-renovation-permit-in-the-philippines |
+| 24 | Do You Need a Permit for Renovation in the Philippines? | CDO Home Builder | n.d. | https://www.cdohomebuilder.com/post/do-you-need-a-permit-for-renovation-in-the-philippines |
+| 25 | Condominium Building Guidelines（Century Properties 管理） | SB Corp（政府機構上傳） | 2023 | https://sbcorp.gov.ph/wp-content/uploads/2023/07/Annex_A_Building_Guidelines.pdf |
+| 26 | Renovation Permit in the Philippines | Lamudi | n.d. | https://www.lamudi.com.ph/journal/renovation-permit-philippines/ |
+| 27 | RA 9514: Fire Code of the Philippines | VIZCODE | n.d. | https://vizcodeph.com/code-library/ra-9514-fire-code-of-the-philippines/ |
+| 28 | RA 9514 compliance in pre-2008 condominiums | Respicio & Co. | 2025 | https://www.lawyer-philippines.com/articles/who-is-responsible-for-ra-9514-fire-safety-compliance-in-pre-2008-condominiums-without-turnover |
+| 29 | Liabilities of Building Contractors under Article 1723 | Magsalin Law | n.d. | https://www.magsalinlaw.com.ph/news/legal-education/building-responsibilities-brick-by-brick-liabilities-of-building-contractors-under-article-1723-of-the-new-civil-code/ |
+| 30 | Contractor liability for third-party loss（FAQ） | CIAP–DTI | n.d. | https://ciap.dti.gov.ph/content/can-contractor-be-held-liable-any-loss-or-damage-suffered-third-persons-any-defects-work |
+| 31 | Engineer & Architect Liability Law — The 15-Year Rule | AEDO Construction | 2025 | https://aedoconstruction.com/blog/engineer-architect-liability-law-philippines/ |
+| 32 | Construction Defects, Contractors Liability and Owners Rights | Ablola Saribong & Gueco | n.d. | https://asg.ph/insights/construction-defects-contractors-liability-and-owners-rights-under-philippine-law |
+| 33 | Managing construction risks in Asia-Pacific: Philippines | White & Case | 2024 | https://www.whitecase.com/insight-our-thinking/managing-construction-risks-asia-pacific-philippines |
+| 34 | Legal Remedies Against a Home Contractor Who Withholds Retention | Respicio & Co. | 2025 | https://www.respicio.ph/commentaries/legal-remedies-against-a-home-contractor-who-fails-to-repair-defects-and-withholds-retention-philippines |
+| 35 | Renovation Warranty Concerns Under Philippine Law | Respicio & Co. | 2025 | https://www.lawyer-philippines.com/articles/renovation-warranty-concerns-under-philippine-law-a-legal-inquiry |
+| 36 | Construction Contract Warranty for Residential Houses | Respicio & Co. | 2025 | https://www.respicio.ph/commentaries/construction-contract-warranty-for-residential-houses-defects-liability-and-remedies-under-philippine-law |
+| 37 | How to File a Consumer Fraud Complaint Against a Construction Contractor | Respicio & Co. | 2025 | https://www.respicio.ph/commentaries/how-to-file-a-consumer-fraud-complaint-against-a-construction-contractor-in-the-philippines |
+| 38 | Business Scam Complaint: Filing with DTI | Respicio & Co. | 2025 | https://www.lawyer-philippines.com/articles/business-scam-complaint-filing-with-dti |
+| 39 | Legal Remedies for Construction Defects and Contractor Misrepresentation | Respicio & Co. | 2025 | https://www.respicio.ph/commentaries/legal-remedies-for-construction-defects-and-contractor-misrepresentation-in-the-philippines |
+| 40 | Construction Defects and Incomplete Work: Contractor Liability | Respicio & Co. | 2025 | https://www.respicio.ph/commentaries/construction-defects-and-incomplete-work-in-the-philippines-contractor-liability-explained |
+| 41 | Need Advice - House Renovation Problem（論壇） | PhilippineWatchClub | n.d. | https://www.philippinewatchclub.org/forum/viewtopic.php?f=51&t=52023 |
+| 42 | M Moser Manila office | M Moser Associates | n.d. | https://www.mmoser.com/offices/manila/ |
+| 43 | Space Matrix Manila | Space Matrix | n.d. | https://www.spacematrix.com/en/contact-us/location/manila |
+| 44 | Federal Land, Nomura form new company pegged at P48 billion | The Filipino Times | 2022 | https://filipinotimes.net/tft-reach/2022/01/28/philippines-federal-land-japans-nomura-form-new-company-pegged-at-p48-billion-pesos/ |
+| 45 | Explore Japanese-inspired living with Federal Land Nomura Real Estate | Manila Bulletin | 2025 | https://mb.com.ph/2025/1/4/explore-japanese-inspired-living-federal-land-nomura-real-estate |
+| 46 | Japan excellence, Filipino heart（Takenaka–MDC） | Daily Tribune | 2025 | https://tribune.net.ph/2025/02/22/japan-excellence-filipino-heart |
+| 47 | Shimizu Awarded Contracts in Philippines | Shimizu Corp. | 2020 | https://www.shimz.co.jp/en/company/about/news-release/2020/2019051.html |
+| 48 | Condo Renovation Budget: What Filipino Condo Owners Actually Spend | Mainline Power PH | 2025 | https://www.mainlinepowerph.com/blogs/articles/condo-renovation-budget |
+| 49 | Condo Renovation Cost in the Philippines | Mainline Power PH | 2025 | https://www.mainlinepowerph.com/blogs/articles/condo-renovation-cost-in-the-philippines |
+| 50 | Home Renovation Cost Philippines | Mainline Power PH | 2025 | https://www.mainlinepowerph.com/blogs/articles/home-renovation-cost-philippines |
+| 51 | Home Renovation Cost Guide Philippines 2026 | RenovationCalcPH | 2026 | https://www.renovationcalcph.com/ |
+| 52 | Affordable Condo Renovation Philippines | JMG Build | n.d. | https://jmgbuild.com/affordable-condo-renovation-philippines/ |
+| 53 | Magkano ang Pagpapatayo ng Bahay sa Pilipinas 2026（他加祿語） | AEDO Construction | 2026 | https://aedoconstruction.com/blog/magkano-pagpapatayo-ng-bahay-pilipinas-2026/ |
+| 54 | How much does it cost to hire an Interior Designer for a Condo? | TG Designing Corner | 2022 | https://www.designing-corner.com/condo-design-rates/ |
+| 55 | Finding an Interior Designer in the Philippines: Rates | Eurobel | n.d. | https://eurobel.com.ph/blogs/finding-an-interior-designer-in-the-philippines/ |
+| 56 | Average Cost of Interior Design for a Condo in Manila | Qaltik | n.d. | https://qaltik.com/business/what-is-the-average-cost-of-interior-design-for-a-condo-in-manila/ |
+| 57 | How Much Does an Interior Designer Cost? | Presello | n.d. | https://www.presello.com/how-much-does-an-interior-designer-cost/ |
+| 58 | How interior designers price condo projects in the Philippines | Coohom | n.d. | https://www.coohom.com/article/how-interior-designers-price-condo-projects-in-the-philippines |
+| 59 | Building better homes | Daily Tribune | 2026 | https://tribune.net.ph/2026/07/31/building-better-homes |
+| 60 | Pag-IBIG home loan rates unchanged throughout 2025 | Inquirer | 2025 | https://business.inquirer.net/529457/pag-ibig-home-loan-rates-unchanged-throughout-2025 |
+| 61 | Pag-IBIG extends low home loan rates until end-2025 | Philstar | 2025 | https://www.philstar.com/business/2025/06/07/2448673/pag-ibig-extends-low-home-loan-rates-until-end-2025 |
+| 62 | Pag-IBIG housing loan releases reach P140.54B in 2025 | PNA | 2026 | https://www.pna.gov.ph/articles/1267430 |
+| 63 | Pag-IBIG: 3% loan rate amid higher socialized housing price caps | PNA | 2026 | https://www.pna.gov.ph/articles/1266253 |
+| 64 | Pag-IBIG keeps 3% housing loan rate | Inquirer | 2026 | https://business.inquirer.net/582687/pag-ibig-keeps-3-housing-rate |
+| 65 | Design Trends for 2025: What Filipino Homes Will Look Like | Pencil Studio | 2025 | https://www.pencilstudio.ph/blog/filipino-house-design-trends-2025 |
+| 66 | Home Interior Design Trends Shaping the Philippines in 2025 | AB Archidesigns | 2025 | https://www.ab-archidesigns.com/home-interior-design-trends-shaping-the-philippines-in-2025 |
+| 67 | 2Q2024 Quarterly Trend Report | Lamudi | 2024 | https://www.lamudi.com.ph/journal/2q2024-quarterly-trend-report/ |
+| 68 | Interior designer salary in Philippines | Indeed PH | 2025 | https://ph.indeed.com/career/interior-designer/salaries |
+| 69 | Interior designer salary in Manila | Indeed PH | 2025 | https://ph.indeed.com/career/interior-designer/salaries/Manila |
+| 70 | Interior Designer Salary in Manila | ERI | 2026 | https://www.erieri.com/salary/job/interior-designer/philippines/manila |
+| 71 | Average Interior Designer Salary in Philippines | WorldSalaries | 2025 | https://worldsalaries.com/average-interior-designer-salary-in-philippines/ |
+| 72 | Dagdag sahod sa Metro Manila, epektibo na sa Hulyo 18（他加祿語） | Pilipino Star Ngayon | 2025 | https://www.philstar.com/pilipino-star-ngayon/bansa/2025/07/15/2458151/dagdag-sahod-sa-metro-manila-epektibo-na-sa-hulyo-18 |
+| 73 | P35 wage hike for NCR private sector workers effective July | PNA | 2024 | https://www.pna.gov.ph/articles/1227990 |
+| 74 | NCR daily minimum wage up by P125 since 2023 | PNA | 2026 | https://www.pna.gov.ph/articles/1274109 |
+| 75 | NCR Minimum Wage Increase 2025 | Payroll Solutions PH | 2025 | https://www.payrollsolutions.ph/articles/113 |
+| 76 | Minimum Wage in Manila: New Rates (2026) | Sprout | 2026 | https://sprout.ph/articles/how-much-is-the-minimum-wage-in-manila/ |
+| 77 | Construction Labor Rates Philippines 2026 — Daily & Pakyaw | AEDO Construction | 2026 | https://aedoconstruction.com/blog/construction-labor-rates-philippines-2026/ |
+| 78 | Mason salary in Philippines | Indeed PH | 2025 | https://ph.indeed.com/career/mason/salaries |
+| 79 | The low paid workers propping up Manila's construction boom | Equal Times | 2019 | https://www.equaltimes.org/the-low-paid-workers-propping-up?lang=en |
+| 80 | PH Construction Labor & Equipment Rates（舊表） | Scribd | n.d. | https://www.scribd.com/document/579829839/Labor-Rates-and-Equipment |
+| 81 | DOLE lists construction, transportation among 'critical' sectors in 2025 | BusinessMirror | 2025 | https://businessmirror.com.ph/2025/01/29/dole-lists-construction-transportation-among-critical-sectors-in-2025/ |
+| 82 | LMI: Future-Proofing the Construction Sector | TESDA | 2022 | https://tesda.gov.ph/Uploads/File/LMIR/2022/LMI_Future-Proofing%20Construction%20Sector.pdf |
+| 83 | Skilled Labor Shortages in the Philippine Construction Sector | RichestPH | n.d. | https://richestph.com/skilled-labor-shortages-addressing-the-workforce-crisis-in-the-philippine-construction-sector/ |
+| 84 | DOLE eyes limiting number of skilled workers sent abroad | GMA News | 2019 | https://www.gmanetwork.com/news/pinoyabroad/dispatch/609405/dole-eyes-limiting-number-of-skilled-workers-sent-abroad-to-address-local-shortage/story/ |
+| 85 | Palace: Gov't to address shortage of skilled workers | Inquirer | 2019 | https://newsinfo.inquirer.net/1086216/palace-govt-to-address-shortage-of-skilled-workers |
+| 86 | CMWPI in NCR (2018=100): February 2025 | PSA | 2025 | https://psa.gov.ph/content/construction-materials-wholesale-price-index-national-capital-region-2018100-february-2025 |
+| 87 | Wholesale price growth of NCR building materials steady in December | BusinessWorld | 2026 | https://www.bworldonline.com/economy/2026/01/16/724720/wholesale-price-growth-of-ncr-building-materials-steady-in-december/ |
+| 88 | NCR building material inflation quickens in May | BusinessWorld | 2026 | https://bworldonline.com/top-stories/2026/06/10/755626/ncr-building-material-inflation-quickens-in-may/ |
+| 89 | Wholesale construction prices in NCR down by 0.2% in Sept. | PNA | 2025 | https://www.pna.gov.ph/articles/1260207 |
+| 90 | Structural steel keeps NCR construction price steady | BusinessMirror | 2025 | https://businessmirror.com.ph/2025/11/13/structural-steel-keeps-ncr-construction-price-steady/ |
+| 91 | PSA reports hike in price of construction materials | BusinessMirror | 2026 | https://businessmirror.com.ph/2026/07/14/psa-reports-hike-in-price-of-construction-materials/ |
+| 92 | NCR construction prices jump to nearly 3-year high in July（鏡像站） | ntn24online | 2026 | https://ec2-98-80-42-11.compute-1.amazonaws.com/ncr-construction-prices-jump-to-nearly-3-year-high-in-july/ |
+| 93 | WLCON 2025 17-A Annual Report | Wilcon Depot | 2026 | https://investor.wilcon.com.ph/wp-content/uploads/2026/04/WLCON-2025-17A-Annual-Report-with-Exhibits-PSE-submission_1.pdf |
+| 94 | Wilcon Depot Income Slips 3% in 2025 | Daily Tribune | 2026 | https://tribune.net.ph/2026/03/30/wilcon-income-slips-3-despite-higher-sales |
+| 95 | Wilcon Depot's 2025 net income fell 3.3% | Manila Standard | 2026 | https://manilastandard.net/business/314721981/wilcon-depots-2025-net-income-fell-3-3-to-p2-44-billion-on-higher-costs.html |
+| 96 | Wilcon Depot (WLCON) Investor Relations | Quartr | 2026 | https://quartr.com/companies/wilcon-depot-inc_24210 |
+| 97 | About Us | Mariwasa | n.d. | https://mariwasa.com/about-us/ |
+| 98 | Mariwasa to expand product lines for Filipino market | Manila Bulletin | 2024 | https://mb.com.ph/2024/3/17/mariwasa-to-expand-product-lines-for-filipino-market |
+| 99 | The hidden champions of Philippine business（Boysen／Davies） | Philstar | 2012 | https://www.philstar.com/lifestyle/business-life/2012/08/20/839973/hidden-champions-philippine-business |
+| 100 | Uratex for Business | LinkedIn | n.d. | https://www.linkedin.com/company/uratex-for-business/ |
+| 101 | WORLDBEX 2025 pushes Beyond Sustainnovation | Archikonst | 2025 | https://archikonst.com.ph/expo-ordinary-worldbex-2025-pushes-beyond-sustainnovation/ |
+| 102 | WORLDBEX 2025 unveils the future of sustainable interior | WORLDBEX | 2025 | https://worldbex.com/worldbex-2025-unveils-the-future-of-sustainable-interior/ |
+| 103 | WORLDBEX 2026 Officially Launched, 29 Years | WORLDBEX | 2026 | https://worldbex.com/worldbex-2026-officially-launched-marking-29-years-of-building-opportunities-and-sustaining-lives/ |
+| 104 | WORLDBEX 2026 to Highlight Sustainable Luxury | MEGA | 2026 | https://mega-asia.com/lifestyle/worldbex-2026/ |
+| 105 | Inside PHILBEX Davao 2026 | PHILBEX | 2026 | https://philbex.ph/beyond-blueprints-and-breakthroughs-inside-philbex-davao-2026/ |
+| 106 | PHILBEX Iloilo | Worldbex Services International | 2026 | https://worldbexevents.com/worldbex-presents-philbex-iloilo-western-visayas-premier-construction-and-design-expo/ |
+| 107 | PIID's new Board charts a conscious future | adobo Magazine | 2026 | https://www.adobomagazine.com/design/piids-new-board-charts-a-conscious-future-for-philippine-interior-design/ |
