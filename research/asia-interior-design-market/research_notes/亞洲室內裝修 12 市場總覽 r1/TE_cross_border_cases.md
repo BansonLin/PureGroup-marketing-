@@ -227,6 +227,7 @@
 - 2022 上半年室內設計服務營收 HK$141.1m（-11.1%），占總營收約 79.4% — [HKEXnews 2022 中期 TE-53](https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0818/2022081800211.pdf)（信心 高）
 - 2025 上半年營收 HK$194.6m、獲利 HK$1.0m（去年同期虧損 7.4m）、在手合約約 HK$538.5m — [TipRanks TE-54](https://il.tipranks.com/news/company-announcements/2358049)（信心 中，二手摘要）
 - 私有化／下市：**無資料（未找到）**；大陸營收占比：無資料。
+- 〔r2〕以繁中查「梁志天設計集團 私有化 除牌 要約」，結果中沒有要約人、計劃文件或除牌公告。2026 年中期報告仍列梁志天為執行董事、股份代號 2262 — [東方財富轉載之 SLD 2026 中期報告 TE-75](https://pdf.dfcfw.com/pdf/H2_AN202608251828407478_1.pdf)；理杏仁公告列表顯示 2026 年 5–7 月仍有股東周年大會結果等公告 — [Lixinger TE-76](https://www.lixinger.com/equity/company/detail/hk/02262/2262/announcement)（信心 中）。**裁決：委託書「SLD 私有化」前提不成立，至少到 2026-08 仍在上市**（若 2026-08 之後才有新公告，本輪無法得知）。
 
 ### 4.8 中國業者出海
 
