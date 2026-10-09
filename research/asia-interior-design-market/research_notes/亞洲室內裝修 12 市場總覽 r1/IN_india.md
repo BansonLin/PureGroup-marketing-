@@ -603,6 +603,22 @@ IN,合板BIS QCO生效日,2025-02-28,日期,2025,IN-54,https://alephindia.in/bis
 IN,RERA開發商瑕疵責任期,5,年(自交屋起),2016法(現行),IN-58,https://housing.com/news/compensation-for-defects-in-construction-after-possession-under-rera/,RERA第14(3)條;30日內免費修復,中
 IN,Livspace裁員人數,約1000,人(約占員工12%),2026-02,IN-20,https://india.entrepreneur.com/?p=93997,AI-native重組,中
 IN,NRI占住宅銷售比,12-15,%,2025,IN-40,https://www.outlookbusiness.com/markets/housing-sales-dip-1-last-year-in-top-8-cities-avg-price-grows-up-to-19-knight-frank,Knight Frank評論,中
+IN,中古屋占住宅交易戶數比,43,%,FY25,IN-88,https://static.squareyards.com/PrimaryVsSecondary-UnpackingDemandTrendsinIndia'sResidentialMarket-SquareYards.pdf,Square Yards主要城市產權登記交易(戶數);疫情前約38%;Grant Thornton同,高
+IN,登記住宅交易總數,5.44,lakh 戶,FY25,IN-88,https://static.squareyards.com/PrimaryVsSecondary-UnpackingDemandTrendsinIndia'sResidentialMarket-SquareYards.pdf,主要城市登記交易;FY19為3.07 lakh,中
+IN,Bengaluru中古屋占比,46,%,FY25,IN-88,https://static.squareyards.com/PrimaryVsSecondary-UnpackingDemandTrendsinIndia'sResidentialMarket-SquareYards.pdf,FY19為31%,中
+IN,Census普查住宅總數,330.84,百萬棟,2011,IN-92,https://pmay-urban.gov.in/material/component4/Housing_in_India_Compendium_English_Version2.pdf,Census 2011 census houses;無屋齡欄位;為最新已公布普查,中
+IN,設計費占工程費比(一般),6-15,%,2025-26,IN-82,https://www.houseyog.com/blog/how-much-does-an-interior-designer-charge-in-india/,業者部落格行情;Chennai 10-20%;URL對應推定,低
+IN,純設計費(不含施工),50-150,₹/sq ft,2026,IN-85,https://constructionestimatorindia.com/?p=17098,3D與設計諮詢不含執行;URL對應推定,低
+IN,翻修單價(印地語來源),1500-4000,₹/sq ft,2025,IN-75,https://www.iifl.com/hi/blogs/gold-loan/home-renovation-cost-india-2025-full-budget-guide-financing-options,IIFL印地語指南;標準級2000-3500含地板/系統廚具/浴室,低
+IN,熟練泥作日薪-Mumbai,1050-1400,₹/日,2026,IN-70,https://solve24.in/blog/mason-construction-worker-daily-wages-india-2026,市場行情非官方;Delhi 950-1350;Bengaluru 1000-1400,中
+IN,泥作/木工/小工日薪(全國),600-900/650-1000/450-650,₹/日,2026,IN-66,https://yojoapp.com/hi/blog/labor-rates-construction-india-2026-complete-guide/,印地語指南;市場推估非政府公告,中
+IN,農村就業保障最低日薪,300,₹/日,2025-26,IN-67,https://www.patrika.com/national-news/vb-g-ram-g-rural-employment-guarantee-act-2025-new-wage-rates-125-days-work-20710556,VB-G RAM G(原MGNREGA)法定非技術工保障工資;平均327,中
+IN,辦公室fit-out單價(全國主要城市),65-73,美元/sq ft,2026年版指南,IN-106,https://realtynmore.com/competitive-fit-out-market-cushman-wakefield/,C&W協作型混合辦公規格;Mumbai約73最高,中
+IN,辦公室fit-out單價-Mumbai,73,美元/sq ft,2025年版指南(2024成本),IN-105,https://realtynmore.com/office-fit-out-costs-rise-amid-demand-for-premium-tech-enabled-sustainable-workspaces,C&W;Delhi 69;Bengaluru 67;年漲約3%,中
+IN,Morbi磁磚漲幅,10-20,%,2026-06,IN-78,https://morbitilehub.com/blog/morbi-tile-price-hike-june-2026,業界部落格;2026-06-01起;GVT/拋光石英磚每sq ft漲₹3-3.30,低
+IN,合板產業規模,20000,crore 盧比,2025,IN-79,https://simplehai.axisdirect.in/app/index.php/insights/reports/downloadReport/file/Initiating+Coverage+-+Building+Materials+-+16072025+(2)_16-07-2025_10.pdf/type/fundamental,Axis Direct券商報告;BIS規範加速組織化;URL對應推定,中
+IN,就業簽證最低年薪,25000,美元/年,2010起(現行指南沿用),IN-100,https://blog.ipleaders.in/employment-visa-india-rules-procedure/,MHA準則;豁免民族料理廚師/非英語語言教師/使館人員;缺現行官方原文,中
+IN,消費者委員會命退室內裝修款(NoBroker案),490716,₹,2026,IN-97,https://www.inkl.com/news/interior-designer-takes-rs-4-9-lakh-full-payment-leaves-work-incomplete-consumer-court-orders-refund-after-family-is-forced-to-stay-on-rent-for-months,Hyderabad消費者委員會;CPA 2019服務缺失+不公平交易;另付訴訟費₹5000;單一案例,中
 ```
 
 ---

@@ -372,6 +372,81 @@ ALL,Broad 美元指數 年平均,123.0636,指數（2006-01=100）,2025,TF-01,htt
 ALL,Broad 美元指數 月平均,118.8512,指數（2006-01=100）,2026-08,TF-02,https://www.federalreserve.gov/releases/G5/current/,聯準會 Broad 名目美元指數；【實際】,中
 TW,央行全年淨買匯,76.9,億美元,2025,TF-05,https://udn.com/news/story/7239/9407547,央行全年累計淨買匯（約當 GDP 0.8%）；終止連三年淨賣匯；【示意】單一媒體來源,中
 TW,新台幣全年對美元升值幅度,4.27,%,2025,TF-05,https://udn.com/news/story/7239/9407547,年底對年初變動（非年平均）；搜尋摘要未明確對應 URL；【示意】,低
+VN,VND per USD 年平均,26005.133,VND/USD,2025,TF-14,https://www.ceicdata.com/en/indicator/vietnam/exchange-rate-against-usd,CEIC 引用世界銀行官方匯率年平均（國家當局或合法外匯市場匯率）；第 2 輪 VND 換算基準；【實際】三源一致,中
+VN,VND per USD 年平均,26008,VND/USD,2025,TF-16,https://www.focus-economics.com/country-indicator/vietnam/exchange-rate/,FocusEconomics 年平均；【實際】,中
+VN,VND per USD 年平均,26009,VND/USD,2025,TF-15,https://www.exchange-rates.org/exchange-rate-history/usd-vnd-2025,exchange-rates.org 中間價年平均；【實際】,中
+VN,VND per USD 年底值,25485,VND/USD,2024,TF-16,https://www.focus-economics.com/country-indicator/vietnam/exchange-rate/,FocusEconomics 期末值（eop）；【實際】,中
+VN,VND per USD 年底值,26150,VND/USD,2025,TF-16,https://www.focus-economics.com/country-indicator/vietnam/exchange-rate/,FocusEconomics 期末值（eop）；【實際】,中
+VN,SBV 中心匯率年內高點,25298,VND/USD,2025-08-22,TF-17,https://nief.mof.gov.vn/kinh-te-xa-hoi/bien-dong-ty-gia-nam-2025-va-du-bao-tinh-hinh-nam-2026-11839.html,越南國家銀行中心匯率（tỷ giá trung tâm）；官方參考價，不用於換算；URL 歸屬不確定；【示意】,低
+ID,IDR per USD 年平均,16478.44,IDR/USD,2025,TF-10,https://exchangerate.dev/learn/irs-yearly-average-exchange-rates,第三方以日資料重算之全年平均（非 BI 官方）；第 2 輪 IDR 換算基準；【實際】兩源一致,中
+ID,IDR per USD 期間平均（1–5 月）,16474,IDR/USD,2025,TF-11,https://iainkendari.ac.id/pojok-rektor/show/kaleidoskop-general-ekonomi-moneter-indonesia-2025,IAIN Kendari 年度回顧；非 BI 數據且方法未說明；【示意】,低
+ID,IDR per USD 期間平均（6–12 月）,16475,IDR/USD,2025,TF-11,https://iainkendari.ac.id/pojok-rektor/show/kaleidoskop-general-ekonomi-moneter-indonesia-2025,IAIN Kendari 年度回顧；非 BI 數據；【示意】,低
+ID,IDR per USD 收盤,16725,IDR/USD,2025-11-20,TF-12,https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2727925.aspx,BI 週報（Perkembangan Indikator Stabilitas Nilai Rupiah）單日收盤；【實際】,中
+ID,IDR per USD 收盤,16215,IDR/USD,2025-07-10,TF-13,https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2715025.aspx,BI 週報單日收盤；【實際】,中
+PH,PHP per USD 年平均,57.509,PHP/USD,2025,TF-10,https://exchangerate.dev/learn/irs-yearly-average-exchange-rates,第三方以日資料重算之全年平均（非 BSP 官方）；第 2 輪 PHP 換算基準；【示意】單一來源,中
+PH,PHP per USD 月平均,61.44,PHP/USD,2026-05,TF-08,https://gulfnews.com/business/markets/pesos-new-normal-dollar-could-stay-above-60-bsp-data-1.500591425,BSP 參考匯率月平均（媒體轉引）；PHP 最新值；【示意】,中
+PH,PHP per USD 月平均,56.36,PHP/USD,2025-06,TF-08,https://gulfnews.com/business/markets/pesos-new-normal-dollar-could-stay-above-60-bsp-data-1.500591425,BSP 參考匯率月平均（媒體轉引）；【示意】,中
+VN,TWD per 1 VND（交叉）,0.001198,TWD/VND,2025,TF-01+TF-14,https://www.ceicdata.com/en/indicator/vietnam/exchange-rate-against-usd,導出：31.1663（TF-01）÷26005.133（TF-14）；跨來源；【示意】導出值,中
+ID,TWD per 1 IDR（交叉）,0.001891,TWD/IDR,2025,TF-01+TF-10,https://exchangerate.dev/learn/irs-yearly-average-exchange-rates,導出：31.1663（TF-01）÷16478.44（TF-10）；跨來源；【示意】導出值,中
+PH,TWD per 1 PHP（交叉）,0.541938,TWD/PHP,2025,TF-01+TF-10,https://exchangerate.dev/learn/irs-yearly-average-exchange-rates,導出：31.1663（TF-01）÷57.509（TF-10）；跨來源；【示意】導出值,中
+SG,名目人均 GDP,99365,USD,2025,TF-18,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；市場匯率換算；同站另表 98814；【實際】,中
+HK,名目人均 GDP,56893,USD,2025,TF-18,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；【實際】,中
+TW,名目人均 GDP,39489,USD,2025,TF-18,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載；表上名稱 Taiwan）；【實際】,中
+KR,名目人均 GDP,36227,USD,2025,TF-18,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；【實際】,中
+JP,名目人均 GDP,35973,USD,2025,TF-18,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；同站另表 35951；【實際】,中
+CN,名目人均 GDP,13968,USD,2025,TF-18,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；同站另表 13862；【實際】,中
+MY,名目人均 GDP,13949,USD,2025,TF-18,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；【實際】,中
+TH,名目人均 GDP,8057,USD,2025,TF-18,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；【實際】,中
+ID,名目人均 GDP,5082,USD,2025,TF-18,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；【實際】,中
+VN,名目人均 GDP,4829,USD,2025,TF-18,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；【實際】,中
+PH,名目人均 GDP,4270,USD,2025,TF-18,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；【實際】,中
+IN,名目人均 GDP,2675,USD,2025,TF-18,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；【實際】,中
+SG,名目人均 GDP（IMF 預測）,107758,USD,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測值；【示意】預測,中
+HK,名目人均 GDP（IMF 預測）,59640,USD,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測值；【示意】預測,中
+TW,名目人均 GDP（IMF 預測）,42103,USD,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測值；【示意】預測,中
+KR,名目人均 GDP（IMF 預測）,37412,USD,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測值；【示意】預測,中
+JP,名目人均 GDP（IMF 預測）,35703,USD,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測值；【示意】預測,中
+MY,名目人均 GDP（IMF 預測）,15085,USD,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測值；【示意】預測,中
+TH,名目人均 GDP（IMF 預測）,8105,USD,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測值；【示意】預測,中
+ID,名目人均 GDP（IMF 預測）,5362,USD,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測值；【示意】預測,中
+VN,名目人均 GDP（IMF 預測）,5115,USD,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測值；【示意】預測,中
+PH,名目人均 GDP（IMF 預測）,4443,USD,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測值；【示意】預測,中
+IN,名目人均 GDP（IMF 預測）,2813,USD,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測值；【示意】預測,中
+TW,名目 GDP,920.05,十億美元,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；【實際】,中
+JP,名目 GDP,4435.16,十億美元,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；完整值 4435162999977；【實際】,中
+CN,名目 GDP,19498.04,十億美元,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；另一摘要稱 19.63 兆，見矛盾表；【示意】,中
+KR,名目 GDP,1870,十億美元（四捨五入）,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；摘要只給到 1.87 兆；【實際】,中
+IN,名目 GDP,3920,十億美元（四捨五入）,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；2026 頁另列 3.96 兆；【實際】,中
+TW,實質 GDP 成長率（IMF 預測）,5.18,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測（Worldometer 2026 表）；【示意】預測,中
+JP,實質 GDP 成長率（IMF 預測）,0.72,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
+KR,實質 GDP 成長率（IMF 預測）,1.86,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
+SG,實質 GDP 成長率（IMF 預測）,3.51,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
+HK,實質 GDP 成長率（IMF 預測）,2.42,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
+MY,實質 GDP 成長率（IMF 預測）,4.70,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
+TH,實質 GDP 成長率（IMF 預測）,1.50,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
+ID,實質 GDP 成長率（IMF 預測）,4.95,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
+VN,實質 GDP 成長率（IMF 預測）,7.10,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
+PH,實質 GDP 成長率（IMF 預測）,4.07,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
+IN,實質 GDP 成長率（IMF 預測）,6.48,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
+JP,都市化率,92.3,%,2025,TF-23,https://www.theglobaleconomy.com/rankings/Percent_urban_population/Asia/,都市人口占總人口比（UN 來源）；【示意】單一聚合來源,中
+CN,都市化率,66.34,%,2025,TF-23,https://www.theglobaleconomy.com/rankings/Percent_urban_population/Asia/,都市人口占總人口比（UN 來源）；【示意】單一聚合來源,中
+ID,都市化率,59.39,%,2025,TF-23,https://www.theglobaleconomy.com/rankings/Percent_urban_population/Asia/,都市人口占總人口比（UN 來源）；【示意】單一聚合來源,中
+JP,65 歲以上人口占比,29.78,%,2024,TF-24,https://www.theglobaleconomy.com/rankings/elderly_population/Asia/,世界銀行系列（65 歲以上占總人口）；年份為 2024 非 2025；【示意】,中
+HK,65 歲以上人口占比,22.67,%,2024,TF-24,https://www.theglobaleconomy.com/rankings/elderly_population/Asia/,世界銀行系列；年份 2024；【示意】,中
+KR,65 歲以上人口占比,19.27,%,2024,TF-24,https://www.theglobaleconomy.com/rankings/elderly_population/Asia/,世界銀行系列；年份 2024；【示意】,中
+TH,65 歲以上人口占比,15.36,%,2024,TF-24,https://www.theglobaleconomy.com/rankings/elderly_population/Asia/,世界銀行系列；年份 2024；【示意】,中
+CN,65 歲以上人口占比,14.67,%,2024,TF-24,https://www.theglobaleconomy.com/rankings/elderly_population/Asia/,世界銀行系列；年份 2024；【示意】,中
+SG,65 歲以上人口占比,13.66,%,2024,TF-24,https://www.theglobaleconomy.com/rankings/elderly_population/Asia/,世界銀行系列；年份 2024；【示意】,中
+HK,65 歲以上人口占比,23.7,%,2025,TF-25,https://www.visualcapitalist.com/ranked-25-countries-most-seniors-in-2025-vs-2100/,UN 資料（Visual Capitalist 轉載）；全球第 8；【示意】,中
+HK,65 歲以上人口占比（UN 預測）,46.3,%,2050,TF-25,https://www.visualcapitalist.com/ranked-25-countries-most-seniors-in-2025-vs-2100/,UN 預測（Visual Capitalist 轉載）；【示意】預測,中
+TW,65 歲以上人口占比（UN 預測）,31.7,%,2050,TF-25,https://www.visualcapitalist.com/ranked-25-countries-most-seniors-in-2025-vs-2100/,UN 預測（Visual Capitalist 轉載）；【示意】預測,中
+TW,IMF 隱含人口,23.30,百萬人,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,導出：名目 GDP 920.05 十億 ÷ 人均 39489；僅供合理性檢查；【示意】導出值,低
+JP,IMF 隱含人口,123.37,百萬人,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,導出：4435162999977 ÷ 35951（同列）；【示意】導出值,低
+CN,IMF 隱含人口,1406.58,百萬人,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,導出：19498039388043 ÷ 13862（同列）；【示意】導出值,低
+KR,IMF 隱含人口,51.6,百萬人,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,導出：約 1.87 兆 ÷ 36227；GDP 為四捨五入值，精度低；【示意】導出值,低
+IN,IMF 隱含人口,1465,百萬人,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,導出：約 3.92 兆 ÷ 2675；精度低；【示意】導出值,低
+ALL,亞洲都市化率,53.6,%,2025,TF-27,https://www.worldometers.info/world-population/asia-population/,亞洲整體都市人口占比（UN 資料）；人口 4835320060；【示意】,中
+ALL,全球 65 歲以上占比,10.3,%,2024,TF-26,https://population.un.org/wpp/assets/Files/WPP2024_Summary-of-Results.pdf,UN WPP 2024；預測 2074 年達 20.7%；【實際】,中
 ```
 
 （共 71 列資料，全部為匯率相關。總體與住宅指標因本輪無資料，**未列入 CSV**，以免出現空值列；缺口見第 5.2 節。）

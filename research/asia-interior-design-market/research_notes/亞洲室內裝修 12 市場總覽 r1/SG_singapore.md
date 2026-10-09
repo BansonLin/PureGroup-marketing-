@@ -63,7 +63,7 @@
 1. **找不到任何可信的新加坡「住宅翻修／室內設計服務」市場規模數字**（官方、公會、市調皆無）。最接近的鄰接數字是 Ken Research 的家具與家飾市場 2025 年 **USD 1,130 million**（家具占 61%）（SG-39，市調、家居零售桶、【示意】）。以交易量 × 平台單價做的示意推估：HDB 新入住翻修需求約 **S$2.8–3.3 billion／年**（§4，【示意】、低）。
 2. **需求引擎是「交屋＋轉手」**：2025 年 HDB 轉售成交 **26,169 筆**（較 2024 年 28,986 筆 −9.7%，五年新低）（SG-20、SG-21）；私宅轉售 **14,622 筆**（2024 年 14,053 筆），占私宅全年成交 26,492 筆的 55%（SG-71，引 URA 最終數據）；HDB 2025 年推出 **29,975 戶**新組屋（19,723 BTO＋10,252 SBF）（SG-24，官方）。
 3. **住宅翻修單價（每戶）與工期**：Qanvast 2026 年預估 4-room BTO **S$50,000–60,000**、4-room 轉售組屋 **S$70,000–81,600**、5-room 轉售 **S$80,800–98,900**（SG-13，以 2025 年中位數加 1–2% 通膨推估）。轉售屋單戶花費約為 BTO 的 1.3–1.4 倍；工期 BTO 約 **8–12 週**、轉售 4/5-room 約 **10–12 週**（SG-14，Qanvast 2025）。每 sq ft 全包單價仍**無資料**；設計費多以「工程總額百分比、固定包價，或併入木作加價」收取（SG-61）。
-4. **糾紛集中在未認證業者**：CASE（新加坡消費者協會）2024 年收到裝修承包商投訴 **962 件**（全行業第 4 名），其中約 **97%** 針對非 CaseTrust 認證業者；2024 年全行業預付款損失約 **S$1,930,000**（2023 年 S$476,000 的四倍以上），約三分之一來自裝修業（SG-01）。
+4. **糾紛集中在未認證業者**：CASE（新加坡消費者協會）2024 年收到裝修承包商投訴 **962 件**（2023 年 1,168 件；全行業第 4 名），其中約 **97%** 針對非 CaseTrust 認證業者；2024 年全行業預付款損失約 **S$1,930,000**（2023 年 S$476,000 的四倍以上），約三分之一來自裝修業（SG-01）。
 5. **法定管制只在「組屋端」**：依《Housing and Development (Renovation Control) Rules 2006》第 6 條，只有列入 HDB「裝修承包商名錄」（Directory of Renovation Contractors, DRC）的業者可在組屋施工（SG-09）；**室內設計師本身未見法定執照**（SG-50 為二手說法；2024 年國會仍在詢問是否要求董事具產業資格，SG-03）——需專業人士最終確認。
 6. **自律認證設計**：CaseTrust 裝修認證規定首期訂金上限 **20%**，並須購買「訂金履約保證」（deposit performance bond）保障業者倒閉／清盤（SG-06）。
 7. **勞動力高度依賴外籍、外資進入門檻低**：營建業外籍勞工依存比上限（Dependency Ratio Ceiling）為 **83.3%**（MOM 官方，SG-34）；2025 年營建業停業企業 **2,737 家**（SG-42）。私人有限公司可 **100% 外資持股**，但須至少一名「通常居住在新加坡」的董事（SG-85、SG-86）；2025-01-01 起新申請 Employment Pass 月薪門檻 **S$5,600**（非金融業）（SG-87）——需專業人士最終確認。
@@ -495,5 +495,46 @@ SG,組屋翻修總價區間,25000-80000,SGD per flat,年份未明,SG-59,https://
 | SG-56 | Written answer by MND on number of cases of breaches under the Housing and Development (Renovation Control) Rules reported since the start of the COVID-19 pandemic | MND | 約 2021–2022 | 英 | https://www.mnd.gov.sg/newsroom/parliament-matters/q-as/view/written-answer-by-ministry-of-national-development-on-number-of-cases-of-breaches-under-the-housing-and-development-(renovation-control)-rules-that-have-been-reported-since-the-start-of-the-covid-19-pandemic | 搜尋結果內容（僅標題；用以確認法規名稱） |
 | SG-57 | Singapore interior fit-out furniture market（簡中頁） | Astute Analytica | 年份未明 | 簡中 | https://www.astuteanalytica.com/zh-cn/expert-call/singapore-interior-fit-out-furniture-market | 搜尋結果內容（僅標題；無數字） |
 | SG-58 | How to Spot and Avoid Blacklisted Renovation Company in Singapore | Sixides | 年份未明 | 英 | https://www.sixides.com/articles/house-hacks/how-to-avoid-disappearing-contractors-and-protect-your-dream-home | 搜尋結果內容（數字對應推定） |
+| SG-59 | Interior designers（directory） | Qanvast | 年份未明 | 英 | https://qanvast.com/sg/interior-designers | 搜尋結果內容 |
+| SG-60 | Home renovations cost Singapore | Income Insurance（blog） | 年份未明 | 英 | https://www.income.com.sg/blog/home-renovations-cost-singapore | 搜尋結果內容 |
+| SG-61 | Renovation design cost Singapore | Megafurniture（零售商部落格） | 年份未明（約 2025–2026） | 英 | https://megafurniture.sg/blogs/articles/renovation-design-cost-singapore | 搜尋結果內容 |
+| SG-62 | How much for interior designers in Singapore: Updated 2018 | Home & Decor Singapore | 2018 | 英 | https://www.homeanddecor.com.sg/renovation/how-much-for-interior-designers-in-singapore-updated-2018 | 搜尋結果內容 |
+| SG-63 | Ace Interior Design（業者頁） | Qanvast | 年份未明 | 英 | https://qanvast.com/sg/interior-designers-architects/ace-interior-design-2221 | 搜尋結果內容 |
+| SG-64 | How Much Will It Cost To Renovate Your HDB Flat In Singapore? An In-Depth Guide | Women's Weekly Singapore | 年份未明 | 英 | https://www.womensweekly.com.sg/shopping/cost-to-renovate-home-singapore | 搜尋結果內容（材料單價對應推定） |
+| SG-65 | Ageing HDB flats ideas Singapore | PropertyGuru | 年份未明 | 英 | https://www.propertyguru.com.sg/property-guides/ageing-hdb-flats-ideas-singapore-30624 | 搜尋結果內容 |
+| SG-66 | When to sell 40-year-old HDB flat: lease decay timing 2026（中文版） | PropertyNet.sg | 2026 | 簡中 | https://propertynet.sg/zh/when-to-sell-40-year-old-hdb-flat-lease-decay-timing-2026/ | 搜尋結果內容（數字對應推定） |
+| SG-67 | HDB lease decay: Bala curve, flat values at the 60-year mark 2026（中文版） | PropertyNet.sg | 2026 | 簡中 | https://propertynet.sg/zh/hdb-lease-decay-balas-curve-flat-values-60-year-mark-2026/ | 搜尋結果內容（數字對應推定） |
+| SG-68 | Ageing HDB, 75 years lease: sell now or wait 2026（中文版） | PropertyNet.sg | 2026 | 簡中 | https://propertynet.sg/zh/ageing-hdb-75-years-lease-sell-now-or-wait-vers-2026/ | 搜尋結果內容（數字對應推定） |
+| SG-69 | Has lease decay set in for HDB flats? | EdgeProp Singapore | 年份未明 | 英 | https://www.edgeprop.sg/property-news/has-lease-decay-set-hdb-flats | 搜尋結果內容（僅標題） |
+| SG-70 | Can older HDB flats really hold their value? A look at resale price trends in 2024（中文版） | Stacked Homes | 2024 | 簡中 | https://stackedhomes.com/zh/can-older-hdb-flats-really-hold-their-value-a-look-at-resale-price-trends-in-2024/ | 搜尋結果內容 |
+| SG-71 | 4Q 2025 URA Real Estate Statistics: Private Home Demand Momentum Carries From 3Q 2025, Sets Firm Outlook for 2026 | ERA Singapore | 2026 | 英 | https://www.era.com.sg/press-release/4q-2025-ura-real-estate-statistics-private-home-demand-momentum-carries-from-3q-2025-sets-firm-outlook-for-2026 | 搜尋結果內容 |
+| SG-72 | Release of 4th Quarter 2025 real estate statistics（pr26-05） | Urban Redevelopment Authority (URA) | 2026 | 英 | https://www.ura.gov.sg/news/media/pr26-05/ | 搜尋結果內容（僅標題；轉售表未顯示） |
+| SG-73 | Private home prices rise 0.7% in 4Q2025; full-year growth slows to 3.4%: URA flash | EdgeProp Singapore | 2026 | 英 | https://www.edgeprop.sg/amp/property-news/private-home-prices-rise-07-4q2025-full-year-growth-slows-34-ura-flash | 搜尋結果內容 |
+| SG-74 | CASE sees increase in prepayment losses for the beauty industry in the first half of 2025（Media Release） | CASE | 2025 | 英 | https://www.case.org.sg/wp-content/uploads/2025/08/Media-Release-CASE-sees-increase-in-prepayment-losses-for-the-beauty-industry-in-the-first-half-of-2025.pdf | 搜尋結果內容 |
+| SG-75 | How Much is a 3, 4, and 5-Room HDB Flat Renovation in 2024? | Qanvast | 2024 | 英 | https://qanvast.com/amp/sg/articles/how-much-is-a-3-4-and-5-room-hdb-flat-renovation-in-2024-3232 | 搜尋結果內容 |
+| SG-76 | BTO vs resale HDB renovation: how much does it cost | Ohmyhome | 年份未明 | 英 | https://ohmyhome.com/en-sg/blog/bto-vs-resale-hdb-renovation-how-much-does-it-cost | 搜尋結果內容 |
+| SG-77 | HDB 5 Room Renovation Package | HomeRenoGuru | 年份未明 | 英 | https://www.homerenoguru.sg/?p=791 | 搜尋結果內容 |
+| SG-78 | Castlery Company & Revenue | ECDB | 2025 | 英 | https://ecdb.com/resources/sample-data/retailer/castlery | 搜尋結果內容 |
+| SG-79 | Castlery first US store New York | Vulcan Post | 約 2025 | 英 | https://vulcanpost.com/910270/castlery-first-us-store-new-york/ | 搜尋結果內容 |
+| SG-80 | About Castlery（careers page） | Castlery Inc.（CareerPlug） | 現行頁 | 英 | https://castlery-inc.careerplug.com/account | 搜尋結果內容 |
+| SG-81 | Castlery（business profile） | Accio | 年份未明 | 英 | https://www.accio.com/business/castlery | 搜尋結果內容 |
+| SG-82 | Inside Retail Asia article on Courts Asia（標題未顯示） | Inside Retail Asia | 年份未明（推定 2023 年前） | 英 | https://insideretail.asia/?p=18654 | 搜尋結果內容（年份不明） |
+| SG-83 | Ikano Retail, owner of IKEA Singapore, posts EUR 1.08 billion in total turnover | IKEA Singapore Newsroom／Ikano Retail | 2023 | 英 | https://www.ikea.com/sg/en/newsroom/corporate-news/ikano-retail-owner-of-ikea-singapore-posts-eur-1-08-billion-in-total-turnover-pub3bd2f4e0 | 搜尋結果內容 |
+| SG-84 | Ikano Retail posts record revenue growth | Inside Retail Asia | 2022 | 英 | https://insideretail.asia/2022/10/14/ikano-retail-posts-record-revenue-growth/ | 搜尋結果內容（數字對應推定） |
+| SG-85 | Singapore foreign ownership rules（Doing Business Guide） | ASEAN Briefing（Dezan Shira） | 年份未明 | 英 | https://www.aseanbriefing.com/doing-business-guide/singapore/company-establishment/singapore-foreign-ownership-rules | 搜尋結果內容 |
+| SG-86 | Can a foreigner own 100% of a Singapore company 2026? | Terra Advisory Services | 2026 | 英 | https://terraadvisoryservices.com/can-a-foreigner-own-100-of-a-singapore-company/ | 搜尋結果內容 |
+| SG-87 | Salary threshold for new Employment Pass applicants to be raised to $5,600 from 2025 | Economic Development Board (EDB) | 年份未明（內容為 2025 年生效之門檻） | 英 | https://www.edb.gov.sg/en/business-insights/insights/salary-threshold-for-new-employment-pass-applicants-to-be-raised-to-5600-from-2025.html | 搜尋結果內容 |
+| SG-88 | Singapore announces new salary requirements for Employment Pass applicants starting 1 January 2025（tax alert） | EY | 年份未明（內容為 2025-01-01 生效） | 英 | https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/tax/tax-alerts-pdf/ey-singapore-announces-new-salary-requirements-for-employment-pass-applicants-starting-1-january-2025.pdf?download | 搜尋結果內容 |
+| SG-89 | Singapore: updated Employment Pass eligibility criteria for 2027 | Envoy Global | 2026 | 英 | https://www.envoyglobal.com/news-alert/singapore-updated-employment-pass-eligibility-criteria-for-2027/ | 搜尋結果內容 |
+| SG-90 | Average Entry-Level Interior Designer Salary in Singapore | Payscale | 2026 | 英 | https://www.payscale.com/research/SG/Job=Interior_Designer/Salary/5a5b320e/Entry-Level | 搜尋結果內容 |
+| SG-91 | Average Mid-Career Interior Designer Salary in Singapore | Payscale | 2026 | 英 | https://www.payscale.com/research/SG/Job=Interior_Designer/Salary/e86615f1/Mid-Career | 搜尋結果內容 |
+| SG-92 | Average Experienced Interior Designer Salary in Singapore | Payscale | 2026 | 英 | https://www.payscale.com/research/SG/Job=Interior_Designer/Salary/d834bde3/Experienced-Singapore | 搜尋結果內容 |
+| SG-93 | Interior Designer（job posting；另一則為 https://apply.workable.com/fuku/jobs/view/A33085BD27.md） | Fuku（Workable） | 約 2026 | 英 | https://apply.workable.com/fuku/jobs/view/6B072C4983.md | 搜尋結果內容 |
+| SG-94 | Interior Designer salary at ChengYiInteriorDesign Pte Ltd | Jobstreet Singapore | 約 2026 | 英 | https://sg.jobstreet.com/companies/chengyiinteriordesign-pte-ltd-176646405320917/salaries/interior-designer | 搜尋結果內容 |
+| SG-95 | Interior Designer（career guide） | SkillUp.sg | 年份未明 | 英 | https://www.skillup.sg/careers/interior-designer | 搜尋結果內容 |
+| SG-96 | Carpenter project pricing | Dojo Business（blog） | 年份未明 | 英 | https://dojobusiness.com/blogs/news/carpenter-project-pricing | 搜尋結果內容 |
+| SG-97 | Carpentry Cost Calculator (2026) | SmartCalculator.sg | 2026 | 英 | https://www.smartcalculator.sg/housing/carpentry-cost-calculator | 搜尋結果內容 |
+| SG-98 | Singapore Carpentry review page | Hometrust.sg | 年份未明 | 英 | https://www.hometrust.sg/interior-designers/singapore-carpentry/review/2342 | 搜尋結果內容（僅確認平台存在） |
+| SG-99 | Castlery Liat Towers: Singaporean Furniture Brand's Massive 24,000 Sq Ft Store | Home & Decor Singapore | 年份未明 | 英 | https://www.homeanddecor.com.sg/gallery/accesible-luxury-at-castlerys-flagship-store-at-liat-towers/ | 搜尋結果內容（僅標題） |
 
-**在地來源統計**：政府（gov.sg）11 個（SG-03、04、05、09、11、24、31、34、47、56；SG-10 為 BCA 學院 edu.sg）；CASE 3 個（SG-01、06、48）；新加坡媒體／平台約 34 個；中文 2 個（SG-52、SG-53，僅標題層級）。**未取得《聯合早報》來源；中文來源未支撐任何具體數字——此為本輪最大的在地語言缺口。**
+**在地來源統計（補洞輪後）**：政府 13 個（gov.sg：SG-03、04、05、09、11、24、31、34、47、56、72、87；SG-10 為 BCA 學院 edu.sg）；CASE 4 個（SG-01、06、48、74）；新加坡媒體／平台約 60 個；中文 6 個（SG-52、53、66、67、68、70，皆為新加坡房產網站之中文版；SG-66／67／68 支撐屋齡與租約衰減數字，低信心）。**《聯合早報》網域被搜尋工具拒絕存取，未取得任何早報來源——仍為最大的在地語言缺口。**
