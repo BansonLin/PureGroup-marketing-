@@ -291,3 +291,100 @@
 - 設計科系學校數與畢業人數（CoA／AICTE／NID／CEPT／INIFD）；執業設計師人數；泥作、水電日薪；各邦最低工資公告（德里 2025）；四部勞動法典施行狀態；BOCW 登錄人數；跨邦移工統計；外籍工人政策之官方文件。
 
 ---
+## 7. 材料與供應鏈
+
+### Takeaway
+裝修主材（合板、MDF、磁磚、油漆、衛浴、水泥）全部有大型本土上市公司供應（Century Ply FY25 Rs 4,528 crore、Kajaria Rs 4,219 crore 等）；2025-02 起 BIS 品質管制令（QCO）使合板與木質板材（含進口）必須取得 BIS 執照與標章，成品傢俱關稅 25–27.5%＋18% IGST；2025-09 GST 改革降低水泥（28→18%）稅負。WPI 建材價格指數 2022–2026 仍未取得。
+
+### Cited Findings
+**(a) 本土主要品牌規模（FY25，年結 2025-03）**
+
+| 公司 | 品類 | FY25 營收（INR crore） | 換算（USD／NT$） | 備註 | 來源 |
+|---|---|---|---|---|---|
+| Century Plyboards (India) | 合板、美耐板、MDF | 約 4,528 | USD 5.27 億／NT$166 億 | FY26 Rs 5,397.2 crore（+19.2%）；Q4FY26 淨利 Rs 79 crore（+49%） | [Axis Securities 建材初評 2025-07](https://simplehai.axisdirect.in/app/index.php/insights/reports/downloadReport/file/Initiating+Coverage+-+Building+Materials+-+16072025+(2)_16-07-2025_10.pdf/type/fundamental)；[ThePrint FY26](https://theprint.in/economy/century-ply-q4fy26-consolidated-net-up-49-pc-to-rs-79-cr/2938864/)；[AlphaSpread](https://www.alphaspread.com/security/nse/centuryply/financials/income-statement/revenue) |
+| Kajaria Ceramics | 磁磚 | 4,218.82（+2.82%） | USD 4.91 億／NT$154 億 | PAT Rs 204.14 crore（−46.48%）；2025-05 退出虧損之合板業務 | [HouseGyan](https://www.housegyan.com/blog/kajaria-ceremics-ltd-q4-and-fy24-financial-report)；[Business Standard 2025-05](https://www.business-standard.com/amp/companies/news/kajaria-ceramics-exits-from-plywood-business-due-to-continued-losses-125050600980_1.html) |
+| Somany Ceramics | 磁磚 | 約 2,643 | USD 3.07 億／NT$96.8 億 | 券商彙整 | [Axis Securities](https://simplehai.axisdirect.in/app/index.php/insights/reports/downloadReport/file/Initiating+Coverage+-+Building+Materials+-+16072025+(2)_16-07-2025_10.pdf/type/fundamental) |
+| Greenply Industries | 合板、MDF | 約 2,488 | USD 2.89 億／NT$91.1 億 | Vadodara MDF 廠營收 +44%、產能利用 75% | [Axis Securities](https://simplehai.axisdirect.in/app/index.php/insights/reports/downloadReport/file/Initiating+Coverage+-+Building+Materials+-+16072025+(2)_16-07-2025_10.pdf/type/fundamental) |
+| Hindware Home Innovation | 衛浴、管材 | 約 2,523 | USD 2.93 億／NT$92.4 億 | FY25 淨損 Rs 68 crore，ROE −9.9% | [Axis Securities](https://simplehai.axisdirect.in/app/index.php/insights/reports/downloadReport/file/Initiating+Coverage+-+Building+Materials+-+16072025+(2)_16-07-2025_10.pdf/type/fundamental) |
+| Cera Sanitaryware、Kajaria、Somany | 衛浴／磁磚 | — | — | 2025-02 因需求疲弱創 52 週新低 | [Business Standard 2025-02](https://www.business-standard.com/amp/markets/news/cera-sanitaryware-kajaria-somany-hit-52-week-lows-on-sluggish-demand-125022000473_1.html) |
+| Asian Paints、Jaquar | 油漆／衛浴 | **未取得** | — | 搜尋無結果 | — |
+
+- 另一比較頁（未註日期）列 Kajaria Rs 5,800 crore、Greenply Rs 2,185 crore，與上表不符，可能為不同期間或口徑，以公司申報為準 — [Strategy Boffins](https://www.strategyboffins.com/value_investing/greenpanel-vs-century-vs-greenply-vs-tesa-vs-archidply-vs-kajaria/)（本輪，低信心）
+- 市占率：**所有公司皆未取得**（缺口）
+- 組織化全包業者材料成本：HomeLane FY25 材料費 Rs 320 crore，占營收約 43% — [Entrackr](https://entrackr.com/fintrackr/homelane-records-rs-748-revenue-in-fy25-but-falls-short-of-projections-10586234)（第 1 輪，高信心）
+
+**(b) 標準與品質管制令（BIS QCO）**
+- 《合板與木質平板門品質管制令 2024》（Plywood and Wooden Flush Door Shutters (QC) Order, 2024）**2025-02-28 生效**；《木質板材品質管制令 2024》（Wood Based Boards (QC) Order, 2024）**2025-02-11 生效** — [Certification-India](https://www.certification-india.com/en/new-bis-quality-control-orders-implementations-next-month-february-2025/)（本輪，高信心）
+- 一般用途合板須符 **IS 303:1989** 並加 BIS 標準標章；依 BIS（符合性評估）規則 2018 附表 II 方案 1 取得執照 — [Aleph India](https://alephindia.in/bis-qco-for-the-Plywood-for-general-purposes.php)；[EVTL](https://evtlindia.com/bis-qco-for-plywood-for-general-purposes-is-303-1989)；[Sun Consultants](https://sunconsultants.co.in/notifications/plywood-for-general-purposes)；[Era Global](https://www.eraglobal.co.in/plywood-for-general-purposes/)（本輪，高信心）
+- 分階段：小型企業 **2025-05-28**、微型企業 **2025-08-28** 起適用 — [Certification-India](https://www.certification-india.com/en/new-bis-quality-control-orders-implementations-next-month-february-2025/)（本輪，中–高信心）
+- 適用範圍涵蓋合板、木心板、門、MDF、塑合板、模板合板等，**國內製造商與海外供應商皆適用**；生效後僅持有效 BIS 執照之製造商產品可進口 — [Global Wood Markets Info](https://www.globalwoodmarketsinfo.com/india-mandatory-standards-for-for-panels-and-furniture-worry-manufacturers/)；[FIPPI：Post-QCO era](https://fippi.org/blog/plywood-and-panel-imports-in-the-post-quality-control-orders-qcos-era/)（本輪，高信心）
+- 罰則（BIS Act）：首犯最高 2 年徒刑或罰款至少 **Rs 2 lakh**，再犯至少 **Rs 5 lakh** — [FIPPI](https://fippi.org/blog/plywood-and-panel-imports-in-the-post-quality-control-orders-qcos-era/)（本輪，中–高信心）
+- 生效前搶進口：合板進口由 2024-04 的 **Rs 68 crore** 增至 2025-02 的 **Rs 369 crore** — [FIPPI](https://fippi.org/blog/plywood-and-panel-imports-in-the-post-quality-control-orders-qcos-era/)（本輪，中–高信心）
+- 業界反應：製造商對板材與傢俱強制標準表達憂慮 — [Realty Plus](https://www.rprealtyplus.com/allied/plywood-industry-to-implement-mandatory-quality-control-norms-118231.html)（本輪，中信心）
+- **矛盾**：一來源稱公報曾將部分產品之 QCO 延後一年（似為 2024 年舊訊），與 2025 年生效日期衝突，需以 egazette 核對 — [Plywood Inspection](https://www.plywoodinspection.com/india-temporarily-lifts-bis-certification-quality-mark-requirement-for-plywood/)（本輪，低信心）
+
+**(c) 關稅與稅率**
+- 傢俱（HS 9401／9403）：基本關稅 **25–26.4%**＋IGST（一說）；自中國進口約 **27.5% CIF＋18% IGST**（另說） — [iWishBag 2026](https://www.iwishbag.com/in/import-duty/furniture)；[DeepBeez 2026](https://deepbeez.com/import-duty/import-duty-on-wooden-furniture-in-india)；[Eximpedia](https://www.eximpedia.app/blog/furniture-imports-from-china-to-india)（本輪，中信心；商業部落格，需以 CBIC 稅則核對）
+- 合板（HS 4412）：基本關稅約 **10%**＋IGST 18%＋社會福利附加 10% — [FreightAmigo](https://www.freightamigo.com/en/blog/logistics/hs-code-for-plywood-veneered-panels-and-similar-laminated-wood/)（本輪，中信心）
+- 中國 MDF 反傾銷稅 **5.4%**，2025-02 啟動日落複審（結果未確認） — [Timber Insider](https://timberinsider.com/chinese-mdf-export-price-2025/)（本輪，中信心）
+- GST：傢俱自 2025-09 統一 **18%** — [Razorpay](https://razorpay.com/learn/gst-rate-on-furniture/)（本輪，中信心）；2025-09-22 起水泥 **28%→18%**（每袋省約 Rs 35）、磚、磁磚、石材鋪設等材料 **12%→5%**（媒體報導，磁磚項目需以 CBIC 通知核對） — [Zee Business（印地語）](https://www.zeebiz.com/hindi/real-estate/gst-rate-cuts-all-you-need-how-much-one-sack-of-cement-price-will-reduce-after-new-slabs-231236)（本輪，中信心）
+- 台灣對印度磁磚：經濟部貿調會認定傾銷損害、移交反傾銷程序（2025） — [工商時報 2025-09-02](https://www.ctee.com.tw/news/20250902700647-431206)；[Taiwan News](https://www.taiwannews.com.tw/en/topic/ceramic%20tiles)（第 1 輪經由 TW-B，中信心）
+
+**(d) 價格水準（2025–26，印地語來源為主）**
+- 合板 18 mm：MR 商用 **Rs 65–90／ft²**、BWR（廚房）**Rs 95–140**、BWP／Marine（浴室）**Rs 140–220** — [Apple Ply 印地語指南 2026](https://www.appleply.in/blog/plywood-price-hindi-guide-2026)（本輪，中信心；品牌部落格）
+- 水泥：2025 年 **Rs 300–400／50 kg 袋**，德里 **Rs 400–600** — [99acres 印地語](https://www.99acres.com/articles/cement-price-list-in-india-in-2022.html)；[99acres UltraTech 2025](https://www.99acres.com/articles/ultratech-cement-price.html)（本輪，中信心）
+- 磁磚：一般陶瓷 **Rs 30–60／ft²**、玻化磚 **Rs 60–100** — [Kota Stone 印地語](https://kotastone.online/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%AE%E0%A5%87%E0%A4%82-12x12-%E0%A4%95%E0%A5%87-%E0%A4%95%E0%A4%AE%E0%A4%B0%E0%A5%87-%E0%A4%95%E0%A5%8B-%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%B2-%E0%A4%95/)（本輪，低信心；日期不明）
+- B2B 報價平台（水泥板、硬木合板、連鎖磚）價格零散、無日期 — [TradeIndia 印地語](https://www.tradeindia.com/hi/manufacturers/hardwood-plywood.html)（本輪，低信心）
+- 商辦裝修全含成本：C&W 2026 印度主要城市 **USD 65–73/ft²**，亞太最低 — [Construction World](https://www.constructionworld.in/latest-construction-news/real-estate-news/india-leads-asia-pacific-in-fit-out-cost-efficiency/88743)（第 1 輪，高信心）
+- **WPI 2022–2026 水泥、鋼、木材、磁磚指數：未取得**（缺口）
+
+### Inferences
+- 板材 QCO 是對台系系統櫃最直接的新門檻：以板材／半成品進口須先取得 BIS 執照（海外工廠認證），以成品傢俱進口則面臨 25–27.5% 關稅＋18% IGST；在地採購 Century／Greenply 板材＋進口五金，是成本上唯一合理的組合（推論，中信心）。
+- 磁磚、衛浴龍頭 2025 年獲利下滑、股價新低，顯示供給過剩與價格競爭，對承包商有利（採購議價），對台灣集團家居零售線則是低價貨源但須計反傾銷稅（推論）。
+
+### Gaps
+- Asian Paints、Jaquar、Berger、Merino、Action Tesa 營收與市占；各品類市占率；WPI 建材指數；物流成本（Morbi→都會運費）；QCO 對美耐板、磁磚、衛浴之實施時程；CBIC 正式稅則。
+
+---
+
+## 8. 產業組織與監測來源
+
+### Takeaway
+IIID（1972 年成立）是室內設計的頂層自願組織（官網稱 10,000 會員、35 分會與中心；其他頁面 6,800／8,000，為不同年份快照）；ACETECH（ABEC 主辦）為主要建材與設計展，2025 年孟買場 1,000+ 品牌、50,000+ 訪客；India Design ID 2026 孟買資料存在但無數字。缺工、QCO、新創財報的穩定監測來源為 Realty Plus、Construction World、Entrackr、Business Standard、CSDCI、BIS。
+
+### Cited Findings
+**(a) 協會**
+- IIID（Indian Institute of Interior Designers）：1972 年以社團登記成立，自稱印度室內設計頂層機構；會員類別 Associate、Fellow、Trade（核心）＋ Affiliate、Education、Licentiate、Student、Corporate、Press、Honorary；分會含 Ahmedabad、Bangalore、Chennai、Hyderabad、Mumbai、Pune 及 Dubai — [IIID 官網](https://www.iiid.in/)；[IIID Awards](https://awards.iiid.in/)；[IIID 會員簡介（Scribd）](https://www.scribd.com/document/872686921/IIID-Introduction-and-Membershiip-Details)（本輪，中信心）
+- 會員規模（不同年份）：**10,000 人、35 分會與中心**（官網）；8,000+／31（多個分會頁）；6,800+／15 分會＋15 中心（海得拉巴相關頁） — [IIID 官網](https://www.iiid.in/)；[IIID Raipur](https://www.iiidraipur.in/about)；[IIID Mumbai](https://www.iiidmumbai.org/about_us)；[IIID.net.in](https://iiid.net.in/about-us/)（本輪，中信心；取官網數為最新）
+- 機構會員：JECRC 大學取得 IIID 齋浦爾分會機構會員 — [JECRC PDF](https://jecrcuniversity.edu.in/wp-content/uploads/2023/12/IIID-MEMBERSHIP-WRITE-UP.pdf)（本輪，中信心）
+- CoA（建築師委員會）：法定機構 — [Wikipedia](https://en.wikipedia.org/wiki/Council_of_Architecture)（本輪）
+- CSDCI（Construction Skill Development Council of India）：技能缺口報告 — [CSDCI](https://www.csdcindia.org/author/csdci/)（本輪）
+- CREDAI、NAREDCO（建商公會）：缺工聲明來源 — [Moneylife](https://www.moneylife.in/article/construction-sector-facing-shortage-of-10-million-workers-credai/6891.html)；[Realty Plus](https://www.rprealtyplus.com/news-views/labour-shortage-hits-indias-construction-sector-and-projects-122137.html)（本輪）
+- FIPPI（Federation of Indian Plywood & Panel Industry）：QCO 與進口統計 — [FIPPI](https://fippi.org/blog/plywood-and-panel-imports-in-the-post-quality-control-orders-qcos-era/)（本輪）
+
+**(b) 展會**
+- ACETECH 2025 孟買：2025-11-06～09，Bombay Exhibition Centre（Goregaon）；**1,000+ 品牌、50,000+ 訪客**；免費線上登記入場 — [Top Interiors India：ACETECH 2025 Mumbai](https://topinteriorsindia.com/acetech-2025-mumbai/)（本輪，中信心；非主辦方數據）
+- ACETECH 2026：孟買 2026-11-19～22（預期 4,000+ 參展者與專家）；德里 2026-12-17～20，Bharat Mandapam，主辦 ABEC Exhibitions & Conferences；10times 估訪客 5–10 萬 — [Visitexpo](https://visitexpo.in/event/acetech/)；[10times Delhi](https://10times.com/et-acetech-delhi)；[Top Interiors India 2026 指南](https://topinteriorsindia.com/acetech-expo-india/)（本輪，低–中信心）
+- ACETECH 班加羅爾（2026-10）：聚合站列 4,095 參展商、90 萬人次（**數字不合理，存疑**） — [10times Bangalore](https://10times.com/et-acetech-bangalore)（本輪，低信心）
+- India Design ID 2026 孟買：指南頁存在，摘要無參展／訪客數 — （本輪，缺口）
+- 其他相關展：IndiaWood、Plumbex India、EXCON（機械） — [Wikipedia Plumbex](https://en.wikipedia.org/wiki/Plumbex_India)（本輪，參考）
+
+**(c) 媒體與監測來源**
+
+| 類型 | 來源 | 可監測內容 | 本輪已引用 URL |
+|---|---|---|---|
+| 地產／建築媒體 | Realty Plus、Construction World、Indian Retailer、BW Retail World、Furniture Design India | 缺工、QCO、外資零售進入、C&W 成本 | [Realty Plus](https://www.rprealtyplus.com/news-views/labour-shortage-hits-indias-construction-sector-and-projects-122137.html)；[Furniture Design India](https://www.furnituredesignindia.com/articles/90891/nitori-opens-first-store-in-india-at-r-city-mall-mumbai) |
+| 財經媒體 | Business Standard、ThePrint、Moneylife、Outlook India | 建材公司財報、消保統計 | [Business Standard](https://www.business-standard.com/amp/companies/news/kajaria-ceramics-exits-from-plywood-business-due-to-continued-losses-125050600980_1.html)；[ThePrint](https://theprint.in/economy/century-ply-q4fy26-consolidated-net-up-49-pc-to-rs-79-cr/2938864/) |
+| 新創財報 | Entrackr、Inc42 | Livspace、HomeLane ROC 申報 | [Entrackr](https://entrackr.com/fintrackr/livspace-posts-rs-1460-cr-revenue-in-fy25-losses-shrink-42-10559863) |
+| 券商研究 | Axis Securities 建材初評 | 板材、磁磚、衛浴公司比較 | [Axis](https://simplehai.axisdirect.in/app/index.php/insights/reports/downloadReport/file/Initiating+Coverage+-+Building+Materials+-+16072025+(2)_16-07-2025_10.pdf/type/fundamental) |
+| 政府／法定 | India Code、BIS、CBIC、DPIIT、NCH／PIB、CSDCI | 法條、QCO、關稅、FDI、投訴、技能 | [India Code](https://www.indiacode.nic.in/bitstream/123456789/1690/1/A1972-20.pdf)；[CSDCI](https://www.csdcindia.org/wp-content/uploads/2023/04/Domestic-Skill-Gap-Report.pdf)；[DPIIT](https://www.dpiit.gov.in/static/uploads/2025/07/1b12c69de7c2e698a7b68f7b8fcf4fe3.pdf) |
+| 判例 | Indian Kanoon、Casemine、ConsumerCourt.net | 消費者委員會與法院判決 | [Casemine](https://www.casemine.com/judgement/in/62277716b50db936d28817ae) |
+| 薪資平台 | Indeed、Glassdoor、AmbitionBox（轉引）、Jobted | 設計師、監工薪資 | [Indeed](https://in.indeed.com/career/site-supervisor/salaries) |
+| 工資行情 | Yojo、IS Code Hub、InfraLens、Nirmaan Setu | 工班日薪（業者估計） | [Yojo](https://yojoapp.com/en/blog/labor-rates-construction-india-2026-complete-guide/) |
+| 印地語媒體 | Zee Business Hindi、99acres Hindi、Housivity | GST、建材價格、BMC 規則 | [Zee Business](https://www.zeebiz.com/hindi/real-estate/gst-rate-cuts-all-you-need-how-much-one-sack-of-cement-price-will-reduce-after-new-slabs-231236)；[Housivity](https://housivity.com/blog/mumbai-home-renovation-bmc-rules) |
+| 市調（口徑須註明） | Ken Research、Mordor、IMARC、Redseer | 市場規模 | [Ken Research](https://www.kenresearch.com/industry-reports/india-interior-design-market)；[Mordor](https://www.mordorintelligence.com/industry-reports/india-interior-design-market) |
+
+### Gaps
+- IIID 會員數之官方年份；ACETECH 主辦方（ABEC）正式參展／訪客數；India Design ID 規模；IIA、IGBC、FFSC 資料；MoSPI／NSSO／Labour Bureau 之定期統計是否有裝修分項。
+
+---
