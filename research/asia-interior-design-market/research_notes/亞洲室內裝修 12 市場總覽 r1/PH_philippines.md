@@ -360,4 +360,4 @@ PH,PCAB外國承包商AAAA類淨值門檻,1,PhP billion,2013決議(2025仍引用
 | PH-37 | Keeping Market Value High: How to Renovate a House in the Philippines | RCBC | 不詳 | 英 | https://rcbc.com/how-much-to-renovate-a-house-in-the-philippines | 搜尋結果內容 |
 | PH-38 | Policy on Foreign Contractors' Special License（PCAB） | jur.ph | 不詳 | 英 | https://jur.ph/law/summary/adopting-policy-foreign-contractors-special-license-pcab | 搜尋結果內容 |
 
-> 來源總數 38（摘要表中的「37」以本表為準更正為 38）。
+> 來源總數 38。非菲律賓在地來源：PH-11 Quartr、PH-20／PH-22 Gulf News、PH-33 Babylon2k（部落格，低信心）。
