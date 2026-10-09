@@ -56,7 +56,7 @@
 - 第 1 輪：成功 5 次（英 4、繁中 1），被拒 3 次（英 1、印尼文 1、越南文 1）。
 - 第 2 輪：成功 12 次（英 10、印尼文 1、越南文 1），被拒 3 次（繁中、日文、韓文）。
 - **累計：成功 17 次（在地語言 3 次）、被拒 6 次**。在地語言的住宅搜尋成功 0 次。
-- 來源：累計 27 個（TF-01～TF-27），其中在地語言 6 個（繁中 2：TF-05、TF-07；印尼文 3：TF-11～TF-13；越南文 1：TF-17）。詳見第 7 章。
+- 來源：累計 28 個（TF-01～TF-28），其中在地語言 6 個（繁中 2：TF-05、TF-07；印尼文 3：TF-11～TF-13；越南文 1：TF-17）。詳見第 7 章。
 - 標示規則：官方統計機構發布的匯率（聯準會為原始發布者，非推估）標【實際】；由兩個官方匯率以公式導出的交叉匯率標【實際】並註明「導出」；搜尋摘要未明確對應到單一 URL 的數字標信心「低」。
 
 ---
@@ -449,7 +449,7 @@ ALL,亞洲都市化率,53.6,%,2025,TF-27,https://www.worldometers.info/world-pop
 ALL,全球 65 歲以上占比,10.3,%,2024,TF-26,https://population.un.org/wpp/assets/Files/WPP2024_Summary-of-Results.pdf,UN WPP 2024；預測 2074 年達 20.7%；【實際】,中
 ```
 
-（共 71 列資料，全部為匯率相關。總體與住宅指標因本輪無資料，**未列入 CSV**，以免出現空值列；缺口見第 5.2 節。）
+（第 1 輪 71 列為匯率；第 2 輪新增 VND／IDR／PHP 匯率、IMF WEO 2026 年 4 月版人均 GDP 與 GDP、2026 成長預測、都市化率、65+ 占比、IMF 隱含人口等列，總列數見下方驗證。住宅指標**仍無資料，未列入 CSV**，以免出現空值列；缺口見第 5.2 節。日本 65+ 2025 年 30.0% 因 URL 不明確，只寫在第 2 章，不列入 CSV。）
 
 ---
 
@@ -464,4 +464,25 @@ ALL,全球 65 歲以上占比,10.3,%,2024,TF-26,https://population.un.org/wpp/as
 | TF-05 | 央行去年砸76.9億美元進場穩匯 終止連三年淨賣匯 | 聯合報（udn） | 2026 | 繁中 | https://udn.com/news/story/7239/9407547 | 搜尋結果內容 |
 | TF-06 | Canadian Dollars to U.S. Dollar（AEXCAUS）系列說明 | St. Louis Fed（FRED） | 2026 | 英 | https://fred.stlouisfed.org/series/AEXCAUS | 搜尋結果內容（僅用於方法註記：年平均＝日資料平均、紐約中午買入匯率） |
 | TF-07 | 央行第二季理監事會關鍵問答 | TechNews 科技新報（整理中央社） | 2025 | 繁中 | https://finance.technews.tw/2025/06/20/central-bank-rate-taiwan/ | 搜尋結果內容（僅作為「上半年升值 9.63%、盤中 28.757」的候選來源，信心低） |
+| TF-08 | Peso's new normal? Dollar could stay above ₱60 — BSP data | Gulf News | 2026 | 英 | https://gulfnews.com/business/markets/pesos-new-normal-dollar-could-stay-above-60-bsp-data-1.500591425 | 搜尋結果內容（BSP 參考匯率月平均：2025 年 6 月 56.36 → 2026 年 5 月 61.44） |
+| TF-09 | Peso weakening continues: Should OFWs remit or hold? | Gulf News | 2025 | 英 | https://gulfnews.com/business/markets/peso-weakening-continues-should-ofws-remit-or-hold-know-whats-behind-the-trend-1.500215098 | 搜尋結果內容（2025 年 5 月 55.625、7 月 56.70 的候選來源；歸屬不確定，信心低） |
+| TF-10 | IRS yearly average exchange rates, recomputed from daily data | exchangerate.dev | 2026 | 英 | https://exchangerate.dev/learn/irs-yearly-average-exchange-rates | 搜尋結果內容（PHP 57.509、IDR 16,478.44：第三方重算，並說明 IRS 2025 表不含此二幣） |
+| TF-11 | Kaleidoskop General Ekonomi Moneter Indonesia 2025 | IAIN Kendari（印尼國立伊斯蘭學院肯達里分校） | 2025/2026 | 印尼文 | https://iainkendari.ac.id/pojok-rektor/show/kaleidoskop-general-ekonomi-moneter-indonesia-2025 | 搜尋結果內容（非 BI 數據；其中「14,701」疑為誤植） |
+| TF-12 | Perkembangan Indikator Stabilitas Nilai Rupiah (21 November 2025) | Bank Indonesia | 2025 | 印尼文 | https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2727925.aspx | 搜尋結果內容（2025-11-20 收盤 16,725） |
+| TF-13 | Perkembangan Indikator Stabilitas Nilai Rupiah (11 Juli 2025) | Bank Indonesia | 2025 | 印尼文 | https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2715025.aspx | 搜尋結果內容（2025-07-10 收盤 16,215） |
+| TF-14 | Vietnam Exchange Rate against USD | CEIC Data（引用世界銀行／SBV） | 2026 | 英 | https://www.ceicdata.com/en/indicator/vietnam/exchange-rate-against-usd | 搜尋結果內容（2025 年平均 26,005.133） |
+| TF-15 | US Dollar (USD) To Vietnamese Dong (VND) Exchange Rate History for 2025 | exchange-rates.org | 2025/2026 | 英 | https://www.exchange-rates.org/exchange-rate-history/usd-vnd-2025 | 搜尋結果內容（2025 年平均 26,009；美元全年 +3.20%） |
+| TF-16 | Vietnam Exchange Rate Outlook & Forecast | FocusEconomics | 2026 | 英 | https://www.focus-economics.com/country-indicator/vietnam/exchange-rate/ | 搜尋結果內容（2025 年平均 26,008；2024 年底 25,485；2025 年底 26,150） |
+| TF-17 | Biến động tỷ giá năm 2025 và dự báo tình hình năm 2026 | Viện Kinh tế và Tài chính（Bộ Tài chính，越南財政部經濟財政研究院） | 2026 | 越南文 | https://nief.mof.gov.vn/kinh-te-xa-hoi/bien-dong-ty-gia-nam-2025-va-du-bao-tinh-hinh-nam-2026-11839.html | 搜尋結果內容（中心匯率首破 25,000；高點 25,298 歸屬不確定，信心低） |
+| TF-18 | GDP per Capita in Asia (2025) - IMF | Worldometer（轉載 IMF WEO 2026 年 4 月版） | 2026 | 英 | https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal | 搜尋結果內容 |
+| TF-19 | GDP per Capita in Asia (2026) - IMF | Worldometer（表頭標「Source: IMF, World Economic Outlook (April 2026)」） | 2026 | 英 | https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal | 搜尋結果內容 |
+| TF-20 | GDP by Country in Asia (2025) - IMF | Worldometer | 2026 | 英 | https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal | 搜尋結果內容 |
+| TF-21 | GDP by Country in Asia (2026) - IMF | Worldometer | 2026 | 英 | https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2026&metric=nominal | 搜尋結果內容 |
+| TF-22 | World Economic Outlook, April 2026; Statistical Appendix | IMF | 2026 | 英 | https://www.imf.org/-/media/files/publications/weo/2026/april/english/statsappendix.pdf | 搜尋結果內容（僅用於確認版本存在；未讀數值） |
+| TF-23 | Percent urban population in Asia | TheGlobalEconomy.com（UN 來源） | 2025/2026 | 英 | https://www.theglobaleconomy.com/rankings/Percent_urban_population/Asia/ | 搜尋結果內容（日本 92.3%、中國大陸 66.34%、印尼 59.39%） |
+| TF-24 | Population ages 65 and above in Asia | TheGlobalEconomy.com（世界銀行系列） | 2025/2026 | 英 | https://www.theglobaleconomy.com/rankings/elderly_population/Asia/ | 搜尋結果內容（6 市場 2024 年值） |
+| TF-25 | Ranked: The Countries With the Most Seniors (2025-2100P) | Visual Capitalist（UN 資料） | 2025 | 英 | https://www.visualcapitalist.com/ranked-25-countries-most-seniors-in-2025-vs-2100/ | 搜尋結果內容（香港 2025 年 23.7%；香港 2050 年 46.3%；台灣 2050 年 31.7%） |
+| TF-26 | World Population Prospects 2024: Summary of Results | 聯合國經濟和社會事務部人口司（UN DESA Population Division） | 2024 | 英 | https://population.un.org/wpp/assets/Files/WPP2024_Summary-of-Results.pdf | 搜尋結果內容（區域與全球高齡化數字；無個別國家值） |
+| TF-27 | Asia Population (2025) | Worldometer（UN 資料） | 2025/2026 | 英 | https://www.worldometers.info/world-population/asia-population/ | 搜尋結果內容（亞洲都市化率 53.6%、人口 4,835,320,060） |
+| TF-28 | GDP per Capita (PPP) in Asia (2025) - IMF | Worldometer | 2026 | 英 | https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=ppp | 搜尋結果內容（購買力平價人均 GDP，僅供參考） |
 | （參考，未讀內容） | Exchange Rate Archives by Month | IMF | — | 英 | https://www.imf.org/external/np/fin/data/param_rms_mth.aspx | 僅見於搜尋結果標題；下一輪補 VND／IDR／PHP 之建議來源 |
