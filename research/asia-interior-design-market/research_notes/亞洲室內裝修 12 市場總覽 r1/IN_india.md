@@ -292,6 +292,8 @@
 
 - Bonito Designs、Asian Paints Beautiful Homes、Godrej Interio（營收）、Sleek、Pepperfry、NoBroker Interiors、Square Yards Interiors、IKEA India（營收與門市數）、Hettich India、Häfele India
 - 試過的查詢：#19、#20，但都因額度用完未執行
+- 〔r2〕NoBroker Interiors 確實在營運：有公開的 2026 年成本指南（IN-81），也有 Hyderabad 消費者委員會命其全額退款的判例（IN-97）。營收仍為無資料
+- 〔r2〕Square Yards 有發布中古屋登記交易研究（IN-88），本身也經營室內裝修。營收仍為無資料
 
 ### Q4 通路與獲客
 
@@ -694,11 +696,57 @@ IN,消費者委員會命退室內裝修款(NoBroker案),490716,₹,2026,IN-97,ht
 | IN-63 | FDI in India: Rules, Routes, Sectors & Compliance Guide 2026 | Altacit | 2026 | 英 | https://www.altacit.com/fdi-in-india-rules-routes-sectors-compliance-guide-2026/ | 搜尋結果內容 |
 | IN-64 | The Five Year Defect Liability Period Under RERA: What Bengaluru Buyers Can Demand | PropNewz | 2026-06-13 | 英 | https://www.propnewz.com/blog/rera-defect-liability-5-years-bengaluru-buyer-2026-06-13 | 搜尋結果內容 |
 | IN-65 | RERA structural defect 5 year builder complaint India | righttoinformation.wiki | 2026 | 英 | https://righttoinformation.wiki/rera-structural-defect-5-year-builder-complaint-india | 搜尋結果內容 |
+| IN-66 | निर्माण मजदूरी दरें 2026: राजमिस्त्री ₹600–₹900/दिन | Yojo | 2026 | **印地語** | https://yojoapp.com/hi/blog/labor-rates-construction-india-2026-complete-guide/ | 搜尋結果內容 |
+| IN-67 | VB-G RAM G: मनरेगा का नया रूप 'जी-रामजी' 1 जुलाई से लागू…न्यूनतम दिहाड़ी 300 रुपये | Patrika（Rajasthan Patrika） | 2025 | **印地語** | https://www.patrika.com/national-news/vb-g-ram-g-rural-employment-guarantee-act-2025-new-wage-rates-125-days-work-20710556 | 搜尋結果內容 |
+| IN-68 | VB–G RAM G Wage Rates 2025: मजदूरी बढ़ी, अब न्यूनतम ₹300 प्रतिदिन | TractorJunction | 2025 | **印地語** | https://www.tractorjunction.com/social-news/vb-g-ram-g-wage-rates-2025-minimum-daily-wage-raised-to-rs-300 | 搜尋結果內容 |
+| IN-69 | मजदूरों के लिए राहत! नई न्यूनतम मजदूरी दर लागू | dpiljipr.in | 2025 | **印地語** | https://dpiljipr.in/labour-minimum-wages/ | 搜尋結果內容（數值與 URL 的對應為推定） |
+| IN-70 | Mason Daily Wage India 2026: ₹650–₹1,400/day (City-Wise) | Solve24 | 2026 | 英 | https://solve24.in/blog/mason-construction-worker-daily-wages-india-2026 | 搜尋結果內容 |
+| IN-71 | Carpenter Salary in India 2026: ₹14K–65K/Month (Per-Day & City-Wise) | Solve24 | 2026 | 英 | https://solve24.in/blog/carpenter-salary-in-india-2026 | 搜尋結果內容 |
+| IN-72 | Construction Wage Index | Nirmaansetu Technologies LLP | 2025–26 | 英 | https://nirmansetu.in/construction-wages-india/?v=aabc60074eee | 搜尋結果內容（數值與 URL 的對應為推定） |
+| IN-73 | Construction Labour Rates India 2026: Daily Wages & Productivity Norms (All Trades) | ISCodeHub | 2026 | 英 | https://www.iscodehub.com/rate-analysis/construction-labour-rates-india | 搜尋結果內容（數值與 URL 的對應為推定） |
+| IN-74 | House Construction Labour Rates 2026: Skilled & Unskilled Costs | Aecord | 2026 | 英 | https://aecord.com/blog/labour-rates-for-house-construction-india-2026 | 搜尋結果內容（數值與 URL 的對應為推定） |
+| IN-75 | Home renovation cost India 2025: full budget guide & financing options（印地語版） | IIFL Finance | 2025 | **印地語** | https://www.iifl.com/hi/blogs/gold-loan/home-renovation-cost-india-2025-full-budget-guide-financing-options | 搜尋結果內容 |
+| IN-76 | भारत में प्रति वर्ग फुट घर के निर्माण की लागत की गणना कैसे करें?（英文標題：How to Calculate Cost of Home Construction per Sq. ft. in India?） | Bajaj Finserv | 2025–26 | **印地語**／英 | https://www.bajajfinserv.in/house-construction-cost | 搜尋結果內容 |
+| IN-77 | घर बनाने की लागत 2026: ₹1,000–₹2,500/वर्ग फुट | Yojo | 2026 | **印地語** | https://yojoapp.com/hi/blog/house-construction-cost-india-2026-step-by-step-guide/ | 搜尋結果內容（僅作為建造成本的對照） |
+| IN-78 | Morbi Tile Price Hike June 2026: What Buyers Must Know Before Ordering | Morbi Tile Hub | 2026 | 英 | https://morbitilehub.com/blog/morbi-tile-price-hike-june-2026 | 搜尋結果內容 |
+| IN-79 | Building Material: Initiating Coverage（16-07-2025） | Axis Direct（Axis Securities） | 2025-07-16 | 英 | https://simplehai.axisdirect.in/app/index.php/insights/reports/downloadReport/file/Initiating+Coverage+-+Building+Materials+-+16072025+(2)_16-07-2025_10.pdf/type/fundamental | 搜尋結果內容（數值與 URL 的對應為推定） |
+| IN-80 | Construction Material Prices in India: 181 items, 50 cities, Weekly Updates | Infralens | 2026 | 英 | https://infralens.in/prices | 搜尋結果內容（水泥與鋼筋數值的對應為推定） |
+| IN-81 | Generic Interior Design Cost in India 2026 | NoBroker Interiors | 2026 | 英 | https://www.nobroker.in/interiors/design-guides/generic-interior-design-cost-2/ | 搜尋結果內容（數值與 URL 的對應為推定） |
+| IN-82 | How Much Does an Interior Designer Charge in India? | HouseYog | 2025 | 英 | https://www.houseyog.com/blog/how-much-does-an-interior-designer-charge-in-india/ | 搜尋結果內容（數值與 URL 的對應為推定） |
+| IN-83 | Interior Design Cost for Homes in Chennai 2025 | Tint Tone and Shade | 2025 | 英 | https://tinttoneandshade.com/blog/interior-design-cost-in-chennai | 搜尋結果內容 |
+| IN-84 | How to calculate the cost of interior design in Bhubaneswar | homedecoration.beehiiv.com | 不明 | 英 | https://homedecoration.beehiiv.com/p/how-to-calculate-the-cost-of-interior-design-in-bhubaneswar | 搜尋結果內容 |
+| IN-85 | 3D Interior Design Cost Per Sq Ft in India (2026) | Construction Estimator India | 2026 | 英 | https://constructionestimatorindia.com/?p=17098 | 搜尋結果內容（數值與 URL 的對應為推定） |
+| IN-86 | How much does an interior designer cost in Delhi | McCoy Mart | 2025 | 英 | https://mccoymart.com/post/how-much-does-an-interior-designer-cost-in-delhi | 搜尋結果內容 |
+| IN-87 | India's secondary real estate market grows to 43% share by FY25: Square Yards | The Tribune | 2025 | 英 | https://www.tribuneindia.com/news/primary-markets/indias-secondary-real-estate-market-grows-to-43-share-by-fy25-square-yards | 搜尋結果內容 |
+| IN-88 | Primary vs Secondary: Unpacking Demand Trends in India's Residential Market FY 2025 | Square Yards | 2025 | 英 | https://static.squareyards.com/PrimaryVsSecondary-UnpackingDemandTrendsinIndia'sResidentialMarket-SquareYards.pdf | 搜尋結果內容 |
+| IN-89 | Realty Bytes May 2025: India Real Estate Report FY 2025-26 | Grant Thornton Bharat | 2025-05 | 英 | https://www.grantthornton.in/globalassets/1.-member-firms/india/assets/pdfs/realty-bytes/realty_bytes_may_2025.pdf | 搜尋結果內容 |
+| IN-90 | India Residential Real Estate Market Size Analysis Report 2031 | Mordor Intelligence | 2025–26 | 英 | https://www.mordorintelligence.com/industry-reports/residential-real-estate-market-in-india | 搜尋結果內容 |
+| IN-91 | India's Secondary Real Estate Market to Capture 43% Share by FY25: Square Yards Report | Aurum PropTech | 2025 | 英 | https://www.aurumproptech.in/pulse/media/india-secondary-real-estate-market-43-share-fy25 | 搜尋結果內容 |
+| IN-92 | State of Housing in India: A Statistical Compendium 2013 | 住宅與都市扶貧部（MoHUPA；pmay-urban.gov.in，**政府**） | 2013（Census 2011 資料） | 英 | https://pmay-urban.gov.in/material/component4/Housing_in_India_Compendium_English_Version2.pdf | 搜尋結果內容（數值與 URL 的對應為推定） |
+| IN-93 | Eligibility Criteria for Housing Society Redevelopment in Mumbai | The Propertist | 不明 | 英 | https://www.thepropertist.com/blog/eligibility-criteria-for-housing-society-redevelopment-in-mumbai-429 | 搜尋結果內容（數值與 URL 的對應為推定） |
+| IN-94 | State nudge for cessed buildings | The Free Press Journal（PressReader） | 2020-08-13 | 英 | https://www.pressreader.com/india/the-free-press-journal/20200813/281487868706608 | 搜尋結果內容 |
+| IN-95 | New Rules for Redevelopment of Society in Mumbai | Lawcrust Realty | 不明 | 英 | https://lawcrustrealty.com/new-rules-mumbai-redevelopment/ | 搜尋結果內容（數值與 URL 的對應為推定） |
+| IN-96 | Self-Redevelopment in Mumbai: A Comprehensive Guide for Societies | Arkade Developers | 不明 | 英 | https://arkade.in/self-redevelopment-in-mumbai/ | 搜尋結果內容（數值與 URL 的對應為推定） |
+| IN-97 | Interior designer takes Rs 4.9 lakh full payment, leaves work incomplete: Consumer court orders refund… | inkl（轉載） | 2026 | 英 | https://www.inkl.com/news/interior-designer-takes-rs-4-9-lakh-full-payment-leaves-work-incomplete-consumer-court-orders-refund-after-family-is-forced-to-stay-on-rent-for-months | 搜尋結果內容 |
+| IN-98 | Interior Designer or Contractor Took Advance and Delayed Work | righttoinformation.wiki | 2025–26 | 英 | https://righttoinformation.wiki/interior-designer-contractor-advance-refund-india | 搜尋結果內容 |
+| IN-99 | Interior designer not refunding advance payment | Kaanoon（律師 Q&A） | 不明 | 英 | https://www.kaanoon.com/9760/interior-designer-not-refunding-advance-payment | 搜尋結果內容 |
+| IN-100 | Employment visa India: rules & procedure | iPleaders | 不明 | 英 | https://blog.ipleaders.in/employment-visa-india-rules-procedure/ | 搜尋結果內容 |
+| IN-101 | Employment visa guidelines（TaxGuru 文章） | TaxGuru | 不明 | 英 | https://taxguru.in/?p=38117 | 搜尋結果內容 |
+| IN-102 | India Sets US$25,000 Minimum Wage for Foreign IT Hires | India Briefing（Dezan Shira） | 約 2010 | 英 | https://www.india-briefing.com/news/india-sets-us25000-minimum-wage-foreign-hires-3635.html/ | 搜尋結果內容 |
+| IN-103 | Job visas only for highly skilled salaried foreigners: Govt | Business Today | 2010-10 | 英 | https://www.businesstoday.in/bt/story/job-visas-only-for-highly-skilled-salaried-foreigners-govt/1/9765.html | 搜尋結果內容 |
+| IN-104 | Employment Visa (India)（HR glossary） | Hyring | 不明 | 英 | https://hyring.com/free-hr-toolkit/hr-glossary/employment-visa-india | 搜尋結果內容 |
+| IN-105 | Office fit-out costs rise amid demand for premium, tech-enabled, sustainable workspaces | Realty n More（引 Cushman & Wakefield） | 2025 | 英 | https://realtynmore.com/office-fit-out-costs-rise-amid-demand-for-premium-tech-enabled-sustainable-workspaces | 搜尋結果內容 |
+| IN-106 | Competitive fit-out market: Cushman & Wakefield | Realty n More | 2026 | 英 | https://realtynmore.com/competitive-fit-out-market-cushman-wakefield/ | 搜尋結果內容 |
+| IN-107 | India among most cost-competitive office fit-out markets in Asia-Pacific: Report | IANS | 2026-03-14 | 英 | https://ianslive.in/india-among-most-costcompetitive-office-fitout-markets-in-asiapacific-report--20260314124724 | 搜尋結果內容（Knight Frank 數值與 URL 的對應為推定） |
+| IN-108 | India remains Asia Pacific's most cost-competitive office fit out market: Report | IANS | 2026-03-26 | 英 | https://ianslive.in/india-remains-asia-pacifics-most-cost-competitive-office-fit-out-market-report--20260326105534 | 搜尋結果內容 |
+| IN-109 | Office Fit-Out Cost Guide（India） | Cushman & Wakefield | 年份不明 | 英 | https://www.cushmanwakefield.com/en/india/insights/office-fit-out-cost-guide | 搜尋結果內容 |
 
-**來源統計**
+**來源統計（累計）**
 
-- 共 65 條
-- 印度政府來源 2 條：IN-49、IN-60
-- 印度媒體與印度業者來源 30 條以上：IN-08、IN-10、IN-14～IN-48、IN-55、IN-57～IN-59 等
-- 印地語來源 0 條
+- 共 **109 條**：第一輪 65 條（IN-01～IN-65），第二輪 44 條（IN-66～IN-109）
+- 印度政府來源 3 條：IN-49、IN-60、IN-92
+- 印度媒體與印度業者來源 60 條以上：
+  - 第一輪：IN-08、IN-10、IN-14～IN-48、IN-55、IN-57～IN-59 等
+  - 第二輪：IN-66～IN-89、IN-91、IN-93～IN-101、IN-103～IN-108 等
+- **印地語來源 7 條**：IN-66、IN-67、IN-68、IN-69、IN-75、IN-76、IN-77。其中 IN-67 Patrika 為印地語主流報紙
 - 日文頁面 1 條（IN-06，市調公司的翻譯頁，不算在地語言來源）

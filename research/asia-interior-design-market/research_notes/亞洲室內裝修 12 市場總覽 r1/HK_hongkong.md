@@ -476,6 +476,21 @@ HK,建造業輸入勞工計劃配額上限,12000,個,2025,HK-33,https://www.devb
 HK,建造業輸入勞工計劃已批配額,4680,個,2023-09,HK-34,https://www.devb.gov.hk/filemanager/en/content_1345/Powerpoint_for_the_briefing_20231009.pdf,20項工程合約累計,medium
 HK,小型工程監管制度施工前通知期（第I、II級）,7,天,current,HK-17,https://www.bd.gov.hk/doc/tc/resources/codes-and-references/code-and-design-manuals/MW/TG_c/TGc_ch02.pdf,第III級免事前通知；完工後14天內呈交完工通知,high
 HK,辦公室fit-out成本,160,$/平方呎（幣別未確認）,未確認,HK-43,https://fitoutawards.ie/news/hong-kong-office-fit-out-costs-hold-firm-at-160-per-square-foot-as-greater-china-peers-record-declines,僅標題；推測為fit-out cost guide,low
+HK,地盤以外建造工程總值（季）,205,億港元,2025Q2,HK-72,https://www.info.gov.hk/gia/general/202509/11/P2025091100340.htm,C&SD臨時數字；非地盤工程（翻修代理）,high
+HK,地盤以外建造工程總值（季）,224,億港元,2025Q3,HK-71,https://www.info.gov.hk/gia/general/202512/11/P2025121100293.htm,同上,high
+HK,地盤以外建造工程總值（季）,222,億港元,2025Q4,HK-70,https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm,同上；名義-3.0%、實質-2.1%,high
+HK,地盤以外建造工程總值（推算）,858,億港元,2025,HK-70,https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm,【示意】全年總值2866億減私人地盤707億及公營地盤1301億；四季加總857億,medium
+HK,建造工程名義總值合計（主要承建商）,2866,億港元,2025,HK-70,https://www.info.gov.hk/gia/general/202603/12/P2026031200295.htm,地盤＋非地盤；年減1.4%；僅作脈絡,high
+HK,細木工每日平均工資,1378.7,港元/日,2025-01,HK-82,https://www.gotohui.com/gongzi/list/160535.html,統計處公營建築工程工人每日平均工資（第三方轉載）；2024-01為1317.7,low
+HK,細木工每日平均工資,1317.7,港元/日,2024-01,HK-81,https://www.censtatd.gov.hk/en/data/stat_report/product/B1050013/att/B10500132024MM01B0100.pdf,統計處公營建築工程工人每日平均工資,medium
+HK,水喉工每日平均工資,1462.4,港元/日,2024-01,HK-81,https://www.censtatd.gov.hk/en/data/stat_report/product/B1050013/att/B10500132024MM01B0100.pdf,同上,medium
+HK,電氣裝配工（包括電工）每日平均工資,1314.1,港元/日,2024-01,HK-81,https://www.censtatd.gov.hk/en/data/stat_report/product/B1050013/att/B10500132024MM01B0100.pdf,同上；2024-03為1319.2,medium
+HK,木模板工每日平均工資,2019.4,港元/日,2025-01,HK-82,https://www.gotohui.com/gongzi/list/160535.html,同上（結構模板工非裝修木工）；2024-01為1846.5,low
+HK,屋宇署就宏福苑工程提出檢控,259,項,2026,HK-57,https://hkcourtnews.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E5%B1%8B%E5%AE%87%E7%BD%B2%E5%90%91%E9%B4%BB%E6%AF%85%E3%80%81%E5%AE%8F%E6%A5%AD%E3%80%81%E7%9B%B8%E9%97%9C%E8%91%A3%E4%BA%8B%E5%8F%8A/,涉非阻燃棚網及帆布、發泡膠板遮窗等；勞工處另25項,medium
+HK,大維修須業主親身出席表決門檻,30000,港元/戶（平均工程價值）,2025-07起,HK-66,https://www.wenweipo.com/a/202407/05/AP668702d9e4b01166d97ad713.html,《2023年建築物管理（修訂）條例》；須至少5%業主或100名業主親身出席,medium
+HK,樓宇更新大行動2.0 一般自住業主資助上限,40000,港元/單位,2019,HK-85,https://www.legco.gov.hk/yr19-20/chinese/panels/dev/papers/dev20191216cb1-230-6-c.pdf,資助約8成工程費；50年以上私人住用樓宇；60歲以上長者全額上限50000,medium
+HK,有需要人士維修自住物業津貼計劃撥款,20,億港元,2019,HK-87,https://gia.info.gov.hk/general/201910/11/P2019101100570_324663_1_1570790231117.pdf,由長者維修自住物業津貼計劃改名；原撥款10億,medium
+HK,外資持股上限,100,%,2025,HK-89,https://air-corporate.com/why-companies-register-hk/,可由外國個人或法人全資持有；無須本地董事（顧問公司來源）,medium
 ```
 
 ---

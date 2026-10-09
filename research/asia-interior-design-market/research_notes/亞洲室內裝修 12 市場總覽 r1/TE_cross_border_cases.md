@@ -419,6 +419,28 @@ SG/MY/HK,Qanvast服務屋主數,70000,人以上,無資料,TE-48,https://qanvast.
 SG/MY/HK,Qanvast服務屋主數,100000,人以上,2021,TE-49,https://vulcanpost.com/?p=721133,創辦人受訪「使用推薦與媒合」口徑【示意】,中
 IN/SG/MY,Livspace員工數,5000,人,2023,TE-37,https://asia.nikkei.com/spotlight/dealstreetasia/asian-home-interior-startup-livspace-lays-off-nearly-2-of-staff,2023-03裁員時全體員工約數【實際】兩源一致,高
 IN/SG/MY,Livspace裁員比例,2,%,2023,TE-37,https://asia.nikkei.com/spotlight/dealstreetasia/asian-home-interior-startup-livspace-lays-off-nearly-2-of-staff,2023-03；涵蓋印星馬工程師與設計師【實際】,高
+SG,〔r2〕Livspace新加坡新開體驗中心數,3,家,2022,TE-73,https://insideretail.asia/2022/11/29/livspace-launches-experience-centres-in-singapore/,2022-11一次新開數量【示意】,中
+SG/IN,〔r2〕Livspace新加坡母公司注資印度實體,427.21,crore INR,無資料,TE-72,https://inc42.com/buzz/exclusive-with-reverse-flip-in-cart-livspace-nets-inr-427-cr-from-singapore-parent/,reverse flip程序中之內部資金（約US$50M）；報導年份搜尋結果未顯示【示意】,中
+VN,〔r2〕大和・住友林業・野村胡志明市合作開發戶數,2100,戶,無資料,TE-57,https://www.housenews.jp/house/10847,與當地開發商共同開發集合住宅計畫戶數（分2期）；公告年份未顯示【示意】,中
+US,〔r2〕積水ハウス收購M.D.C. Holdings金額,4.9,十億美元（約）,2024,TE-59,https://therealdeal.com/international/2026/03/31/japanese-homebuilders-pouring-into-american-market/,收購對價約數【示意】,中
+US,〔r2〕住友林業美國年供給目標,23000,戶/年,2030,TE-59,https://therealdeal.com/international/2026/03/31/japanese-homebuilders-pouring-into-american-market/,目標值；僅見於搜尋摘要【示意】,低
+CN,〔r2〕LIXIL中國廚房事業當地貨幣成長率,24,%,2016,TE-62,https://www2.jpx.co.jp/disc/59380/140120161107432620.pdf,FY2017/3第2季決算說明資料所述與夥伴協作之中國廚房事業【示意】,中
+US,〔r2〕LIXIL美國DPI解散相關其他費用,52,億日圓,2024,TE-87,https://www2.jpx.co.jp/disc/59380/140120240219539414.pdf,解散費用中計入「其他費用」部分（另6億日圓計入銷售成本）；搜尋摘要【示意】,中
+SG/MY/TH/PH/MX,〔r2〕Ikano Retail營業額,5.25,十億令吉,2023,TE-67,https://www.nst.com.my/amp/business/corporate/2023/10/966041/ikea-franchisee-ikano-posts-rm158bil-revenue-malaysia,FY至2023-08；年增2.1%；搜尋摘要【示意】,中
+MY,〔r2〕Ikano馬來西亞營收,1.58,十億令吉,2023,TE-67,https://www.nst.com.my/amp/business/corporate/2023/10/966041/ikea-franchisee-ikano-posts-rm158bil-revenue-malaysia,FY至2023-08（標題）【示意】,中
+TH,〔r2〕Ikano Retail累計店數（以IKEA Sukhumvit為第14家）,14,店,無資料,TE-66,https://group.ikano/stories/ikano-retail/,Ikano全市場合計店序；搜尋摘要無法對應單一URL【示意】,低
+CN,〔r2〕IKEA中國宣布關閉門店數,7,店,2026,TE-69,https://jingdaily.com/intels/2026-01/08/ikea-pivots-to-smaller-stores-shutting-7-china-sites,2026-01宣布、2026-02-02起關閉【實際】三源一致,高
+CN,〔r2〕歐派海外業務收入,4.71,億元人民幣,2025,TE-77,https://finance.sina.com.cn/wm/2026-04-29/doc-inhwcvfh7817283.shtml?cre=tianyi&mod=pcfinhkst&loc=9&r=0&rfunc=4&tj=cxvertical_pc_finhkst&tr=12,2025年報海外業務收入；年增9.66%【示意】,中
+CN,〔r2〕歐派總營收,172.3,億元人民幣,2025,TE-77,https://finance.sina.com.cn/wm/2026-04-29/doc-inhwcvfh7817283.shtml?cre=tianyi&mod=pcfinhkst&loc=9&r=0&rfunc=4&tj=cxvertical_pc_finhkst&tr=12,2025全年營收（標題）【示意】,中
+CN,〔r2〕歐派海外收入占比,2.7,%,2025,TE-77,https://finance.sina.com.cn/wm/2026-04-29/doc-inhwcvfh7817283.shtml?cre=tianyi&mod=pcfinhkst&loc=9&r=0&rfunc=4&tj=cxvertical_pc_finhkst&tr=12,本研究者計算4.71÷172.3【示意】,中
+CN,〔r2〕歐派海外渠道收入年增率,34.42,%,2024,TE-80,https://www.21jingji.com/article/20240916/herald/a447195ac38b84dfd1e6f3a1787f3783.html,2024年海外渠道收入年增；搜尋摘要未明確對應URL【示意】,低
+CN,〔r2〕索菲亞境外收入,0.76,億元人民幣,2024,TE-79,https://m.rccaijing.com/news-7467096612750948211.html,2024全年；年增50.94%；占總營收<1%【示意】,中
+CN,〔r2〕索菲亞海外經銷商數,31,家,2024,TE-79,https://m.rccaijing.com/news-7467096612750948211.html,2024年底或Q3末（口徑未明）【示意】,中
+CN,〔r2〕索菲亞出口收入,3430.37,萬元人民幣,2025,TE-78,https://finance.sina.com.cn/roll/2025-09-03/doc-infpftfy7581179.shtml,2025上半年；年增39.49%；海外經銷商26家【示意】,中
+CN,〔r2〕群核科技營收,8.2,億元人民幣,2025,TE-82,https://finance.sina.com.cn/roll/2026-04-15/doc-inhupqxi8541563.shtml,2025全年營收（媒體解讀招股書）【示意】,中
+CN,〔r2〕群核科技海外業務收入年增率,28,%,2025,TE-82,https://finance.sina.com.cn/roll/2026-04-15/doc-inhupqxi8541563.shtml,2025年海外業務收入年增；絕對額無資料【示意】,中
+GLOBAL,〔r2〕Coohom支援語言數,18,種,2026,TE-82,https://finance.sina.com.cn/roll/2026-04-15/doc-inhupqxi8541563.shtml,Coohom在地化介面支援語言數【示意】,中
+TW,〔r2〕詩肯居家獨立店數,12,家,無資料,TE-84,https://news.cnyes.com/news/id/628493,台灣國內門店（目標年底20家）；非海外【示意】,中
 ```
 
 ---

@@ -193,7 +193,7 @@
 
 **補充（第 2 輪）**：
 - **人均 GDP 2025 排序**（IMF 2026 年 4 月版，經 Worldometer）：新加坡 99,365 ＞ 香港 56,893 ＞ **台灣 39,489** ＞ 韓國 36,227 ＞ 日本 35,973 ＞ 中國大陸 13,968 ＞ 馬來西亞 13,949 ＞ 泰國 8,057 ＞ 印尼 5,082 ＞ 越南 4,829 ＞ 菲律賓 4,270 ＞ 印度 2,675 — [Worldometer 2025](https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=nominal)。台灣在亞洲排第 8，名目人均已高於日本與韓國。
-- **2026 年實質 GDP 成長預測**（IMF 2026 年 4 月版，經 Worldometer 2026 表）：台灣 5.18%、日本 0.72%、韓國 1.86%、新加坡 3.51%、香港 2.42%、馬來西亞 4.70%、泰國 1.50%、印尼 4.95%、越南 7.10%、菲律賓 4.07%、印度 6.48%。中國大陸未列 — TF-19（預測值，信心中）。
+- **2026 年實質 GDP 成長預測**（IMF 2026 年 4 月版，經 Worldometer 2026 表）：台灣 5.18%、日本 0.72%、韓國 1.86%、新加坡 3.51%、香港 2.42%、馬來西亞 4.70%、泰國 1.50%、印尼 4.95%、越南 7.10%、菲律賓 4.07%、印度 6.48%。中國大陸未列 — TF-21（Worldometer 2026 名目表；歸屬 TF-21 或 TF-19 不確定；預測值，信心中）。
 - **購買力平價人均 GDP 2025**（國際元，供參考）：新加坡 164,318、台灣 90,233、香港 80,323、韓國 65,405、日本 56,854、馬來西亞 44,119、中國大陸 29,352、泰國 26,260、越南 17,971、印尼 17,746、菲律賓 12,877 — [Worldometer PPP 2025](https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2025&metric=ppp)（TF-28；印度無資料）。
 - **區域背景**：
   - 亞洲整體 2025 年都市化率 53.6%（人口 4,835,320,060）— [Worldometer Asia Population](https://www.worldometers.info/world-population/asia-population/)（TF-27）。
@@ -256,7 +256,7 @@
   - 印度約 2,700 美元。
 
   做「住宅裝修單價 ÷ 人均 GDP」錨點時，應以本表 2025 年值為分母，並與 2025 年匯率（第 1.5 節）同年同版。
-- **（第 2 輪）成長動能**：IMF 2026 年 4 月版對 2026 年實質成長的預測，越南 7.10%、印度 6.48%、台灣 5.18%、印尼 4.95%、馬來西亞 4.70% 較高；日本 0.72%、泰國 1.50%、韓國 1.86% 較低（TF-19，預測值）。這與「新屋交付型」和「存量型」的分組大致吻合。台灣是例外：成長預測高，但依假說歸為存量型市場（推論）。
+- **（第 2 輪）成長動能**：IMF 2026 年 4 月版對 2026 年實質成長的預測，越南 7.10%、印度 6.48%、台灣 5.18%、印尼 4.95%、馬來西亞 4.70% 較高；日本 0.72%、泰國 1.50%、韓國 1.86% 較低（TF-21，預測值）。這與「新屋交付型」和「存量型」的分組大致吻合。台灣是例外：成長預測高，但依假說歸為存量型市場（推論）。
 
 ### 4.2 分類框架（待驗證假說；住宅存量數據仍缺，不得當作結論引用）
 - 判定「存量老化驅動」的建議門檻：30 年以上屋齡占比高、新完工占存量比低（例如 <1%／年）、中古交易占比高、65+ 人口占比高且持續上升。
@@ -417,17 +417,17 @@ JP,名目 GDP,4435.16,十億美元,2025,TF-20,https://www.worldometers.info/gdp/
 CN,名目 GDP,19498.04,十億美元,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；另一摘要稱 19.63 兆，見矛盾表；【示意】,中
 KR,名目 GDP,1870,十億美元（四捨五入）,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；摘要只給到 1.87 兆；【實際】,中
 IN,名目 GDP,3920,十億美元（四捨五入）,2025,TF-20,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2025&metric=nominal,IMF WEO 2026 年 4 月版（Worldometer 轉載）；2026 頁另列 3.96 兆；【實際】,中
-TW,實質 GDP 成長率（IMF 預測）,5.18,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測（Worldometer 2026 表）；【示意】預測,中
-JP,實質 GDP 成長率（IMF 預測）,0.72,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
-KR,實質 GDP 成長率（IMF 預測）,1.86,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
-SG,實質 GDP 成長率（IMF 預測）,3.51,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
-HK,實質 GDP 成長率（IMF 預測）,2.42,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
-MY,實質 GDP 成長率（IMF 預測）,4.70,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
-TH,實質 GDP 成長率（IMF 預測）,1.50,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
-ID,實質 GDP 成長率（IMF 預測）,4.95,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
-VN,實質 GDP 成長率（IMF 預測）,7.10,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
-PH,實質 GDP 成長率（IMF 預測）,4.07,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
-IN,實質 GDP 成長率（IMF 預測）,6.48,%,2026,TF-19,https://www.worldometers.info/gdp/gdp-per-capita/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；【示意】預測,中
+TW,實質 GDP 成長率（IMF 預測）,5.18,%,2026,TF-21,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測（Worldometer 2026 表）；來源表歸屬 TF-21 或 TF-19 不確定；【示意】預測,中
+JP,實質 GDP 成長率（IMF 預測）,0.72,%,2026,TF-21,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；來源表歸屬 TF-21 或 TF-19 不確定；【示意】預測,中
+KR,實質 GDP 成長率（IMF 預測）,1.86,%,2026,TF-21,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；來源表歸屬 TF-21 或 TF-19 不確定；【示意】預測,中
+SG,實質 GDP 成長率（IMF 預測）,3.51,%,2026,TF-21,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；來源表歸屬 TF-21 或 TF-19 不確定；【示意】預測,中
+HK,實質 GDP 成長率（IMF 預測）,2.42,%,2026,TF-21,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；來源表歸屬 TF-21 或 TF-19 不確定；【示意】預測,中
+MY,實質 GDP 成長率（IMF 預測）,4.70,%,2026,TF-21,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；來源表歸屬 TF-21 或 TF-19 不確定；【示意】預測,中
+TH,實質 GDP 成長率（IMF 預測）,1.50,%,2026,TF-21,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；來源表歸屬 TF-21 或 TF-19 不確定；【示意】預測,中
+ID,實質 GDP 成長率（IMF 預測）,4.95,%,2026,TF-21,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；來源表歸屬 TF-21 或 TF-19 不確定；【示意】預測,中
+VN,實質 GDP 成長率（IMF 預測）,7.10,%,2026,TF-21,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；來源表歸屬 TF-21 或 TF-19 不確定；【示意】預測,中
+PH,實質 GDP 成長率（IMF 預測）,4.07,%,2026,TF-21,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；來源表歸屬 TF-21 或 TF-19 不確定；【示意】預測,中
+IN,實質 GDP 成長率（IMF 預測）,6.48,%,2026,TF-21,https://www.worldometers.info/gdp/gdp-by-country/?region=asia&year=2026&metric=nominal,IMF WEO 2026 年 4 月版預測；來源表歸屬 TF-21 或 TF-19 不確定；【示意】預測,中
 JP,都市化率,92.3,%,2025,TF-23,https://www.theglobaleconomy.com/rankings/Percent_urban_population/Asia/,都市人口占總人口比（UN 來源）；【示意】單一聚合來源,中
 CN,都市化率,66.34,%,2025,TF-23,https://www.theglobaleconomy.com/rankings/Percent_urban_population/Asia/,都市人口占總人口比（UN 來源）；【示意】單一聚合來源,中
 ID,都市化率,59.39,%,2025,TF-23,https://www.theglobaleconomy.com/rankings/Percent_urban_population/Asia/,都市人口占總人口比（UN 來源）；【示意】單一聚合來源,中
