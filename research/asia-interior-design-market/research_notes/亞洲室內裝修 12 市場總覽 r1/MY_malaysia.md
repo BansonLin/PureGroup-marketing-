@@ -286,7 +286,7 @@
 | 項目 | 試過的搜尋 | 建議取得方式 |
 |---|---|---|
 | 住宅翻修市場規模（官方） | #3、#9 | DOSM 營建統計細表（Residential: new work vs alteration/repair 若有）；CIDB 營建統計；購買 Ken Research「Malaysia home improvement market」報告（MY 搜尋結果見其 URL 但無數字） |
-| 室內設計服務市場（設計費） | #3 | DOSM 服務業普查（專業、科學與技術活動 MSIC 74102 室內設計） |
+| 室內設計服務市場（設計費） | #3 | DOSM 服務業普查（專業、科學與技術活動中的「專門設計活動」細類；細類代碼需向 DOSM 確認） |
 | 新屋 vs 中古屋交易占比 | #1、#5、#7 | NAPIC 年報原文（一手 vs 二手市場章節）、Bank Negara 金融穩定報告 |
 | 住宅存量與 30 年以上屋齡占比 | 未搜尋（額度） | NAPIC Property Stock Report；DOSM 住屋普查 2020 |
 | 設計費行情（% 或 psf）、工期 | #2、#6 | Qanvast／Recommend.my 指南；MIID 收費參考；LAM 費率表（Scale of Fees） |
