@@ -1,0 +1,142 @@
+[
+  {
+    "currency": "TWD",
+    "local_per_usd": 31.1663,
+    "period": "2025年度平均",
+    "source_id": "X01",
+    "source_url": "https://www.federalreserve.gov/releases/g5a/current/default.htm",
+    "evidence": "2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "JPY",
+    "local_per_usd": 149.5686,
+    "period": "2025年度平均",
+    "source_id": "X01",
+    "source_url": "https://www.federalreserve.gov/releases/g5a/current/default.htm",
+    "evidence": "2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "KRW",
+    "local_per_usd": 1421.3963,
+    "period": "2025年度平均",
+    "source_id": "X01",
+    "source_url": "https://www.federalreserve.gov/releases/g5a/current/default.htm",
+    "evidence": "2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "SGD",
+    "local_per_usd": 1.3065,
+    "period": "2025年度平均",
+    "source_id": "X01",
+    "source_url": "https://www.federalreserve.gov/releases/g5a/current/default.htm",
+    "evidence": "2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "HKD",
+    "local_per_usd": 7.7956,
+    "period": "2025年度平均",
+    "source_id": "X01",
+    "source_url": "https://www.federalreserve.gov/releases/g5a/current/default.htm",
+    "evidence": "2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "CNY",
+    "local_per_usd": 7.1875,
+    "period": "2025年度平均",
+    "source_id": "X01",
+    "source_url": "https://www.federalreserve.gov/releases/g5a/current/default.htm",
+    "evidence": "2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "MYR",
+    "local_per_usd": 4.2809,
+    "period": "2025年度平均",
+    "source_id": "X01",
+    "source_url": "https://www.federalreserve.gov/releases/g5a/current/default.htm",
+    "evidence": "2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "THB",
+    "local_per_usd": 32.8619,
+    "period": "2025年度平均",
+    "source_id": "X01",
+    "source_url": "https://www.federalreserve.gov/releases/g5a/current/default.htm",
+    "evidence": "2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "VND",
+    "local_per_usd": 24976.91,
+    "period": "2025中央匯率年平均",
+    "source_id": "X10",
+    "source_url": "https://www.nso.gov.vn/tin-tuc-thong-ke/2026/01/thong-cao-bao-chi-tinh-hinh-kinh-te-xa-hoi-quy-iv-va-nam-2025/",
+    "evidence": "2025全年經社會新聞稿註11：平均中央匯率24.976,91 VND/USD。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "IDR",
+    "local_per_usd": 16782,
+    "period": "2025-12年末中間價",
+    "source_id": "X09",
+    "source_url": "https://www.bi.go.id/SEKI/tabel/TABEL5_40.pdf",
+    "evidence": "SEKI表5.40：2025末四個月份Sep/Oct/Nov/Dec=16680/16640/16644/16782。原16680錯標年末；用16782修正，X18同機構另一表確認。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "PHP",
+    "local_per_usd": 57.5051,
+    "period": "2025年度平均",
+    "source_id": "X08",
+    "source_url": "https://www.bsp.gov.ph/statistics/external/tab12_pus_data.aspx",
+    "evidence": "BSP Table12年平均列：2025=57.5051PHP/USD。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "INR",
+    "local_per_usd": 87.1468,
+    "period": "2025年度平均",
+    "source_id": "X01",
+    "source_url": "https://www.federalreserve.gov/releases/g5a/current/default.htm",
+    "evidence": "2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "EUR",
+    "local_per_usd": 0.884486113568017,
+    "period": "2025年度平均",
+    "source_id": "X01",
+    "source_url": "https://www.federalreserve.gov/releases/g5a/current/default.htm",
+    "evidence": "2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。",
+    "confidence": "低",
+    "label": "單源示意；固定比較參照，非即期"
+  },
+  {
+    "currency": "USD",
+    "local_per_usd": 1,
+    "period": "恆等式",
+    "source_id": "計算定義",
+    "source_url": "",
+    "evidence": "1 USD = 1 USD",
+    "confidence": "不適用",
+    "label": "定義"
+  }
+]

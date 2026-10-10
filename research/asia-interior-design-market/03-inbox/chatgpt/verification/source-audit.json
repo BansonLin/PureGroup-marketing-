@@ -1,0 +1,1920 @@
+[
+  {
+    "source_id": "TW01",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L261–292：2025全年每人GDP 39,492美元，2026-02-13發布，初步統計。",
+    "web_ref": "turn160view0"
+  },
+  {
+    "source_id": "TW02",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L248–262：2025年12月底戶數9,851,532、人口23,299,132、戶量2.37、65歲以上20.06%。",
+    "web_ref": "turn162view0;turn163view0"
+  },
+  {
+    "source_id": "TW03",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L245–251：2025第一次登記176,690棟；買賣261,308棟、年減25.5%；繼承78,324棟。",
+    "web_ref": "turn162view1"
+  },
+  {
+    "source_id": "TW04",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L297–305：2025下半年低度用電住宅894,582宅、9.4%；2025住宅使用執照約14.2萬宅；2025Q4新建餘屋待售112,501宅、臺北4,710、宜蘭2,685宅。",
+    "web_ref": "turn163view1"
+  },
+  {
+    "source_id": "TW05",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L127–143：2026-03-16政策頁；計畫114–116年、投入50億元，屬政策預算。",
+    "web_ref": "turn161view3"
+  },
+  {
+    "source_id": "TW06",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "第9–18條：專任設計／施工人員、登記許可與證書；第9條公司名稱要求；本轮閱讀法規原文。",
+    "web_ref": "turn162view4"
+  },
+  {
+    "source_id": "TW07",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L245–253：2026-04-14公告；約1.7萬餘家、3.3萬人，契約草案當時尚未公告施行。",
+    "web_ref": "turn162view3"
+  },
+  {
+    "source_id": "TW08",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L2–17：114.11.26公告，預告草案與60日陳述意見期，不是施行公告。",
+    "web_ref": "turn166view0"
+  },
+  {
+    "source_id": "TW09",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "PDF第2頁第六條：簽約金最高不得逾5%；檔案內容未載2014發布日期，年份只能按未載日期處理。",
+    "web_ref": "turn166view1"
+  },
+  {
+    "source_id": "TW10",
+    "source_grade": "D",
+    "open_status": "fail",
+    "reason": "初次open僅回中繼資料；重開內文與直接HTTP均403，未成功核對40,000–80,000與80,000–120,000。",
+    "web_ref": "turn248view0"
+  },
+  {
+    "source_id": "TW11",
+    "source_grade": "D",
+    "open_status": "fail",
+    "reason": "初次open僅回中繼資料；重開內文與直接HTTP均403，未成功核對5–20%。",
+    "web_ref": "turn248view1"
+  },
+  {
+    "source_id": "TW12",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "原URL直接HTTP下載3166638 bytes，pdftotext -layout讀PDF印刷第1–2頁；2024百萬元表：營收36,832、毛利9,477；第1頁台灣零售137.2億元；大型店28、社區店35、和樂25。",
+    "web_ref": "local-download:TW12.pdf;turn163view6"
+  },
+  {
+    "source_id": "TW13",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "2025月營收表L77–92：仟元、12月累積2,464,505；不含住宅與商用分割。",
+    "web_ref": "turn168view3"
+  },
+  {
+    "source_id": "TW14",
+    "source_grade": "C",
+    "open_status": "open",
+    "reason": "L32–40：平台後台77%無裝修經驗、超過50%需求新購住宅，文章標題2025；未揭統計抽樣期間。",
+    "web_ref": "turn168view4"
+  },
+  {
+    "source_id": "TW15",
+    "source_grade": "C",
+    "open_status": "open",
+    "reason": "L53–73：2026-01-05報導；平台推估2025裝修逼近5,500億元；APP下載超過158萬次，非政府原始市場統計。",
+    "web_ref": "turn171view5"
+  },
+  {
+    "source_id": "TW16",
+    "source_grade": "C",
+    "open_status": "open",
+    "reason": "L31–35：自2015累計完成超過2,000位屋主；未載統計截止日，2026僅檢索年。",
+    "web_ref": "turn171view0"
+  },
+  {
+    "source_id": "TW17",
+    "source_grade": "C",
+    "open_status": "open",
+    "reason": "L112–114：平台宣稱成交不抽%；未載方案生效日，2026僅檢索年。",
+    "web_ref": "turn171view1"
+  },
+  {
+    "source_id": "TW18",
+    "source_grade": "A",
+    "open_status": "open-entrypoint",
+    "reason": "動態查詢入口可開啟，未獲室內設計職類薪資結果；只作資料缺口線索。",
+    "web_ref": "turn171view2"
+  },
+  {
+    "source_id": "TW19",
+    "source_grade": "A",
+    "open_status": "open-entrypoint",
+    "reason": "營造工程物價指數查詢表單可開啟，未取得固定基期數據；只作缺口線索。",
+    "web_ref": "turn171view3"
+  },
+  {
+    "source_id": "TW20",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L517–521：非僑外投資負面表列限制業別，外商原則可100%持股；不推論個別業別資格或陸資。",
+    "web_ref": "turn224view1"
+  },
+  {
+    "source_id": "JP01",
+    "source_grade": "B",
+    "open_status": "open",
+    "reason": "L23:2025估算7兆5,119億円、同比2.5%；L33:2026預測7.7兆円；L53–60定義排除房東出租、非住宅、共有部大修並含家具。",
+    "web_ref": "turn175view0"
+  },
+  {
+    "source_id": "JP02",
+    "source_grade": "B",
+    "open_status": "open",
+    "reason": "L23:2024估算7兆3,470億円；L34:2025預測7.3兆円；L48–59調查期間與市場定義。",
+    "web_ref": "turn175view1"
+  },
+  {
+    "source_id": "JP03",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "PDF印刷p1、p2、p8：2023存量65,047千戶，空屋9,002千戶、13.8%；自有住宅率60.9%，分母有居住世帶住宅。",
+    "web_ref": "turn175view2;turn236view4;turn200view1"
+  },
+  {
+    "source_id": "JP04",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "PDF p3與p15：令和7年（2025）住宅開工740,667戶，同比-6.5%，床面積56,885千m²。",
+    "web_ref": "turn200view2"
+  },
+  {
+    "source_id": "JP05",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "PDF實際第370頁/印刷p364：2025調查子育て世帯翻修資金平均149萬円；第6頁：施工樣本期2024-04至2025-03、三大都市圈。",
+    "web_ref": "turn207view5;turn219view3"
+  },
+  {
+    "source_id": "JP06",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L24–43：建設業法第3條，一式以外輕微工程每件未滿500萬円，含消費稅；僅建設業許可例外。",
+    "web_ref": "turn212view0"
+  },
+  {
+    "source_id": "JP07",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L188–196：一般建設業三擇一條件，自有資本500萬円以上或等額籌資能力、或許可前5年繼續經營；另有技術管理要件。",
+    "web_ref": "turn219view1"
+  },
+  {
+    "source_id": "JP08",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L16最後更新2024-10-25；只以公布後3年內指示施行，新JP20補確切2025-04施行與適用案例。",
+    "web_ref": "turn224view3"
+  },
+  {
+    "source_id": "JP09",
+    "source_grade": "B",
+    "open_status": "open",
+    "reason": "2025年報PDF印刷p10，統計2024年度新規相談30,812、リフォーム11,920；不等同確認違法或全國客訴。",
+    "web_ref": "turn236view5"
+  },
+  {
+    "source_id": "JP10",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L17–31 JETRO說明代表處不得營業、分公司與外國公司責任、子公司為獨立法人；沒有特定專業資格自動授權。",
+    "web_ref": "turn230view6;turn241view0"
+  },
+  {
+    "source_id": "JP11",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L42–59百萬円表：FY2025/3收入928,828；FY2026/3收入912,248，營業利益125,526。",
+    "web_ref": "turn224view0"
+  },
+  {
+    "source_id": "JP12",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L81–88：2026年3月期販売8,380件、売上1,518億円、営業182億円；IR摘要圓整。",
+    "web_ref": "turn212view3"
+  },
+  {
+    "source_id": "JP13",
+    "source_grade": "C",
+    "open_status": "open",
+    "reason": "L51–78首都圈公司案例：60m²1500–2100萬円、The R70m²1100–1300萬円；無統計樣本截止年，2026只為檢索年。",
+    "web_ref": "turn230view0"
+  },
+  {
+    "source_id": "JP14",
+    "source_grade": "D",
+    "open_status": "open",
+    "reason": "L166：公司實績試算中心18–20萬円/m²；HTML公開日2025-12-01，但未載成交樣本年份。依協議部落格D，不採市場定量。",
+    "web_ref": "turn241view1;local-download:JP14.html"
+  },
+  {
+    "source_id": "JP15",
+    "source_grade": "C",
+    "open_status": "open",
+    "reason": "L30/45：2025-10-16發稿，2025榜單積水1838億7000萬円、大和1786億1000萬円；下載HTML h2明載全國113店（令和7年10月時點）。公司新聞稿轉引排行。",
+    "web_ref": "turn236view1;local-download:JP15.html"
+  },
+  {
+    "source_id": "JP16",
+    "source_grade": "C",
+    "open_status": "open",
+    "reason": "L34/81–85：932家公司、頁面標2026年9月榜、集計2026-09-02至10-06；アクセス排行榜不是營收／成交排行。",
+    "web_ref": "turn230view3"
+  },
+  {
+    "source_id": "JP17",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "TOTO統合報告2025 PDF第1頁L37–38：リモデルクラブ約5,000店，協作網絡非直營。",
+    "web_ref": "turn236view0"
+  },
+  {
+    "source_id": "JP18",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "2026-02-17公告L13–21：2026年3月適用，加權全職種25,834円，單純平均同比+4.5%；不含事業主必要經費。",
+    "web_ref": "turn224view2"
+  },
+  {
+    "source_id": "JP19",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L57：窗戶翻修預算1,125億円；L92：住宅每戶100萬円上限；政策預算不是支出。",
+    "web_ref": "turn230view5;turn224view10"
+  },
+  {
+    "source_id": "TW21",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L245–249，2025-02-06公告：30年以上老宅約500萬戶，超過整體住宅存量半數；新聞稿約數，未提供原始統計期與分母。",
+    "web_ref": "turn265view0"
+  },
+  {
+    "source_id": "TW22",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "L48–50：2025年職類別薪資調查於8月辦理，月薪基期2025年7月、年薪基期2024，排除雇主、自營作業者、無酬家屬與部分工時；有效9,977家。未取得室內設計細項。",
+    "web_ref": "turn265view1"
+  },
+  {
+    "source_id": "JP20",
+    "source_grade": "A",
+    "open_status": "open",
+    "reason": "7頁PDF第2–7頁：2025-04起2層木造住宅大規模修繕／改造需建築確認；主要構造部一種以上過半；水回設備或扶手等小修不需確認但仍須符合法規。",
+    "web_ref": "turn251view0"
+  },
+  {
+    "source_id": "KR01",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L355–370；2025-11-01 普查，人口 5,182 萬、65+ 1,072 萬／20.7%、住宅 2,018 萬、公寓 65.8%、20+ 56.0%、30+ 30.6%、單人戶 824 萬／36.6%。",
+    "web_ref": "turn164view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR02",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L247–255；2024-11-01 總住宅 1,987 萬，排除 officetel 等非住宅居所；30 年以上 28.0%。",
+    "web_ref": "turn165view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR03",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "L68–76 官方合併損益摘要，單位百萬韓元，2025／2024 欄收入 1,744,538／1,908,391，2025 營業利益 18,491。1.06% 為自行計算。未另開審計年報，依公司自報從嚴列 C。",
+    "web_ref": "turn165view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR04",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "L46、51–52；2026-04-14 發布 2025 結果：收入 3,215 億韓元、年增約 11.7%、施工交易收入 3.5 倍以上、合作夥伴約 400 家。公司新聞稿，非交易額。",
+    "web_ref": "turn167view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR05",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "PDF 第 3 頁（零基 P2）L131–149；實內建築工程登記人員 2 人以上、資本 1 億 5 千萬韓元以上；封面明列 2022-02-17 修正版。僅證實歷史條文，不證實 2026 全部現行資格。",
+    "web_ref": "turn167view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR06",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L290–294；FDI 定義最低 1 億韓元及持股 10% 以上；負面清單 L311、319 明引 2018 公告，不能當 2026 完整法遵清單。",
+    "web_ref": "turn172view3",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR07",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L117–137；2026-06-25 綠色翻修利息支持修改公告；既有私人建築 2016-01-01 前使用核准、能源改善與指定承作商；住宅價格門檻上調，不是全部裝修補助。",
+    "web_ref": "turn174view5",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR08",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L854–897；2026-06-09 發布，2025 實質 GDP +1.1%、名目 GDP 2,676.7 兆韓元、每人 GNI 36,963 美元。",
+    "web_ref": "turn172view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR09",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "L214、230–232；2026-10-07 引用韓國消費者院：2024 年 551 件、2025 年 795 件、2026 上半年 430 件；2023–2026H1 瑕疵修補不滿 56.9%。",
+    "web_ref": "turn178view3",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR10",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "官方業務頁已開啟，介紹家具、內裝、B2B 與 Rehaus；只支持模式存在，不證明業務排名或績效。",
+    "web_ref": "turn169view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR11",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "KOSIS 問答原頁已開啟；指引統計查詢，未直接取得全體室內設計公司家數。",
+    "web_ref": "turn169view3",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR12",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L199–211 KOSIS 原文：業別營收混合住宅／非住宅，且按主要施工活動歸類；不能直接等同住宅裝修 TAM。",
+    "web_ref": "turn174view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR13",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "L42–60；原文發布日期 2025-12-31，原來源清單年份 2026 不正確；內容為 2025 回顧與北村／板橋實體據點。",
+    "web_ref": "turn174view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR14",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "L123–137 合併損益摘要，百萬韓元；2025 收入 1,546,206、毛利 268,091、營業利益 15,717。公司 IR 摘要未另讀年報，從嚴 C。",
+    "web_ref": "turn178view4",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR15",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "平台關鍵字文章已開啟；平台內搜尋觀察，不代表全韓居民偏好比例。",
+    "web_ref": "turn174view3",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR16",
+    "source_grade": "D",
+    "open_status": "opened",
+    "reason": "頁面可開，但網址及版型為商業平台 blog；依附件 D 級不採用作正式排行。2025 施工能力亦非收入排行。",
+    "web_ref": "turn204view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR17",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "L318–342；2026-07-30 施工能力公告，2026-08-01 適用；未下載 xlsx 個別公司原表，不視為排名已核。",
+    "web_ref": "turn206view5",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR18",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "L5–12 單位億韓元，2025 收入 31,787、營業利益 131；LX 嵌入 FnGuide 表，未另讀審計報告，從嚴 C。",
+    "web_ref": "turn206view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR19",
+    "source_grade": "B",
+    "open_status": "opened_partial",
+    "reason": "國會圖書館研究目錄可開，未讀 CERIK 全文；僅研究線索，不能支持市場金額。",
+    "web_ref": "turn178view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG01",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "PDF 印頁 7、8、10：FY2024 訂購 24,220（含預計）；完工 20,294；施工中 91,941；轉售登記 28,508；2025-03-31 整戶出租有效案件 59,567。",
+    "web_ref": "turn181view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG02",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L32–45；Housing & Development (Renovation Control) Rules 2006 要求 HDB 裝修使用 DRC 承包商；不同工種是否需許可另判。",
+    "web_ref": "turn206view4",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG03",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "原表 L94–126：2024 BTO 259 案、轉售 302 案推估 2025 費用；4-room BTO 51,000–61,800、4-room 轉售 64,300–80,300、5-room 轉售 84,300–97,000 SGD。L169–175 的 4-room 轉售預期 10–12 週。",
+    "web_ref": "turn193view1;turn206view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG04",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "PDF 印頁 2–3，2024 裝修申訴 962、2023 年 1,168；2024 家具 720；承包商預付損失 728,813.76 SGD；約 97% 裝修申訴為非 CaseTrust 業者。",
+    "web_ref": "turn193view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG05",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "2026-01-29 更新；外企設立四條路徑、CSP、分公司與子公司責任不同；不能由本頁推所有受管制業務均可外資無限制。",
+    "web_ref": "turn185view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG06",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L34–61；EASE 支持止滑、扶手、坡道與衛浴門口拓寬；HDB 屋主／租戶居民家庭資格與私人住宅途徑分開。",
+    "web_ref": "turn185view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG07",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "招股書 PDF 印頁 A-6：2023 年收入 26,968,529 SGD；印頁 42/99：2023 毛利率 21.7%、3M2024 11.9%；印頁158市場圖：2024f 4.2–6.5、2027f 4.8–7.4 十億 SGD。市场图由顾问推估，指标级另列 B。",
+    "web_ref": "turn193view3;turn204view1;turn204view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG08",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L143–150：2025 名目 GDP 789,529.2 百萬 SGD；每人 GDP 129,194 SGD，前期 126,803 SGD。不是美元。",
+    "web_ref": "turn193view4",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG09",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L73–100：台灣為 NAS；每合格本地雇員可配 5 名 WP；2024-01-01 起 NAS 高技能徵費 300、基本技能 700 SGD／月。徵費不是薪資。",
+    "web_ref": "turn188view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG10",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "L230–238：保證上限合約值 50% 與 SGD150,000 取低；over 95,000 為累計使用選商服務屋主，不是年度成交量。",
+    "web_ref": "turn204view4",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG11",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "SEC 簡報第17頁圖與文字均核對：全用途 renovation 2022 年 4,179.5、2024E 4,630.2、2027E 5,378.5 百萬 SGD；圖下半部有住宅分拆，與 A&A 分開。",
+    "web_ref": "turn204view3;turn237view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG12",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L80–88；外國人以 CSP 設立、需本地常住責任人；移居經營仍須工作准證。",
+    "web_ref": "turn206view3",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG13",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L33–39；核准後新 HDB 裝修三個月、既有 HDB 一個月；DRC 與施工前申請。",
+    "web_ref": "turn204view5",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR20",
+    "source_grade": "A",
+    "open_status": "opened_partial",
+    "reason": "L11 核實 2026-01-22 施行與國土交通部第2026-38號；僅版本資訊可核，細部正文抽取有限，不宣稱全部條文已核。",
+    "web_ref": "turn231view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "KR21",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "協議會首頁實讀 L31、37–50；有登記、業者及工項單價入口，首頁不含詳細單價。",
+    "web_ref": "turn231view3",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG14",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L517–544；Fire Safety Act 1993、消防工程範圍、QP 及豁免／小幅 A&A 呈報區別。",
+    "web_ref": "turn237view3",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG15",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L42–64；需建管核准圖說的 building works 主承包及指定專業工程；不是所有分包均需一般營造牌照。",
+    "web_ref": "turn237view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG16",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "L49–72：認證者須訂金履約保障、標準契約、12個月工藝保固、初始訂金上限20%；屬認證方案條件，非全部業者法定義務。",
+    "web_ref": "turn220view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG17",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L36–49；2025-06-01 起雇建造業 S Pass／WP 須 CRS；另公共工程投標／第一層分包亦需。",
+    "web_ref": "turn237view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG18",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "2026-10-08 更新；本地董事、地址、控制人與股東文件；註冊費 SGD300，不是總設立成本。",
+    "web_ref": "turn213view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG19",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "L60–100；非金融業現最低 SGD5,600，隨年齡提高；2027新申請提高至6,000。薪資以外還有COMPASS等。",
+    "web_ref": "turn231view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG20",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "L34–40；SIDS主導 SIDAS 業界認證及持續教育，不能替代 BCA、HDB、SCDF 法定工程要求。",
+    "web_ref": "turn231view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "SG21",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "已以web開圖及本地view_image視讀圖例：Renovation住宅2022 1,638.7、2024E 1,771.5、2025E 1,847.5、2027E 2,048.5 百萬SGD；同SG11文件，不增獨立來源數。",
+    "web_ref": "turn237view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "HK01",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn170view0"
+  },
+  {
+    "source_id": "HK02",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn170view1"
+  },
+  {
+    "source_id": "HK03",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn173view0"
+  },
+  {
+    "source_id": "HK04",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn173view1"
+  },
+  {
+    "source_id": "HK05",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn173view2"
+  },
+  {
+    "source_id": "HK06",
+    "source_grade": "A",
+    "open_status": "opened_partial",
+    "reason": "頁面可開、表格標題可讀；動態表格數值未成功提取，故不作二手占比指標。",
+    "web_ref": "turn173view3"
+  },
+  {
+    "source_id": "HK07",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn170view4"
+  },
+  {
+    "source_id": "HK08",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn173view4"
+  },
+  {
+    "source_id": "HK09",
+    "source_grade": "D",
+    "open_status": "opened",
+    "reason": "商家部落格，無完整方法，呎價與套餐總價互不一致；D級，不採用為行情。",
+    "web_ref": "turn173view5"
+  },
+  {
+    "source_id": "HK10",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn170view2"
+  },
+  {
+    "source_id": "HK11",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn170view3"
+  },
+  {
+    "source_id": "HK12",
+    "source_grade": "B",
+    "open_status": "direct_http_opened_pdf_verified",
+    "reason": "web open失敗後直接HTTP成功讀取22,591,045 bytes；SHA256 b0364877376bd89bfd771502643f5a7104297d814493f4603cd8dc454968e69f 與本地PDF一致，第9、26頁實讀。URL及內容均已驗證，保留web工具失敗紀錄。",
+    "web_ref": "local:research/arcadis2026_cn.pdf"
+  },
+  {
+    "source_id": "CN01",
+    "source_grade": "A",
+    "open_status": "direct_http_opened",
+    "reason": "web open兩次Internal Error；urllib實際HTTP下載269,272 bytes，正文數字逐列核對；福建住建廳官方轉載亦一致，不算獨立雙源。",
+    "web_ref": "direct-http:research_r2/agents/hk_cn_CN01_fetch.html"
+  },
+  {
+    "source_id": "CN02",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn184view1"
+  },
+  {
+    "source_id": "CN03",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "上市公司未經審核業績新聞稿，按本次協議保守歸C（平台自報），數值可核對但不升為年報A級。",
+    "web_ref": "turn184view2"
+  },
+  {
+    "source_id": "CN04",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn184view3"
+  },
+  {
+    "source_id": "CN05",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn191view2"
+  },
+  {
+    "source_id": "CN06",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn191view3"
+  },
+  {
+    "source_id": "CN07",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "市政府轉載解放日報採訪，屬B級主流媒體原始引述；非政府直接統計表。",
+    "web_ref": "turn191view4"
+  },
+  {
+    "source_id": "CN08",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "讀上市公司年報全文之新浪公司公告轉載；原始文件類型A，承載平台為轉載，應保留此辨識。",
+    "web_ref": "turn191view5"
+  },
+  {
+    "source_id": "CN09",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "讀上市公司年報全文之新浪公司公告轉載；原始文件類型A，承載平台為轉載，應保留此辨識。",
+    "web_ref": "turn191view6"
+  },
+  {
+    "source_id": "CN10",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn191view7"
+  },
+  {
+    "source_id": "CN11",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn191view8"
+  },
+  {
+    "source_id": "CN12",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn191view9"
+  },
+  {
+    "source_id": "CN13",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "上市公司未經審核業績新聞稿，按本次協議保守歸C（平台自報），數值可核對但不升為年報A級。",
+    "web_ref": "turn191view10"
+  },
+  {
+    "source_id": "HK13",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn232view0"
+  },
+  {
+    "source_id": "CN14",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn214view0"
+  },
+  {
+    "source_id": "CN15",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn208view4"
+  },
+  {
+    "source_id": "HK14",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn278view0"
+  },
+  {
+    "source_id": "HK15",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn278view1"
+  },
+  {
+    "source_id": "HK16",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已實際開頁讀取內容；來源身分與數值/定義另作指標級核對。",
+    "web_ref": "turn278view2"
+  },
+  {
+    "source_id": "MY01",
+    "source_grade": "A",
+    "open_status": "opened_local_pdf",
+    "reason": "下載原PDF本地抽文核對：PDF第29、45、60頁人口表單位千人，2025=34,220.5；2026P=34,389.4；P為初步值。",
+    "web_ref": "turn177view1"
+  },
+  {
+    "source_id": "MY02",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "PDF第1、7頁：2025全年工程完成值RM178.6bn、年增12.5%；包含土木與建築各次產業。",
+    "web_ref": "turn182view0"
+  },
+  {
+    "source_id": "MY03",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "PDF第1頁列資本RM750,000、2名本地技術員、初次2年、RM1,400/年；第2頁PPP每案RM5,000及處理費RM50。",
+    "web_ref": "turn190view0"
+  },
+  {
+    "source_id": "MY04",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn246view3"
+  },
+  {
+    "source_id": "MY05",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn203view5"
+  },
+  {
+    "source_id": "MY06",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn209view7"
+  },
+  {
+    "source_id": "MY07",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "PDF正文第2及5頁鋼材RM3,426.80/噸、水泥RM25.55/50kg；第3及6頁鋼材圖標RM3,436.80，鋼材存在同頁組內部矛盾。",
+    "web_ref": "turn190view1"
+  },
+  {
+    "source_id": "MY08",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "PDF第47/65頁2025公民受僱者中位RM2,940、平均RM3,803；第97/111頁營造業平均RM3,188；公民範圍在表註。",
+    "web_ref": "turn187view3"
+  },
+  {
+    "source_id": "MY09",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "PDF第1頁2025住宅類256,512宗、RM108.27bn；第3頁中古84.5%、初次15.5%、空地18.1%、新推64,487；第4頁已完工未售30,471。",
+    "web_ref": "turn179view2"
+  },
+  {
+    "source_id": "MY10",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "FAQ第285行公寓包價RM25,000–60,000，含設計諮詢、3D、管理及安裝；未揭樣本年及面積，僅2026查閱。",
+    "web_ref": "turn221view9"
+  },
+  {
+    "source_id": "MY11",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "文章第216行保障為合約價50%與RM50,000取低，限推薦公司資不抵債；非一般保固。",
+    "web_ref": "turn227view0"
+  },
+  {
+    "source_id": "MY12",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn203view7"
+  },
+  {
+    "source_id": "MY13",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "FRED觀察表2025=13,124.55542，現價美元/人，WDI NY.GDP.PCAP.CD。",
+    "web_ref": "turn177view0"
+  },
+  {
+    "source_id": "MY14",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn221view0"
+  },
+  {
+    "source_id": "MY15",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "季度報告PDF第1頁2026Q1收入RM211,789千；第12/19頁Signature櫥櫃衣櫃外部收入45,712千、內裝88,826千。",
+    "web_ref": "turn209view0"
+  },
+  {
+    "source_id": "MY16",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn221view1"
+  },
+  {
+    "source_id": "MY17",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "正文及年度模型表：2025 USD1,000m、2032 USD1,606m；摘要卡卻標2030，僅模型且方法不透明。",
+    "web_ref": "turn197view0"
+  },
+  {
+    "source_id": "MY18",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "頁面年度表2025 USD2,131m、2030 USD2,852m；FAQ明示國內最終銷售模型，含進口、排除出口。",
+    "web_ref": "turn197view2"
+  },
+  {
+    "source_id": "MY19",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "年度表2025 USD2,430m、2030 USD3,456m；範圍混合家具、家飾及設計費；頁首末年另有矛盾。",
+    "web_ref": "turn197view4"
+  },
+  {
+    "source_id": "MY20",
+    "source_grade": "D",
+    "open_status": "fail",
+    "reason": "原URL重新開啟及本地下載均回404；搜尋摘要仍可見但不算開頁驗證。已另找到同一招股書MY24，來源不獨立。",
+    "web_ref": "turn254view0"
+  },
+  {
+    "source_id": "MY21",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn242view7"
+  },
+  {
+    "source_id": "MY22",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn221view3"
+  },
+  {
+    "source_id": "MY23",
+    "source_grade": "D",
+    "open_status": "opened",
+    "reason": "廠商文章第1617–1618行有20–40與50–150 MYR/ft²；換算數學正確。依新協議部落格為D，正文與採用表移除。",
+    "web_ref": "turn209view3"
+  },
+  {
+    "source_id": "TH01",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "合併財務摘要2025欄：銷售65,955.18、總收入70,569.77、淨利6,011.39（百萬THB）；毛利26.71%、淨利8.52%。",
+    "web_ref": "turn227view1"
+  },
+  {
+    "source_id": "TH02",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "泰文財務摘要2568=2025：銷售9,053.7、租賃服務803.5、營運9,857.2、總收入10,001.2、母公司淨利753.2百萬THB；毛利47.4%、淨利7.5%。",
+    "web_ref": "turn233view6"
+  },
+  {
+    "source_id": "TH03",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "REIC2024原文（佛曆2567）全年住宅移轉347,799戶；2025報告也重述，仍同機構同系列非雙源。",
+    "web_ref": "turn233view8"
+  },
+  {
+    "source_id": "TH04",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "PDF第1–2頁：2025全國316,214戶、-9.1%、864,913百萬THB；新屋112,565、中古203,649、占比四捨五入64%；外國公寓14,899戶、60,921百萬THB。",
+    "web_ref": "turn227view3"
+  },
+  {
+    "source_id": "TH05",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn233view10"
+  },
+  {
+    "source_id": "TH06",
+    "source_grade": "A",
+    "open_status": "opened_local_pdf",
+    "reason": "網頁首次取得PDF但後續逾時；原URL直接下載389,870 bytes PDF並本地抽文，核對建築專業例外及建築工種受限條件。",
+    "web_ref": "turn227view5"
+  },
+  {
+    "source_id": "TH07",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "DTN 2026-09文件PDF第1頁引DBD：2025廣義建築及相關顧問收入33,400百萬THB；2026-08法人4,081。不是純室內設計。",
+    "web_ref": "turn253view0"
+  },
+  {
+    "source_id": "TH08",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "OCPB 2025-06-27原文：年度截至公告所述新建186件、住宅增改建111件；沒有全年投訴率分母。",
+    "web_ref": "turn233view9"
+  },
+  {
+    "source_id": "TH09",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "Royal Gazette 2023公告PDF第2頁第3(2.2)款：每日最低承攬價百分之0.01；第1頁定義限自用居住，不含銷售、出租等取得對價用途。",
+    "web_ref": "turn246view2"
+  },
+  {
+    "source_id": "TH10",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "頁面第26行圖片替代文字含全文：2025-12建材年增不變、水泥+5.5%、鋼材-2.0%、衛浴-3.9%。不是全內裝成本或四年累積。",
+    "web_ref": "turn246view0"
+  },
+  {
+    "source_id": "TH11",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn233view2"
+  },
+  {
+    "source_id": "TH12",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "SKU7000933第8行牌價1,000、促銷499 THB/次；第15行浴室工程一年保固；商品為勘查、不是完整裝修總價。",
+    "web_ref": "turn242view2"
+  },
+  {
+    "source_id": "TH13",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "條款第58–66行：最低30m²、不足面積每m²加200 THB、工地未備妥額外回訪每次2,000 THB；排除找平及垃圾等。",
+    "web_ref": "turn246view1"
+  },
+  {
+    "source_id": "TH14",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "2025-10-15公司IPO新聞稿第149–150行：市場2024 THB182.6bn、2029預測237.8bn；公司2024收入16.2bn、淨利1.7bn。屬發行人公告約數。",
+    "web_ref": "turn238view0"
+  },
+  {
+    "source_id": "TH15",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn238view1"
+  },
+  {
+    "source_id": "TH16",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn238view2"
+  },
+  {
+    "source_id": "TH17",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn238view3"
+  },
+  {
+    "source_id": "TH18",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn238view4"
+  },
+  {
+    "source_id": "TH19",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn242view6"
+  },
+  {
+    "source_id": "TH20",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "IMARC表2025 USD5,086.7m；2034預測USD7,033.9m，產品類型含家具、家紡、地板及其他家飾，非施工。",
+    "web_ref": "turn242view4"
+  },
+  {
+    "source_id": "TH21",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn238view7"
+  },
+  {
+    "source_id": "TH22",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn238view8"
+  },
+  {
+    "source_id": "TH23",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開原頁並核實機構、文件主題與定性用途；此來源沒有本次原指標附錄數值。",
+    "web_ref": "turn238view9"
+  },
+  {
+    "source_id": "TH24",
+    "source_grade": "D",
+    "open_status": "fail",
+    "reason": "原PDF本輪工具開啟失敗；直接下載僅957 bytes HTML防護頁。不得以既有opened:true通過。另增TH25主管機關HTML核對。",
+    "web_ref": "turn238view10"
+  },
+  {
+    "source_id": "MY24",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "替代原失效URL；同機構同資料系列，只算單源。",
+    "web_ref": "turn256view0"
+  },
+  {
+    "source_id": "TH25",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "替代原失效URL；同機構同資料系列，只算單源。",
+    "web_ref": "turn258view0"
+  },
+  {
+    "source_id": "VN01",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn183view0"
+  },
+  {
+    "source_id": "VN02",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn183view1"
+  },
+  {
+    "source_id": "VN03",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn183view2"
+  },
+  {
+    "source_id": "VN04",
+    "source_grade": "D",
+    "open_status": "failed",
+    "reason": "原帶 srsltid 的網址此次開啟失敗；另以乾淨網址實讀並建立 VN14，原 URL 不採用。",
+    "web_ref": "turn183view3"
+  },
+  {
+    "source_id": "VN05",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn183view4"
+  },
+  {
+    "source_id": "VN06",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn183view5"
+  },
+  {
+    "source_id": "VN07",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn183view6"
+  },
+  {
+    "source_id": "VN08",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn186view0"
+  },
+  {
+    "source_id": "VN09",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn186view1"
+  },
+  {
+    "source_id": "VN10",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn186view2"
+  },
+  {
+    "source_id": "VN11",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn186view3"
+  },
+  {
+    "source_id": "VN12",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn186view4"
+  },
+  {
+    "source_id": "VN13",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn186view5"
+  },
+  {
+    "source_id": "ID01",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn186view6"
+  },
+  {
+    "source_id": "ID02",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn189view0"
+  },
+  {
+    "source_id": "ID03",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn189view1"
+  },
+  {
+    "source_id": "ID04",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn189view2"
+  },
+  {
+    "source_id": "ID05",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn189view3"
+  },
+  {
+    "source_id": "ID06",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn189view4"
+  },
+  {
+    "source_id": "ID07",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn189view5"
+  },
+  {
+    "source_id": "ID08",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn189view6"
+  },
+  {
+    "source_id": "ID09",
+    "source_grade": "D",
+    "open_status": "opened",
+    "reason": "成功開啟且數字存在；但為平台部落格，依提供的協議 D 級不採用。",
+    "web_ref": "turn192view0"
+  },
+  {
+    "source_id": "ID10",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn192view1"
+  },
+  {
+    "source_id": "ID11",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn192view2"
+  },
+  {
+    "source_id": "ID12",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "政府簽署認證方案原文由認證機構寄存；本輪已核對全文第 53 頁，最終適用需專業確認。",
+    "web_ref": "turn192view3"
+  },
+  {
+    "source_id": "ID13",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn192view4"
+  },
+  {
+    "source_id": "ID14",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "已開啟原文；來源層級與指標獨立來源數分開判定。",
+    "web_ref": "turn192view5"
+  },
+  {
+    "source_id": "VN14",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "乾淨網址實讀；公司服務自述，不視為產業統計。",
+    "web_ref": "turn210view4"
+  },
+  {
+    "source_id": "VN15",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn262view0"
+  },
+  {
+    "source_id": "VN16",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn262view1"
+  },
+  {
+    "source_id": "VN17",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn262view3"
+  },
+  {
+    "source_id": "VN18",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn262view4"
+  },
+  {
+    "source_id": "VN19",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn266view3"
+  },
+  {
+    "source_id": "VN20",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn266view4"
+  },
+  {
+    "source_id": "VN21",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn269view0"
+  },
+  {
+    "source_id": "ID15",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn266view0"
+  },
+  {
+    "source_id": "ID16",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn266view1"
+  },
+  {
+    "source_id": "ID17",
+    "source_grade": "A",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn266view2"
+  },
+  {
+    "source_id": "ID18",
+    "source_grade": "B",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn268view0"
+  },
+  {
+    "source_id": "ID19",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn268view1"
+  },
+  {
+    "source_id": "ID20",
+    "source_grade": "C",
+    "open_status": "opened",
+    "reason": "本輪補充實際開啟；僅採頁面支持之法規存在、法規沿革或公司服務內容，不据此創設未核實營收與法定資格。",
+    "web_ref": "turn268view2"
+  },
+  {
+    "source_id": "PH01",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "PSA 官方建照統計表 A 與正文；數量、價值、面積及年增率均已讀。",
+    "web_ref": "turn194view0"
+  },
+  {
+    "source_id": "PH02",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "PSE 發行人申報 FY2024 財務摘要；已核 PHP 原幣與 gross revenue、稅後淨利欄。",
+    "web_ref": "turn205view5"
+  },
+  {
+    "source_id": "PH03",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "上市公司期中財報 PDF 第 3 頁（P2），已核 H1 銷售、毛利、淨利率、同店與店數。",
+    "web_ref": "turn198view6"
+  },
+  {
+    "source_id": "PH04",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "RA 10350 原法全文由 Lawphil 提供；已讀第 14、15、26–30、34 條。",
+    "web_ref": "turn243view2"
+  },
+  {
+    "source_id": "PH05",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "最高法院判決；已讀主文撤銷承包商舊 IRR 國籍股權限制之範圍。",
+    "web_ref": "turn205view9"
+  },
+  {
+    "source_id": "PH06",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "PRC 公告正文已讀 2024 年 7 月考試 119／400。",
+    "web_ref": "turn205view6"
+  },
+  {
+    "source_id": "PH07",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "PRC 公告正文已讀 2026 年 7 月考試 381／432。",
+    "web_ref": "turn205view7"
+  },
+  {
+    "source_id": "PH09",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "PSA 原表與正文已讀，2025 年全年平均 1.0%、2024 年 1.2%。",
+    "web_ref": "turn205view8"
+  },
+  {
+    "source_id": "PH10",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "RA 11595 第 2 條改寫零售法條件；已讀 PHP25m／PHP10m、互惠及例外。",
+    "web_ref": "turn211view5"
+  },
+  {
+    "source_id": "PH11",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "市調銷售頁可讀；USD4.1bn 與 Base Year2024 明列，完整模型未取得。",
+    "web_ref": "turn211view6"
+  },
+  {
+    "source_id": "PH12",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "世界銀行 Selected Indicators PDF 第 1 頁已讀曆年欄位。",
+    "web_ref": "turn211view7"
+  },
+  {
+    "source_id": "PH13",
+    "source_grade": "D",
+    "open_status": "fail_empty",
+    "reason": "只回傳網頁標題及 0 行，未取得正文；不能支持申訴流程或統計，排除。",
+    "web_ref": "turn205view3"
+  },
+  {
+    "source_id": "PH14",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "官方表單入口可讀，但外國 Special License 表單標 2018，不當作 2026 股权規則。",
+    "web_ref": "turn211view8"
+  },
+  {
+    "source_id": "IN01",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "市調銷售頁及範圍方法摘要可讀；沒有可重建完整模型，按市調自報 C 級。",
+    "web_ref": "turn234view1"
+  },
+  {
+    "source_id": "IN02",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "Magicbricks 平台研究樣本 PDF 第 4–5 頁；非獨立普查，部分樣本年份未指明。",
+    "web_ref": "turn216view4"
+  },
+  {
+    "source_id": "IN03",
+    "source_grade": "B",
+    "open_status": "opened_read",
+    "reason": "ANAROCK 原報告 PDF 第 7 頁，明載 Pan India 只代表七城市，四捨五入數字。",
+    "web_ref": "turn229view4"
+  },
+  {
+    "source_id": "IN04",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "Livspace 品牌價格頁，2026 兩房套餐表可讀；屬供應商示意而非成交樣本。",
+    "web_ref": "turn216view8"
+  },
+  {
+    "source_id": "IN05",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "HomeLane 合約頁可讀，45 天有開工前提與範圍排除，非全案工期。",
+    "web_ref": "turn229view5"
+  },
+  {
+    "source_id": "IN06",
+    "source_grade": "B",
+    "open_status": "opened_read",
+    "reason": "主流財經媒體引用公司 FY25 原始數據；尚未取得審計財報，不當上市年報。",
+    "web_ref": "turn234view2"
+  },
+  {
+    "source_id": "IN07",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "公司官方 LinkedIn 公告可讀；225 crore 及收購說法可讀，頁面僅顯示 2y。",
+    "web_ref": "turn229view1"
+  },
+  {
+    "source_id": "IN08",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "交易法律顧問 JSA 的公告；具有直接交易參與性，但估值無計算底稿，C 級。",
+    "web_ref": "turn247view0"
+  },
+  {
+    "source_id": "IN09",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "投資方 KKR 的募資新聞稿；不是年報，也不是獨立驗證，C 級單源。",
+    "web_ref": "turn229view3"
+  },
+  {
+    "source_id": "IN10",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "COA 提供 Architects Act PDF；已讀註冊、外國資格與稱謂相關條文。",
+    "web_ref": "turn225view0"
+  },
+  {
+    "source_id": "IN11",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "COA 2020 公告已讀；說明 Architect 稱謂，不推出室內設計全面禁令。",
+    "web_ref": "turn234view0"
+  },
+  {
+    "source_id": "IN12",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "DPIIT 2020 FDI 綜合政策原文第 29 頁；一般條件须與後續修改合讀。",
+    "web_ref": "turn234view4"
+  },
+  {
+    "source_id": "IN13",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "COA 室內建築服務委任條件全文相關階段已讀；不是住宅市場平均服務內容。",
+    "web_ref": "turn234view6"
+  },
+  {
+    "source_id": "IN14",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "COA 收費表第 3、7 項已讀；7.5% 分母工程額，10% 分母專業費。",
+    "web_ref": "turn229view6"
+  },
+  {
+    "source_id": "IN15",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "政府 Consumer Protection Act PDF 已讀消費者服務瑕疵定義。",
+    "web_ref": "turn234view7"
+  },
+  {
+    "source_id": "IN16",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "世界銀行指標 PDF 第 1 頁已讀，2591.5 為 FY2024/25E 而非曆年實際。",
+    "web_ref": "turn229view7"
+  },
+  {
+    "source_id": "IN17",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "PIB 2026-08-21 官方公告已讀；2026-05-01 修改與非控制 LBC <=10% 條件。",
+    "web_ref": "turn229view8"
+  },
+  {
+    "source_id": "IN18",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "BIS 提供 2025 家具 QCO 英文法令頁已讀；2026 修正頁兩次 timeout，歷史範圍可用，現行時點待核。",
+    "web_ref": "turn245view3"
+  },
+  {
+    "source_id": "X01",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。",
+    "web_ref": "turn202view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X02",
+    "source_grade": "B",
+    "open_status": "opened_read",
+    "reason": "成本頁逐城讀USD/ft²；配合X11方法頁確定價格2025-12，報告2026。",
+    "web_ref": "turn202view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X03",
+    "source_grade": "B",
+    "open_status": "opened_read",
+    "reason": "2026-04-16發布；APAC moderate辦公fit-out平均1,550USD/m²；區域均值不能與单城值當同一指標互驗。",
+    "web_ref": "turn255view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X04",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "財报PDF第1頁FY2025-03營收928828百萬JPY、營業利益117665百萬JPY；未以本次未找到的段落支持中國虧損店調整敘述。",
+    "web_ref": "turn255view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X05",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "表FY25單位million EUR：revenue26306、grossprofit4978、operating1725、net1496；加盟費一般為淨銷售3%。卡片14.2%與表算18.92%毛利率不一致。",
+    "web_ref": "turn202view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X06",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "PDF第4頁營收7,846億29百萬円；第8頁生活雜貨3,681億84百萬円、營業利益738億円（已取整），FY2025-08。",
+    "web_ref": "turn252view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X07",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "官方說明頁更新2024-12-11，企業／個人／公開模板及全屋／單室功能；不作效率或ROI證據。",
+    "web_ref": "turn255view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X08",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "BSP Table12年平均列：2025=57.5051PHP/USD。",
+    "web_ref": "turn252view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X09",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "SEKI表5.40：2025末四個月份Sep/Oct/Nov/Dec=16680/16640/16644/16782。原16680錯標年末；用16782修正，X18同機構另一表確認。",
+    "web_ref": "turn261view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X10",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "2025全年經社會新聞稿註11：平均中央匯率24.976,91 VND/USD。",
+    "web_ref": "turn244view8",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X11",
+    "source_grade": "B",
+    "open_status": "opened_read",
+    "reason": "方法頁說明2025年12月價格，涵蓋家具、M&E、builder works、AV/IT，indicative benchmarks。",
+    "web_ref": "turn255view3",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X12",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "PDF第1／8頁FY2025-03營收129537、營業利益14222、淨利9550百萬JPY；營業利益率11.0%。",
+    "web_ref": "turn255view4",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X13",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "官方about列450專業人員及Interior、FF&E、turnkey服務、上海／胡志明市／曼谷據點；官網自述不能證明各區獲利。",
+    "web_ref": "turn255view5",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X14",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "官方about列AI／3D與B2B白標/API功能；只支持工具能力，不支持導入報酬。",
+    "web_ref": "turn259view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X15",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "首頁L108–117：克麗緹娜松江廠展示廳，上海625平米，2022完工，設計及工程。",
+    "web_ref": "turn273view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X16",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "作品頁L62–64：越南頭頓商辦450m²／136坪，建築規劃及室內與建商合作；未有獨立完工及利潤驗證。",
+    "web_ref": "turn259view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X17",
+    "source_grade": "C",
+    "open_status": "opened_read",
+    "reason": "about L21–39明列台北與上海辦公室／辦事處，L54–57地址；無發布日，以查閱日識別。",
+    "web_ref": "turn273view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "MJP",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "WDI國家頁Latest value(2025)：人均GDP=35951.045 USD/人；人口=123366734 人；GDP=4440000000000.0 USD。GDP和CN/IN人口按頁面取整，不提高精度。",
+    "web_ref": "turn215view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "MKR",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "WDI國家頁Latest value(2025)：人均GDP=36226.966 USD/人；人口=51684564 人；GDP=1870000000000.0 USD。GDP和CN/IN人口按頁面取整，不提高精度。",
+    "web_ref": "turn215view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "MSG",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "WDI國家頁Latest value(2025)：人均GDP=98813.979 USD/人；人口=6111175 人；GDP=603870000000.0 USD。GDP和CN/IN人口按頁面取整，不提高精度。",
+    "web_ref": "turn215view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "MHK",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "WDI國家頁Latest value(2025)：人均GDP=56983.066 USD/人；人口=7498900 人；GDP=427310000000.0 USD。GDP和CN/IN人口按頁面取整，不提高精度。",
+    "web_ref": "turn215view3",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "MCN",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "WDI國家頁Latest value(2025)：人均GDP=13862 USD/人；人口=1410000000.0 人；GDP=19500000000000.0 USD。GDP和CN/IN人口按頁面取整，不提高精度。",
+    "web_ref": "turn215view4",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "MTH",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "WDI國家頁Latest value(2025)：人均GDP=8056.564 USD/人；人口=71619863 人；GDP=577010000000.0 USD。GDP和CN/IN人口按頁面取整，不提高精度。",
+    "web_ref": "turn244view0",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "MVN",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "WDI國家頁Latest value(2025)：人均GDP=5065.991 USD/人；人口=101598527 人；GDP=514700000000.0 USD。GDP和CN/IN人口按頁面取整，不提高精度。",
+    "web_ref": "turn244view1",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "MID",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "WDI國家頁Latest value(2025)：人均GDP=5059.6 USD/人；人口=285721236 人；GDP=1450000000000.0 USD。GDP和CN/IN人口按頁面取整，不提高精度。人均GDP頁面完整值5059.626，R1保留一位小數5059.6；R2保存來源精度。",
+    "web_ref": "turn244view2",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "MPH",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "WDI國家頁Latest value(2025)：人均GDP=4170.723 USD/人；人口=116786962 人；GDP=487090000000.0 USD。GDP和CN/IN人口按頁面取整，不提高精度。",
+    "web_ref": "turn244view3",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "MIN",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "WDI國家頁Latest value(2025)：人均GDP=2702.48 USD/人；人口=1460000000.0 人；GDP=3960000000000.0 USD。GDP和CN/IN人口按頁面取整，不提高精度。",
+    "web_ref": "turn244view4",
+    "checked_date": "2026-10-09"
+  },
+  {
+    "source_id": "X18",
+    "source_grade": "A",
+    "open_status": "opened_read",
+    "reason": "第53列2025年度及2025Dec均16782，2025Sep16680；與X09同機構不構成獨立雙源。",
+    "web_ref": "turn274view0",
+    "checked_date": "2026-10-09"
+  }
+]
