@@ -258,3 +258,7 @@
 | 前 3 大玩家 | 代表而非排名：Livspace（FY25 Rs 1,460 crore；2026-02 裁員約 12%）、HomeLane／DesignCafe（Rs 747.8 crore）、Asian Paints Beautiful Homes（分項未揭露）；家居零售 Godrej Interio ≈ Rs 4,000 crore（FY26）；到府服務 Urban Company Rs 1,144.5 crore（FY25，非裝修口徑） | 【實際｜中】（營收）／【示意】（排名、Godrej、Urban Company） | G1-09、G1-10；裁決 IN-13 |
 
 **信心總評：不調整，維持「中」。** Claude r1 的 109 條來源全為搜尋摘要、未開頁，其中 25 條與 V1／IN-verification／ChatGPT 同 URL，另有多條為同機構不同頁（Mordor、P&S、Yojo、Square Yards），依 §11.1 不因一致升級；僅 Livspace 2026-02 裁員因新增不同機構而升為雙源。r1 對本市場的主要貢獻是**口徑**而非新數字：(1) 指出 V1「典型 Rs 100–250/ft²」為建築師收費（IN-06b），設計費改為三桶並列；(2) 指出中古 43% 為主要城市登記口徑、非全國，並降為【示意】；(3) 以時間序解除 Livspace 裁員矛盾。新增的市場規模（Credence、Redseer）、翻修級距、Urban Company 與 RERA 等均為單源【示意】，不改變「法規與財報中–高、市場規模與單價低–中」的結構。跨境評分 V1 2.0 vs r1 1 只記錄，待跨國總章以單一規則重評；內部校準資料仍未收到。
+
+## H. V2 定稿註記（一致性審查後，2026-10-10）
+
+以 V2 章節定稿為準，本表以下項目已被一致性審查（`05-report/_qa-log-v2.md`）覆寫：跨境評分以策略章為準（2.3）；住宅室內設計費 ₹50–150／ft²（V1 ₹100–250 為建築師收費）。

@@ -246,3 +246,7 @@
 | 前 3 大玩家（代表、非排名） | CSAP／Mitra10（Rp 17.5 兆，2025）、Kawan Lama（Informa／AZKO；ACES 2025 淨銷售 Rp 8.63 兆、淨利 −25%）、Blibli／Dekoruma；VIVERE 財報未取得 | 【示意｜中】 |
 
 **信心總評：維持低–中。** Claude r1 的 94 條來源全為搜尋摘要，約 25 條與 V1 同 URL 或同一原始機構（BPS 工資、IHPB、Credence、Liputan6、Emerhub、kbli.co.id、CSAP／Dekoruma 公告），依規則不升級；實質貢獻是 (1) 補上 V1 與 ChatGPT 都沒有的修繕補助 BSPS 與通路占比；(2) 以 Pegadaian、Kochiro 兩個不同機構，使含料包工單價升至【實際｜中高｜三源】、純設計費升至【實際｜中｜雙源】；(3) 依 Claude 裁決 ID-09 把設計師管制改為「無專屬執照、須法定 SKK」。headline 市場規模仍三方皆無官方值，外資上限現況仍未決。
+
+## H. V2 定稿註記（一致性審查後，2026-10-10）
+
+以 V2 章節定稿為準，本表以下項目已被一致性審查（`05-report/_qa-log-v2.md`）覆寫：G5 節含料包工單價「三源」、純工資、設計費「雙源」均為 C 級報價頁，V2 定稿改為【示意｜中｜多源 C 級行情區間】；新台幣換算依 IDR 16,782、TWD 31.1663 重算（補貼房裝潢 NT$74–149 億、FLPP NT$643 億）。
