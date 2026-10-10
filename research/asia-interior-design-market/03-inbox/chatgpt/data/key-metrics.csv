@@ -1,0 +1,444 @@
+﻿market,metric,value,unit,year,source_id,source_url,definition,confidence
+TW,名目人均GDP,39492,USD/人,2025,TW01,https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=235719,【示意】2026-02-13初步統計；後續可能修訂；獨立來源1；來源A級,低
+TW,年末戶籍人口,23299132,人,2025,TW02,https://www.moi.gov.tw/News_Content.aspx?n=2&s=335870&sms=9009,【示意】年末戶籍登記，不等同WB年中常住人口；獨立來源1；來源A級,低
+TW,年末戶數,9851532,戶,2025,TW02,https://www.moi.gov.tw/News_Content.aspx?n=2&s=335870&sms=9009,【示意】戶籍戶數，不等同住宅套數；獨立來源1；來源A級,低
+TW,65歲以上人口占比,20.06,%,2025,TW02,https://www.moi.gov.tw/News_Content.aspx?n=2&s=335870&sms=9009,【示意】戶籍登記年末；獨立來源1；來源A級,低
+TW,平均每戶人口,2.37,人/戶,2025,TW02,https://www.moi.gov.tw/News_Content.aspx?n=2&s=335870&sms=9009,【示意】戶籍戶量；獨立來源1；來源A級,低
+TW,建物第一次登記,176690,棟,2025,TW03,https://www.moi.gov.tw/News_Content.aspx?n=2&s=339138,【示意】全建物第一次登記；不是住宅完工戶數；獨立來源1；來源A級,低
+TW,建物買賣登記,261308,棟,2025,TW03,https://www.moi.gov.tw/News_Content.aspx?n=2&s=339138,【示意】全建物含新舊；不是中古住宅交易；獨立來源1；來源A級,低
+TW,建物買賣年增率,-25.5,%,2025,TW03,https://www.moi.gov.tw/News_Content.aspx?n=2&s=339138,【示意】全建物買賣登記同比；獨立來源1；來源A級,低
+TW,建物繼承登記,78324,棟,2025,TW03,https://www.moi.gov.tw/News_Content.aspx?n=2&s=339138,【示意】全建物繼承；獨立來源1；來源A級,低
+TW,低度使用住宅,894582,宅,2025下半年,TW04,https://www.moi.gov.tw/News_Content.aspx?n=2905&s=339707,【示意】下半年低用電代理；不是空屋普查；獨立來源1；來源A級,低
+TW,低度使用住宅比率,9.4,%,2025下半年,TW04,https://www.moi.gov.tw/News_Content.aspx?n=2905&s=339707,【示意】低用電住宅／房屋稅籍住宅；獨立來源1；來源A級,低
+TW,老宅延壽預算,5000000000,TWD,2025–2027,TW05,https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/2fcc4669-ac6d-43af-bbe5-d1359c21c4c8,【示意】政策投入總額，不是室內裝修市場營收；獨立來源1；來源A級,低
+TW,登記室內裝修業,17000,家以上,2026,TW07,https://www.moi.gov.tw/News_Content.aspx?n=4&s=337863,【示意】官方約1.7萬餘家；不等同純設計公司；獨立來源1；來源A級,低
+TW,室內裝修專業技術人員,33000,人約,2026,TW07,https://www.moi.gov.tw/News_Content.aspx?n=4&s=337863,【示意】登記專業技術人員；非實際就業設計師；獨立來源1；來源A級,低
+TW,登記裝修業每百萬人,729.6,家以上/百萬人,2025人口／2026業者,TW07,https://www.moi.gov.tw/News_Content.aspx?n=4&s=337863,【示意】研究計算；分母TW02年末人口；不是純設計公司密度；獨立來源1；來源A級,低
+TW,室裝契約範本簽約金上限,5,%,發布年未載；2026-10-09查詢,TW09,https://www.ey.gov.tw/File/EBBE5BC7D35E200E?A=C,【示意】官方範本條款，不推論為全部私人契約強制比例；獨立來源1；來源A級；查核限制：PDF第2頁第六條：簽約金最高不得逾5%；檔案內容未載2014發布日期，年份只能按未載日期處理。,低
+TW,特力集團合併營收,36832000000,TWD,2024,TW12,https://www.testritegroup.com/uploads/2024_069db0ff1f.pdf,【示意】全球貿易及零售等，不是台灣裝修TAM；獨立來源1；來源A級,低
+TW,特力台灣零售營收,13720000000,TWD,2024,TW12,https://www.testritegroup.com/uploads/2024_069db0ff1f.pdf,【示意】企業台灣零售分部，並非全台家居零售市場；獨立來源1；來源A級,低
+TW,特力集團毛利,9477000000,TWD,2024,TW12,https://www.testritegroup.com/uploads/2024_069db0ff1f.pdf,【示意】合併財報、全業務；獨立來源1；來源A級,低
+TW,特力屋大型店,28,店,2024,TW12,https://www.testritegroup.com/uploads/2024_069db0ff1f.pdf,【示意】2024年底台灣；獨立來源1；來源A級,低
+TW,特力屋社區店,35,店,2024,TW12,https://www.testritegroup.com/uploads/2024_069db0ff1f.pdf,【示意】2024年底台灣；獨立來源1；來源A級,低
+TW,HOLA台灣店,25,店,2024,TW12,https://www.testritegroup.com/uploads/2024_069db0ff1f.pdf,【示意】2024年底台灣；獨立來源1；來源A級,低
+TW,100用戶無裝修經驗,77,%,2025文章；樣本期間未載,TW14,https://www.100.com.tw/article/8712,【示意】平台後台用戶，非全台人口代表樣本；不是已確認的2025全年成交抽樣；獨立來源1；來源C級；查核限制：L32–40：平台後台77%無裝修經驗、超過50%需求新購住宅，文章標題2025；未揭統計抽樣期間。,低
+TW,100需求來自新購住宅,>50,%,2025文章；樣本期間未載,TW14,https://www.100.com.tw/article/8712,【示意】平台後台需求，新購可包含中古，不是新屋占比；不是已確認的2025全年成交抽樣；獨立來源1；來源C級；查核限制：L32–40：平台後台77%無裝修經驗、超過50%需求新購住宅，文章標題2025；未揭統計抽樣期間。,低
+TW,全裝修產值估算,550000000000,TWD,2025,TW15,https://house.udn.com/house/story/123589/9245511,【示意】100平台據財政部推估；原始行業範圍未公開、不能當住宅翻修；獨立來源1；來源C級,低
+TW,100 APP下載量,>1580000,次,2026,TW15,https://house.udn.com/house/story/123589/9245511,【示意】截至2026-01報導平台自述累計；非活躍用戶；獨立來源1；來源C級,低
+TW,PULO累計完工屋主,>2000,位,統計截止日未載；2026-10-09查詢,TW16,https://www.puloapp.com/home-kb/puloapp-caption/,"【示意】官網未標統計截止日；累積非年度；年份不是2026年度實績；獨立來源1；來源C級；查核限制：L31–35：自2015累計完成超過2,000位屋主；未載統計截止日，2026僅檢索年。",低
+TW,PULO成交抽成,0,%,統計截止日未載；2026-10-09查詢,TW17,https://www.puloapp.com/become-pro/,【示意】官網宣稱成交不抽成；會員費另計；年份不是2026年度實績；獨立來源1；來源C級；查核限制：L112–114：平台宣稱成交不抽%；未載方案生效日，2026僅檢索年。,低
+TW,台北商辦裝修成本,1560.7670104229096,USD/m²,2026,X02,https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/,【示意】C&W 2026商辦fit-out，價格基準2025年12月；USD/ft²÷0.09290304，非住宅報價，報告自身匯率；獨立來源1；來源B級,低
+JP,住宅翻修市場估算,7511900000000,JPY,2025,JP01,https://www.yano.co.jp/press-release/show/press_id/4153,【示意】居住者自付增改築+設備修繕維持+家具內裝；排除房東出租、公寓公共大修、非住宅；獨立來源1；來源B級,低
+JP,住宅翻修市場預測,7700000000000,JPY,2026,JP01,https://www.yano.co.jp/press-release/show/press_id/4153,【預測／示意】預測非實績；同矢野口徑，公開摘要取整數；獨立來源1；來源B級,低
+JP,住宅翻修同比成長,2.5,%,2025,JP01,https://www.yano.co.jp/press-release/show/press_id/4153,【示意】2026報告估計成長，勿用不同版2024數倒算；獨立來源1；來源B級,低
+JP,住宅翻修市場估算,7347000000000,JPY,2024,JP02,https://www.yano.co.jp/press-release/show/press_id/3877,【示意】2025報告歷史估算；與2026報告基期可能修訂；獨立來源1；來源B級,低
+JP,住宅存量,65047000,戶,2023,JP03,https://www.stat.go.jp/data/jyutaku/2023/pdf/kihon_gaiyou.pdf,【示意】5年普查確報，包括無居住世帯住宅；近期完整stock基準；獨立來源1；來源A級,低
+JP,空屋,9002000,戶,2023,JP03,https://www.stat.go.jp/data/jyutaku/2023/pdf/kihon_gaiyou.pdf,【示意】住宅土地調查確報，包括出租待租等；獨立來源1；來源A級,低
+JP,空屋率,13.8,%,2023,JP03,https://www.stat.go.jp/data/jyutaku/2023/pdf/kihon_gaiyou.pdf,【示意】全部住宅中的空屋；不等同可交易資產；獨立來源1；來源A級,低
+JP,自有住宅率,60.9,%,2023,JP03,https://www.stat.go.jp/data/jyutaku/2023/pdf/kihon_gaiyou.pdf,【示意】居住世帯住宅分母；獨立來源1；來源A級,低
+JP,新設住宅開工,740667,戶,2025,JP04,https://www.mlit.go.jp/report/press/content/kencha25.pdf,【示意】曆年開工、不是竣工；獨立來源1；來源A級,低
+JP,新設住宅開工年增率,-6.5,%,2025,JP04,https://www.mlit.go.jp/report/press/content/kencha25.pdf,【示意】曆年戶數同比；獨立來源1；來源A級,低
+JP,新設住宅開工面積,56885000,m²,2025,JP04,https://www.mlit.go.jp/report/press/content/kencha25.pdf,【示意】住宅著工床面積；獨立來源1；來源A級,低
+JP,育兒家庭翻修平均資金,1490000,JPY/案,2025調查,JP05,https://www.mlit.go.jp/report/press/content/002012180.pdf,【示意】三大都市圈育兒家庭；2024-04至2025-03施工；包含小修非全屋平均；獨立來源1；來源A級,低
+JP,一般內裝無許可輕微工程門檻,5000000,JPY,2026-10-09查詢現行說明,JP06,https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000080.html,"【示意】建築一式以外工程每件請負金額 <5,000,000 JPY（含稅）；非其他法令豁免；2026為查詢年，不代表首次施行年；獨立來源1；來源A級",低
+JP,一般建設業財務條件,5000000,JPY,2026-10-09查詢現行說明,JP07,https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000082.html,【示意】自有資本或資金籌措能力選項；另有技術與管理條件；2026為查詢年，不代表首次施行年；獨立來源1；來源A級,低
+JP,Nitori合併營收,928828000000,JPY,FY2025-03,JP11,https://www.nitorihd.co.jp/ir/performance/pl.html,【示意】IFRS全球家居零售等，不是日本住宅翻修；獨立來源1；來源A級,低
+JP,Nitori合併營收,912248000000,JPY,FY2026-03,JP11,https://www.nitorihd.co.jp/ir/performance/pl.html,【示意】IFRS全球家居零售等；獨立來源1；來源A級,低
+JP,Nitori營業利益,125526000000,JPY,FY2026-03,JP11,https://www.nitorihd.co.jp/ir/performance/pl.html,【示意】IFRS全球集團；獨立來源1；來源A級,低
+JP,KATITAS營收,151800000000,JPY,FY2026-03,JP12,https://katitas.co.jp/ir/business.html,【示意】買翻賣全屋售價收入，含物件取得價非純裝修；獨立來源1；來源A級,低
+JP,KATITAS營業利益,18200000000,JPY,FY2026-03,JP12,https://katitas.co.jp/ir/business.html,【示意】官方IR摘要取整數；獨立來源1；來源A級,低
+JP,KATITAS售屋件數,8380,件,FY2026-03,JP12,https://katitas.co.jp/ir/business.html,【示意】集團再生住宅銷售；獨立來源1；來源A級,低
+JP,RENOVERU客製60m²價格,15000000–21000000,JPY/案,2026查詢,JP13,https://www.renoveru.jp/contents/price,【示意】首都圈公司客戶實績，非全國均價；稅別未明；獨立來源1；來源C級,低
+JP,RENOVERU標準70m²價格,11000000–13000000,JPY/案,2026查詢,JP13,https://www.renoveru.jp/contents/price,【示意】The R產品；非市場基本價；獨立來源1；來源C級,低
+JP,積水ハウス集團翻修營收,183870000000,JPY,2025榜單,JP15,https://prtimes.jp/main/html/rd/p/000000232.000074598.html,【示意】Nikka新聞稿轉引產業新聞調查，決算基期依原榜；獨立來源1；來源C級,低
+JP,大和ハウス集團翻修營收,178610000000,JPY,2025榜單,JP15,https://prtimes.jp/main/html/rd/p/000000232.000074598.html,【示意】同上，不等同集團總營收；獨立來源1；來源C級,低
+JP,Nikka店數,113,店,2025-10,JP15,https://prtimes.jp/main/html/rd/p/000000232.000074598.html,【示意】全國門店；獨立來源1；來源C級,低
+JP,SUUMO排名收錄公司,932,家,2026-09-02至2026-10-06,JP16,https://suumo.jp/remodel/rank/kaisha/,【示意】SUUMO頁面名為2026年9月排行；按各社頁面アクセス數，932社為該排行樣本；獨立來源1；來源C級；查核限制：L34/81–85：932家公司、頁面標2026年9月榜、集計2026-09-02至10-06；アクセス排行榜不是營收／成交排行。,低
+JP,TOTOリモデルクラブ,5000,工事店約,2025,JP17,https://jp.toto.com/assets/files/report2025_52-60.pdf,【示意】志願加盟協作網絡，非直營店；獨立來源1；來源A級,低
+JP,公共工事設計勞務單價,25834,JPY/日,2026,JP18,https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00337.html,【示意】全職種全國加權平均；非室裝木工實領/報價；獨立來源1；來源A級,低
+JP,公共工事設計勞務單價年增,4.5,%,2026,JP18,https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00337.html,【示意】全職種單純平均同比；與加權單價口徑不同；獨立來源1；來源A級,低
+JP,先進窗戶翻修每戶補助上限,1000000,JPY/戶,2026,JP19,https://jutaku-shoene2026.mlit.go.jp/about/reform.html,【示意】符合工項和產品資格、有預算額度；獨立來源1；來源A級,低
+JP,窗戶翻修補助總預算,112500000000,JPY,2026,JP19,https://jutaku-shoene2026.mlit.go.jp/about/reform.html,【示意】環境省先進的窗戶翻修事業預算，非已實際支出；獨立來源1；來源A級,低
+JP,人均GDP,35951.045,USD/人,2025,MJP,https://data.worldbank.org/country/japan,【示意】名目、現價美元；WDI 2025歷史數列，可能修訂，非家庭可支配所得；獨立來源1；來源A級,低
+JP,人口,123366734,人,2025,MJP,https://data.worldbank.org/country/japan,【示意】WDI 2025；CN、IN為頁面billion顯示的四捨五入值，其餘依顯示人數；獨立來源1；來源A級,低
+JP,GDP,4440000000000.0,USD,2025,MJP,https://data.worldbank.org/country/japan,【示意】WDI 2025現價；頁面billion/trillion四捨五入值；獨立來源1；來源A級,低
+JP,東京商辦裝修成本,2314.24073959259,USD/m²,2026,X02,https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/,【示意】C&W 2026商辦fit-out，價格基準2025年12月；USD/ft²÷0.09290304，非住宅報價，報告自身匯率；獨立來源1；來源B級,低
+JP,MUJI營收,784629,百萬JPY,FY2025-08,X06,https://www.ryohin-keikaku.jp/pdf/corporate/overview/2025-2026_jp.pdf,【示意】良品計畫全球合併；生活雜貨含多項商品，不等於家具市場；獨立來源1；來源C級,低
+JP,MUJI營業利益,73800,百萬JPY,FY2025-08,X06,https://www.ryohin-keikaku.jp/pdf/corporate/overview/2025-2026_jp.pdf,【示意】良品計畫全球合併；生活雜貨含多項商品，不等於家具市場；原公司簡介為738億日圓約數，換成百萬單位不代表精度到百萬；獨立來源1；來源C級,低
+JP,MUJI生活雜貨銷售,368184,百萬JPY,FY2025-08,X06,https://www.ryohin-keikaku.jp/pdf/corporate/overview/2025-2026_jp.pdf,【示意】良品計畫全球合併；生活雜貨含多項商品，不等於家具市場；獨立來源1；來源C級,低
+KR,人口,51.82,百萬人,2025,KR01,https://eiec.kdi.re.kr/policy/materialView.do?num=284799,【示意】2025-11-01人口普查；含外籍；獨立來源1；來源A級,低
+KR,65歲以上人口,10.72,百萬人,2025,KR01,https://eiec.kdi.re.kr/policy/materialView.do?num=284799,【示意】人口普查；獨立來源1；來源A級,低
+KR,65歲以上占比,20.7,%,2025,KR01,https://eiec.kdi.re.kr/policy/materialView.do?num=284799,【示意】人口普查；獨立來源1；來源A級,低
+KR,住宅存量,20.18,百萬戶,2025,KR01,https://eiec.kdi.re.kr/policy/materialView.do?num=284799,【示意】不含住宅以外居所；獨立來源1；來源A級,低
+KR,公寓住宅占比,65.8,%,2025,KR01,https://eiec.kdi.re.kr/policy/materialView.do?num=284799,【示意】公寓戶數／住宅總戶数；獨立來源1；來源A級,低
+KR,20年以上屋齡占比,56,%,2025,KR01,https://eiec.kdi.re.kr/policy/materialView.do?num=284799,【示意】住宅存量；獨立來源1；來源A級,低
+KR,30年以上屋齡占比,30.6,%,2025,KR01,https://eiec.kdi.re.kr/policy/materialView.do?num=284799,【示意】住宅存量；獨立來源1；來源A級,低
+KR,單人戶,8.24,百萬戶,2025,KR01,https://eiec.kdi.re.kr/policy/materialView.do?num=284799,【示意】一般家戶；獨立來源1；來源A級,低
+KR,單人戶占比,36.6,%,2025,KR01,https://eiec.kdi.re.kr/policy/materialView.do?num=284799,【示意】一般家戶；獨立來源1；來源A級,低
+KR,30年以上屋齡占比,28,%,2024,KR02,https://www.korea.kr/news/policyNewsView.do?newsId=156721680,【示意】住宅存量；2024基期；獨立來源1；來源A級,低
+KR,住宅存量,19.87,百萬戶,2024,KR02,https://www.korea.kr/news/policyNewsView.do?newsId=156721680,【示意】不含officetel等非住宅居所；獨立來源1；來源A級,低
+KR,Hanssem合併營收,1744538,百萬KRW,2025,KR03,https://company.hanssem.com/ir/financials/highlights,【示意】家具、Rehaus、特販等全集團；非純住宅翻修；獨立來源1；來源C級,低
+KR,Hanssem合併營業利益,18491,百萬KRW,2025,KR03,https://company.hanssem.com/ir/financials/highlights,【示意】集團營業利益；獨立來源1；來源C級,低
+KR,Hanssem合併营收,1908391,百萬KRW,2024,KR03,https://company.hanssem.com/ir/financials/highlights,【示意】同口徑比較；獨立來源1；來源C級,低
+KR,Hanssem合併營業利益率,1.06,%,2025,KR03,https://company.hanssem.com/ir/financials/highlights,【示意】研究計算：18491／1744538×100；非工程毛利；獨立來源1；來源C級,低
+KR,오늘의집營收,321500,百萬KRW,2025,KR04,https://ohstory.io/press/pressrelease/15242,【示意】Bucketplace營收，非GMV；獨立來源1；來源C級,低
+KR,오늘의집營收年增,11.7,%,2025,KR04,https://ohstory.io/press/pressrelease/15242,【示意】公司公告約值；獨立來源1；來源C級,低
+KR,오늘의집施工交易營收增長,>3.5,倍,2025,KR04,https://ohstory.io/press/pressrelease/15242,【示意】施工交易營收較2024；非市場成長率；獨立來源1；來源C級,低
+KR,오늘의집 Standard合作業者,400,家,2025,KR04,https://ohstory.io/press/pressrelease/15242,【示意】約數，公司自報；獨立來源1；來源C級,低
+KR,實內建築承包登記資本門檻,150000000,KRW,2022修訂版,KR05,https://www.law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=129840259&gubun=,【示意】歷史法規附表；非2026最新確認，須專業複核；獨立來源1；來源A級,低
+KR,實內建築承包登記技術人員,2,人以上,2022修訂版,KR05,https://www.law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=129840259&gubun=,【示意】歷史法規附表；須專業複核；獨立來源1；來源A級,低
+KR,FDI認定通常最低投資,100000000,KRW,查閱2026,KR06,https://www.investkorea.org/ik-en/cntnts/i-334/web.do,【示意】投資額與10%持股並列之FDI認定，不等於一般公司成立門檻；獨立來源1；來源A級,低
+KR,名目GDP,2676.7,兆KRW,2025,KR08,https://www.bok.or.kr/portal/bbs/B0000501/view.do?depth=201264&menuNo=201264&nttId=10098382&oldMenuNo=201150&programType=newsData&relate=Y,【示意】2025國民帳暫定；獨立來源1；來源A級,低
+KR,人均GNI,36963,USD／人,2025,KR08,https://www.bok.or.kr/portal/bbs/B0000501/view.do?depth=201264&menuNo=201264&nttId=10098382&oldMenuNo=201150&programType=newsData&relate=Y,【示意】GNI不是GDP，不填入GDP比較欄；獨立來源1；來源A級,低
+KR,實質GDP成長,1.1,%,2025,KR08,https://www.bok.or.kr/portal/bbs/B0000501/view.do?depth=201264&menuNo=201264&nttId=10098382&oldMenuNo=201150&programType=newsData&relate=Y,【示意】2025國民帳暫定；獨立來源1；來源A級,低
+KR,室內裝修消費爭議申請,551,件,2024,KR09,https://www.khan.co.kr/article/202610071201001,【示意】韓國消費者院數據由主流媒體轉引；獨立來源1；來源B級,低
+KR,室內裝修消費爭議申請,795,件,2025,KR09,https://www.khan.co.kr/article/202610071201001,【示意】同系列；非全市場發生率；獨立來源1；來源B級,低
+KR,室內裝修消費爭議申請,430,件,2026H1,KR09,https://www.khan.co.kr/article/202610071201001,【示意】2026年1–6月消費者院接收的室內裝修消費爭議申請；非全年。；獨立來源1；來源B級；查核限制：L214、230–232；2026-10-07 引用韓國消費者院：2024 年 551 件、2025 年 795 件、2026 上半年 430 件；2023–2026H1 瑕疵修補不滿 56.9%。 逐列核對值：430 件；原單位換算見定義。,低
+KR,裝修申請中瑕疵修補不滿占比,56.9,%,2023–2026H1,KR09,https://www.khan.co.kr/article/202610071201001,【示意】2243件申請的原因分類；獨立來源1；來源B級,低
+KR,Hyundai Livart合併營收,1546206,百萬KRW,2025,KR14,https://company.hyundailivart.co.kr/ko/statements,【示意】家具等全集團；非純室內設計；獨立來源1；來源C級,低
+KR,Hyundai Livart合併毛利,268091,百萬KRW,2025,KR14,https://company.hyundailivart.co.kr/ko/statements,【示意】全年合併；獨立來源1；來源C級,低
+KR,Hyundai Livart合併營業利益,15717,百萬KRW,2025,KR14,https://company.hyundailivart.co.kr/ko/statements,【示意】全年合併；獨立來源1；來源C級,低
+KR,LX Hausys營收,31787,億KRW,2025,KR18,https://ir.gsifn.io/lghausys/fn_statements.html?koreng=1,【示意】公司官方嵌入財報；含非家居材料；獨立來源1；來源C級,低
+KR,LX Hausys營業利益,131,億KRW,2025,KR18,https://ir.gsifn.io/lghausys/fn_statements.html?koreng=1,【示意】全集團口徑；獨立來源1；來源C級,低
+KR,人均GDP,36226.966,USD/人,2025,MKR,https://data.worldbank.org/country/korea-rep,【示意】名目、現價美元；WDI 2025歷史數列，可能修訂，非家庭可支配所得；獨立來源1；來源A級,低
+KR,人口,51684564,人,2025,MKR,https://data.worldbank.org/country/korea-rep,【示意】WDI 2025；CN、IN為頁面billion顯示的四捨五入值，其餘依顯示人數；獨立來源1；來源A級,低
+KR,GDP,1870000000000.0,USD,2025,MKR,https://data.worldbank.org/country/korea-rep,【示意】WDI 2025現價；頁面billion/trillion四捨五入值；獨立來源1；來源A級,低
+KR,首爾商辦裝修成本,1399.3083541722638,USD/m²,2026,X02,https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/,【示意】C&W 2026商辦fit-out，價格基準2025年12月；USD/ft²÷0.09290304，非住宅報價，報告自身匯率；獨立來源1；來源B級,低
+SG,人均GDP,98813.979,USD/人,2025,MSG,https://data.worldbank.org/country/singapore,【示意】名目、現價美元；WDI 2025歷史數列，可能修訂，非家庭可支配所得；獨立來源1；來源A級,低
+SG,人口,6111175,人,2025,MSG,https://data.worldbank.org/country/singapore,【示意】WDI 2025；CN、IN為頁面billion顯示的四捨五入值，其餘依顯示人數；獨立來源1；來源A級,低
+SG,GDP,603870000000.0,USD,2025,MSG,https://data.worldbank.org/country/singapore,【示意】WDI 2025現價；頁面billion/trillion四捨五入值；獨立來源1；來源A級,低
+SG,HDB住宅完工,20294,戶,FY2024,SG01,https://www.hdb.gov.sg/-/media/hdb-pulse/reports/annual-reports-and-financial-statements/HDB_Key-Statistics-2025.pdf,【示意】HDB會計年度截至2025-03-31；不含DBSS；獨立來源1；來源A級,低
+SG,HDB住宅施工中,91941,戶,FY2024末,SG01,https://www.hdb.gov.sg/-/media/hdb-pulse/reports/annual-reports-and-financial-statements/HDB_Key-Statistics-2025.pdf,【示意】不含DBSS；獨立來源1；來源A級,低
+SG,HDB新屋訂購,24220,戶,FY2024,SG01,https://www.hdb.gov.sg/-/media/hdb-pulse/reports/annual-reports-and-financial-statements/HDB_Key-Statistics-2025.pdf,【預測／示意】部分選屋仍進行，含預計bookings；非交屋；獨立來源1；來源A級,低
+SG,HDB轉售登記,28508,件,FY2024,SG01,https://www.hdb.gov.sg/-/media/hdb-pulse/reports/annual-reports-and-financial-statements/HDB_Key-Statistics-2025.pdf,【示意】登記案件；非全國住宅交易；獨立來源1；來源A級,低
+SG,HDB出租整戶有效案件,59567,件,2025-03-31,SG01,https://www.hdb.gov.sg/-/media/hdb-pulse/reports/annual-reports-and-financial-statements/HDB_Key-Statistics-2025.pdf,【示意】Active cases renting out of flat；獨立來源1；來源A級,低
+SG,4-room BTO裝修預算（預測）,51000–61800,SGD／案,2025,SG03,https://qanvast.com/sg/articles/how-much-is-a-3-4-and-5-room-hdb-flat-renovation-in-2025-3384,【預測／示意】Qanvast 2024樣本中位數区間加2–3%；非全國平均；獨立來源1；來源C級,低
+SG,4-room轉售HDB裝修預算（預測）,64300–80300,SGD／案,2025,SG03,https://qanvast.com/sg/articles/how-much-is-a-3-4-and-5-room-hdb-flat-renovation-in-2025-3384,【預測／示意】Qanvast 2024樣本推算2025；獨立來源1；來源C級,低
+SG,5-room轉售HDB裝修預算（預測）,84300–97000,SGD／案,2025,SG03,https://qanvast.com/sg/articles/how-much-is-a-3-4-and-5-room-hdb-flat-renovation-in-2025-3384,【預測／示意】Qanvast 2024樣本推算2025；獨立來源1；來源C級,低
+SG,BTO裝修樣本數,259,案,2024,SG03,https://qanvast.com/sg/articles/how-much-is-a-3-4-and-5-room-hdb-flat-renovation-in-2025-3384,【示意】Qanvast平台非隨機樣本；獨立來源1；來源C級,低
+SG,轉售HDB裝修樣本數,302,案,2024,SG03,https://qanvast.com/sg/articles/how-much-is-a-3-4-and-5-room-hdb-flat-renovation-in-2025-3384,【示意】Qanvast平台非隨機樣本；獨立來源1；來源C級,低
+SG,4-room轉售裝修期程（預期）,10–12,週,2025,SG03,https://qanvast.com/sg/articles/how-much-is-a-3-4-and-5-room-hdb-flat-renovation-in-2025-3384,【預測／示意】平台市場旅程工期，不取代HDB許可期限；獨立來源1；來源C級,低
+SG,CASE裝修承包商投訴,962,件,2024,SG04,https://www.case.org.sg/wp-content/uploads/2025/02/Media-Release-CASE-sees-prepayment-losses-more-than-quadruple-in-2024-entertainment-related-complaints-nearly-triple.pdf,【示意】CASE接收申訴；無總完工案件分母；獨立來源1；來源B級,低
+SG,CASE裝修承包商投訴,1168,件,2023,SG04,https://www.case.org.sg/wp-content/uploads/2025/02/Media-Release-CASE-sees-prepayment-losses-more-than-quadruple-in-2024-entertainment-related-complaints-nearly-triple.pdf,【示意】比較基期；獨立來源1；來源B級,低
+SG,CASE裝修預付款損失,728813.76,SGD,2024,SG04,https://www.case.org.sg/wp-content/uploads/2025/02/Media-Release-CASE-sees-prepayment-losses-more-than-quadruple-in-2024-entertainment-related-complaints-nearly-triple.pdf,【示意】已報告損失，非全產業損失估計；獨立來源1；來源B級,低
+SG,CASE家具投訴,720,件,2024,SG04,https://www.case.org.sg/wp-content/uploads/2025/02/Media-Release-CASE-sees-prepayment-losses-more-than-quadruple-in-2024-entertainment-related-complaints-nearly-triple.pdf,【示意】與裝修承包商分類分開；獨立來源1；來源B級,低
+SG,非CaseTrust承包商占裝修申訴,97,%,2024,SG04,https://www.case.org.sg/wp-content/uploads/2025/02/Media-Release-CASE-sees-prepayment-losses-more-than-quadruple-in-2024-entertainment-related-complaints-nearly-triple.pdf,【示意】約數；不能推導CaseTrust因果效果；獨立來源1；來源B級,低
+SG,全用途fit-out市場（預測）,4.2–6.5,十億SGD,2024f,SG07,https://links.sgx.com/FileOpen/Final%20Offer%20Document_0.ashx?App=IPO&FileID=6584,【預測／示意】Converging Knowledge，公共／商業／住宅等內裝；非住宅翻修；獨立來源1；來源B級,低
+SG,全用途fit-out市場（預測）,4.8–7.4,十億SGD,2027f,SG07,https://links.sgx.com/FileOpen/Final%20Offer%20Document_0.ashx?App=IPO&FileID=6584,【預測／示意】Converging Knowledge事前預測；勿線性外推2030；獨立來源1；來源B級,低
+SG,Attika營收,26968529,SGD,2023,SG07,https://links.sgx.com/FileOpen/Final%20Offer%20Document_0.ashx?App=IPO&FileID=6584,【示意】歷史財務示例；新加坡fit-out承包，不代表住宅；獨立來源1；來源A級,低
+SG,Attika毛利率,21.7,%,2023,SG07,https://links.sgx.com/FileOpen/Final%20Offer%20Document_0.ashx?App=IPO&FileID=6584,【示意】招股書歷史比率，不代表現況；獨立來源1；來源A級,低
+SG,Attika毛利率,11.9,%,2024Q1,SG07,https://links.sgx.com/FileOpen/Final%20Offer%20Document_0.ashx?App=IPO&FileID=6584,【示意】2024第一季未經審核期間；非全年；獨立來源1；來源A級,低
+SG,人均GDP,129194,SGD／人,2025,SG08,https://www.singstat.gov.sg/find-data/explore-data-themes/economy-prices/national-accounts/latest-news-data,【示意】當期市價；美元及新台幣另見固定匯率換算表；獨立來源1；來源A級,低
+SG,名目GDP,789529.2,百萬SGD,2025,SG08,https://www.singstat.gov.sg/find-data/explore-data-themes/economy-prices/national-accounts/latest-news-data,【示意】當期市價；獨立來源1；來源A級,低
+SG,人均GDP,126803,SGD／人,2024,SG08,https://www.singstat.gov.sg/find-data/explore-data-themes/economy-prices/national-accounts/latest-news-data,【示意】頁面前一期年度值；獨立來源1；來源A級,低
+SG,建造業移工配額,5,名Work Permit／本地合格雇員,查閱2026,SG09,https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/construction-sector-requirements,【示意】適用建造業認定並達LQS；非所有設計公司；獨立來源1；來源A級,低
+SG,台灣等NAS較高技能移工月徵費,300,SGD／人月,2024起,SG09,https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/construction-sector-requirements,【示意】勞工徵費，不是工資；獨立來源1；來源A級,低
+SG,台灣等NAS基本技能移工月徵費,700,SGD／人月,2024起,SG09,https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/construction-sector-requirements,【示意】勞工徵費，不是工資；獨立來源1；來源A級,低
+SG,Qanvast累計使用屋主,>95000,人／戶,查閱2026,SG10,https://qanvast.com/sg,【示意】網站自述累計找設計師；非年度MAU／成交戶；獨立來源1；來源C級,低
+SG,Qanvast保證上限,150000,SGD,查閱2026,SG10,https://qanvast.com/sg,【示意】合約額50%與15萬取低；倒閉適用條件依條款；獨立來源1；來源C級,低
+SG,全用途翻新市場（歷史估計）,4179.5,百萬SGD,2022,SG11,https://www.sec.gov/Archives/edgar/data/2002236/000121390024045316/ea0206536-fwp_springview.htm,【示意】Frost & Sullivan renovation by revenue，住宅+其他；不含另列A&A；獨立來源1；來源B級,低
+SG,全用途翻新市場（預測）,4630.2,百萬SGD,2024E,SG11,https://www.sec.gov/Archives/edgar/data/2002236/000121390024045316/ea0206536-fwp_springview.htm,【預測／示意】2024招股簡報內事前預測，非2024實績；住宅+其他；獨立來源1；來源B級,低
+SG,全用途翻新市場（預測）,5378.5,百萬SGD,2027E,SG11,https://www.sec.gov/Archives/edgar/data/2002236/000121390024045316/ea0206536-fwp_springview.htm,【預測／示意】Frost & Sullivan事前預測，非官方實績；獨立來源1；來源B級,低
+SG,HDB新屋核准裝修完成期限,3,月,查閱2026,SG13,https://www.mynicehome.gov.sg/get-settled-in/hdb-renovation-guide/,【示意】自許可起，正式以實際許可為準；獨立來源1；來源A級,低
+SG,HDB既有屋核准裝修完成期限,1,月,查閱2026,SG13,https://www.mynicehome.gov.sg/get-settled-in/hdb-renovation-guide/,【示意】自許可起，正式以實際許可為準；獨立來源1；來源A級,低
+SG,新加坡商辦裝修成本,1506.947458339361,USD/m²,2026,X02,https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/,【示意】C&W 2026商辦fit-out，價格基準2025年12月；USD/ft²÷0.09290304，非住宅報價，報告自身匯率；獨立來源1；來源B級,低
+HK,家居裝修投訴,1205,宗,2017–2023,HK01,https://www.consumer.org.hk/tc/press-release/p-home-renovation-study-report,【示意】七年累積，非2024單年；獨立來源1；來源B級,低
+HK,家居裝修投訴涉及金額下限,270000000,HKD,2017–2023,HK01,https://www.consumer.org.hk/tc/press-release/p-home-renovation-study-report,【示意】超過此金額，非市場總產值；獨立來源1；來源B級,低
+HK,裝修資訊來自親友比率,93,%,2024年發布（研究期2022-04至2024-01）,HK01,https://www.consumer.org.hk/tc/press-release/p-home-renovation-study-report,【示意】消委會505名符合條件消費者認知調查；資訊來源可複選；不是全港住戶普查或2024年度市場比例；研究期由HK13核實。；獨立來源1；來源B級；查核限制：新聞稿 L210有93%；L274為505人調查；HK13 L210載研究期2022年4月至2024年1月，並非2024年年度普查。,低
+HK,裝修資訊來自網路比率,50,%,2024年發布（研究期2022-04至2024-01）,HK01,https://www.consumer.org.hk/tc/press-release/p-home-renovation-study-report,【示意】消委會505名符合條件消費者認知調查；資訊來源可複選；不是全港住戶普查或2024年度市場比例；研究期由HK13核實。；獨立來源1；來源B級；查核限制：新聞稿 L210有50%；L274為505人調查；HK13 L210載研究期2022年4月至2024年1月。,低
+HK,私人住宅落成量,24260,戶,2024,HK02,https://www.rvd.gov.hk/doc/tc/HKPR2025_Preliminary_Findings_TC.pdf,【示意】獲發佔用許可證，不包括村屋；獨立來源1；來源A級,低
+HK,私人住宅落成量年增率,75,%,2024,HK02,https://www.rvd.gov.hk/doc/tc/HKPR2025_Preliminary_Findings_TC.pdf,【示意】報告四捨五入；獨立來源1；來源A級,低
+HK,私人住宅淨入住量,17310,戶,2024,HK02,https://www.rvd.gov.hk/doc/tc/HKPR2025_Preliminary_Findings_TC.pdf,【示意】落成+年初空置-拆卸-年底空置；獨立來源1；來源A級,低
+HK,私人住宅空置率,4.5,%,2024,HK02,https://www.rvd.gov.hk/doc/tc/HKPR2025_Preliminary_Findings_TC.pdf,【示意】報告2024年底；獨立來源1；來源A級,低
+HK,私人住宅空置量,57900,戶,2024,HK02,https://www.rvd.gov.hk/doc/tc/HKPR2025_Preliminary_Findings_TC.pdf,【示意】包括正在裝修的空置住宅；獨立來源1；來源A級,低
+HK,私人住宅售價按年變動,-7.2,%,2024,HK02,https://www.rvd.gov.hk/doc/tc/HKPR2025_Preliminary_Findings_TC.pdf,【示意】2024年12月對上年12月；獨立來源1；來源A級,低
+HK,私人住宅租金按年變動,3.3,%,2024,HK02,https://www.rvd.gov.hk/doc/tc/HKPR2025_Preliminary_Findings_TC.pdf,【示意】2024年12月對上年12月；獨立來源1；來源A級,低
+HK,人均GDP,54101,USD/人,2024,HK07,https://www.mofa.go.jp/mofaj/area/hongkong/data.html,"【示意】日本外務省頁所列2024人均GDP；原幣421,990港元、該頁美元換算率7.80；未確認數值出處為香港統計處，不作此歸屬。；獨立來源1；來源A級；查核限制：外務省頁 L113–124：2024年一人GDP 421,990港元／54,101美元；頁面自述換算7.80。",低
+HK,SLD集團營收,422703000,HKD,2025,HK10,https://api.aconnect.com.hk/Attachment/158306,【示意】全球合併，含設計及家居產品貿易；獨立來源1；來源A級,低
+HK,SLD集團營收,367695000,HKD,2024,HK10,https://api.aconnect.com.hk/Attachment/158306,【示意】全球合併，非香港市場；獨立來源1；來源A級,低
+HK,SLD集團服務收入,283764000,HKD,2025,HK10,https://api.aconnect.com.hk/Attachment/158306,【示意】各地室內設計、陳設設計及產品設計服務；獨立來源1；來源A級,低
+HK,SLD集團中國大陸收入,367059000,HKD,2025,HK10,https://api.aconnect.com.hk/Attachment/158306,【示意】全球合併收入地理分項；獨立來源1；來源A級,低
+HK,SLD集團全年淨利,10080000,HKD,2025,HK10,https://api.aconnect.com.hk/Attachment/158306,【示意】全年合併淨利，非擁有人應佔淨利；獨立來源1；來源A級,低
+HK,SLD全職員工,413,人,2025,HK10,https://api.aconnect.com.hk/Attachment/158306,【示意】全球員工，不是香港設計師數；獨立來源1；來源A級,低
+HK,預防性維修資助計劃涵蓋住宅,7600,戶以上,2025,HK11,https://www.ura.org.hk/tc/news-centre/managing-director-s-blog/mdblog_20250614,【示意】截至2025年5月申請，不是已完成室內翻修；獨立來源1；來源A級,低
+HK,樓宇維修保養計畫周期,10,年,2025,HK11,https://www.ura.org.hk/tc/news-centre/managing-director-s-blog/mdblog_20250614,【示意】市建局計劃，不是家戶室內重新裝潢週期；獨立來源1；來源A級,低
+HK,Arcadis建造投標價格指數年變動,-1.5,%,2025,HK12,https://media.arcadis.com/-/media/project/arcadiscom/com/perspectives/asia/publications/cch/2026/cnhk-cost-handbook-2026-cn.pdf?rev=2ca3da9efc8d465dab292a4fbd8c847b,【示意】香港總體建造，不是單純住宅裝修價格指數；獨立來源1；來源B級,低
+HK,一般寫字樓装修成本低值,7400,HKD/m²,2025Q4,HK12,https://media.arcadis.com/-/media/project/arcadiscom/com/perspectives/asia/publications/cch/2026/cnhk-cost-handbook-2026-cn.pdf?rev=2ca3da9efc8d465dab292a4fbd8c847b,【示意】含家具隔間電氣與小幅空調消防改動；不含電話資料線辦公設備；獨立來源1；來源B級,低
+HK,一般寫字樓装修成本高值,11400,HKD/m²,2025Q4,HK12,https://media.arcadis.com/-/media/project/arcadiscom/com/perspectives/asia/publications/cch/2026/cnhk-cost-handbook-2026-cn.pdf?rev=2ca3da9efc8d465dab292a4fbd8c847b,【示意】與低值相同口徑，不可當住宅價；獨立來源1；來源B級,低
+HK,一般餐廳装修成本低值,13300,HKD/m²,2025Q4,HK12,https://media.arcadis.com/-/media/project/arcadiscom/com/perspectives/asia/publications/cch/2026/cnhk-cost-handbook-2026-cn.pdf?rev=2ca3da9efc8d465dab292a4fbd8c847b,【示意】含家具及局部機電；不含煙道營運設備；獨立來源1；來源B級,低
+HK,一般餐廳装修成本高值,20700,HKD/m²,2025Q4,HK12,https://media.arcadis.com/-/media/project/arcadiscom/com/perspectives/asia/publications/cch/2026/cnhk-cost-handbook-2026-cn.pdf?rev=2ca3da9efc8d465dab292a4fbd8c847b,【示意】不含煙道與營運設備；獨立來源1；來源B級,低
+HK,人均GDP,56983.066,USD/人,2025,MHK,https://data.worldbank.org/country/hong-kong-sar-china,【示意】名目、現價美元；WDI 2025歷史數列，可能修訂，非家庭可支配所得；獨立來源1；來源A級,低
+HK,人口,7498900,人,2025,MHK,https://data.worldbank.org/country/hong-kong-sar-china,【示意】WDI 2025；CN、IN為頁面billion顯示的四捨五入值，其餘依顯示人數；獨立來源1；來源A級,低
+HK,GDP,427310000000.0,USD,2025,MHK,https://data.worldbank.org/country/hong-kong-sar-china,【示意】WDI 2025現價；頁面billion/trillion四捨五入值；獨立來源1；來源A級,低
+HK,香港商辦裝修成本,1722.2256666735555,USD/m²,2026,X02,https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/,【示意】C&W 2026商辦fit-out，價格基準2025年12月；USD/ft²÷0.09290304，非住宅報價，報告自身匯率；獨立來源1；來源B級,低
+CN,住宅竣工面積,53741,萬m²,2024,CN01,https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958328.html,【示意】全國房地產開發企業；不是竣工戶數、也不是沿海翻修面積；獨立來源1；來源A級,低
+CN,住宅竣工面積年變動,-27.4,%,2024,CN01,https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958328.html,【示意】全國可比口徑；獨立來源1；來源A級,低
+CN,住宅新開工面積,53660,萬m²,2024,CN01,https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958328.html,【示意】全國房地產開發企業；獨立來源1；來源A級,低
+CN,住宅新開工面積年變動,-23.0,%,2024,CN01,https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958328.html,【示意】全國可比口徑；獨立來源1；來源A級,低
+CN,新建商品住宅銷售面積年變動,-14.1,%,2024,CN01,https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958328.html,【示意】全國，不是住宅翻修產值；獨立來源1；來源A級,低
+CN,新建商品住宅銷售額年變動,-17.6,%,2024,CN01,https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958328.html,【示意】全國可比口徑；獨立來源1；來源A級,低
+CN,貝殼家裝家居季度收入,3200000000,CNY,2026Q2,CN03,https://investors.ke.com/zh-hans/news-releases/news-release-details/ke-holdings-inc-announces-second-quarter-2026-unaudited,【示意】含設計施工與家具家電，公告約數；獨立來源1；來源C級,低
+CN,貝殼家裝家居季度收入年變動,-30.1,%,2026Q2,CN03,https://investors.ke.com/zh-hans/news-releases/news-release-details/ke-holdings-inc-announces-second-quarter-2026-unaudited,【示意】公司稱主動優化獲客渠道组合及放緩非房仲渠道；獨立來源1；來源C級,低
+CN,貝殼家裝家居貢獻利潤率,39.6,%,2026Q2,CN03,https://investors.ke.com/zh-hans/news-releases/news-release-details/ke-holdings-inc-announces-second-quarter-2026-unaudited,【示意】公司分部淨收入減直接歸屬變動成本，再除分部淨收入；家裝成本主要含材料及裝修工人薪酬；不含完整總部/行銷固定費用，非部門淨利率。；獨立來源1；來源C級；查核限制：同公告L67：貢獻利潤率39.6%；CN02年報PDF第33／246頁解釋直接歸属變動成本。,低
+CN,齊屹科技合併營收,1055639000,CNY,2024,CN04,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042501676_c.pdf,【示意】SaaS行銷+室內設計施工+其他；獨立來源1；來源A級,低
+CN,齊屹SaaS及行銷營收,333709000,CNY,2024,CN04,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042501676_c.pdf,【示意】平台線索變現，非施工總交易額；獨立來源1；來源A級,低
+CN,齊屹設計施工營收,665184000,CNY,2024,CN04,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042501676_c.pdf,【示意】公司分部，不是中國純設計市場；獨立來源1；來源A級,低
+CN,齊屹銷售線索數,633769,條,2024,CN04,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042501676_c.pdf,【示意】潛在設計施工需求資料數，非成交戶數；獨立來源1；來源A級,低
+CN,齊屹每條線索平均收入,527,CNY/條,2024,CN04,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042501676_c.pdf,【示意】SaaS及行銷收入除銷售線索，非成交獲客成本；獨立來源1；來源A級,低
+CN,齊屹經營現金流量淨額,-66301000,CNY,2024,CN04,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042501676_c.pdf,【示意】合併經營現金流，非破產證據；獨立來源1；來源A級,低
+CN,齊屹權益持有人應佔虧損,-126957000,CNY,2024,CN04,https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0425/2025042501676_c.pdf,【示意】IFRS經審核淨虧損；獨立來源1；來源A級,低
+CN,住宅裝修最低保修期,2,年,現行規章,CN05,https://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/gz/202205/t20220528_2723556.html,【示意】正常使用，自竣工驗收合格起；需專業確認；獨立來源1；來源A級,低
+CN,防滲漏最低保修期,5,年,現行規章,CN05,https://ghzrzyw.beijing.gov.cn/zhengwuxinxi/zcfg/gz/202205/t20220528_2723556.html,【示意】有防水要求廚衛及外牆；需專業確認；獨立來源1；來源A級,低
+CN,上海二手住宅成交量,101000,套,2026年3–6月,CN07,https://www.shanghai.gov.cn/nw4411/20260730/6ad68292af8e4c42a37c7ae45be8dd7f.html,【示意】市政府刊載市房管局資訊，非全年；獨立來源1；來源B級,低
+CN,上海二手住宅成交年變動,20,%,2026年3–6月,CN07,https://www.shanghai.gov.cn/nw4411/20260730/6ad68292af8e4c42a37c7ae45be8dd7f.html,【示意】同期變動，不能外推全國；獨立來源1；來源B級,低
+CN,歐派家居營收,17232089820.26,CNY,2025,CN08,https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12179735&stockid=603833,【示意】家具製造與家居整合，非裝修施工產值；獨立來源1；來源A級,低
+CN,歐派家居營收年變動,-8.94,%,2025,CN08,https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12179735&stockid=603833,【示意】合併；獨立來源1；來源A級,低
+CN,歐派家居經營現金流,3397112444.5,CNY,2025,CN08,https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12179735&stockid=603833,【示意】合併；獨立來源1；來源A級,低
+CN,歐派家居经營現金流年變動,-38.23,%,2025,CN08,https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12179735&stockid=603833,【示意】銷售收現下降；獨立來源1；來源A級,低
+CN,金螳螂營收,18329220950.08,CNY,2024,CN09,https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11046631&stockid=002081,【示意】含公裝、住宅、幕牆等合併，非住宅翻修；獨立來源1；來源A級,低
+CN,金螳螂全年經營現金流,404600512.55,CNY,2024,CN09,https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11046631&stockid=002081,【示意】全年正值不代表各季均正；獨立來源1；來源A級,低
+CN,金螳螂第一季經營現金流,-1585213082.85,CNY,2024Q1,CN09,https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11046631&stockid=002081,【示意】同年第一季，展示季節資金壓力；獨立來源1；來源A級,低
+CN,家裝廚衛普通產品補貼上限,15,%,2025,CN10,https://app.www.gov.cn/govdata/gov/202501/28/524144/article.html,【示意】成交價；各地細則與資格，不等於全工程補助；獨立來源1；來源A級,低
+CN,一級能水效產品補貼上限,20,%,2025,CN10,https://app.www.gov.cn/govdata/gov/202501/28/524144/article.html,【示意】成交價；各地細則；獨立來源1；來源A級,低
+CN,適老化產品補貼上限,30,%,2025,CN10,https://app.www.gov.cn/govdata/gov/202501/28/524144/article.html,【示意】成交價；各地細則；獨立來源1；來源A級,低
+CN,金螳螂營收,8091209954.22,CNY,2026H1,CN12,https://static.cninfo.com.cn/finalpage/2026-08-26/1225501659.PDF,【示意】半年度合併；獨立來源1；來源A級,低
+CN,金螳螂營收年變動,-15.08,%,2026H1,CN12,https://static.cninfo.com.cn/finalpage/2026-08-26/1225501659.PDF,【示意】與2025H1比較；獨立來源1；來源A級,低
+CN,貝殼家裝家居全年收入,15400000000,CNY,2025,CN13,https://investors.ke.com/news-releases/news-release-details/ke-holdings-inc-announces-fourth-quarter-and-fiscal-year-2025,【示意】家装家居分部，含施工與家居銷售，公告約數；獨立來源1；來源C級,低
+CN,貝殼家裝家居全年收入,14800000000,CNY,2024,CN13,https://investors.ke.com/news-releases/news-release-details/ke-holdings-inc-announces-fourth-quarter-and-fiscal-year-2025,【示意】家装家居分部，含施工與家居銷售，公告約數；獨立來源1；來源C級,低
+CN,貝殼家裝家居全年收入年變動,4.4,%,2025,CN13,https://investors.ke.com/news-releases/news-release-details/ke-holdings-inc-announces-fourth-quarter-and-fiscal-year-2025,【示意】家装家居分部，含施工與家居銷售，公告約數；獨立來源1；來源C級,低
+CN,人均GDP,13862,USD/人,2025,MCN,https://data.worldbank.org/country/china,【示意】名目、現價美元；WDI 2025歷史數列，可能修訂，非家庭可支配所得；獨立來源1；來源A級,低
+CN,人口,1410000000.0,人,2025,MCN,https://data.worldbank.org/country/china,【示意】WDI 2025；CN、IN為頁面billion顯示的四捨五入值，其餘依顯示人數；獨立來源1；來源A級,低
+CN,GDP,19500000000000.0,USD,2025,MCN,https://data.worldbank.org/country/china,【示意】WDI 2025現價；頁面billion/trillion四捨五入值；獨立來源1；來源A級,低
+CN,上海商辦裝修成本,1033.3354000041334,USD/m²,2026,X02,https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/,【示意】C&W 2026商辦fit-out，價格基準2025年12月；USD/ft²÷0.09290304，非住宅報價，報告自身匯率；獨立來源1；來源B級,低
+MY,人口,34220500,人,2025,MY01,https://www.dosm.gov.my/uploads/release-content/file_20260731083618.pdf,【示意】DOSM 2026版修訂2025人口；表單位千人；獨立來源1；來源A級,低
+MY,人口,34389400,人,2026,MY01,https://www.dosm.gov.my/uploads/release-content/file_20260731083618.pdf,【示意】DOSM 2026初步估計；非人口普查終值；獨立來源1；來源A級,低
+MY,全體建築工程完成值,178.6,十億MYR,2025,MY02,https://www.dosm.gov.my/portal-main/downloads-log?id=9899,【示意】含土木、新建結構與其他工程；排除作裝修市場規模；獨立來源1；來源A級,低
+MY,全體建築工程完成值成長,12.5,%,2025,MY02,https://www.dosm.gov.my/portal-main/downloads-log?id=9899,【示意】2025對2024；非裝修成長率；獨立來源1；來源A級,低
+MY,外國承包商最低實收資本,750000,MYR,2025,MY03,https://www.cidb.gov.my/wp-content/uploads/2025/06/SYARAT-PENDAFTARAN-KONTRAKTOR-ASING-2.pdf,【示意】CIDB外國承包商登記要求；公司設立不等同執業許可；獨立來源1；來源A級,低
+MY,外國承包商本地技術人員最低數,2,人,2025,MY03,https://www.cidb.gov.my/wp-content/uploads/2025/06/SYARAT-PENDAFTARAN-KONTRAKTOR-ASING-2.pdf,【示意】馬來西亞公民；其中一人經驗須超過5年；獨立來源1；來源A級,低
+MY,外國承包商初次PPKA效期,2,年,2025,MY03,https://www.cidb.gov.my/wp-content/uploads/2025/06/SYARAT-PENDAFTARAN-KONTRAKTOR-ASING-2.pdf,【示意】2025新版PPKA；非每一工程PPP效期；獨立來源1；來源A級,低
+MY,外國承包商年度登記費,1400,MYR/年,2025,MY03,https://www.cidb.gov.my/wp-content/uploads/2025/06/SYARAT-PENDAFTARAN-KONTRAKTOR-ASING-2.pdf,【示意】CIDB PPKA；費率可依法調整；獨立來源1；來源A級,低
+MY,外國承包商PPP每案登記費,5000,MYR/案,2025,MY03,https://www.cidb.gov.my/wp-content/uploads/2025/06/SYARAT-PENDAFTARAN-KONTRAKTOR-ASING-2.pdf,【示意】另有每案處理費50 MYR；獨立來源1；來源A級,低
+MY,鋼材平均價格,3426.8,MYR/公噸,2026-03,MY07,https://www.dosm.gov.my/portal-main/downloads-log?id=9915,"【示意】指定建築鋼材平均；非全部內裝建材；獨立來源1；來源A級；查核限制：PDF正文第2及5頁鋼材RM3,426.80/噸、水泥RM25.55/50kg；第3及6頁鋼材圖標RM3,436.80，鋼材存在同頁組內部矛盾。",低
+MY,普通卜特蘭水泥平均價格,25.55,MYR/50公斤,2026-03,MY07,https://www.dosm.gov.my/portal-main/downloads-log?id=9915,【示意】DOSM建築材料規格；獨立來源1；來源A級,低
+MY,公民受僱者薪資中位數,2940,MYR/月,2025,MY08,https://storage.dosm.gov.my/labour/salaries_wages_2025.pdf,【示意】Salaries & Wages Survey；公民受僱者，非設計師專業；獨立來源1；來源A級,低
+MY,公民受僱者薪資平均數,3803,MYR/月,2025,MY08,https://storage.dosm.gov.my/labour/salaries_wages_2025.pdf,【示意】全產業公民受僱者；獨立來源1；來源A級,低
+MY,營造業公民受僱者薪資平均數,3188,MYR/月,2025,MY08,https://storage.dosm.gov.my/labour/salaries_wages_2025.pdf,【示意】Construction sector；不含外籍全體、不是師傅日薪；獨立來源1；來源A級,低
+MY,住宅交易量,256512,宗,2025,MY09,https://rehdainstitute.com/wp-content/uploads/2026/04/Summary-of-NAPIC-AR-2025.pdf,【示意】NAPIC住宅類含住宅空地，REHDA轉載；獨立來源1；來源B級,低
+MY,住宅交易額,108.27,十億MYR,2025,MY09,https://rehdainstitute.com/wp-content/uploads/2026/04/Summary-of-NAPIC-AR-2025.pdf,【示意】住宅類不動產成交價款；不是裝修支出；獨立來源1；來源B級,低
+MY,中古住宅交易占比,84.5,%,2025,MY09,https://rehdainstitute.com/wp-content/uploads/2026/04/Summary-of-NAPIC-AR-2025.pdf,【示意】secondary share；分母住宅類交易含空地，跨國不可直接等同已建成房屋；獨立來源1；來源B級,低
+MY,新屋第一手交易占比,15.5,%,2025,MY09,https://rehdainstitute.com/wp-content/uploads/2026/04/Summary-of-NAPIC-AR-2025.pdf,【示意】primary＝開發商向第一位買方移轉；含住宅類整體；獨立來源1；來源B級,低
+MY,住宅空地交易占比,18.1,%,2025,MY09,https://rehdainstitute.com/wp-content/uploads/2026/04/Summary-of-NAPIC-AR-2025.pdf,【示意】NAPIC residential category 中vacant plot占比；獨立來源1；來源B級,低
+MY,住宅新推案量,64487,戶,2025,MY09,https://rehdainstitute.com/wp-content/uploads/2026/04/Summary-of-NAPIC-AR-2025.pdf,【示意】新推案，不是竣工戶數；獨立來源1；來源B級,低
+MY,已完工滯銷住宅,30471,戶,2025,MY09,https://rehdainstitute.com/wp-content/uploads/2026/04/Summary-of-NAPIC-AR-2025.pdf,【示意】住宅overhang；不是全部空屋；獨立來源1；來源B級,低
+MY,Qanvast公寓设计施工參考包價下限,25000,MYR/案,2026查閱,MY10,https://qanvast.com/my/interior-designers,【示意】頁面典型condo25k–60k；無面積與樣本年度，非全國均價；獨立來源1；來源C級,低
+MY,Qanvast公寓设计施工參考包價上限,60000,MYR/案,2026查閱,MY10,https://qanvast.com/my/interior-designers,【示意】不可拆為設計費；無樣本；獨立來源1；來源C級,低
+MY,Qanvast倒閉保障上限,50000,MYR/合約,2025頁面,MY11,https://qanvast.com/my/articles/qanvast-supertrust-2025-the-top-12-interior-design-firms-in-malaysia-3407,【示意】合約價50%與RM50k取低，適用推薦公司破產及計畫條件；非全面履約保證；獨立來源1；來源C級,低
+MY,人均GDP,13124.55542,USD/person,2025,MY13,https://fred.stlouisfed.org/series/PCAGDPMYA646NWDB,【示意】World Bank WDI 現價美元，NY.GDP.PCAP.CD，FRED轉載；非PPP；獨立來源1；來源A級,低
+MY,Signature合併季度營收,211.789,百萬MYR,2026Q1,MY15,https://newsfile.moomoo.com/public/NN-PersistNoticeAttachment/7781/20260520/MYX/MYX_3667615_238047.pdf,【示意】跨業務／地理合併營收，不是MY住宅裝修市場；獨立來源1；來源A級,低
+MY,Signature廚櫃衣櫃部門季度外部營收,45.712,百萬MYR,2026Q1,MY15,https://newsfile.moomoo.com/public/NN-PersistNoticeAttachment/7781/20260520/MYX/MYX_3667615_238047.pdf,【示意】signature kitchen and wardrobe external revenue；獨立來源1；來源A級,低
+MY,Signature內裝部門季度外部營收,88.826,百萬MYR,2026Q1,MY15,https://newsfile.moomoo.com/public/NN-PersistNoticeAttachment/7781/20260520/MYX/MYX_3667615_238047.pdf,【示意】interior fit-out external revenue，不限住宅；獨立來源1；來源A級,低
+MY,Home improvement混合市場模型,1000,百萬USD,2025,MY17,https://www.kenresearch.com/malaysia-home-improvement-market,【示意】住宅改善商品、硬體、飾面、設備及專業服務；非純翻修；與MY20無法調和；獨立來源1；來源C級,低
+MY,Home improvement混合市場預測,1606,百萬USD,2032,MY17,https://www.kenresearch.com/malaysia-home-improvement-market,"【預測／示意】正文2032；頁面另標2030 Projection矛盾，不採作2030數字；獨立來源1；來源C級；查核限制：正文及年度模型表：2025 USD1,000m、2032 USD1,606m；摘要卡卻標2030，僅模型且方法不透明。",低
+MY,國內家具最終銷售模型,2131,百萬USD,2025,MY18,https://www.kenresearch.com/industry-reports/malaysia-furniture-market,【示意】含進口、排除出口；模型估計非零售普查；獨立來源1；來源C級,低
+MY,國內家具最終銷售預測,2852,百萬USD,2030,MY18,https://www.kenresearch.com/industry-reports/malaysia-furniture-market,【預測／示意】報告年度表2030模型；非實際；獨立來源1；來源C級,低
+MY,家具與室內設計混合市場模型,2430,百萬USD,2025,MY19,https://www.kenresearch.com/malaysia-furniture-and-interior-design-market,【示意】住宅／商用家具、家飾、設計費，聲稱避免FF&E重複；不可當純設計；獨立來源1；來源C級,低
+MY,家具與室內設計混合市場預測,3456,百萬USD,2030,MY19,https://www.kenresearch.com/malaysia-furniture-and-interior-design-market,"【預測／示意】報告年度表2030；首頁另有預測末年誤標，信心低；獨立來源1；來源C級；查核限制：年度表2025 USD2,430m、2030 USD3,456m；範圍混合家具、家飾及設計費；頁首末年另有矛盾。",低
+MY,吉隆坡商辦裝修成本,861.1128333367777,USD/m²,2026,X02,https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/,【示意】C&W 2026商辦fit-out，價格基準2025年12月；USD/ft²÷0.09290304，非住宅報價，報告自身匯率；獨立來源1；來源B級,低
+TH,人均GDP,8056.564,USD/人,2025,MTH,https://data.worldbank.org/country/thailand,【示意】名目、現價美元；WDI 2025歷史數列，可能修訂，非家庭可支配所得；獨立來源1；來源A級,低
+TH,人口,71619863,人,2025,MTH,https://data.worldbank.org/country/thailand,【示意】WDI 2025；CN、IN為頁面billion顯示的四捨五入值，其餘依顯示人數；獨立來源1；來源A級,低
+TH,GDP,577010000000.0,USD,2025,MTH,https://data.worldbank.org/country/thailand,【示意】WDI 2025現價；頁面billion/trillion四捨五入值；獨立來源1；來源A級,低
+TH,HomePro合併銷售收入,65955.18,百萬THB,2025,TH01,https://hmpro.listedcompany.com/financial_highlights.html,【示意】Sales income；合併商品銷售，不是施工收入；獨立來源1；來源A級,低
+TH,HomePro合併總收入,70569.77,百萬THB,2025,TH01,https://hmpro.listedcompany.com/financial_highlights.html,【示意】Total revenues；含零售等跨業務，不等於泰國翻修市場；獨立來源1；來源A級,低
+TH,HomePro合併淨利,6011.39,百萬THB,2025,TH01,https://hmpro.listedcompany.com/financial_highlights.html,【示意】公司整體，不是施工案淨利；獨立來源1；來源A級,低
+TH,HomePro合併毛利率,26.71,%,2025,TH01,https://hmpro.listedcompany.com/financial_highlights.html,【示意】公司整體毛利率，不是裝修工程毛利率；獨立來源1；來源A級,低
+TH,HomePro合併淨利率,8.52,%,2025,TH01,https://hmpro.listedcompany.com/financial_highlights.html,【示意】公司公布比率；不能直接套在設計施工案；獨立來源1；來源A級,低
+TH,Index Living Mall銷售收入,9053.7,百萬THB,2025,TH02,https://investor.indexlivingmall.com/th/financial-info/financial-highlights,【示意】產品銷售；佛曆2568；獨立來源1；來源A級,低
+TH,Index Living Mall租賃及服務收入,803.5,百萬THB,2025,TH02,https://investor.indexlivingmall.com/th/financial-info/financial-highlights,【示意】租賃及服務；非純設計服務；獨立來源1；來源A級,低
+TH,Index Living Mall營運收入,9857.2,百萬THB,2025,TH02,https://investor.indexlivingmall.com/th/financial-info/financial-highlights,【示意】銷售+租賃服務，未含其他收入144.0；獨立來源1；來源A級,低
+TH,Index Living Mall總收入,10001.2,百萬THB,2025,TH02,https://investor.indexlivingmall.com/th/financial-info/financial-highlights,【示意】含其他收入；不同於營運收入9857.2；獨立來源1；來源A級,低
+TH,Index Living Mall母公司股東淨利,753.2,百萬THB,2025,TH02,https://investor.indexlivingmall.com/th/financial-info/financial-highlights,【示意】profit attributable to parent；獨立來源1；來源A級,低
+TH,Index Living Mall毛利率,47.4,%,2025,TH02,https://investor.indexlivingmall.com/th/financial-info/financial-highlights,【示意】合併毛利率；不能與住宅承攬毛利等同；獨立來源1；來源A級,低
+TH,Index Living Mall淨利率,7.5,%,2025,TH02,https://investor.indexlivingmall.com/th/financial-info/financial-highlights,【示意】財務摘要公布比率；獨立來源1；來源A級,低
+TH,住宅移轉量,347799,戶,2024,TH03,https://www.reic.or.th/Activities/PressRelease/252,【示意】REIC全國；2025報告更新趨勢為主；獨立來源1；來源A級,低
+TH,住宅移轉量,316214,戶,2025,TH04,https://ns2.reic.or.th/Upload/REIC-PressRelease-260225_52843_1772017693_79203.pdf,【示意】REIC全國住宅ownership transfer，新屋+中古；獨立來源1；來源A級,低
+TH,住宅移轉量年增率,-9.1,%,2025,TH04,https://ns2.reic.or.th/Upload/REIC-PressRelease-260225_52843_1772017693_79203.pdf,【示意】2025相對2024；獨立來源1；來源A級,低
+TH,住宅移轉金額,864913,百萬THB,2025,TH04,https://ns2.reic.or.th/Upload/REIC-PressRelease-260225_52843_1772017693_79203.pdf,【示意】不動產交易價款，不是裝修支出；獨立來源1；來源A級,低
+TH,第一手住宅移轉量,112565,戶,2025,TH04,https://ns2.reic.or.th/Upload/REIC-PressRelease-260225_52843_1772017693_79203.pdf,【示意】REIC new home；獨立來源1；來源A級,低
+TH,中古住宅移轉量,203649,戶,2025,TH04,https://ns2.reic.or.th/Upload/REIC-PressRelease-260225_52843_1772017693_79203.pdf,【示意】REIC second-hand home；獨立來源1；來源A級,低
+TH,中古住宅移轉占比,64,%,2025,TH04,https://ns2.reic.or.th/Upload/REIC-PressRelease-260225_52843_1772017693_79203.pdf,【示意】REIC報告四捨五入；203649/316214約64.40%；獨立來源1；來源A級,低
+TH,外國買方公寓移轉量,14899,戶,2025,TH04,https://ns2.reic.or.th/Upload/REIC-PressRelease-260225_52843_1772017693_79203.pdf,【示意】僅外國買方condominium，不含所有住宅；獨立來源1；來源A級,低
+TH,外國買方公寓移轉金額,60921,百萬THB,2025,TH04,https://ns2.reic.or.th/Upload/REIC-PressRelease-260225_52843_1772017693_79203.pdf,【示意】外國買方condominium交易金額；獨立來源1；來源A級,低
+TH,建築及相關顧問活動營收,33400,百萬THB,2025,TH07,https://www.dtn.go.th/th/file/get/file/1.20260925e1a479df9a0c4538f665e3ee334f9acc163253.pdf,【示意】DTN引DBD；Architectural and related consultancy，含建築非純室內設計；獨立來源1；來源A級,低
+TH,建築及相關顧問活動法人數,4081,家,2026-08,TH07,https://www.dtn.go.th/th/file/get/file/1.20260925e1a479df9a0c4538f665e3ee334f9acc163253.pdf,【示意】DTN引DBD active法人；非純室內設計公司數；獨立來源1；來源A級,低
+TH,住宅增改建投訴,111,件,2025截至6月27日公告,TH08,https://www.ocpb.go.th/news_view_en.php?nid=16497,【示意】公告所述年度截至發布資料，不是全年裝修總投訴；獨立來源1；來源A級,低
+TH,住宅新建承攬投訴,186,件,2025截至6月27日公告,TH08,https://www.ocpb.go.th/news_view_en.php?nid=16497,【示意】新建投訴，不能併入純室內裝修；獨立來源1；來源A級,低
+TH,住宅增改建遲延約定每日最低罰款比例,0.01,%,2023,TH09,https://ratchakitcha.soc.go.th/documents/140D033S0000000001800.pdf,【示意】適用公告受管制住宅增改建收據；按承攬價每日，不適用所有商業工程；獨立來源1；來源A級,低
+TH,建材價格指數年增率,0,%,2025-12,TH10,https://www.tpso.go.th/news/2601-0000000015,【示意】整體建築材料CPI型指數，非全部內裝成本；獨立來源1；來源A級,低
+TH,水泥價格指數年增率,5.5,%,2025-12,TH10,https://www.tpso.go.th/news/2601-0000000015,【示意】2025年12月對2024年12月；獨立來源1；來源A級,低
+TH,鋼鐵價格指數年增率,-2,%,2025-12,TH10,https://www.tpso.go.th/news/2601-0000000015,【示意】2025年12月對2024年12月；獨立來源1；來源A級,低
+TH,衛浴價格指數年增率,-3.9,%,2025-12,TH10,https://www.tpso.go.th/news/2601-0000000015,【示意】2025年12月對2024年12月；獨立來源1；來源A級,低
+TH,HomePro浴室勘查牌價,1000,THB/次,2026查閱,TH12,https://shop4you.homepro.co.th/S032/web/302/7000933,【示意】只勘查，促銷499；不是浴室施工總价；獨立來源1；來源C級,低
+TH,HomePro浴室勘查促銷價,499,THB/次,2026查閱,TH12,https://shop4you.homepro.co.th/S032/web/302/7000933,【示意】動態商家價格，可隨活動調整；獨立來源1；來源C級,低
+TH,HomePro浴室服務保固,1,年,2026查閱,TH12,https://shop4you.homepro.co.th/S032/web/302/7000933,【示意】該商品方案，非泰國一律法定保固；獨立來源1；來源C級,低
+TH,SCG HOME SPC安裝最低面積,30,m²,2026查閱,TH13,https://www.scghome.com/homesolution/flooring/indoor-flooring-spc-laminate/spc-flooring-unix,【示意】個別方案；未達者依不足面積加價，不能解讀為全屋單價；獨立來源1；來源C級,低
+TH,SCG HOME SPC小案不足面積附加價,200,THB/m²,2026查閱,TH13,https://www.scghome.com/homesolution/flooring/indoor-flooring-spc-laminate/spc-flooring-unix,【示意】不足最低面積的差額計價；不含基礎材料安裝價；獨立來源1；來源C級,低
+TH,SCG HOME未備妥工地額外回訪費,2000,THB/次,2026查閱,TH13,https://www.scghome.com/homesolution/flooring/indoor-flooring-spc-laminate/spc-flooring-unix,【示意】個別方案，不含找平、垃圾等；獨立來源1；來源C級,低
+TH,Home improvement零售市場估计,182.6,十億THB,2024,TH14,https://investor.mrdiy.co.th/en/updates/ir-press-release/145/mr-diy-holding-thailand-raises-up-to-thb56-billion-usd173-million-largest-ipo-by-market-capitalisation-on-set-in-the-last-3-years,【示意】MRDIY投資人公告所引產業口徑，含家用品等；非純翻修工程；獨立來源1；來源C級,低
+TH,Home improvement零售市場預測,237.8,十億THB,2029,TH14,https://investor.mrdiy.co.th/en/updates/ir-press-release/145/mr-diy-holding-thailand-raises-up-to-thb56-billion-usd173-million-largest-ipo-by-market-capitalisation-on-set-in-the-last-3-years,【預測／示意】公告預測，非實際，非2030外推；獨立來源1；來源C級,低
+TH,MRDIY Thailand營收,16.2,十億THB,2024,TH14,https://investor.mrdiy.co.th/en/updates/ir-press-release/145/mr-diy-holding-thailand-raises-up-to-thb56-billion-usd173-million-largest-ipo-by-market-capitalisation-on-set-in-the-last-3-years,【示意】Issuer公告約數；零售，不是裝修；獨立來源1；來源C級,低
+TH,MRDIY Thailand淨利,1.7,十億THB,2024,TH14,https://investor.mrdiy.co.th/en/updates/ir-press-release/145/mr-diy-holding-thailand-raises-up-to-thb56-billion-usd173-million-largest-ipo-by-market-capitalisation-on-set-in-the-last-3-years,【示意】Issuer公告約數；獨立來源1；來源C級,低
+TH,Home decor商品市場估计,5086.7,百萬USD,2025,TH20,https://www.imarcgroup.com/thailand-home-decor-market,【示意】家具、家紡、地板、壁飾、照明等；不等於住宅施工；獨立來源1；來源C級,低
+TH,Home decor商品市場預測,7033.9,百萬USD,2034,TH20,https://www.imarcgroup.com/thailand-home-decor-market,【預測／示意】IMARC2026–34預測；不冒充2030值；獨立來源1；來源C級,低
+TH,曼谷商辦裝修成本,979.5158479205846,USD/m²,2026,X02,https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/,【示意】C&W 2026商辦fit-out，價格基準2025年12月；USD/ft²÷0.09290304，非住宅報價，報告自身匯率；獨立來源1；來源B級,低
+VN,人均GDP,5065.991,USD/人,2025,MVN,https://data.worldbank.org/country/viet-nam,【示意】名目、現價美元；WDI 2025歷史數列，可能修訂，非家庭可支配所得；獨立來源1；來源A級,低
+VN,人口,101598527,人,2025,MVN,https://data.worldbank.org/country/viet-nam,【示意】WDI 2025；CN、IN為頁面billion顯示的四捨五入值，其餘依顯示人數；獨立來源1；來源A級,低
+VN,GDP,514700000000.0,USD,2025,MVN,https://data.worldbank.org/country/viet-nam,【示意】WDI 2025現價；頁面billion/trillion四捨五入值；獨立來源1；來源A級,低
+VN,名目人均GDP,4700,USD/人,2024,VN01,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-tinh-hinh-kinh-te-xa-hoi-quy-iv-va-nam-2024/,【示意】官方年度初估，非家庭可支配所得；獨立來源1；來源A級,低
+VN,名目人均GDP原幣,114000000,VND/人,2024,VN01,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-tinh-hinh-kinh-te-xa-hoi-quy-iv-va-nam-2024/,【示意】官方年度初估；獨立來源1；來源A級,低
+VN,實質GDP成長率,7.09,%,2024,VN01,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-tinh-hinh-kinh-te-xa-hoi-quy-iv-va-nam-2024/,【示意】官方年度初估；獨立來源1；來源A級,低
+VN,勞工平均月收入,7700000,VND/月,2024,VN01,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-tinh-hinh-kinh-te-xa-hoi-quy-iv-va-nam-2024/,【示意】全產業勞工；非室內設計師；獨立來源1；來源A級,低
+VN,都市勞工平均月收入,9300000,VND/月,2024,VN01,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-tinh-hinh-kinh-te-xa-hoi-quy-iv-va-nam-2024/,【示意】全產業都市勞工；非監工；獨立來源1；來源A級,低
+VN,人口,101112656,人,2024-04-01,VN02,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-ket-qua-dieu-tra-dan-so-va-nha-o-giua-ky-nam-2024/,【示意】人口與住宅期中調查；非年平均人口；獨立來源1；來源A級,低
+VN,家庭戶數,28146939,戶,2024,VN02,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-ket-qua-dieu-tra-dan-so-va-nha-o-giua-ky-nam-2024/,【示意】家庭戶數，不等於住宅存量；獨立來源1；來源A級,低
+VN,都市人口比率,38.2,%,2024,VN02,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-ket-qua-dieu-tra-dan-so-va-nha-o-giua-ky-nam-2024/,【示意】統計局行政區都市口徑；獨立來源1；來源A級,低
+VN,65歲以上人口占比,9.3,%,2024,VN02,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-ket-qua-dieu-tra-dan-so-va-nha-o-giua-ky-nam-2024/,【示意】期中人口調查；獨立來源1；來源A級,低
+VN,住宅自有家庭比率,89.7,%,2024,VN02,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-ket-qua-dieu-tra-dan-so-va-nha-o-giua-ky-nam-2024/,【示意】自有居住住宅的家庭戶；非個人持有率；獨立來源1；來源A級,低
+VN,都市住宅自有家庭比率,79.8,%,2024,VN02,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-ket-qua-dieu-tra-dan-so-va-nha-o-giua-ky-nam-2024/,【示意】都市家庭戶；獨立來源1；來源A級,低
+VN,每人居住面積,26.6,m²/人,2024,VN02,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-ket-qua-dieu-tra-dan-so-va-nha-o-giua-ky-nam-2024/,【示意】住宅調查；獨立來源1；來源A級,低
+VN,2000年起興建住宅居住家庭占比,81.5,%,2024,VN02,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-ket-qua-dieu-tra-dan-so-va-nha-o-giua-ky-nam-2024/,【示意】家庭分布，不是房屋棟數；獨立來源1；來源A級,低
+VN,屋齡25至49年居住家庭占比,14.2,%,2024,VN02,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-ket-qua-dieu-tra-dan-so-va-nha-o-giua-ky-nam-2024/,【示意】不能轉換為30年以上比例；獨立來源1；來源A級,低
+VN,屋齡超過49年居住家庭占比,1.9,%,2024,VN02,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-ket-qua-dieu-tra-dan-so-va-nha-o-giua-ky-nam-2024/,【示意】家庭分布；獨立來源1；來源A級,低
+VN,60歲以上人口預測,18000000,人,2030,VN02,https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2025/01/thong-cao-bao-chi-ket-qua-dieu-tra-dan-so-va-nha-o-giua-ky-nam-2024/,【預測／示意】官方預測約數；不是65歲以上；獨立來源1；來源A級,低
+VN,單一業者基本設計費,220000,VND/m²,2026,VN05,https://doctornoithat.com/bao-gia-thiet-ke-noi-that/,【示意】2026年8月Doctor Nội Thất未稅設計報價，非施工、非全國均價；獨立來源1；來源C級,低
+VN,單一業者進階設計費,290000,VND/m²,2026,VN05,https://doctornoithat.com/bao-gia-thiet-ke-noi-that/,【示意】促銷價；未稅；非全國中位數；獨立來源1；來源C級,低
+VN,單一業者高階設計費,400000,VND/m²,2026,VN05,https://doctornoithat.com/bao-gia-thiet-ke-noi-that/,【示意】未稅單一業者設計費；獨立來源1；來源C級,低
+VN,單一業者特別設計費,1100000,VND/m²,2026,VN05,https://doctornoithat.com/bao-gia-thiet-ke-noi-that/,【示意】未稅；不代表市場頂級上限；獨立來源1；來源C級,低
+VN,An Cuong合併營收,4608.7,十億VND,2025,VN07,https://ancuong.com/pictures/files/pdf/acg-2026/ACG%202026%200805%20-%20Nghi%20quyet%20DHDCD%20thuong%20nien%202026%20%5BVN-EN%5D.pdf,【示意】材料與木作企業總合併營收，非純設計收入；獨立來源1；來源A級,低
+VN,An Cuong合併稅後淨利,503.7,十億VND,2025,VN07,https://ancuong.com/pictures/files/pdf/acg-2026/ACG%202026%200805%20-%20Nghi%20quyet%20DHDCD%20thuong%20nien%202026%20%5BVN-EN%5D.pdf,【示意】企業合併稅後淨利；獨立來源1；來源A級,低
+VN,Home furniture市場估算,474.3,百萬USD,2025,VN12,https://www.mordorintelligence.com/industry-reports/vietnam-home-furniture-market,【示意】住宅家具市調口徑，非裝修；獨立來源1；來源C級,低
+VN,Furniture市場估算,9.62–9.76,十億USD,2025,VN13,https://www.mordorintelligence.com/industry-reports/vietnam-furniture-market,【示意】含越南境內家具設計製造與內外銷；同頁2025年基期存在9.76與9.62版本差，仅保留區間示意，非雙源驗證；獨立來源1；來源C級；查核限制：L8：2025 USD9.76bn；L281、345 含國內家具設計製造、內外銷，非純內需；方法比較 L350 另列 USD9.62bn。；同頁9.76／9.62十億美元並列區間，不平均,低
+VN,胡志明市商辦裝修成本,656.5985354192931,USD/m²,2026,X02,https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/,【示意】C&W 2026商辦fit-out，價格基準2025年12月；USD/ft²÷0.09290304，非住宅報價，報告自身匯率；獨立來源1；來源B級,低
+ID,名目人均GDP,4960.3,USD/人,2024,ID01,https://www.bps.go.id/id/pressrelease/2025/02/05/2408/economic-growth.html,【示意】官方當期美元；獨立來源1；來源A級,低
+ID,名目人均GDP原幣,78600000,IDR/人,2024,ID01,https://www.bps.go.id/id/pressrelease/2025/02/05/2408/economic-growth.html,【示意】官方當期價格；獨立來源1；來源A級,低
+ID,實質GDP成長率,5.03,%,2024,ID01,https://www.bps.go.id/id/pressrelease/2025/02/05/2408/economic-growth.html,【示意】全國實質成長；獨立來源1；來源A級,低
+ID,爪哇GDP占比,57.02,%,2024,ID01,https://www.bps.go.id/id/pressrelease/2025/02/05/2408/economic-growth.html,【示意】區域產出占比；非裝修需求占比；獨立來源1；來源A級,低
+ID,Blibli收購Dekoruma持股,99.83,%,2024,ID05,https://asset-about.blibli.com/2025/04/Laporan-Tahunan-2024-PT-Global-Digital-Niaga-Tbk-.pdf,【示意】2024年6月收購時點，非年底；獨立來源1；來源A級,低
+ID,Dekoruma收購對價,1169704,百萬IDR,2024,ID05,https://asset-about.blibli.com/2025/04/Laporan-Tahunan-2024-PT-Global-Digital-Niaga-Tbk-.pdf,【示意】2024年報財報註1c purchase consideration；非扣現金後金額；獨立來源1；來源A級,低
+ID,Blibli集團合併營收,16715576,百萬IDR,2024,ID05,https://asset-about.blibli.com/2025/04/Laporan-Tahunan-2024-PT-Global-Digital-Niaga-Tbk-.pdf,【示意】全電商旅遊超市等合併範圍，不是Dekoruma或装修收入；獨立來源1；來源A級,低
+ID,Dekoruma設計改稿次數,2,次,2025,ID06,https://dekoruma.freshdesk.com/support/solutions/articles/17000118208-frequently-asked-question-faq-proyek-desain-interior,【示意】FAQ標準服務政策；可變動；獨立來源1；來源C級,低
+ID,Dekoruma一般生產安裝期上限,8,週,2025,ID06,https://dekoruma.freshdesk.com/support/solutions/articles/17000118208-frequently-asked-question-faq-proyek-desain-interior,【示意】不含設計期，特殊工項可延長；獨立來源1；來源C級,低
+ID,Dekoruma特定保固,2,年,2025,ID06,https://dekoruma.freshdesk.com/support/solutions/articles/17000118208-frequently-asked-question-faq-proyek-desain-interior,【示意】Garansi Khusus範圍依條款；非全工程法定保固；獨立來源1；來源C級,低
+ID,新屋價格指數年增,1.39,%,2024Q4,ID08,https://www.bi.go.id/id/edukasi/Documents/Infografis-Survei-Harga-properti-Residensial-di-Pasar-Primer-Triwulan-IV-2024.pdf,【示意】第四季16城市建商抽樣，一級市場；獨立來源1；來源A級,低
+ID,新屋銷售年增,-15.09,%,2024Q4,ID08,https://www.bi.go.id/id/edukasi/Documents/Infografis-Survei-Harga-properti-Residensial-di-Pasar-Primer-Triwulan-IV-2024.pdf,【示意】第四季16城市抽樣；非全國交易戶數；獨立來源1；來源A級,低
+ID,新屋買方房貸融資比率,72.54,%,2024Q4,ID08,https://www.bi.go.id/id/edukasi/Documents/Infografis-Survei-Harga-properti-Residensial-di-Pasar-Primer-Triwulan-IV-2024.pdf,【示意】第四季抽樣市場；不是翻修貸款比率；獨立來源1；來源A級,低
+ID,家具市場估算,8.24,十億USD,2025,ID10,https://www.mordorintelligence.com/industry-reports/indonesia-furniture-market,【預測／示意】含住宅、辦公、飯店等可移動家具；非裝修市場；獨立來源1；來源C級,低
+ID,家具市場預測,11.08,十億USD,2030,ID10,https://www.mordorintelligence.com/industry-reports/indonesia-furniture-market,【預測／示意】第三方模型預測，不是官方預測；獨立來源1；來源C級,低
+ID,家具市場預測CAGR,6.1,%,2025–2030,ID10,https://www.mordorintelligence.com/industry-reports/indonesia-furniture-market,【預測／示意】Mordor 家具全市場模型預測期 CAGR，非 2025 年實際年增率；獨立來源1；來源C級；查核限制：L12：2025–2030 CAGR 6.10%。,低
+ID,家具住宅用途占比,61.12,%,2024,ID10,https://www.mordorintelligence.com/industry-reports/indonesia-furniture-market,【示意】市調家具營收用途占比；非住宅裝修占比；獨立來源1；來源C級,低
+ID,Dekoruma體驗中心,38,處,2026-06-30,ID11,https://asset-about.blibli.com/2026/08/Update-Investor-1H26-PT-Global-Digital-Niaga-Tbk.pdf,【示意】Home and Living experience centers，不等於全服務設計施工據點；獨立來源1；來源C級,低
+ID,BUJK PMA非ASEAN股東上限,67,%,2025,ID12,https://ptbmr.co.id/wp-content/uploads/2025/04/KEPDIRJEN_BINA_KONSTRUKSI_37_KPTS_DK_2025_STANDAR_SKEMA_SERTIFIKASI_BUJK.pdf,【示意】建設總局認證方案5.1.1.2，不是全部室內設計KBLI上限；需專業確認；獨立來源1；來源A級,低
+ID,全產業受僱者平均月薪,3330000,IDR/月,2025,ID14,https://www.bps.go.id/assets/pressrelease/2025/11/05/2479/tingkat-pengangguran-terbuka--tpt--sebesar-4-85-persen--rata-rata-upah-buruh-sebesar-3-33-juta-rupiah-.html,【示意】8月；非室內設計師或監工；獨立來源1；來源A級,低
+ID,全產業受僱者薪資年增,1.94,%,2025,ID14,https://www.bps.go.id/assets/pressrelease/2025/11/05/2479/tingkat-pengangguran-terbuka--tpt--sebesar-4-85-persen--rata-rata-upah-buruh-sebesar-3-33-juta-rupiah-.html,【示意】2024年8月至2025年8月；獨立來源1；來源A級,低
+ID,人均GDP,5059.626,USD/人,2025,MID,https://data.worldbank.org/country/indonesia,【示意】名目、現價美元；WDI 2025歷史數列，可能修訂，非家庭可支配所得；獨立來源1；來源A級,低
+ID,人口,285721236,人,2025,MID,https://data.worldbank.org/country/indonesia,【示意】WDI 2025；CN、IN為頁面billion顯示的四捨五入值，其餘依顯示人數；獨立來源1；來源A級,低
+ID,GDP,1450000000000.0,USD,2025,MID,https://data.worldbank.org/country/indonesia,【示意】WDI 2025現價；頁面billion/trillion四捨五入值；獨立來源1；來源A級,低
+ID,雅加達商辦裝修成本,624.3068041691638,USD/m²,2026,X02,https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/,【示意】C&W 2026商辦fit-out，價格基準2025年12月；USD/ft²÷0.09290304，非住宅報價，報告自身匯率；獨立來源1；來源B級,低
+PH,人均GDP,4170.723,USD/人,2025,MPH,https://data.worldbank.org/country/philippines,【示意】名目、現價美元；WDI 2025歷史數列，可能修訂，非家庭可支配所得；獨立來源1；來源A級,低
+PH,人口,116786962,人,2025,MPH,https://data.worldbank.org/country/philippines,【示意】WDI 2025；CN、IN為頁面billion顯示的四捨五入值，其餘依顯示人數；獨立來源1；來源A級,低
+PH,GDP,487090000000.0,USD,2025,MPH,https://data.worldbank.org/country/philippines,【示意】WDI 2025現價；頁面billion/trillion四捨五入值；獨立來源1；來源A級,低
+PH,住宅核准建築案件,116427,件,2024,PH01,https://psa.gov.ph/statistics/construction/pcs/node/1684076766,【示意】核准建照住宅建築案件，不是完工戶數；獨立來源1；來源A級,低
+PH,住宅核准建築案件年增,3.6,%,2024,PH01,https://psa.gov.ph/statistics/construction/pcs/node/1684076766,【示意】非住宅翻修增幅；獨立來源1；來源A級,低
+PH,住宅核准建築申報價值,248.65,PHP billion,2024,PH01,https://psa.gov.ph/statistics/construction/pcs/node/1684076766,【示意】含建築結構之住宅建照申報價值，排除於裝修市場規模比較；獨立來源1；來源A級,低
+PH,住宅核准建築樓地板面積,19.75,million m2,2024,PH01,https://psa.gov.ph/statistics/construction/pcs/node/1684076766,【示意】不是裝修施工面積；獨立來源1；來源A級,低
+PH,改建及修繕建照申報價值,43.05,PHP billion,2024,PH01,https://psa.gov.ph/statistics/construction/pcs/node/1684076766,【示意】alteration and repair；住宅與非住宅混合；不含無申報工程；獨立來源1；來源A級,低
+PH,改建及修繕申報價值年增,26.7,%,2024,PH01,https://psa.gov.ph/statistics/construction/pcs/node/1684076766,【示意】住宅與非住宅混合申報金額；獨立來源1；來源A級,低
+PH,Wilcon gross revenue,34.620976305,PHP billion,2024,PH02,https://edge.pse.com.ph/downloadHtml.do?file_id=1709278,【示意】PSE annual summary gross revenue，非net sales亦非裝修市場；獨立來源1；來源A級,低
+PH,Wilcon稅後淨利,2.528431482,PHP billion,2024,PH02,https://edge.pse.com.ph/downloadHtml.do?file_id=1709278,【示意】公司全年稅後淨利；獨立來源1；來源A級,低
+PH,Wilcon淨銷售額,17.184,PHP billion,2024H1,PH03,https://investor.wilcon.com.ph/wp-content/uploads/2024/08/WLCON-17Q-Q2-2024-FS.pdf,【示意】公司上半年net sales；獨立來源1；來源A級,低
+PH,Wilcon毛利率,39.8,%,2024H1,PH03,https://investor.wilcon.com.ph/wp-content/uploads/2024/08/WLCON-17Q-Q2-2024-FS.pdf,【示意】材料家居零售毛利，不是工程毛利；獨立來源1；來源A級,低
+PH,Wilcon淨利率,8.8,%,2024H1,PH03,https://investor.wilcon.com.ph/wp-content/uploads/2024/08/WLCON-17Q-Q2-2024-FS.pdf,【示意】公司上半年；獨立來源1；來源A級,低
+PH,Wilcon同店銷售年增,-4.6,%,2024H1,PH03,https://investor.wilcon.com.ph/wp-content/uploads/2024/08/WLCON-17Q-Q2-2024-FS.pdf,【示意】comparable sales；獨立來源1；來源A級,低
+PH,Wilcon獨家與自有品牌收入占比,52.0,%,2024H1,PH03,https://investor.wilcon.com.ph/wp-content/uploads/2024/08/WLCON-17Q-Q2-2024-FS.pdf,【示意】exclusive and in-house brands；獨立來源1；來源A級,低
+PH,Wilcon店數,95,店,2024-06,PH03,https://investor.wilcon.com.ph/wp-content/uploads/2024/08/WLCON-17Q-Q2-2024-FS.pdf,【示意】期末全店，不是平均店數；獨立來源1；來源A級,低
+PH,室內設計師考試及格人數,119,人,2024,PH06,https://prc.gov.ph/index.php/node/6770,【示意】7月考試新增及格；不是總執業人數；獨立來源1；來源A級,低
+PH,室內設計師考試報考參試人數,400,人,2024,PH06,https://prc.gov.ph/index.php/node/6770,【示意】7月考試；獨立來源1；來源A級,低
+PH,室內設計師考試及格人數,381,人,2026,PH07,https://www.prc.gov.ph/node/9177,【示意】7月考試新增及格；不是畢業人數；獨立來源1；來源A級,低
+PH,室內設計師考試參試人數,432,人,2026,PH07,https://www.prc.gov.ph/node/9177,【示意】7月考試；獨立來源1；來源A級,低
+PH,NCR建材零售價格年度平均增幅,1.0,%,2025,PH09,https://psa.gov.ph/price-indices/cmrpi/node/1684082307,【示意】馬尼拉首都區建材零售指數，非全國裝修報價；獨立來源1；來源A級,低
+PH,NCR建材零售價格年度平均增幅,1.2,%,2024,PH09,https://psa.gov.ph/price-indices/cmrpi/node/1684082307,【示意】馬尼拉首都區；獨立來源1；來源A級,低
+PH,外資零售最低實收資本,25,PHP million,2021法／2026核閱,PH10,https://www.lawphil.net/statutes/repacts/ra2021/ra_11595_2021.html,【示意】另需互惠；多店投資門檻適用條件另見法條；獨立來源1；來源A級,低
+PH,外資多店每店最低投資,10,PHP million,2021法／2026核閱,PH10,https://www.lawphil.net/statutes/repacts/ra2021/ra_11595_2021.html,【示意】多於一實體店，既有合法業者有例外；獨立來源1；來源A級,低
+PH,家具與室內設計廣義市場,4.1,USD billion,2024基期／2025發布,PH11,https://www.kenresearch.com/philippines-furniture-and-interior-design-market,【示意】Ken Research 家具與室內設計混合市場，涵蓋住宅及商用家具；銷售頁 Base Year2024，非純住宅翻修。；獨立來源1；來源C級；查核限制：頁面 L227 Base Year2024，L229 USD4.1bn；發布 October2025，家具與設計混合。,低
+PH,人均名目GDP,3983.1,USD/人,2024,PH12,https://thedocs.worldbank.org/en/doc/b991970a7f5096ab093720e27d5f0b68-0500012021/related/data-phl.pdf,【示意】世界銀行目前開啟表之2024欄；網頁搜尋快取3984.8與現行表不同，採實際開啟值；獨立來源1；來源A級,低
+PH,馬尼拉商辦裝修成本,1130.2105937545207,USD/m²,2026,X02,https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/,【示意】C&W 2026商辦fit-out，價格基準2025年12月；USD/ft²÷0.09290304，非住宅報價，報告自身匯率；獨立來源1；來源B級,低
+IN,室內設計服務合約市場,31.43,USD billion,2025,IN01,https://www.mordorintelligence.com/industry-reports/india-interior-design-market,【示意】市調估計：住宅商用、新建翻修；含服務合約附隨供應，排除獨立家具建材交易；獨立來源1；來源C級,低
+IN,室內設計服務合約市場預測,35.48,USD billion,2026,IN01,https://www.mordorintelligence.com/industry-reports/india-interior-design-market,【預測／示意】市調模型預測，非2026官方實績；獨立來源1；來源C級,低
+IN,設計服務合約商業空間占比,74.44,%,2025,IN01,https://www.mordorintelligence.com/industry-reports/india-interior-design-market,【示意】市調口徑，不能當住宅市場比重；獨立來源1；來源C級,低
+IN,設計服務合約新建占比,57.39,%,2025,IN01,https://www.mordorintelligence.com/industry-reports/india-interior-design-market,【示意】住宅與商用混合；獨立來源1；來源C級,低
+IN,Home Interiors市場估計,1.27,INR trillion,2024,IN02,https://property.magicbricks.com/microsite/research-insights/src/pdf/sample/Interiors-Sample-Report.pdf,【示意】原文1.27 lakh crore；住宅內裝家具模組範圍，非純住宅翻修；獨立來源1；來源C級,低
+IN,Home Interiors市場2030預測,2.75,INR trillion,2030,IN02,https://property.magicbricks.com/microsite/research-insights/src/pdf/sample/Interiors-Sample-Report.pdf,【預測／示意】平台研究預測，非官方；獨立來源1；來源C級,低
+IN,二線城市Home Interiors市場,230.74,INR billion,2024,IN02,https://property.magicbricks.com/microsite/research-insights/src/pdf/sample/Interiors-Sample-Report.pdf,【示意】原文23074 crore；獨立來源1；來源C級,低
+IN,二線城市Home Interiors市場2030預測,725,INR billion,2030,IN02,https://property.magicbricks.com/microsite/research-insights/src/pdf/sample/Interiors-Sample-Report.pdf,【預測／示意】原文72500 crore；獨立來源1；來源C級,低
+IN,二線城市內装市場中古住宅來源占比,82,%,2025發布／觀察期未明,IN02,https://property.magicbricks.com/microsite/research-insights/src/pdf/sample/Interiors-Sample-Report.pdf,【示意】內裝市場來源，絕非中古交易占全國住宅交易比重；報告未公開完整方法；樣本簡報未公開觀察期間。；獨立來源1；來源C級；查核限制：PDF P3：2024總額1.27 lakh crore、2030目標2.75；二線23074／72500 crore，來源中古82%；P4平均3.9 lakh。樣本發表於2025，82%與均價觀察期未註。,低
+IN,二線城市平均內装花費,390000,INR/案,2025發布／觀察期未明,IN02,https://property.magicbricks.com/microsite/research-insights/src/pdf/sample/Interiors-Sample-Report.pdf,【示意】原文3.9 lakh；平台研究樣本；樣本簡報未公開觀察期間。；獨立來源1；來源C級；查核限制：PDF P3：2024總額1.27 lakh crore、2030目標2.75；二線23074／72500 crore，來源中古82%；P4平均3.9 lakh。樣本發表於2025，82%與均價觀察期未註。,低
+IN,七大城市住宅銷售,459600,戶,2024,IN03,https://websitemedia.anarock.com/media/ANAROCK_Research_Indian_Residential_Market_Annual_Update_2024_3b5aa5b04d.pdf,【示意】原報告摘要四捨五入；不是全印度，不等於交屋；獨立來源1；來源B級,低
+IN,七大城市住宅新推案,412500,戶,2024,IN03,https://websitemedia.anarock.com/media/ANAROCK_Research_Indian_Residential_Market_Annual_Update_2024_3b5aa5b04d.pdf,【示意】新上市供給，非完工；獨立來源1；來源B級,低
+IN,七大城市住宅銷售年增,-4,%,2024,IN03,https://websitemedia.anarock.com/media/ANAROCK_Research_Indian_Residential_Market_Annual_Update_2024_3b5aa5b04d.pdf,【示意】新案市場樣本；四捨五入；獨立來源1；來源B級,低
+IN,Livspace兩房基本預算,1059000,INR/案,2026,IN04,https://www.livspace.com/in/magazine/how-much-does-an-interior-designer-charge,【示意】2BHK Essentials廠商示意，面積未一致，非全國均價；獨立來源1；來源C級,低
+IN,Livspace兩房中階預算,1368000,INR/案,2026,IN04,https://www.livspace.com/in/magazine/how-much-does-an-interior-designer-charge,【示意】2BHK Premium廠商示意；獨立來源1；來源C級,低
+IN,Livspace兩房高階預算,1919000,INR/案,2026,IN04,https://www.livspace.com/in/magazine/how-much-does-an-interior-designer-charge,【示意】2BHK Luxe廠商示意；獨立來源1；來源C級,低
+IN,HomeLane標準交付承諾,45,天,2026存取,IN05,https://www.homelane.com/homelane-terms-conditions,【示意】All-Set-Go後標準範圍；土建拆除等排除；獨立來源1；來源C級,低
+IN,HomeLane有條件延遲補償,1000,INR/日,2026存取,IN05,https://www.homelane.com/homelane-terms-conditions,【示意】合約有上限、前提與例外；獨立來源1；來源C級,低
+IN,Livspace營收,14.6,INR billion,FY25,IN06,https://economictimes.indiatimes.com/tech/startups/homedecor-startup-livspaces-fy25-revenue-rises-23-to-rs-1460-crore/articleshow/124520597.cms?from=mdr,【示意】公司透過媒體發布，集團含境外不可全算印度；獨立來源1；來源B級,低
+IN,Livspace毛利率,51.5,%,FY25,IN06,https://economictimes.indiatimes.com/tech/startups/homedecor-startup-livspaces-fy25-revenue-rises-23-to-rs-1460-crore/articleshow/124520597.cms?from=mdr,【示意】公司自報口徑；非每案工程毛利；獨立來源1；來源B級,低
+IN,Livspace毛利,7.52,INR billion,FY25,IN06,https://economictimes.indiatimes.com/tech/startups/homedecor-startup-livspaces-fy25-revenue-rises-23-to-rs-1460-crore/articleshow/124520597.cms?from=mdr,【示意】公司自報gross profit；獨立來源1；來源B級,低
+IN,Livspace調整EBITDA虧損,-1.31,INR billion,FY25,IN06,https://economictimes.indiatimes.com/tech/startups/homedecor-startup-livspaces-fy25-revenue-rises-23-to-rs-1460-crore/articleshow/124520597.cms?from=mdr,【示意】排除ESOP等調整，非淨虧損；損益符號統一：虧損記負數；獨立來源1；來源B級,低
+IN,HomeLane併購同時募資,2.25,INR billion,2024,IN07,https://www.linkedin.com/posts/homelane_growth-acquisition-homeinteriors-activity-7249658945546428416-Bt0D,【示意】225 crore；募資不是營收；獨立來源1；來源C級；查核限制：公司公告文字225 crore；頁面日期顯示2y，未提供絕對發布日期，交易律師2024公告支持事件年度但非該數值雙源。,低
+IN,HomeLane與DesignCafe合併估值,30,INR billion,2024,IN08,https://www.mondaq.com/pressrelease/154532/homelane-acquires-designcafe-raises-primary-funds-from-an-investor-club-consisting-of-hero-enterprise-claypond-capital-partners-westbridge-and-others,【示意】法律顧問發布約3000 crore估值，非收購現金對價；獨立來源1；來源C級,低
+IN,Livspace Series F募資,180,USD million,2022,IN09,https://media.kkr.com/rss-feed/news-release?news_id=a4de6b9d-bdf9-44cc-9d56-02e9e632942a,【示意】歷史資本來源；不列近三年事件；獨立來源1；來源C級,低
+IN,COA室內建築費率指引,7.5,%工程費,2026存取,IN14,https://coa.gov.in/index1.php?lang=1&level=2&lid=86&sublinkid=299,【示意】註冊建築師室內建築服務Scale of Charges；非市場成交平均；獨立來源1；來源A級,低
+IN,COA文件與溝通附加費,10,%專業費,2026存取,IN14,https://coa.gov.in/index1.php?lang=1&level=2&lid=86&sublinkid=299,【示意】不是工程價10%；獨立來源1；來源A級,低
+IN,人均名目GDP,2591.5,USD/人,2024/25E,IN16,https://thedocs.worldbank.org/en/doc/ab46b9f05a34cb860d84774b7bfbd77f-0500052021/related/data-ind.pdf,【預測／示意】現行世界銀行財政年度估計，不可與曆年2024直接混同比；獨立來源1；來源A級,低
+IN,人均GDP,2702.48,USD/人,2025,MIN,https://data.worldbank.org/country/india,【示意】名目、現價美元；WDI 2025歷史數列，可能修訂，非家庭可支配所得；獨立來源1；來源A級,低
+IN,人口,1460000000.0,人,2025,MIN,https://data.worldbank.org/country/india,【示意】WDI 2025；CN、IN為頁面billion顯示的四捨五入值，其餘依顯示人數；獨立來源1；來源A級,低
+IN,GDP,3960000000000.0,USD,2025,MIN,https://data.worldbank.org/country/india,【示意】WDI 2025現價；頁面billion/trillion四捨五入值；獨立來源1；來源A級,低
+IN,孟買商辦裝修成本,785.7654604198096,USD/m²,2026,X02,https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/,【示意】C&W 2026商辦fit-out，價格基準2025年12月；USD/ft²÷0.09290304，非住宅報價，報告自身匯率；獨立來源1；來源B級,低
+GLOBAL,Inter IKEA營收,26306,百萬EUR,FY2025,X05,https://www.inter.ikea.com/en/performance/fy25-financial-results,【示意】全球Inter IKEA批發／授權體系，非加盟商零售總額；表內損益值；費率為加盟商淨銷售額之比例；獨立來源1；來源C級,低
+GLOBAL,Inter IKEA毛利,4978,百萬EUR,FY2025,X05,https://www.inter.ikea.com/en/performance/fy25-financial-results,【示意】全球Inter IKEA批發／授權體系，非加盟商零售總額；表內損益值；費率為加盟商淨銷售額之比例；獨立來源1；來源C級,低
+GLOBAL,Inter IKEA營業利益,1725,百萬EUR,FY2025,X05,https://www.inter.ikea.com/en/performance/fy25-financial-results,【示意】全球Inter IKEA批發／授權體系，非加盟商零售總額；表內損益值；費率為加盟商淨銷售額之比例；獨立來源1；來源C級,低
+GLOBAL,Inter IKEA淨利,1496,百萬EUR,FY2025,X05,https://www.inter.ikea.com/en/performance/fy25-financial-results,【示意】全球Inter IKEA批發／授權體系，非加盟商零售總額；表內損益值；費率為加盟商淨銷售額之比例；獨立來源1；來源C級,低
+GLOBAL,Inter IKEA標準加盟費率,3,%,FY2025,X05,https://www.inter.ikea.com/en/performance/fy25-financial-results,【示意】全球Inter IKEA批發／授權體系，非加盟商零售總額；表內損益值；費率為加盟商淨銷售額之比例；獨立來源1；來源C級,低
+TW,住宅使用執照宅數_約數,142000,宅約,2025,TW04,https://www.moi.gov.tw/News_Content.aspx?n=2905&s=339707,【示意】官方新聞稿約數；住宅使照，非全建物第一次登記；獨立來源1；來源A級,低
+TW,新建餘屋待售住宅,112501,宅,2025Q4,TW04,https://www.moi.gov.tw/News_Content.aspx?n=2905&s=339707,【示意】新建餘屋待售住宅存量；非全部空屋；獨立來源1；來源A級,低
+TW,臺北市新建餘屋待售住宅,4710,宅,2025Q4,TW04,https://www.moi.gov.tw/News_Content.aspx?n=2905&s=339707,【示意】同一新建餘屋待售住宅指標，行政市範圍；獨立來源1；來源A級,低
+TW,宜蘭縣新建餘屋待售住宅,2685,宅,2025Q4,TW04,https://www.moi.gov.tw/News_Content.aspx?n=2905&s=339707,【示意】同一新建餘屋待售住宅指標，行政縣範圍；獨立來源1；來源A級,低
+TW,潤德年度累積月營收,2464505000,TWD,2025,TW13,https://rd.ruentex.com.tw/zh/financial-information/monthly-revenue,【示意】官網月營收千元累計表；住宅與商用未分，不是住宅市占；獨立來源1；來源A級,低
+TW,特力集團營業利益_簡表圓整,625000000,TWD,2024,TW12,https://www.testritegroup.com/uploads/2024_069db0ff1f.pdf,【示意】年報百萬元簡表625；集團口徑包含零售與貿易，不是室裝工程毛利；獨立來源1；來源A級,低
+TW,30年以上住宅存量占比_官方方向值,>50,%,2025-02發布,TW21,https://www.moi.gov.tw/News_Content.aspx?n=4&s=325449,【示意】官方新聞稿約數；原始統計基期與分母未載，不當作精確占比；獨立來源1；來源A級,低
+JP,住まいるダイヤル新規相談總數,30812,件,2024年度,JP09,https://www.chord.or.jp/assets/NP2025_web..pdf,【示意】2025年報的諮詢服務記錄，不代表全國投訴、確認違法或獨立受害人數；獨立來源1；來源B級,低
+JP,住まいるダイヤル翻修相談,11920,件,2024年度,JP09,https://www.chord.or.jp/assets/NP2025_web..pdf,【示意】2025年報リフォーム諮詢分類；不是全國糾紛率；獨立來源1；來源B級,低
+SG,住宅翻修市場（研究商估計）,1638.7,百萬SGD,2022,SG21,https://www.sec.gov/Archives/edgar/data/2002236/000121390024045316/image_017.jpg,【示意】Frost & Sullivan，2024簡報第17頁住宅 renovation 分桶；排除另列 A&A、新建與重建；非官方實績，細部方法未公開。；獨立來源1；來源B級,低
+SG,住宅翻修市場（事前預測）,1771.5,百萬SGD,2024E,SG21,https://www.sec.gov/Archives/edgar/data/2002236/000121390024045316/image_017.jpg,【預測／示意】Frost & Sullivan，2024簡報第17頁住宅 renovation 分桶；排除另列 A&A、新建與重建；非官方實績，細部方法未公開。；獨立來源1；來源B級,低
+SG,住宅翻修市場（事前預測）,1847.5,百萬SGD,2025E,SG21,https://www.sec.gov/Archives/edgar/data/2002236/000121390024045316/image_017.jpg,【預測／示意】Frost & Sullivan，2024簡報第17頁住宅 renovation 分桶；排除另列 A&A、新建與重建；非官方實績，細部方法未公開。；獨立來源1；來源B級,低
+SG,住宅翻修市場（事前預測）,2048.5,百萬SGD,2027E,SG21,https://www.sec.gov/Archives/edgar/data/2002236/000121390024045316/image_017.jpg,【預測／示意】Frost & Sullivan，2024簡報第17頁住宅 renovation 分桶；排除另列 A&A、新建與重建；非官方實績，細部方法未公開。；獨立來源1；來源B級,低
+SG,CaseTrust認證方案工藝保固,12,月,查閱2026,SG16,https://www.case.org.sg/casetrust/casetrust-accreditation-for-renovation-businesses/,【示意】完工起算，依認證方案契約；不是全部裝修法定統一保固。；獨立來源1；來源B級,低
+SG,CaseTrust認證方案初始訂金上限,20,%,查閱2026,SG16,https://www.case.org.sg/casetrust/casetrust-accreditation-for-renovation-businesses/,【示意】認證方案條件，非所有承包商法定上限。；獨立來源1；來源B級,低
+SG,非金融業EP最低月薪（年齡23歲以下）,5600,SGD／月,查閱2026,SG19,https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility,【示意】非金融業且年齡23歲以下；隨年齡提高，另受COMPASS等條件約束；不是設計師市場薪資。；獨立來源1；來源A級,低
+SG,非金融業EP最低月薪（2027新申請規則）,6000,SGD／月,2027-01-01,SG19,https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility,【示意】研究日已公告、尚未生效的未來規則；適用年齡23歲以下，隨年齡提高；不是市場薪資預測。；獨立來源1；來源A級,低
+CN,住宅竣工面積,14798,萬m²,2026年1–8月,CN15,https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965310.html,【示意】全國房地產開發企业2026年1–8月累計；非沿海翻修市場；獨立來源1；來源A級,低
+CN,住宅竣工面積年變動,-25.4,%,2026年1–8月,CN15,https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965310.html,【示意】2026年1–8月累計年增減；按可比口徑；獨立來源1；來源A級,低
+CN,住宅新開工面積,21840,萬m²,2026年1–8月,CN15,https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965310.html,【示意】全國房地產開發企業2026年1–8月累計；獨立來源1；來源A級,低
+CN,新建商品住宅銷售面積年變動,-13.0,%,2026年1–8月,CN15,https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965310.html,【示意】2026年1–8月累計年增減；按可比口徑；獨立來源1；來源A級,低
+CN,二手房交易網簽面積,54923,萬m²,2026年1–8月,CN15,https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965310.html,【示意】國統引用住建部資料；城鎮二手房合同總面積，未單列住宅，不能直接作住宅中古占比；獨立來源1；來源A級,低
+CN,二手房交易網簽面積年變動,10.6,%,2026年1–8月,CN15,https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965310.html,【示意】國統引用住建部；2026年1–8月累計；非住宅裝修年增率；獨立來源1；來源A級,低
+MY,住宅改善商品市場,47.73,十億MYR,2024,MY24,https://anns.sgp1.cdn.digitaloceanspaces.com/3629602.pdf,【示意】Protégé估計商品銷售；行業範圍含製造／批零／相關服務，但此規模表明列products sales；非純施工；獨立來源1；來源A級,低
+MY,住宅改善商品市場估計,49.64,十億MYR,2025,MY24,https://anns.sgp1.cdn.digitaloceanspaces.com/3629602.pdf,【示意】招股書標e估計；非2025官方實績；獨立來源1；來源A級,低
+MY,住宅改善商品市場預測,59.19,十億MYR,2029,MY24,https://anns.sgp1.cdn.digitaloceanspaces.com/3629602.pdf,【預測／示意】招股書標f預測，不是2030實績；獨立來源1；來源A級,低
+TH,最低日薪下限,337,THB/日,2025-07-01起,TH25,https://www.mol.go.th/news/%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1-1-%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%8E%E0%B8%B2%E0%B8%84%E0%B8%A1%E0%B8%99%E0%B8%B5%E0%B9%89-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99-%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%B3-%E0%B8%AA%E0%B8%AD%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88-%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99,【示意】依區域／行業；非熟練師傅市場行情；獨立來源1；來源A級,低
+TH,曼谷最低日薪,400,THB/日,2025-07-01起,TH25,https://www.mol.go.th/news/%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1-1-%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%8E%E0%B8%B2%E0%B8%84%E0%B8%A1%E0%B8%99%E0%B8%B5%E0%B9%89-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99-%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%B3-%E0%B8%AA%E0%B8%AD%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88-%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99,【示意】法定門檻，不是木工／水電報價；獨立來源1；來源A級,低
+MY,Qanvast基本住宅裝修平台參考價,20–40,MYR/平方英尺,2026查閱,MY10,https://qanvast.com/my/interior-designers,【示意】平台FAQ範圍；樣本、面積、税項未披露；非全國基本級調查；獨立來源1；來源C級,低
+MY,Qanvast中階住宅裝修平台參考價,40–70,MYR/平方英尺,2026查閱,MY10,https://qanvast.com/my/interior-designers,【示意】平台FAQ範圍；非同規格全國中階行情；獨立來源1；來源C級,低
+MY,Qanvast高階住宅裝修平台參考價,70–150+,MYR/平方英尺,2026查閱,MY10,https://qanvast.com/my/interior-designers,【示意】平台FAQ高階飾面；上端另有+，不能當封頂價；獨立來源1；來源C級,低
+MY,Qanvast設計及管理費平台参考比例,8–12,%,2026查閱,MY10,https://qanvast.com/my/interior-designers,【示意】分母總翻修預算；含規劃、3D、選材、管理，不等於純設計費/工程費；獨立來源1；來源C級,低
+MY,Qanvast設計施工平台参考工期,8–16,週,2026查閱,MY10,https://qanvast.com/my/interior-designers,【示意】平台典型全流程範圍；非成交樣本工期分布；獨立來源1；來源C級,低
