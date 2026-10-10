@@ -1,7 +1,12 @@
-import re, html as h
+import re, os, html as h
 src = open('report.html', encoding='utf-8').read()
 
-TITLE = '亞洲室內裝修設計市場研究報告 V1'
+# Version-specific cover text; override with environment variables when building other versions.
+VER = os.environ.get('REPORT_VERSION', 'V1')
+TITLE = f'亞洲室內裝修設計市場研究報告 {VER}'
+VERSION_LINE = os.environ.get('REPORT_VERSION_LINE', 'V1（2026-10-09）')
+AUTHOR_LINE = os.environ.get('REPORT_AUTHOR_LINE', 'Claude（總指揮）＋ 44 個研究／查核／審查代理')
+COVER_NOTE = os.environ.get('REPORT_COVER_NOTE', '本報告為 V1 版：研究環境僅能使用搜尋摘要、無法開啟原始網頁，所有數字請依第 0 章「方法論與已知限制」判讀；法規與稅務結論需專業人士最終確認。')
 # fix <title>
 src = re.sub(r'<title>.*?</title>', f'<title>{TITLE}</title>', src, count=1, flags=re.S)
 
@@ -10,13 +15,13 @@ cover = f'''<section id="cover">
 <h1 class="cover-title">亞洲室內裝修設計市場研究報告</h1>
 <div class="cover-sub">12 市場 × 3 層級：市場規模、商業模式、法規、消費者、人才、供應鏈與跨境進入評估</div>
 <div class="cover-meta">
-<div><span>版本</span>V1（2026-10-09）</div>
+<div><span>版本</span>{VERSION_LINE}</div>
 <div><span>委託人</span>Banson，璞石集團 CEO</div>
-<div><span>作者</span>Claude（總指揮）＋ 44 個研究／查核／審查代理</div>
+<div><span>作者</span>{AUTHOR_LINE}</div>
 <div><span>涵蓋市場</span>台灣｜日本、韓國、新加坡、香港｜中國大陸、馬來西亞、泰國｜越南、印尼、菲律賓、印度</div>
 <div><span>數字標註</span>【實際】＝有來源可查核 ／【示意】＝假設模型或估算（附假設）</div>
 </div>
-<div class="cover-note">本報告為 V1 版：研究環境僅能使用搜尋摘要、無法開啟原始網頁，所有數字請依第 0 章「方法論與已知限制」判讀；法規與稅務結論需專業人士最終確認。</div>
+<div class="cover-note">{COVER_NOTE}</div>
 </section>
 '''
 src = re.sub(r'<header id="title-block-header">.*?</header>\n', cover, src, count=1, flags=re.S)
