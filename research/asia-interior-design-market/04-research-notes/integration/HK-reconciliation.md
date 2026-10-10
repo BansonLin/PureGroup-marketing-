@@ -118,7 +118,7 @@ Gemini 資料包對香港無任何數字（僅定性：法規管制「高」、�
 | 3 | 2024 私人住宅落成 24,260 個（+75%）、淨入住 17,310、年底空置 57,900／4.5%（含裝修中單位）、12 月售價 −7.2%／租金 +3.3% | 摘要、§2.1 表 | #HK02｜https://www.rvd.gov.hk/doc/tc/HKPR2025_Preliminary_Findings_TC.pdf |
 | 4 | 消委會調查：93% 受訪者靠親友、50% 靠網路取得裝修資訊（505 人、可複選；2024 發布、研究期 2022-04 至 2024-01） | 摘要、§4 | #HK01｜https://www.consumer.org.hk/tc/press-release/p-home-renovation-study-report ；#HK13｜https://www.consumer.org.hk/tc/advocacy/study-report/home_renovation_study |
 | 5 | SLD 2025 服務收入 2.838 億、中國大陸收入 3.671 億（≈87%）、全年淨利 1,008 萬、全職員工 413（全球） | 摘要、§3 | #HK10｜https://api.aconnect.com.hk/Attachment/158306 |
-| 6 | Arcadis：香港整體建造 TPI 2025 −1.5%；一般寫字樓 7,400–11,400 港元／m²；一般餐廳 13,300–20,700 港元／m²（2025 Q4） | 摘要、§1.1、§1.3、§2.2、§9 | #HK12｜https://media.arcadis.com/-/media/project/arcadiscom/com/perspectives/asia/publications/cch/2026/cnhk-cost-handbook-2026-cn.pdf?rev=2ca3da9efc8d465dab292a4fbd8c847b |
+| 6 | Arcadis：香港整體建造 TPI 2025 −1.5%；一般寫字樓 7,400–11,400 港元／m²；一般餐廳 13,300–20,700 港元／m²（2025 Q4） | §1.1、§1.3、§2.2、§9、§13 | #HK12｜https://media.arcadis.com/-/media/project/arcadiscom/com/perspectives/asia/publications/cch/2026/cnhk-cost-handbook-2026-cn.pdf?rev=2ca3da9efc8d465dab292a4fbd8c847b |
 | 7 | 市建局預防性維修資助申請涉及逾 7,600 戶（2025-05）；10 年維修保養週期（整幢樓宇口徑） | §8 | #HK11｜https://www.ura.org.hk/tc/news-centre/managing-director-s-blog/mdblog_20250614 |
 | 8 | 投資推廣署：股東不限國籍、董事可非香港居民、須本地公司秘書；代表辦事處不得從事營利活動 | 摘要、§7、§11、§12 | #HK04｜https://www.investhk.gov.hk/zh-hk/setting-up-in-hong-kong/ |
 | 9 | 建造業議會 FAQ：《建造業工人註冊條例》對不涉建造工作之裝修未必適用；第 III 級小型工程與指定豁免工程另有界線 | §5 | #HK08｜https://www.cic.hk/zh-hk/faq |
