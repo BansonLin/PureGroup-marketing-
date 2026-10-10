@@ -12,7 +12,7 @@
 | `00-project-plan.md` | 專案計畫：研究問題、分層定義、WBS、多 AI 分工、時程、品質標準、風險 | V1 |
 | `01-prompts/` | 給 Claude／ChatGPT／Gemini 的市場調研提示詞、各國模組範本、回報格式規範 | V1 |
 | `02-integration-protocol.md` | 外部 AI 報告如何回收、分級、三角驗證、整合進 V2 的規則 | V1 |
-| `03-inbox/` | **收件匣**：請把 ChatGPT／Gemini／Claude.ai 產出的報告放這裡（見內部 README） | 待收 |
+| `03-inbox/` | **收件匣**：請把 ChatGPT／Gemini／Claude.ai 產出的報告放這裡（見內部 README） | 已收 1 份：`claude/20261009_claude_12market-overview_r1.md`（Claude 12 市場總覽 r1，附研究筆記）；ChatGPT／Gemini 待收 |
 | `04-research-notes/` | Claude 多代理研究的原始筆記（各國 2 視角 × 12、跨國主題 × 8）與對抗式查核紀錄 | V1 |
 | `05-report/` | 正式報告全文 `asia-interior-design-market-report-v1.md`（約 94 萬字元）、各章原檔 `chapters/`、一致性審查紀錄 `_qa-log.md` | V1 |
 
