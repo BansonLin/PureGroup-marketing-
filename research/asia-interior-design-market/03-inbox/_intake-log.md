@@ -19,11 +19,12 @@
 | 20261009_chatgpt_country-VN_r2.md | ChatGPT | Research（多語言開頁查核） | country-VN | 2026-10-09 | 21,680 | 53 | 0–7／10 節／比較錨點／來源／附錄：齊 | B（TW 模組 C） | 已登記，進入三角驗證 |
 | archive/20261009_chatgpt_12-market-overview_r1.md | ChatGPT | 歷史版（r1，已被 r2 取代） | 12-market-overview | 2026-10-09 | 233,360 | 883 | 0–8 骨架（舊信心規則） | 不採用（僅追溯） | 封存 |
 | gemini/20261009_gemini_12market-overview_r1/（10 檔） | Gemini | 未標示（腳本生成資料包） | 12market-overview | 2026-10-09 | 6,176 | 0 | 8 模組摘要＋16 列 CSV；無 8 章骨架、無 13 欄表、無來源 URL | D（無 URL） | 只作線索與方向對照，不計入來源數 |
+| gemini/20261009_gemini_12market-overview_r1-chat-reply.md | Gemini | 聊天回覆全文（使用者貼上） | 12market-overview | 2026-10-10 | ≈9,000 | 0（`[cite: ]` 引用標記全部空白） | 8 模組＋6 欄矩陣；無 13 欄表、無附錄 CSV | D（無 URL） | 與 zip 同源；新增少量玩家名單與數字，只作線索 |
 
 ## 補充
 
 - ChatGPT 資料包另含：`verification/`（逐列查核 462 列、裁決 55 項、來源登記 264 筆）、`data/`（key-metrics 443 列採用、excluded 19 列、固定匯率表、換算表、xlsx）、`chatgpt-r1-to-r2-changelog.md`。其 `05-report/` 的 12 份國別模組與 `03-inbox` 副本位元組相同，`asia-interior-design-market-report-v2.md` 與總覽 r2 僅標題列不同，故不重複收錄。`01-brief/` 為本專案提示詞原樣副本，不收錄。
 - ChatGPT 自述：所有採用值皆為單一獨立機構，故其自標一律「示意／低」；本整合將依協議 §2（A 級一手來源直接採用）與 §4（估計值需多源）重新判定，詳 `02-integration-protocol.md` §11。
 - Gemini 資料包由使用者附上的 `export_zip.py` 腳本生成（內容內嵌於腳本），無任何 URL、無在地語言來源、無中繼資料；多個數字（日本 7.1 兆日圓、韓國 126 億美元、印度 314.3 億美元、中國 2,443 億美元）與 ChatGPT r2 或 V1 引用的同一研究機構相同，依協議 §4「多個 AI 引用同一來源只算 1 個來源」。建議使用者以 Deep Research 模式重跑 Gemini 並要求附 URL。
-- Claude.ai 外部報告：**未收到**。本專案 V1（Claude 多代理研究）即為 Claude 端的研究貢獻；若使用者另有 Claude.ai Research 模式輸出，請放入 `03-inbox/claude/`。
+- Claude.ai 外部報告：**未收到**（使用者 2026-10-10 表示稍後補上；收到後以 V2.1 增補輪整合）。本專案 V1（Claude 多代理研究）即為 Claude 端的研究貢獻；若使用者另有 Claude.ai Research 模式輸出，請放入 `03-inbox/claude/`。
 - 璞石內部校準資料（協議 §8）：**未收到**；台灣基準線的內部校準欄位在 V2 標「待內部校準」。
