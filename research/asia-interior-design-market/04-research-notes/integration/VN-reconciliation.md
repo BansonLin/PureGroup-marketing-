@@ -100,7 +100,7 @@
 11. **§3 An Cường 列、§9 本土品牌句、一頁摘要 bullet 7**：「2025 營收 >4.6 兆 VND（≈NT$55.6 億，+16%）【實際】」→「營收 4,608.7 十億 VND（≈USD 1.85 億≈NT$57.5 億，+16%）、稅後淨利 503.7 十億 VND（≈NT$6.3 億）【實際｜高】」。原因：A 級股東會決議 PDF 開頁 pass＋V1 媒體管道同值；規則 7 重算。
 12. **§5 消防罰則句、§13 罰則列**：800 萬–1,500 萬 VND「【示意，單源】」→「【示意｜低｜單源｜法源待核；339/2026 生效後須重核】」；§13「營建行政罰則（16/2022 後續）無資料」→「339/2026/NĐ-CP 已於 2026-08-26 生效 [#130]，罰額未逐條核對」。原因：V2-VN-A06。
 13. **§7 設計公司段、§11 外資列、§12 第 4 點**：「設計公司可 100% 外資【示意，律所說法】」→ CPC 8671 建築設計公司「可 100% 外資（WTO 承諾表，2009 起；有條件行業）【實際｜中｜限 CPC 8671】」，並加註 ChatGPT r2 未完成其他業務線 CPC 核定。原因：V2-VN-A05。
-14. **§5 法規表、§7 簽證段**：《建築法 2019》、175/2024、135/2025、219/2025 補 ChatGPT r2 開啟之政府原始入口來源 [#137]–[#141]，標籤「【實際】」→「【實際｜高】」。原因：規則 1。
+14. **§5 法規表、§7 簽證段**：《建築法 2019》、175/2024、135/2025、219/2025 補 ChatGPT r2 開啟之政府原始入口來源 [#135]（135/2025）、[#136]（219/2025）、[#137]（40/2019 公報），標籤「【實際】」→「【實際｜高】」；175/2024 與 219/2025 政府新聞網頁（#VN03、#VN21）因章節長度上限未另列來源。原因：規則 1。
 15. **§2 需求表「30 年以上屋齡占比」列、§11 屋齡列、§13 屋齡缺口列**：「無資料」→「30 年以上無資料（普查分組 25–49／>49 年不可插值）；2024 普查：2000 年起興建 81.5%、25–49 年 14.2%、>49 年 1.9% [#124]【實際｜中】」。原因：ChatGPT 新事實填補缺口。
 16. **§13 最後一段**：「本章無任何獨立查核」（與標題註矛盾）→ V2 狀態：V1 查核 20 項＋ChatGPT r2 28 列開頁核對；整體信心中低→中低（法規中高、總體高、規模低）。
 17. **一頁摘要 bullet 10、§12**：跨境評分 2.5/5 維持，加註 ChatGPT r2 3/5、Gemini 3.5/5（無 URL）及前提差異。
@@ -119,16 +119,16 @@
 | 8 | Doctor Nội Thất 2026-08 設計費分級：基本 220,000／進階促銷 290,000（原價 350,000）／高階 400,000／特別 1,100,000 VND/m²，未稅 | 一頁摘要 bullet 5、§2 設計費表、§12 第 2 點 | #VN05｜https://doctornoithat.com/bao-gia-thiet-ke-noi-that/ |
 | 9 | An Cường 2025 合併營收 4,608.7 十億 VND、稅後淨利 503.7 十億 VND（2026 股東會決議） | 一頁摘要 bullet 7、§3 表、§9 | #VN07｜https://ancuong.com/pictures/files/pdf/acg-2026/ACG%202026%200805%20-%20Nghi%20quyet%20DHDCD%20thuong%20nien%202026%20%5BVN-EN%5D.pdf |
 | 10 | 339/2026/NĐ-CP 建設領域行政裁罰法令，2026-08-26 生效 | 一頁摘要 bullet 8、§5 表與時間軸、§13 | #VN09｜https://vanban.chinhphu.vn/?classid=1&docid=219369&orggroupid=2&pageid=27160 |
-| 11 | 《消費者權益保護法 2023》19/2023/QH15，2024-07-01 施行 | §6 表、§12 第 5 點 | #VN18｜https://vanban.chinhphu.vn/?docid=208363&pageid=27160 ；#VN06｜https://baochinhphu.vn/can-thiet-bo-sung-quy-dinh-xu-phat-hanh-vi-buon-ban-hang-gia-bao-ve-quyen-loi-nguoi-tieu-dung-102240318104029579.htm |
-| 12 | 2026-08 政府新聞網報導《建築法》修法討論（草案階段） | §5 時間軸 | #VN20｜https://baochinhphu.vn/hoan-thien-he-thong-phap-luat-ve-kien-truc-102260805094008436.htm |
-| 13 | Nhà Xinh（AA 零售品牌）官網：量測→預算→平面→視覺方案→施工驗收之零售延伸設計施工流程（自述；乾淨網址） | §4 通路表 | #VN14｜https://nhaxinh.com/thiet-ke-noi-that/ |
-| 14 | C&W 2026 APAC 指南原始頁：胡志明市 61 USD/ft²＝656.6 USD/m²、價格基準 2025-12 | 一頁摘要 bullet 6、§11 | #X02｜https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/ |
+| 11 | 《消費者權益保護法 2023》19/2023/QH15，2024-07-01 施行 | §6 表、§12 第 5 點（V2 [#131]） | #VN18｜https://vanban.chinhphu.vn/?docid=208363&pageid=27160 （政府新聞網說明 #VN06 同一施行日，未另列） |
+| 12 | 2026-08 政府新聞網報導《建築法》修法討論（草案階段） | 未寫入章節（長度上限 15%；V1 查核 #13 已有建設部擬刪「承認」路徑之草案註記），記於本表與 E | #VN20｜https://baochinhphu.vn/hoan-thien-he-thong-phap-luat-ve-kien-truc-102260805094008436.htm |
+| 13 | Nhà Xinh（AA 零售品牌）官網：量測→預算→平面→視覺方案→施工驗收之零售延伸設計施工流程（自述；乾淨網址） | §4 通路表（V2 [#132]） | #VN14｜https://nhaxinh.com/thiet-ke-noi-that/ |
+| 14 | C&W 2026 APAC 指南原始頁：胡志明市 61 USD/ft²＝656.6 USD/m²、價格基準 2025-12 | 一頁摘要 bullet 6、§1、§11、§12（V2 [#133]） | #X02｜https://digital.cushmanwakefield.com/fitoutcostguide-03-2026-apac-regional-en-content-pds-office/30-31/ |
 | 15 | Mordor 家具產業 2025 基期 USD 9.62–9.76 十億（同頁兩版本） | §1 表 | #VN13｜https://www.mordorintelligence.com/industry-reports/vietnam-furniture-market（V1 [#9] 同 URL，不新增編號） |
-| 16 | Mordor 住宅改善 2025 同頁 USD 3.77／3.21 十億矛盾（不採用，僅註記） | §1 可比區間 bullet、§13 | #VN11｜https://www.mordorintelligence.com/industry-reports/vietnam-home-improvement-market |
-| 17 | 政府原始入口：135/2025/QH15（#VN08）、175/2024（#VN03）、219/2025（#VN16、#VN21）、40/2019 公報（#VN19） | §5 表、§7 | https://chinhphu.vn/?classid=1&docid=216514&pageid=27160&typegroupid=3 ；https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-175-2024-nd-cp-ve-quan-ly-hoat-dong-xay-dung-119241231085735892.htm ；https://vanban.chinhphu.vn/?docid=214840&pageid=27160 ；https://baochinhphu.vn/quy-dinh-moi-ve-cap-giay-phep-cho-lao-dong-nuoc-ngoai-tai-viet-nam-102250807172724025.htm ；https://congbao.chinhphu.vn/van-ban/luat-so-40-2019-qh14-29249.htm |
+| 16 | Mordor 住宅改善 2025 同頁 USD 3.77／3.21 十億矛盾（不採用，僅註記） | §1 可比區間 bullet、§10、§13（V2 [#134]） | #VN11｜https://www.mordorintelligence.com/industry-reports/vietnam-home-improvement-market |
+| 17 | 政府原始入口：135/2025/QH15（#VN08→V2 [#135]）、219/2025（#VN16→[#136]）、40/2019 公報（#VN19→[#137]）；175/2024（#VN03）與 219/2025 新聞網（#VN21）因長度上限未另列 | §5 表、§7 | https://chinhphu.vn/?classid=1&docid=216514&pageid=27160&typegroupid=3 ；https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-175-2024-nd-cp-ve-quan-ly-hoat-dong-xay-dung-119241231085735892.htm ；https://vanban.chinhphu.vn/?docid=214840&pageid=27160 ；https://baochinhphu.vn/quy-dinh-moi-ve-cap-giay-phep-cho-lao-dong-nuoc-ngoai-tai-viet-nam-102250807172724025.htm ；https://congbao.chinhphu.vn/van-ban/luat-so-40-2019-qh14-29249.htm |
 | 18 | 方法論：服務市場模型「目標社群交屋戶×有預算屋主比例×接觸率×成交率×平均案值」，各引數由實際名單填入 | §13 建議取得方式 | ChatGPT r2 §2.1（研究建議，非統計） |
 
-未寫入章節（價值低或 V1 已有）：AA Corporation about-us（#VN15，V1 §3 已有業務描述）、HAWA 官網（#VN17，V1 [#32] 已有）、C&W 方法頁（#X11）。
+未寫入章節（價值低、V1 已有或受 15% 長度上限）：AA Corporation about-us（#VN15，V1 §3 已有業務描述）、HAWA 官網（#VN17，V1 [#32] 已有）、C&W 方法頁（#X11）、《建築法》修法討論（#VN20）、175/2024 政策入口（#VN03）、219/2025 新聞網說明（#VN21）、消保法新聞網說明（#VN06）。V2 新增來源編號對照：[#124] VN02、[#125] VN01、[#126] X10、[#127] MVN、[#128] VN05、[#129] VN07、[#130] VN09、[#131] VN18、[#132] VN14、[#133] X02、[#134] VN11（不採用註記）、[#135] VN08、[#136] VN16、[#137] VN19。
 
 ## E. 仍未解決的缺口（含 ChatGPT 也查不到的）
 
@@ -161,7 +161,7 @@
 | 欄 | V2 建議值 | 標籤 |
 |---|---|---|
 | 人均 GDP（美元，年） | USD 5,026（2025，NSO）；World Bank WDI 2025 USD 5,066 | 【實際｜高】 |
-| 住宅翻修市場規模（原幣／美元，年，來源#） | 窄口徑 USD 15.2 億（IMARC，2025）[#5]；寬口徑 USD 31.2 億（VMR，2024，含零售、未開頁）[#6]；Mordor 32.1／37.7 億同頁矛盾不採用 [#136]；本人推估新建公寓裝修 USD 6.5–6.8 億、全市場量級 10–20 億 | 【示意｜低｜單源各一】；推估【示意｜低】 |
+| 住宅翻修市場規模（原幣／美元，年，來源#） | 窄口徑 USD 15.2 億（IMARC，2025）[#5]；寬口徑 USD 31.2 億（VMR，2024，含零售、未開頁）[#6]；Mordor 32.1／37.7 億同頁矛盾不採用 [#134]；本人推估新建公寓裝修 USD 6.5–6.8 億、全市場量級 10–20 億 | 【示意｜低｜單源各一】；推估【示意｜低】 |
 | 室內設計服務市場（年，來源#） | 無獨立數值；推算 USD 0.5–1.9 億（翻修區間×3–6%） | 【示意｜低｜推算】 |
 | 住宅裝修單價（每 m²，基本／中階／高階） | 基本 350–450／中階 500–650 萬 VND/m²（USD 140–180／200–260）；高階 700–1,000 萬（USD 280–400）（2025 業者報價）[#21][#22] | 基本／中階【實際｜中｜雙源】；高階【示意｜低｜單源】 |
 | 設計費行情 | 主流 15–35 萬 VND/m²（USD 6.0–14.0；≈每坪 NT$620–1,440）[#25][#27][#128]；高端 35–55 萬 [#26]；Doctor Nội Thất 2026-08：22／29／40 萬、特別 110 萬（未稅）[#128] | 主流【實際｜中｜四家報價重疊】；高端【示意｜低】 |
@@ -169,6 +169,6 @@
 | 中古屋交易占比 | 無資料（VARS 僅一手）[#12] | — |
 | 執業管制（設計師／承包商） | 無室內設計師證照；主持設計須建築執業證書（40/2019）；承包商 175/2024 個人／企業證書、2026-07-01 起 135/2025＋212/2026；外國承包商逐合約許可；339/2026 裁罰（2026-08-26） | 【實際｜高】（212/2026 細節【示意】） |
 | 外資可 100% 持股？ | 建築設計公司（CPC 8671）：可，WTO 承諾 2009 起、有條件行業、台灣為會員 [#71]；裝修工程／陳設／零售業務線 CPC 未核定；承包商逐合約許可 | 【實際｜中｜限 CPC 8671】；其餘需專業人士確認 |
-| 主要平台 | Facebook／Zalo 社團與業者廣告；Happynest（月訪 400 萬自報、無 GMV）[#39]；Nhà Xinh 為 AA 零售品牌直客（非平台）[#134] | 【示意｜低】 |
+| 主要平台 | Facebook／Zalo 社團與業者廣告；Happynest（月訪 400 萬自報、無 GMV）[#39]；Nhà Xinh 為 AA 零售品牌直客（非平台）[#132] | 【示意｜低】 |
 | 前 3 大玩家 | 代表、非排名：AA Corporation（飯店 fit-out 總包＋家具；2023 淨利≈200 億 VND）[#33]；XHOME（設計施工連鎖，自報 16 省市）[#35]；An Cường（板材，2025 營收 4,608.7 十億 VND、淨利 503.7 十億）[#37][#129] | AA【實際｜中】；XHOME【示意】；An Cường【實際｜高】 |
 | 信心 | 中低（總體高、法規中高、單價中、規模與需求低） | — |
