@@ -1,0 +1,62 @@
+[
+{
+"id": "old30",
+"kind": "level",
+"metric": "30 年以上住宅占比",
+"value": 59,
+"unit": "%",
+"period": "2025Q2",
+"note": "5,545,854 宅，平均屋齡 34.1 年；以住宅單位計為有資料市場中最老",
+"label": "實際｜中"
+},
+{
+"id": "first_reg",
+"kind": "change",
+"metric": "建物第一次登記",
+"value": 8.4,
+"unit": "%",
+"period": "2025 年",
+"note": "176,690 棟，10 年新高；新屋輕裝修需求的來源，交屋潮 2026–2027 退場",
+"label": "實際｜高"
+},
+{
+"id": "cci",
+"kind": "change",
+"metric": "營造工程物價",
+"value": 6.4,
+"unit": "%",
+"period": "2026 年 6 月年增",
+"note": "固定總價合約毛利被吃掉；合約需材料調價條款",
+"label": "實際"
+},
+{
+"id": "yilan_sales",
+"kind": "change",
+"metric": "宜蘭建物買賣",
+"value": -23.6,
+"unit": "%",
+"period": "2025 年",
+"note": "約 5,270 棟",
+"label": "示意"
+},
+{
+"id": "sales",
+"kind": "change",
+"metric": "建物買賣登記",
+"value": -25.5,
+"unit": "%",
+"period": "2025 年",
+"note": "261,308 棟，9 年新低；中古換屋鏈斷裂",
+"label": "實際｜高"
+},
+{
+"id": "mortgage",
+"kind": "change",
+"metric": "五大銀行新增房貸",
+"value": -26,
+"unit": "%",
+"period": "2026Q1",
+"note": "房貸緊縮，新屋套餐現金流先轉弱",
+"label": "實際"
+}
+]
