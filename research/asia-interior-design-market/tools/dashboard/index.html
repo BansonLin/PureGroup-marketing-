@@ -49,6 +49,31 @@
 .ad-nav { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs); }
 .ad-nav a { font-size: var(--cds-font-size-caption); color: var(--color-fg); text-decoration: none; border: 1px solid var(--color-border-line); border-radius: 999px; padding: var(--cds-pad-xs) var(--cds-pad-sm); background: var(--color-panel); }
 .ad-nav a:hover, .ad-nav a:focus-visible { border-color: var(--color-fg-muted); }
+.ad-picker { position: sticky; top: 0; z-index: 4; display: flex; flex-wrap: wrap; align-items: center; gap: var(--cds-gap-xs); padding: var(--cds-pad-sm) 0; background: var(--color-bg); border-bottom: 1px solid var(--color-border-line); }
+.ad-picker .lbl { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin-right: var(--cds-gap-xs); }
+.ad-chip { font: inherit; font-size: var(--cds-font-size-caption); color: var(--color-fg); background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: 999px; padding: var(--cds-pad-xs) var(--cds-pad-sm); cursor: pointer; }
+.ad-chip:hover, .ad-chip:focus-visible { border-color: var(--color-fg-muted); outline: none; }
+.ad-chip[aria-pressed="true"] { background: var(--color-fg); color: var(--color-bg); border-color: var(--color-fg); }
+.ad-picked { font: inherit; font-size: var(--cds-font-size-caption); margin-left: auto; color: var(--color-fg); background: transparent; border: 1px dashed var(--color-fg-muted); border-radius: 999px; padding: var(--cds-pad-xs) var(--cds-pad-sm); cursor: pointer; }
+.ad-focus { gap: var(--cds-gap-md); }
+.ad-focus-top { display: flex; flex-wrap: wrap; align-items: baseline; gap: var(--cds-gap-sm) var(--cds-gap-md); }
+.ad-focus-top h3 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); }
+.ad-focus-top .meta { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.ad-focus .hl { font-size: var(--cds-font-size-heading); line-height: 1.5; margin: 0; }
+.ad-kv { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: var(--cds-gap-sm) var(--cds-gap-md); }
+.ad-kv div { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.ad-kv .k { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.ad-kv .v { font-size: var(--cds-font-size-caption); line-height: 1.5; }
+.ad-two { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); gap: var(--cds-gap-sm); }
+.ad-two div { border-radius: var(--cds-radius); padding: var(--cds-pad-sm) var(--cds-pad-md); font-size: var(--cds-font-size-caption); line-height: 1.6; }
+.ad-two .go { background: color-mix(in srgb, var(--color-ok) 12%, var(--color-panel)); }
+.ad-two .watch { background: color-mix(in srgb, var(--color-bad) 10%, var(--color-panel)); }
+.ad-two b { display: block; }
+.ad-heat th.on, .ad-heat td.on { outline: 2px solid var(--color-fg); outline-offset: -2px; font-weight: 600; }
+.ad-heat .dim { opacity: .28; }
+.ad-heat th { cursor: pointer; }
+.ad-table tr.dim td { opacity: .32; }
+.ad-chart .row { cursor: pointer; }
 [data-dash-source-state=empty] { color: transparent; }
 [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
 </style>
@@ -88,6 +113,33 @@
       <span><span class="v dash-skeleton" data-source="tw_multiple" data-field="min" data-row="0">—</span><span class="v">–</span><span class="v dash-skeleton" data-source="tw_multiple" data-field="max" data-row="0">—</span><span class="u">倍</span></span>
       <span class="n">在這些市場，台灣報價是出海的負債</span>
     </div>
+  </section>
+
+  <div class="ad-picker" id="picker" role="toolbar" aria-label="市場篩選" data-source="countries">
+    <span class="lbl">聚焦市場</span>
+    <span id="picker-chips" style="display:contents"></span>
+    <button class="ad-picked" id="picked" type="button" hidden></button>
+  </div>
+
+  <section class="ad-card ad-focus" id="c-focus" hidden>
+    <div class="ad-focus-top">
+      <h3 id="f-name">—</h3>
+      <span class="meta"><span id="f-tier">—</span>｜跨境分數 <span id="f-score">—</span>｜資料可信度 <span id="f-conf">—</span></span>
+    </div>
+    <p class="hl" id="f-headline">—</p>
+    <div class="ad-kv">
+      <div><span class="k">人均 GDP（2025）</span><span class="v" id="f-gdp">—</span></div>
+      <div><span class="k">住宅翻修市場</span><span class="v" id="f-renovation">—</span></div>
+      <div><span class="k">中階單價（每坪）</span><span class="v" id="f-mid_price">—</span></div>
+      <div><span class="k">設計費行情</span><span class="v" id="f-design_fee">—</span></div>
+      <div><span class="k">30 年以上屋齡</span><span class="v" id="f-old30">—</span></div>
+      <div><span class="k">中古交易占比</span><span class="v" id="f-resale">—</span></div>
+    </div>
+    <div class="ad-two">
+      <div class="go"><b>進入路徑</b><span id="f-entry">—</span></div>
+      <div class="watch"><b>觀察重點</b><span id="f-watch">—</span></div>
+    </div>
+    <p class="note">下方所有圖表已把這個市場標亮、其他市場淡出；再點一次市場或按右上角取消。</p>
   </section>
 
   <section class="ad-sec" id="s-tw">
@@ -254,6 +306,10 @@
     const t = svg.append('text').attr('class', cls || '').style('font-size', 'var(--cds-font-size-caption)').text(str);
     const w = t.node().getComputedTextLength(); t.remove(); return w;
   };
+  AD.pick = () => (dash.params().market || null);
+  AD.has = (codes, pick) => !pick || String(codes || '').split(',').includes(pick);
+  AD.FADE = 0.22;
+  AD.toggle = code => { if (!code) return; const cur = AD.pick(); dash.setParams({ market: cur === code ? null : code }); };
   AD.signed = v => (v > 0 ? '+' : '') + d3.format('.1f')(v).replace('−', '-');
   AD.num = d3.format(',');
 })();
@@ -316,15 +372,26 @@ dash.calc('tw_multiple', {
     if (!got) return;
     const d = dash.data('heat');
     const cols = d.columns || Object.keys(got[0][0] || {});
+    const cs = dash.data('countries');
+    const codeOf = new Map((cs.status === 'ok' ? cs.data : []).map(c => [c.name, c.code]));
+    const pick = AD.pick();
+    const state = c => (c === '面向' || !pick) ? '' : (codeOf.get(c) === pick ? 'on' : 'dim');
     head.replaceChildren();
-    cols.forEach(c => { const th = document.createElement('th'); th.setAttribute('data-field', c); th.textContent = c === '面向' ? '面向' : c; head.appendChild(th); });
+    cols.forEach(c => {
+      const th = document.createElement('th'); th.setAttribute('data-field', c); th.textContent = c;
+      const st = state(c); if (st) th.classList.add(st);
+      if (c !== '面向') th.addEventListener('click', () => AD.toggle(codeOf.get(c)));
+      head.appendChild(th);
+    });
     body.replaceChildren();
     got[0].forEach(r => {
       const tr = document.createElement('tr');
       cols.forEach(c => {
         const td = document.createElement('td');
         td.textContent = r[c];
-        if (c !== '面向' && VERDICT[r[c]]) td.className = VERDICT[r[c]];
+        if (c !== '面向' && VERDICT[r[c]]) td.classList.add(VERDICT[r[c]]);
+        const st = state(c); if (st) td.classList.add(st);
+        if (c !== '面向') td.addEventListener('click', () => AD.toggle(codeOf.get(c)));
         tr.appendChild(td);
       });
       body.appendChild(tr);
@@ -394,6 +461,9 @@ dash.calc('tw_multiple', {
     const g = svg.selectAll('g.row').data(rows).join('g').attr('class', 'row')
       .attr('transform', (r, i) => `translate(0,${top + i * rowH})`);
     const isTW = r => r.group === '台灣';
+    const pick = AD.pick();
+    const codeP = r => (r.code === 'TW2' ? 'TW' : r.code);
+    g.style('opacity', r => (AD.has(codeP(r), pick) ? 1 : AD.FADE)).on('click', (ev, r) => AD.toggle(codeP(r)));
     g.append('text').attr('x', 0).attr('y', 13)
       .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg)')
       .style('font-weight', r => (isTW(r) ? 600 : 400))
@@ -406,7 +476,7 @@ dash.calc('tw_multiple', {
       });
     g.append('rect').attr('x', r => x(r.low)).attr('width', r => Math.max(4, x(r.high) - x(r.low)))
       .attr('y', 20).attr('height', 16).attr('rx', 4)
-      .style('fill', r => (isTW(r) ? dash.colors[0] : 'var(--cds-chart-muted)'));
+      .style('fill', r => (isTW(r) ? dash.colors[0] : (pick && codeP(r) === pick ? dash.colors[1] : 'var(--cds-chart-muted)')));
     g.append('rect').attr('x', 0).attr('y', 0).attr('width', W).attr('height', rowH).style('fill', 'transparent')
       .on('mousemove', (ev, r) => AD.showTip(el, [r.market, `${AD.num(r.low)}–${AD.num(r.high)} 美元／m²`, r.basis,
         r.group === '低於台灣' ? `台灣新成屋中階為其 ${r.multiple} 倍` : (r.group === '高於台灣' ? `台灣約為其 ${r.multiple} 倍` : ''), `標籤：${r.label}`], ev))
@@ -425,9 +495,12 @@ dash.calc('tw_multiple', {
     const lw = d3.max(rows, r => AD.textW(svg, r.city)) + 12;
     const vw = AD.textW(svg, '000–000') + 10;
     const x = d3.scaleLinear([0, d3.max(rows, r => r.high)], [lw, W - vw]);
-    const isTP = r => r.city === '台北';
+    const pick0 = AD.pick();
+    const pick = rows.some(r => r.code === pick0) ? pick0 : null;
+    const isTP = r => (pick ? r.code === pick : r.city === '台北');
     const g = svg.selectAll('g.row').data(rows).join('g').attr('class', 'row')
-      .attr('transform', (r, i) => `translate(0,${top + i * rowH})`);
+      .attr('transform', (r, i) => `translate(0,${top + i * rowH})`)
+      .style('opacity', r => (AD.has(r.code, pick) ? 1 : AD.FADE)).on('click', (ev, r) => AD.toggle(r.code));
     g.append('text').attr('x', lw - 10).attr('y', 20).attr('text-anchor', 'end')
       .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg)')
       .style('font-weight', r => (isTP(r) ? 600 : 400)).text(r => r.city);
@@ -487,8 +560,11 @@ dash.calc('tw_multiple', {
     svg.append('g').selectAll('text').data(ticks).join('text')
       .attr('x', d => x(d)).attr('y', H - 8).attr('text-anchor', 'middle')
       .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg-muted)').text(d => d);
+    const pick0 = AD.pick();
+    const pick = parts.some(r => r.code === pick0) ? pick0 : null;
     const g = svg.selectAll('g.row').data(parts).join('g').attr('class', 'row')
-      .attr('transform', (r, i) => `translate(0,${top + i * rowH})`);
+      .attr('transform', (r, i) => `translate(0,${top + i * rowH})`)
+      .style('opacity', r => (AD.has(r.code, pick) ? 1 : AD.FADE)).on('click', (ev, r) => AD.toggle(r.code));
     g.append('text').attr('x', lw - 10).attr('y', 24).attr('text-anchor', 'end')
       .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg)').text(r => r.market);
     g.each(function (r) {
@@ -561,8 +637,12 @@ dash.calc('tw_multiple', {
         .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg-muted)')
         .style('font-weight', 600).style('letter-spacing', '.06em').text(it.head === '海外' ? '海外試點' : it.head);
     });
+    const pick0 = AD.pick();
+    const pick = rows.some(r => AD.has(r.markets, pick0) && r.markets) ? pick0 : null;
     const g = svg.selectAll('g.row').data(items.filter(it => !it.head)).join('g').attr('class', 'row')
-      .attr('transform', it => `translate(0,${it.y})`);
+      .attr('transform', it => `translate(0,${it.y})`)
+      .style('opacity', it => (!pick || (it.markets && AD.has(it.markets, pick)) ? 1 : AD.FADE))
+      .on('click', (ev, it) => AD.toggle(String(it.markets || '').split(',')[0]));
     g.append('text').attr('y', 14)
       .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg)').text(it => it.item)
       .each(function (it) { const len = this.getComputedTextLength(); d3.select(this).attr('x', Math.max(0, Math.min(x(it.s), W - len - 2))); });
@@ -590,8 +670,12 @@ dash.calc('tw_multiple', {
     const got = AD.ready('stoploss', box, () => body.replaceChildren());
     if (!got) return;
     body.replaceChildren();
+    const pick = AD.pick();
     got[0].forEach(r => {
       const tr = document.createElement('tr');
+      const m = r['市場'];
+      const hit = !pick || (m ? AD.has(m, pick) : pick !== 'TW');
+      if (!hit) tr.className = 'dim';
       ['項目', '停損條件', '依據'].forEach(k => { const td = document.createElement('td'); td.textContent = r[k]; tr.appendChild(td); });
       body.appendChild(tr);
     });
@@ -616,9 +700,41 @@ dash.calc('tw_multiple', {
     fill('[data-source="tw_multiple"]', v => d3.format('.1f')(v));
   }
 
+  // ---------- market picker and focus card ----------
+  const FOCUS = ['name', 'tier', 'score', 'confidence', 'headline', 'gdp', 'renovation', 'mid_price', 'design_fee', 'old30', 'resale', 'entry', 'watch'];
+  const FID = { confidence: 'f-conf' };
+  document.getElementById('picked').addEventListener('click', () => dash.setParams({ market: null }));
+  function drawPicker() {
+    const wrap = document.getElementById('picker-chips');
+    const picked = document.getElementById('picked');
+    const focus = document.getElementById('c-focus');
+    const d = dash.data('countries');
+    const pick = AD.pick();
+    if (d.status !== 'ok') { wrap.replaceChildren(); picked.hidden = true; focus.hidden = true; return; }
+    wrap.replaceChildren(...d.data.map(c => {
+      const b = document.createElement('button');
+      b.type = 'button'; b.className = 'ad-chip'; b.textContent = c.name;
+      b.setAttribute('aria-pressed', String(c.code === pick));
+      b.addEventListener('click', () => AD.toggle(c.code));
+      return b;
+    }));
+    const row = pick ? d.data.find(c => c.code === pick) : null;
+    picked.hidden = !row;
+    picked.textContent = row ? `已聚焦：${row.name}　取消 ×` : '';
+    focus.hidden = !row;
+    FOCUS.forEach(f => {
+      const el = document.getElementById(FID[f] || ('f-' + f));
+      if (!row) { el.removeAttribute('data-source'); el.removeAttribute('data-field'); el.removeAttribute('data-where'); el.textContent = '—'; return; }
+      const v = row[f];
+      if (v == null) { el.removeAttribute('data-source'); el.removeAttribute('data-field'); el.removeAttribute('data-where'); el.textContent = '比較基準'; return; }
+      el.setAttribute('data-source', 'countries'); el.setAttribute('data-field', f); el.setAttribute('data-where', 'code=' + encodeURIComponent(row.code));
+      el.textContent = f === 'score' ? d3.format('.1f')(v) : String(v);
+    });
+  }
+
   let first = true;
   dash.onData(() => {
-    drawTiles(); drawHeat(); drawSignals(); drawPricing(); drawFitout(); drawModels(); drawXb(); drawPlan(); drawStop();
+    drawPicker(); drawTiles(); drawHeat(); drawSignals(); drawPricing(); drawFitout(); drawModels(); drawXb(); drawPlan(); drawStop();
     if (first) {
       first = false;
       const named = document.getElementById(location.hash.slice(1));

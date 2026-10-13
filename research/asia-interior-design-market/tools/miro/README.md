@@ -12,6 +12,7 @@
 | 04 跨國主題與標竿 | 04-1 八大主題、04-2 標竿 | `miro-themes.json`（由 41～48 主題章與策略章第 1 節濃縮） |
 | 05 策略 | 05-1 做／試／不做、05-2 跨境評分、05-3 30／60／90 天、05-4 停損 | 90-strategy 第 2、3、6 節 |
 | 06 風險與待確認 | 06-1 風險登錄、06-2 D1–D11、06-3 專家名單、06-4 待確認與連結 | 90-strategy 第 4、5、6 節 |
+| 07 圖解 | 07-1 需求訊號、07-2 單價區間、07-3 商辦單價、07-4 跨境分數拆解、07-5 模式色階表、07-6 路線圖 | `../dashboard/data/*.json`（與互動圖表頁同一份資料），`miro_ch7.py` 產生 |
 
 框的 Miro id 在 `board-ids.json`；看板頂端目錄的每個連結都用 `?moveToWidget=<id>` 跳轉。
 
@@ -21,7 +22,8 @@
 2. `python3 -I miro_build.py`：在 `out/` 產生 b1～b9 九批 Canvas Composer SVG 與 `miro-pos.json`（座標）。第 1、2 章是手寫 SVG，未納入本產生器。
 3. 以 Miro MCP `canvas_create_from_svg` 逐批上傳；更新既有看板時，改用 `canvas_read_as_svg` 取得基準後用 `canvas_update_from_svg`，避免重複建立。
 4. 上傳結果存成 SVG 後跑 `python3 -I miro_qa.py <result.svg>`，檢查文字與文字、文字與卡片是否重疊。
-5. `python3 -I miro_toc.py` 依新 id 產生目錄卡片。
+5. 第 07 章：`python3 -I miro_ch7.py` 產生 b10～b12（以 Miro 原生圖形畫圖表）。
+6. `python3 -I miro_toc.py` 依新 id 產生目錄卡片。
 
 ## 版面規則（踩過的坑）
 
