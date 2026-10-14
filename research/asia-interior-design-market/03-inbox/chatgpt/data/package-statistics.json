@@ -1,0 +1,36 @@
+{
+  "source_records": 264,
+  "usable_source_records": 250,
+  "unique_source_urls": 263,
+  "usable_unique_urls": 249,
+  "original_metrics": 429,
+  "new_metrics": 33,
+  "audited_metrics": 462,
+  "adopted_metrics": 443,
+  "rejected_metrics": 19,
+  "metric_counts": {
+    "TW": 36,
+    "JP": 40,
+    "KR": 38,
+    "SG": 46,
+    "HK": 29,
+    "CN": 45,
+    "MY": 43,
+    "TH": 48,
+    "VN": 28,
+    "ID": 25,
+    "PH": 28,
+    "IN": 32,
+    "GLOBAL": 5
+  },
+  "conversions": 213,
+  "range_conversions": 11,
+  "verification_verdicts": {
+    "pass": 423,
+    "fail": 16,
+    "partial": 23
+  },
+  "url_or_content_failed_urls": 16,
+  "verification_failure_rate": 0.060836501901140684,
+  "metric_content_mismatches": 19
+}

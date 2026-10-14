@@ -1,0 +1,563 @@
+[
+  {
+    "market": "TW",
+    "metric": "低度使用住宅",
+    "source_id": "TW04",
+    "original": {
+      "value": 894582,
+      "unit": "宅",
+      "year": 2025,
+      "definition": "下半年低用電代理；不是空屋普查"
+    },
+    "correction": {
+      "value": 894582,
+      "unit": "宅",
+      "year": "2025下半年",
+      "definition": "下半年低用電代理；不是空屋普查"
+    },
+    "action": "年份或定義澄清",
+    "reason": "L297–305：2025下半年低度用電住宅894,582宅、9.4%；2025住宅使用執照約14.2萬宅；2025Q4新建餘屋待售112,501宅、臺北4,710、宜蘭2,685宅。"
+  },
+  {
+    "market": "TW",
+    "metric": "低度使用住宅比率",
+    "source_id": "TW04",
+    "original": {
+      "value": 9.4,
+      "unit": "%",
+      "year": 2025,
+      "definition": "低用電住宅／房屋稅籍住宅"
+    },
+    "correction": {
+      "value": 9.4,
+      "unit": "%",
+      "year": "2025下半年",
+      "definition": "低用電住宅／房屋稅籍住宅"
+    },
+    "action": "年份或定義澄清",
+    "reason": "L297–305：2025下半年低度用電住宅894,582宅、9.4%；2025住宅使用執照約14.2萬宅；2025Q4新建餘屋待售112,501宅、臺北4,710、宜蘭2,685宅。"
+  },
+  {
+    "market": "TW",
+    "metric": "新成屋工程行情",
+    "source_id": "TW10",
+    "original": {
+      "value": "40000–80000",
+      "unit": "TWD/坪",
+      "year": 2025,
+      "definition": "平台參考區間，實作坪數；非高低階同規格報價"
+    },
+    "correction": null,
+    "action": "不採用",
+    "reason": "初次open僅回中繼資料；重開內文與直接HTTP均403，未成功核對40,000–80,000與80,000–120,000。"
+  },
+  {
+    "market": "TW",
+    "metric": "老屋翻新工程行情",
+    "source_id": "TW10",
+    "original": {
+      "value": "80000–120000",
+      "unit": "TWD/坪",
+      "year": 2025,
+      "definition": "平台參考區間；個案另按範圍報價"
+    },
+    "correction": null,
+    "action": "不採用",
+    "reason": "初次open僅回中繼資料；重開內文與直接HTTP均403，未成功核對40,000–80,000與80,000–120,000。"
+  },
+  {
+    "market": "TW",
+    "metric": "設計費占工程費參考",
+    "source_id": "TW11",
+    "original": {
+      "value": "5–20",
+      "unit": "%",
+      "year": 2025,
+      "definition": "平台多案型指南，並非住宅抽樣平均"
+    },
+    "correction": null,
+    "action": "不採用",
+    "reason": "初次open僅回中繼資料；重開內文與直接HTTP均403，未成功核對5–20%。"
+  },
+  {
+    "market": "TW",
+    "metric": "100用戶無裝修經驗",
+    "source_id": "TW14",
+    "original": {
+      "value": 77,
+      "unit": "%",
+      "year": 2025,
+      "definition": "平台後台用戶，非全台人口代表樣本"
+    },
+    "correction": {
+      "value": 77,
+      "unit": "%",
+      "year": "2025文章；樣本期間未載",
+      "definition": "平台後台用戶，非全台人口代表樣本；不是已確認的2025全年成交抽樣"
+    },
+    "action": "年份或定義澄清",
+    "reason": "L32–40：平台後台77%無裝修經驗、超過50%需求新購住宅，文章標題2025；未揭統計抽樣期間。"
+  },
+  {
+    "market": "TW",
+    "metric": "100需求來自新購住宅",
+    "source_id": "TW14",
+    "original": {
+      "value": ">50",
+      "unit": "%",
+      "year": 2025,
+      "definition": "平台後台需求，新購可包含中古，不是新屋占比"
+    },
+    "correction": {
+      "value": ">50",
+      "unit": "%",
+      "year": "2025文章；樣本期間未載",
+      "definition": "平台後台需求，新購可包含中古，不是新屋占比；不是已確認的2025全年成交抽樣"
+    },
+    "action": "年份或定義澄清",
+    "reason": "L32–40：平台後台77%無裝修經驗、超過50%需求新購住宅，文章標題2025；未揭統計抽樣期間。"
+  },
+  {
+    "market": "TW",
+    "metric": "PULO累計完工屋主",
+    "source_id": "TW16",
+    "original": {
+      "value": ">2000",
+      "unit": "位",
+      "year": 2026,
+      "definition": "官網未標統計截止日；累積非年度"
+    },
+    "correction": {
+      "value": ">2000",
+      "unit": "位",
+      "year": "統計截止日未載；2026-10-09查詢",
+      "definition": "官網未標統計截止日；累積非年度；年份不是2026年度實績"
+    },
+    "action": "年份或定義澄清",
+    "reason": "L31–35：自2015累計完成超過2,000位屋主；未載統計截止日，2026僅檢索年。"
+  },
+  {
+    "market": "TW",
+    "metric": "PULO成交抽成",
+    "source_id": "TW17",
+    "original": {
+      "value": 0,
+      "unit": "%",
+      "year": 2026,
+      "definition": "官網宣稱成交不抽成；會員費另計"
+    },
+    "correction": {
+      "value": 0,
+      "unit": "%",
+      "year": "統計截止日未載；2026-10-09查詢",
+      "definition": "官網宣稱成交不抽成；會員費另計；年份不是2026年度實績"
+    },
+    "action": "年份或定義澄清",
+    "reason": "L112–114：平台宣稱成交不抽%；未載方案生效日，2026僅檢索年。"
+  },
+  {
+    "market": "TW",
+    "metric": "室裝契約範本簽約金上限",
+    "source_id": "TW09",
+    "original": {
+      "value": 5,
+      "unit": "%",
+      "year": 2014,
+      "definition": "官方範本條款，不推論為全部私人契約強制比例"
+    },
+    "correction": {
+      "value": 5,
+      "unit": "%",
+      "year": "發布年未載；2026-10-09查詢",
+      "definition": "官方範本條款，不推論為全部私人契約強制比例"
+    },
+    "action": "年份或定義澄清",
+    "reason": "PDF第2頁第六條：簽約金最高不得逾5%；檔案內容未載2014發布日期，年份只能按未載日期處理。"
+  },
+  {
+    "market": "JP",
+    "metric": "一般內裝無許可輕微工程門檻",
+    "source_id": "JP06",
+    "original": {
+      "value": 5000000,
+      "unit": "JPY",
+      "year": 2026,
+      "definition": "建築一式以外工程每件請負金額 <5,000,000 JPY（含稅）；非其他法令豁免"
+    },
+    "correction": {
+      "value": 5000000,
+      "unit": "JPY",
+      "year": "2026-10-09查詢現行說明",
+      "definition": "建築一式以外工程每件請負金額 <5,000,000 JPY（含稅）；非其他法令豁免；2026為查詢年，不代表首次施行年"
+    },
+    "action": "年份或定義澄清",
+    "reason": "L24–43：建設業法第3條，一式以外輕微工程每件未滿500萬円，含消費稅；僅建設業許可例外。"
+  },
+  {
+    "market": "JP",
+    "metric": "一般建設業財務條件",
+    "source_id": "JP07",
+    "original": {
+      "value": 5000000,
+      "unit": "JPY",
+      "year": 2026,
+      "definition": "自有資本或資金籌措能力選項；另有技術與管理條件"
+    },
+    "correction": {
+      "value": 5000000,
+      "unit": "JPY",
+      "year": "2026-10-09查詢現行說明",
+      "definition": "自有資本或資金籌措能力選項；另有技術與管理條件；2026為查詢年，不代表首次施行年"
+    },
+    "action": "年份或定義澄清",
+    "reason": "L188–196：一般建設業三擇一條件，自有資本500萬円以上或等額籌資能力、或許可前5年繼續經營；另有技術管理要件。"
+  },
+  {
+    "market": "JP",
+    "metric": "SHUKEN全屋翻修實績",
+    "source_id": "JP14",
+    "original": {
+      "value": "180000–200000",
+      "unit": "JPY/m²",
+      "year": 2025,
+      "definition": "單一業者主流成交帶；非全國抽樣"
+    },
+    "correction": {
+      "value": "180000–200000",
+      "unit": "JPY/m²",
+      "year": "2025文章；成交樣本年未載",
+      "definition": "企業部落格所述中心價格帶試算；不是可驗證2025成交統計，依整合協議D不採用"
+    },
+    "action": "不採用",
+    "reason": "L166：公司實績試算中心18–20萬円/m²；HTML公開日2025-12-01，但未載成交樣本年份。依協議部落格D，不採市場定量。"
+  },
+  {
+    "market": "JP",
+    "metric": "SUUMO排名收錄公司",
+    "source_id": "JP16",
+    "original": {
+      "value": 932,
+      "unit": "家",
+      "year": "2026-09",
+      "definition": "平台流量排行樣本，不等同全國公司家數"
+    },
+    "correction": {
+      "value": 932,
+      "unit": "家",
+      "year": "2026-09-02至2026-10-06",
+      "definition": "SUUMO頁面名為2026年9月排行；按各社頁面アクセス數，932社為該排行樣本"
+    },
+    "action": "年份或定義澄清",
+    "reason": "L34/81–85：932家公司、頁面標2026年9月榜、集計2026-09-02至10-06；アクセス排行榜不是營收／成交排行。"
+  },
+  {
+    "market": "TW/JP",
+    "action": "全體單源降信心",
+    "reason": "所有數字目前均只有一個獨立原始機構；同機構不同頁或轉引不算第二來源。原值保留，confidence統一低，示意；forecast另標預測。"
+  },
+  {
+    "market": "JP",
+    "source_id": "JP08",
+    "action": "來源年份修正",
+    "original": 2026,
+    "correction": "頁面最後更新2024-10-25，2026為查詢年；由JP20補2025-04施行適用案例"
+  },
+  {
+    "market": "TW/JP",
+    "action": "補充證據",
+    "new_source_ids": [
+      "TW21",
+      "TW22",
+      "JP20"
+    ],
+    "new_metrics": 9,
+    "reason": "補官方老屋方向值、薪資方法、裝修審查案例，以及既有已核驗來源的新供給、企業營收、糾紛諮詢數。"
+  },
+  {
+    "market": "KR",
+    "section": "2.6／附錄",
+    "original": "430件，2026",
+    "revised": "430件，2026H1",
+    "source_id": "KR09",
+    "reason": "原文為上半年；避免被解讀為全年。"
+  },
+  {
+    "market": "KR",
+    "section": "來源清單",
+    "original": "KR13 發布2026",
+    "revised": "2025-12-31",
+    "source_id": "KR13",
+    "reason": "重新開頁核對日期。"
+  },
+  {
+    "market": "SG",
+    "section": "2.1／缺口",
+    "original": "未取得住宅翻修分拆",
+    "revised": "F&S簡報有住宅桶：2022 1638.7；2024E1771.5；2025E1847.5；2027E2048.5 百萬SGD",
+    "source_id": "SG11／SG21",
+    "reason": "視讀原始圖，補回可核分拆；維持低信心示意及預測狀態。"
+  },
+  {
+    "market": "SG",
+    "section": "2.5–2.9",
+    "original": "BCA／SCDF／簽證認證細節未核",
+    "revised": "新增BCA BLS與CRS、SCDF QP、CaseTrust、EP年齡門檻與SIDAS原頁",
+    "source_id": "SG14–SG20",
+    "reason": "補工程責任、人力與認證邊界；不宣稱完整法遵意見。"
+  },
+  {
+    "market": "KR/SG",
+    "section": "全篇",
+    "original": "單源政府／企業數字標高信心",
+    "revised": "按協議單一獨立原始機構全部低信心【示意】；預測另標",
+    "source_id": "全部",
+    "reason": "來源等級與指標三角驗證分開判斷。"
+  },
+  {
+    "market": "KR",
+    "section": "2.3",
+    "original": "Sankun blog排名作主要玩家依據",
+    "revised": "KR16降D不採排名；KOSCA2026公告仅支持查核入口",
+    "source_id": "KR16／KR17",
+    "reason": "按D級部落格規則及施工能力不同於營收。"
+  },
+  {
+    "market": "HK",
+    "section": "指標來源年份",
+    "old": "93%及50%；year=2024",
+    "new": "2024年發布；研究期2022-04至2024-01",
+    "source": "HK01;HK13",
+    "reason": "分開報告發布年與研究期，未將年度套入認知調查"
+  },
+  {
+    "market": "HK",
+    "section": "人均GDP定義",
+    "old": "日本外務省引用香港統計",
+    "new": "日本外務省頁2024人均GDP；原數據出處未明確判定",
+    "source": "HK07",
+    "reason": "移除未證實歸屬"
+  },
+  {
+    "market": "CN",
+    "section": "來源等級",
+    "old": "CN07政府來源高信心",
+    "new": "B級媒體原始引述；低信心示意",
+    "source": "CN07",
+    "reason": "政府網址的承載身分不等於原始統計"
+  },
+  {
+    "market": "CN",
+    "section": "公司利潤定義",
+    "old": "收入減該服務直接成本",
+    "new": "分部淨收入減直接歸屬變動成本；非完整部門淨利",
+    "source": "CN02;CN03",
+    "reason": "避免拿貢獻利潤率當淨利率"
+  },
+  {
+    "market": "CN",
+    "section": "需求結構更新",
+    "old": "僅2024新屋年度統計",
+    "new": "另列2026年1–8月最新累計指標",
+    "source": "CN15",
+    "reason": "補最新現況，不覆蓋舊年度歷史值"
+  },
+  {
+    "market": "HK/CN",
+    "section": "整合標記",
+    "old": "來源高/中信心",
+    "new": "全部单一獨立來源數字低信心【示意】",
+    "source": "整合協議§4",
+    "reason": "來源級別與指標多源信心分離"
+  },
+  {
+    "market": "MY",
+    "section": "来源及附錄",
+    "old": "MY20原招股書URL",
+    "new": "改用MY24；原MY20三列fail不採用",
+    "reason": "重新開啟404，取得同份招股書另一完整鏡像，數值一致，仍僅單源"
+  },
+  {
+    "market": "TH",
+    "section": "人才及來源",
+    "old": "TH24原最低薪資PDF",
+    "new": "改用TH25主管機關HTML；原兩列fail",
+    "reason": "原頁防護/逾時，替代公告內容已核"
+  },
+  {
+    "market": "MY",
+    "section": "材料",
+    "old": "鋼材3426.80高信心",
+    "new": "partial；正文3426.80與图3436.80同列，低信心",
+    "reason": "同一官方PDF內部矛盾，不任意選图覆蓋正文"
+  },
+  {
+    "market": "MY",
+    "section": "需求價格",
+    "old": "Hin報價四列",
+    "new": "D不採用；另補Qanvast三價帶/費率/工期為C示意",
+    "reason": "新協議部落格D不採用；平台範圍仍非全國統計"
+  },
+  {
+    "market": "MY/TH",
+    "section": "全部",
+    "old": "來源品質即指標高/中信心",
+    "new": "單源一律低信心【示意】，預測另標",
+    "reason": "按三角驗證規則"
+  },
+  {
+    "market": "TH",
+    "section": "消費者保護",
+    "old": "住宅增改建公告一般描述",
+    "new": "補充自用居住範圍，不套出租/出售投資案",
+    "reason": "Royal Gazette第1頁定義"
+  },
+  {
+    "market": "MY",
+    "section": "跨境評分",
+    "old": "國別3/5與總覽4/5不同",
+    "new": "3/5；既有客戶/在地合規夥伴條件",
+    "reason": "未證實無客戶的市場開拓與牌照可行性，不給夥伴試點級4分"
+  },
+  {
+    "market": "VN",
+    "item": "Nhà Xinh 來源 URL",
+    "before": "VN04 帶追蹤網址",
+    "after": "使用 VN14 乾淨網址",
+    "reason": "原 URL 此次失敗，替代 URL 實際開啟。"
+  },
+  {
+    "market": "VN",
+    "item": "住宅改善規模",
+    "before": "3.77 十億 USD 低信心",
+    "after": "採用表不採用；矛盾表保留 3.21／3.77",
+    "reason": "同頁同年無法裁決，停止衍生。"
+  },
+  {
+    "market": "VN",
+    "item": "家具規模同頁矛盾",
+    "before": "9.76 十億 USD",
+    "after": "9.62–9.76 十億 USD 示意區間",
+    "reason": "方法比較表另列 9.62，屬同頁版本差，非雙源。"
+  },
+  {
+    "market": "ID",
+    "item": "Sejasa 單價與工薪四列",
+    "before": "低／中信心可參考",
+    "after": "D 級不採用；保留原始稽核值",
+    "reason": "附件明定部落格 D 不採用。"
+  },
+  {
+    "market": "ID",
+    "item": "年底 Dekoruma 股權",
+    "before": "99.90% 年底持股",
+    "after": "爭議值，不採用作唯一現值",
+    "reason": "同年報公司表及 2026H1 簡報 99.83% 衝突。"
+  },
+  {
+    "market": "ID",
+    "item": "家具 CAGR 年份",
+    "before": 2025,
+    "after": "2025–2030",
+    "reason": "預測期間應完整保留。"
+  },
+  {
+    "market": "VN/ID",
+    "item": "所有單一來源指標",
+    "before": "依官方／企業來源列高或中信心",
+    "after": "一律低信心，示意；預測另標",
+    "reason": "依附件三角驗證規则，來源級別不等於指標信心。"
+  },
+  {
+    "market": "ID",
+    "item": "固定換算匯率",
+    "before": "16680 IDR/USD，原標為2025年末",
+    "after": "16782 IDR/USD，2025年末中間價",
+    "reason": "主研究者於BI原表及SSKI表2確認16680為9月，重算全模組金額。"
+  },
+  {
+    "market": "VN",
+    "item": "2024實質GDP歷史版本",
+    "before": "7.09%官方初估",
+    "after": "保留初估並揭露後續2025年公告將2024修訂為7.04%",
+    "reason": "VN01為當時公告值，X10歷史序列更新；不可稱最新數據或算獨立雙源。"
+  },
+  {
+    "market": "PH",
+    "item": "PH11基期",
+    "old": "2025發布／基期未明",
+    "new": "2024基期／2025發布",
+    "reason": "頁面明示Base Year2024",
+    "source_id": "PH11"
+  },
+  {
+    "market": "IN",
+    "item": "IN02二線中古來源82%與平均花費390000",
+    "old": "2025",
+    "new": "2025發布／觀察期未明",
+    "reason": "發表年不能當作樣本觀察年",
+    "source_id": "IN02"
+  },
+  {
+    "market": "IN",
+    "item": "Livspace調整EBITDA",
+    "old": "舊分組檔+1.31 INRbn；combined已-1.31",
+    "new": "保留combined的-1.31 INRbn",
+    "reason": "虧損用負值，非淨虧損",
+    "source_id": "IN06"
+  },
+  {
+    "market": "PH",
+    "item": "PH13消費申訴入口",
+    "old": "來源清單入口",
+    "new": "查核紀錄保留，正文與有效来源排除",
+    "reason": "0行正文，沒有可讀內容",
+    "source_id": "PH13"
+  },
+  {
+    "market": "IN",
+    "item": "家具QCO",
+    "old": "未全文核驗",
+    "new": "新增2025原文，2026修正頁開啟失敗列缺口",
+    "reason": "不以舊法推定現行生效日",
+    "source_id": "IN18"
+  },
+  {
+    "market": "PH/IN",
+    "item": "所有單源指標信心",
+    "old": "多數high/medium",
+    "new": "整合低信心【示意】，預測另標",
+    "reason": "依新版三角驗證規則；來源A不自動等於指標high。"
+  },
+  {
+    "market": "ID",
+    "section": "0匯率／所有IDR換算",
+    "old": "16680IDR/USD（誤標2025年末）",
+    "new": "16782IDR/USD（2025-12年末中間價）",
+    "source": "X09／X18",
+    "reason": "原值對應9月，按原表與同機構另一表欄位修正；R2重算全部印尼盾金額"
+  },
+  {
+    "market": "GLOBAL",
+    "section": "4E跨境案例",
+    "old": "Nitori中國虧損門市調整為確證",
+    "new": "本次未重現定位證據，不保留此具體斷言",
+    "source": "X04",
+    "reason": "財報可讀但未核到原敘述；只保留已確認營收與利潤"
+  },
+  {
+    "market": "ID",
+    "section": "人均GDP",
+    "old": "5059.6USD",
+    "new": "5059.626USD",
+    "source": "MID",
+    "reason": "保存官方頁面顯示精度，非實質經濟修訂"
+  },
+  {
+    "market": "GLOBAL",
+    "section": "來源等級與信心",
+    "old": "官方高、企業中",
+    "new": "分開來源A–D與獨立來源數；本輪單源均低／示意",
+    "source": "整合協議第4條",
+    "reason": "依新規範，網址核對通過不等於三角驗證"
+  }
+]

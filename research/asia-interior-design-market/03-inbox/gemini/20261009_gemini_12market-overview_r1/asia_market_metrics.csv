@@ -1,0 +1,17 @@
+market,metric,value,unit,year,source,confidence
+TW,屋齡30年以上住宅數量,554.5,萬宅,2024,房屋稅籍統計,high
+TW,屋齡30年以上住宅占比,59.0,%,2024,房屋稅籍統計,high
+TW,中古屋交易占比,69.0,%,2024,內政部不動產資訊平台,high
+JP,住宅翻修市場規模,7.1,兆日圓,2024,矢野經濟研究所,high
+KR,室內設計與傢俱市場規模,12.6,十億美元,2025,Ken Research,high
+KR,單人家庭佔比,36.1,%,2024,韓國統計廳,high
+KR,公寓型住宅佔比,53.9,%,2024,韓國統計廳,high
+SG,3房BTO翻修總價下限,25,千新幣,2026,業界報價統計,high
+SG,中古屋翻修總價下限,50,千新幣,2026,業界報價統計,high
+CN,貝殼家裝前三季交易額,117,億人民幣,2024,Beike企業財報,high
+CN,新建住宅銷售面積,5.37,億平方米,2024,國家統計局,high
+MY,家裝市場規模,4.1,十億美元,2025,Ken Research,medium
+TH,傢俱與內裝市場規模,2.2,十億美元,2024,Ken Research,medium
+VN,國內家居傢俱市場規模,1.2,十億美元,2025,EMR,medium
+IN,室內設計市場規模,31.43,十億美元,2025,Mordor Intelligence,high
+APAC,商辦平均裝修成本,1550,美元/平方米,2025,JLL Fit-out Guide,high

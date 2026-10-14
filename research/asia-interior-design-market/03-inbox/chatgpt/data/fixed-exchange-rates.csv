@@ -1,0 +1,15 @@
+﻿currency,local_per_usd,period,source_id,source_url,evidence,confidence,label
+TWD,31.1663,2025年度平均,X01,https://www.federalreserve.gov/releases/g5a/current/default.htm,2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。,低,單源示意；固定比較參照，非即期
+JPY,149.5686,2025年度平均,X01,https://www.federalreserve.gov/releases/g5a/current/default.htm,2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。,低,單源示意；固定比較參照，非即期
+KRW,1421.3963,2025年度平均,X01,https://www.federalreserve.gov/releases/g5a/current/default.htm,2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。,低,單源示意；固定比較參照，非即期
+SGD,1.3065,2025年度平均,X01,https://www.federalreserve.gov/releases/g5a/current/default.htm,2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。,低,單源示意；固定比較參照，非即期
+HKD,7.7956,2025年度平均,X01,https://www.federalreserve.gov/releases/g5a/current/default.htm,2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。,低,單源示意；固定比較參照，非即期
+CNY,7.1875,2025年度平均,X01,https://www.federalreserve.gov/releases/g5a/current/default.htm,2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。,低,單源示意；固定比較參照，非即期
+MYR,4.2809,2025年度平均,X01,https://www.federalreserve.gov/releases/g5a/current/default.htm,2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。,低,單源示意；固定比較參照，非即期
+THB,32.8619,2025年度平均,X01,https://www.federalreserve.gov/releases/g5a/current/default.htm,2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。,低,單源示意；固定比較參照，非即期
+VND,24976.91,2025中央匯率年平均,X10,https://www.nso.gov.vn/tin-tuc-thong-ke/2026/01/thong-cao-bao-chi-tinh-hinh-kinh-te-xa-hoi-quy-iv-va-nam-2025/,"2025全年經社會新聞稿註11：平均中央匯率24.976,91 VND/USD。",低,單源示意；固定比較參照，非即期
+IDR,16782,2025-12年末中間價,X09,https://www.bi.go.id/SEKI/tabel/TABEL5_40.pdf,SEKI表5.40：2025末四個月份Sep/Oct/Nov/Dec=16680/16640/16644/16782。原16680錯標年末；用16782修正，X18同機構另一表確認。,低,單源示意；固定比較參照，非即期
+PHP,57.5051,2025年度平均,X08,https://www.bsp.gov.ph/statistics/external/tab12_pus_data.aspx,BSP Table12年平均列：2025=57.5051PHP/USD。,低,單源示意；固定比較參照，非即期
+INR,87.1468,2025年度平均,X01,https://www.federalreserve.gov/releases/g5a/current/default.htm,2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。,低,單源示意；固定比較參照，非即期
+EUR,0.884486113568017,2025年度平均,X01,https://www.federalreserve.gov/releases/g5a/current/default.htm,2026-01-05發布，2025年度日匯率平均；CNY7.1875、EUR1.1306USD/EUR、HKD7.7956、INR87.1468、JPY149.5686、MYR4.2809、SGD1.3065、KRW1421.3963、TWD31.1663、THB32.8619。,低,單源示意；固定比較參照，非即期
+USD,1,恆等式,計算定義,,1 USD = 1 USD,不適用,定義

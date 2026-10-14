@@ -1,0 +1,132 @@
+[
+{
+"market": "香港",
+"code": "HK",
+"low": 829,
+"high": 1655,
+"group": "高於台灣",
+"basis": "中階私樓；全屋均價約 1,380",
+"multiple": 0.6,
+"label": "示意"
+},
+{
+"market": "日本",
+"code": "JP",
+"low": 1003,
+"high": 1337,
+"group": "高於台灣",
+"basis": "全面翻新（C／D 級來源）",
+"multiple": 0.6,
+"label": "示意"
+},
+{
+"market": "台灣老屋全翻",
+"code": "TW2",
+"low": 971,
+"high": 1747,
+"group": "台灣",
+"basis": "30 年以上老屋全面翻新",
+"multiple": null,
+"label": "示意"
+},
+{
+"market": "台灣新成屋中階",
+"code": "TW",
+"low": 582,
+"high": 971,
+"group": "台灣",
+"basis": "新成屋中階（比較基準）",
+"multiple": null,
+"label": "示意"
+},
+{
+"market": "新加坡",
+"code": "SG",
+"low": 546,
+"high": 683,
+"group": "同級",
+"basis": "轉售組屋（面積以 90 m² 假設）",
+"multiple": 1.0,
+"label": "示意"
+},
+{
+"market": "韓國",
+"code": "KR",
+"low": 274,
+"high": 535,
+"group": "低於台灣",
+"basis": "C 級業者行情區間",
+"multiple": 1.9,
+"label": "示意"
+},
+{
+"market": "泰國",
+"code": "TH",
+"low": 243,
+"high": 456,
+"group": "低於台灣",
+"basis": "C 級業者行情區間",
+"multiple": 2.2,
+"label": "示意"
+},
+{
+"market": "菲律賓",
+"code": "PH",
+"low": 261,
+"high": 435,
+"group": "低於台灣",
+"basis": "C 級業者行情區間",
+"multiple": 2.2,
+"label": "示意"
+},
+{
+"market": "中國大陸",
+"code": "CN",
+"low": 167,
+"high": 390,
+"group": "低於台灣",
+"basis": "C 級業者行情區間",
+"multiple": 2.8,
+"label": "示意"
+},
+{
+"market": "馬來西亞",
+"code": "MY",
+"low": 126,
+"high": 377,
+"group": "低於台灣",
+"basis": "C 級業者行情區間",
+"multiple": 3.1,
+"label": "示意"
+},
+{
+"market": "越南",
+"code": "VN",
+"low": 200,
+"high": 260,
+"group": "低於台灣",
+"basis": "C 級業者行情區間",
+"multiple": 3.4,
+"label": "示意"
+},
+{
+"market": "印度",
+"code": "IN",
+"low": 148,
+"high": 247,
+"group": "低於台灣",
+"basis": "C 級業者行情區間",
+"multiple": 3.9,
+"label": "示意"
+},
+{
+"market": "印尼",
+"code": "ID",
+"low": 89,
+"high": 179,
+"group": "低於台灣",
+"basis": "C 級業者行情區間",
+"multiple": 5.8,
+"label": "示意"
+}
+]

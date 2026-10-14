@@ -1,0 +1,751 @@
+<style>
+.ad { display: flex; flex-direction: column; gap: var(--cds-gap-xl); font-family: var(--font-anthropic-sans); color: var(--color-fg); max-width: 1200px; margin-inline: auto; }
+.ad-head h1 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0; text-wrap: balance; }
+.ad-head p { margin: var(--cds-gap-xs) 0 0; color: var(--color-fg-muted); max-width: 72ch; line-height: 1.6; }
+.ad-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: var(--cds-gap-md); }
+.ad-tile { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: flex; flex-direction: column; gap: var(--cds-gap-xs); min-width: 0; }
+.ad-tile .k { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.ad-tile .v { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; line-height: 1.15; }
+.ad-tile .u { font-size: var(--cds-font-size-body); color: var(--color-fg-muted); margin-left: .2em; }
+.ad-tile .n { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); line-height: 1.5; }
+.ad-sec { display: flex; flex-direction: column; gap: var(--cds-gap-md); scroll-margin-top: var(--cds-gap-xl); }
+.ad-sec-h { display: flex; flex-direction: column; gap: var(--cds-gap-xs); }
+.ad-sec-h .q { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); letter-spacing: .06em; }
+.ad-sec-h h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0; }
+.ad-sec-h p { margin: 0; color: var(--color-fg-muted); max-width: 72ch; line-height: 1.6; }
+.ad-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 30rem), 1fr)); gap: var(--cds-gap-md); }
+.ad-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: flex; flex-direction: column; gap: var(--cds-gap-sm); min-width: 0; }
+.ad-card h3 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0; }
+.ad-card .note { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: 0; line-height: 1.5; }
+.ad-chart { position: relative; min-height: 260px; }
+.ad-chart svg { display: block; overflow: visible; font-family: var(--font-anthropic-sans); }
+.ad-legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs) var(--cds-gap-md); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.ad-legend span { display: inline-flex; align-items: center; gap: var(--cds-gap-xs); }
+.ad-legend i { display: inline-block; width: .75rem; height: .75rem; border-radius: 3px; }
+.ad-tip { position: absolute; z-index: 5; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); max-width: 18rem; line-height: 1.5; }
+.ad-tip .h { color: var(--cds-text-secondary); }
+.ad-fail { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; gap: var(--cds-gap-xs); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.ad-fail::before { content: ""; width: .375rem; height: .375rem; border-radius: 50%; background: var(--color-bad); }
+.ad-tbox { overflow-x: auto; }
+.ad-table { width: 100%; border-collapse: separate; border-spacing: 0; font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+.ad-table th { text-align: left; font-weight: var(--cds-font-weight-medium); color: var(--color-fg-muted); padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); white-space: nowrap; }
+.ad-table td { padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); vertical-align: middle; line-height: 1.5; }
+.ad-heat td { text-align: center; white-space: nowrap; }
+.ad-heat td:first-child, .ad-heat th:first-child { text-align: left; position: sticky; left: 0; background: var(--color-panel); z-index: 1; }
+.ad-heat td.lead { background: color-mix(in srgb, var(--color-ok) 22%, var(--color-panel)); color: var(--color-fg); }
+.ad-heat td.same { background: color-mix(in srgb, var(--color-fg) 5%, var(--color-panel)); color: var(--color-fg-muted); }
+.ad-heat td.lag { background: color-mix(in srgb, var(--color-bad) 24%, var(--color-panel)); color: var(--color-fg); }
+.ad-heat td.lag2 { background: color-mix(in srgb, var(--color-bad) 11%, var(--color-panel)); color: var(--color-fg); }
+.ad-heat td { border-right: 2px solid var(--color-panel); border-bottom: 2px solid var(--color-panel); }
+.ad-models td.s { text-align: center; background: color-mix(in srgb, var(--color-ok) calc(var(--s) * 7%), var(--color-panel)); border-right: 2px solid var(--color-panel); }
+.ad-models td.l4 { text-align: center; background: color-mix(in srgb, var(--color-bad) calc(var(--s) * 7%), var(--color-panel)); border-right: 2px solid var(--color-panel); }
+.ad-models td.tot { font-weight: var(--cds-font-weight-medium); white-space: nowrap; }
+.ad-models td.tot::after { content: ""; display: inline-block; vertical-align: middle; margin-left: .5em; height: .5rem; width: calc(var(--s) * 1rem); border-radius: 4px; background: var(--color-fg-muted); opacity: .45; }
+.ad-pill { display: inline-block; padding: 0 .55em; border-radius: 999px; font-weight: var(--cds-font-weight-medium); white-space: nowrap; }
+.ad-pill.do { color: var(--color-ok); background: color-mix(in srgb, var(--color-ok) 14%, var(--color-panel)); }
+.ad-pill.try { color: var(--color-warn); background: color-mix(in srgb, var(--color-warn) 14%, var(--color-panel)); }
+.ad-pill.no { color: var(--color-bad); background: color-mix(in srgb, var(--color-bad) 12%, var(--color-panel)); }
+.ad-foot { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); line-height: 1.6; border-top: 1px solid var(--color-border-line); padding-top: var(--cds-pad-md); }
+.ad-nav { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs); }
+.ad-nav a { font-size: var(--cds-font-size-caption); color: var(--color-fg); text-decoration: none; border: 1px solid var(--color-border-line); border-radius: 999px; padding: var(--cds-pad-xs) var(--cds-pad-sm); background: var(--color-panel); }
+.ad-nav a:hover, .ad-nav a:focus-visible { border-color: var(--color-fg-muted); }
+.ad-picker { position: sticky; top: 0; z-index: 4; display: flex; flex-wrap: wrap; align-items: center; gap: var(--cds-gap-xs); padding: var(--cds-pad-sm) 0; background: var(--color-bg); border-bottom: 1px solid var(--color-border-line); }
+.ad-picker .lbl { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin-right: var(--cds-gap-xs); }
+.ad-chip { font: inherit; font-size: var(--cds-font-size-caption); color: var(--color-fg); background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: 999px; padding: var(--cds-pad-xs) var(--cds-pad-sm); cursor: pointer; }
+.ad-chip:hover, .ad-chip:focus-visible { border-color: var(--color-fg-muted); outline: none; }
+.ad-chip[aria-pressed="true"] { background: var(--color-fg); color: var(--color-bg); border-color: var(--color-fg); }
+.ad-picked { font: inherit; font-size: var(--cds-font-size-caption); margin-left: auto; color: var(--color-fg); background: transparent; border: 1px dashed var(--color-fg-muted); border-radius: 999px; padding: var(--cds-pad-xs) var(--cds-pad-sm); cursor: pointer; }
+.ad-focus { gap: var(--cds-gap-md); }
+.ad-focus-top { display: flex; flex-wrap: wrap; align-items: baseline; gap: var(--cds-gap-sm) var(--cds-gap-md); }
+.ad-focus-top h3 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); }
+.ad-focus-top .meta { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.ad-focus .hl { font-size: var(--cds-font-size-heading); line-height: 1.5; margin: 0; }
+.ad-kv { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: var(--cds-gap-sm) var(--cds-gap-md); }
+.ad-kv div { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.ad-kv .k { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.ad-kv .v { font-size: var(--cds-font-size-caption); line-height: 1.5; }
+.ad-two { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); gap: var(--cds-gap-sm); }
+.ad-two div { border-radius: var(--cds-radius); padding: var(--cds-pad-sm) var(--cds-pad-md); font-size: var(--cds-font-size-caption); line-height: 1.6; }
+.ad-two .go { background: color-mix(in srgb, var(--color-ok) 12%, var(--color-panel)); }
+.ad-two .watch { background: color-mix(in srgb, var(--color-bad) 10%, var(--color-panel)); }
+.ad-two b { display: block; }
+.ad-heat th.on, .ad-heat td.on { outline: 2px solid var(--color-fg); outline-offset: -2px; font-weight: 600; }
+.ad-heat .dim { opacity: .28; }
+.ad-heat th { cursor: pointer; }
+.ad-table tr.dim td { opacity: .32; }
+.ad-chart .row { cursor: pointer; }
+[data-dash-source-state=empty] { color: transparent; }
+[data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+</style>
+
+<div class="ad">
+  <header class="ad-head">
+    <h1 id="top">亞洲裝修市場圖解 V2</h1>
+    <p id="takeaway">結論一句話：台灣把產能押在老屋翻新與信任產品；出海只做新加坡、越南、香港、熊本四個不設法人的輕資產試點，其餘市場只學制度、不進場。</p>
+  </header>
+
+  <nav class="ad-nav" aria-label="章節">
+    <a href="#s-tw">台灣站在哪裡</a>
+    <a href="#s-price">台灣報價出海</a>
+    <a href="#s-model">哪種模式可複製</a>
+    <a href="#s-xb">要不要出海</a>
+    <a href="#s-plan">接下來兩年</a>
+  </nav>
+
+  <section class="ad-tiles" aria-label="關鍵數字">
+    <div class="ad-tile">
+      <span class="k">台灣 30 年以上住宅占比</span>
+      <span><span class="v dash-skeleton" data-source="tw" data-field="value" data-where="id=old30">—</span><span class="u">%</span></span>
+      <span class="n">老屋是主戰場：自有、多無貸款、受利率影響小</span>
+    </div>
+    <div class="ad-tile">
+      <span class="k">台灣建物買賣登記年增</span>
+      <span><span class="v dash-skeleton" data-source="tw" data-field="value" data-where="id=sales">—</span><span class="u">%</span></span>
+      <span class="n">中古換屋鏈斷裂；新屋交屋潮也將退場</span>
+    </div>
+    <div class="ad-tile">
+      <span class="k">跨境分數最高的市場</span>
+      <span><span class="v dash-skeleton" data-source="xb_top" data-field="market" data-row="0">—</span><span class="u dash-skeleton" data-source="xb_top" data-field="score" data-row="0">—</span><span class="u">／5</span></span>
+      <span class="n">理由是法規開放與信任缺口，不是市場大</span>
+    </div>
+    <div class="ad-tile">
+      <span class="k">台灣中階單價是低所得市場的幾倍</span>
+      <span><span class="v dash-skeleton" data-source="tw_multiple" data-field="min" data-row="0">—</span><span class="v">–</span><span class="v dash-skeleton" data-source="tw_multiple" data-field="max" data-row="0">—</span><span class="u">倍</span></span>
+      <span class="n">在這些市場，台灣報價是出海的負債</span>
+    </div>
+  </section>
+
+  <div class="ad-picker" id="picker" role="toolbar" aria-label="市場篩選" data-source="countries">
+    <span class="lbl">聚焦市場</span>
+    <span id="picker-chips" style="display:contents"></span>
+    <button class="ad-picked" id="picked" type="button" hidden></button>
+  </div>
+
+  <section class="ad-card ad-focus" id="c-focus" hidden>
+    <div class="ad-focus-top">
+      <h3 id="f-name">—</h3>
+      <span class="meta"><span id="f-tier">—</span>｜跨境分數 <span id="f-score">—</span>｜資料可信度 <span id="f-conf">—</span></span>
+    </div>
+    <p class="hl" id="f-headline">—</p>
+    <div class="ad-kv">
+      <div><span class="k">人均 GDP（2025）</span><span class="v" id="f-gdp">—</span></div>
+      <div><span class="k">住宅翻修市場</span><span class="v" id="f-renovation">—</span></div>
+      <div><span class="k">中階單價（每坪）</span><span class="v" id="f-mid_price">—</span></div>
+      <div><span class="k">設計費行情</span><span class="v" id="f-design_fee">—</span></div>
+      <div><span class="k">30 年以上屋齡</span><span class="v" id="f-old30">—</span></div>
+      <div><span class="k">中古交易占比</span><span class="v" id="f-resale">—</span></div>
+    </div>
+    <div class="ad-two">
+      <div class="go"><b>進入路徑</b><span id="f-entry">—</span></div>
+      <div class="watch"><b>觀察重點</b><span id="f-watch">—</span></div>
+    </div>
+    <p class="note">下方所有圖表已把這個市場標亮、其他市場淡出；再點一次市場或按右上角取消。</p>
+  </section>
+
+  <section class="ad-sec" id="s-tw">
+    <div class="ad-sec-h">
+      <span class="q">Q1｜台灣的位置</span>
+      <h2>台灣站在哪裡：結構領先，組織落後</h2>
+      <p>綠色是台灣領先、紅色是落後。台灣在單價、設計費與政策工具上多半領先；對日本、韓國、新加坡，則在產業集中度、法規消保與平台上落後。</p>
+    </div>
+    <div class="ad-grid">
+      <div class="ad-card" id="c-heat">
+        <h3>台灣對 11 個市場：八個面向比一比</h3>
+        <p class="note">以台灣為主詞。單價與設計費「領先」＝台灣絕對水準較高。橫向捲動看全部市場。</p>
+        <div class="ad-tbox ad-chart dash-skeleton" id="heat-box" style="min-height:0">
+          <table class="ad-table ad-heat" id="heat-table" data-source="heat" data-row-key="面向">
+            <thead><tr id="heat-head"></tr></thead>
+            <tbody id="heat-body"></tbody>
+          </table>
+        </div>
+        <div class="ad-legend" aria-hidden="true">
+          <span><i style="background: color-mix(in srgb, var(--color-ok) 22%, var(--color-panel))"></i>台灣領先</span>
+          <span><i style="background: color-mix(in srgb, var(--color-fg) 8%, var(--color-panel))"></i>同級</span>
+          <span><i style="background: color-mix(in srgb, var(--color-bad) 11%, var(--color-panel))"></i>同級～落後</span>
+          <span><i style="background: color-mix(in srgb, var(--color-bad) 24%, var(--color-panel))"></i>台灣落後</span>
+        </div>
+      </div>
+      <div class="ad-card" id="c-signals">
+        <h3>需求訊號：新屋還在、換手斷了</h3>
+        <p class="note">年增率。右邊是增加、左邊是減少；滑過長條看期間與說明。</p>
+        <div class="ad-chart dash-skeleton" id="signals" data-source="tw"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="ad-sec" id="s-price">
+    <div class="ad-sec-h">
+      <span class="q">Q1／Q3｜定價力</span>
+      <h2>台灣報價出海：在 8 個市場是負債</h2>
+      <p>灰色帶是台灣新成屋中階單價區間。長條落在帶子左邊的市場，台灣報價比當地貴；只有香港與日本比台灣高，新加坡同級。</p>
+    </div>
+    <div class="ad-grid">
+      <div class="ad-card" id="c-pricing">
+        <h3>住宅中階單價區間（美元／m²）</h3>
+        <p class="note">C 級業者行情區間，口徑各異（全面翻新、全屋均價、轉售組屋、新屋內裝），只比區間、不排名次；全部示意，待璞石內部案件校準。</p>
+        <div class="ad-legend" id="pricing-legend"></div>
+        <div class="ad-chart dash-skeleton" id="pricing" data-source="pricing"></div>
+      </div>
+      <div class="ad-card" id="c-fitout">
+        <h3>商辦裝修單價（美元／ft²，2026）</h3>
+        <p class="note">唯一能直接比價的區段，結果對台灣不利：台北已高於所有東南亞城市，輸出純施工沒有價格優勢。單一顧問估計，示意。</p>
+        <div class="ad-chart dash-skeleton" id="fitout" data-source="fitout"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="ad-sec" id="s-model">
+    <div class="ad-sec-h">
+      <span class="q">Q2｜商業模式</span>
+      <h2>哪種模式可以複製：先做零售整合與交易連動</h2>
+      <p>綠色越深越有利；L4 難度欄是紅色越深越依賴創辦人。三方共同優先的還有信任產品化與整案含家具搭售（見 05-1 看板），本表只列有完整評分的八種原型。</p>
+    </div>
+    <div class="ad-card" id="c-models">
+      <h3>八種商業模式評分（1–5，示意）</h3>
+      <p class="note">綜合＝（契合＋資本輕＋SOP＋毛利＋（6 − L4 難度））÷ 5，四捨五入至 0.5。</p>
+      <div class="ad-tbox dash-skeleton" id="models-box">
+        <table class="ad-table ad-models" id="models-table" data-source="models" data-row-key="模式">
+          <thead><tr>
+            <th data-field="模式">模式</th><th data-field="契合">契合</th><th data-field="資本輕">資本輕</th><th data-field="SOP">SOP</th><th data-field="毛利">毛利</th><th data-field="L4難度">L4 難度</th><th data-field="綜合">綜合</th><th data-field="建議">建議</th><th data-field="條件">條件</th>
+          </tr></thead>
+          <tbody id="models-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="ad-sec" id="s-xb">
+    <div class="ad-sec-h">
+      <span class="q">Q3｜跨境</span>
+      <h2>要不要出海：只做四個輕資產試點</h2>
+      <p>長條長度是跨境綜合分，顏色是四個維度各貢獻多少。台灣優勢可移植性權重最高，所以新加坡、越南靠它勝出；2026–2027 不設海外法人、不開海外門市。</p>
+    </div>
+    <div class="ad-card" id="c-xb">
+      <h3>11 個市場的跨境綜合分與判定</h3>
+      <p class="note">各維度 1–5 分（5＝最有利），全部示意；滑過長條看各維度分數與進入路徑。法律結論需專業人士最終確認。</p>
+      <div class="ad-legend" id="xb-legend"></div>
+      <div class="ad-chart dash-skeleton" id="xb" data-source="xb_parts xborder"></div>
+    </div>
+  </section>
+
+  <section class="ad-sec" id="s-plan">
+    <div class="ad-sec-h">
+      <span class="q">行動</span>
+      <h2>接下來兩年：先做、再試、後出海</h2>
+      <p>時程以 2026 年 11 月啟動為假設（示意）。每條試點都有停損條件，達到就停，不開放例外。</p>
+    </div>
+    <div class="ad-card" id="c-plan">
+      <h3>行動路線圖</h3>
+      <p class="note">長條是執行期間，菱形是決策點或外部事件；虛線是今天。滑過看停損條件。</p>
+      <div class="ad-legend" id="plan-legend"></div>
+      <div class="ad-chart dash-skeleton" id="plan" data-source="roadmap"></div>
+    </div>
+    <div class="ad-card" id="c-stop">
+      <h3>停損規則</h3>
+      <p class="note">門檻全部示意，待內部數據 D1–D11 校準。</p>
+      <div class="ad-tbox dash-skeleton" id="stop-box">
+        <table class="ad-table" id="stop-table" data-source="stoploss" data-row-key="項目">
+          <thead><tr><th data-field="項目">項目</th><th data-field="停損條件">停損條件</th><th data-field="依據">依據</th></tr></thead>
+          <tbody id="stop-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <footer class="ad-foot">資料來源：璞石集團〈亞洲室內裝修設計市場研究 V2〉（資料截至 2026-10-10），整合 V1 多代理研究、ChatGPT r2 開頁核對、Claude r1 與 Gemini 對照。滑過圖表可看每個數字的標籤：實際＝已核對官方或公司資料；示意＝推估或業者行情。匯率採 2025 年平均固定匯率。法規與稅務結論需專業人士最終確認。</footer>
+</div>
+
+<script>
+(function () {
+  window.AD = window.AD || {};
+  const AD = window.AD;
+
+  AD.tip = function (box) {
+    let t = box.querySelector(':scope > .ad-tip');
+    if (!t) { t = document.createElement('div'); t.className = 'ad-tip'; t.hidden = true; box.appendChild(t); }
+    return t;
+  };
+  AD.showTip = function (box, lines, ev) {
+    const tip = AD.tip(box);
+    tip.replaceChildren();
+    lines.filter(Boolean).forEach((l, i) => {
+      const d = document.createElement('div');
+      d.textContent = l;
+      if (i === 0) d.className = 'h';
+      tip.appendChild(d);
+    });
+    tip.hidden = false;
+    const r = box.getBoundingClientRect();
+    let x = ev.clientX - r.left + 14, y = ev.clientY - r.top + 14;
+    const tw = tip.offsetWidth, th = tip.offsetHeight;
+    if (x + tw > r.width) x = Math.max(0, ev.clientX - r.left - tw - 14);
+    if (y + th > box.scrollHeight) y = Math.max(0, ev.clientY - r.top - th - 14);
+    tip.style.left = x + 'px';
+    tip.style.top = y + 'px';
+  };
+  AD.hideTip = function (box) { const t = box.querySelector(':scope > .ad-tip'); if (t) t.hidden = true; };
+
+  // Returns rows when the dataset is ready; otherwise clears the chart and shows its state.
+  AD.ready = function (ids, el, clear) {
+    const list = Array.isArray(ids) ? ids : [ids];
+    const states = list.map(id => dash.data(id));
+    el.querySelector(':scope > .ad-fail')?.remove();
+    if (states.every(s => s.status === 'ok')) { el.classList.remove('dash-skeleton'); return states.map(s => s.data); }
+    if (clear) clear();
+    if (states.some(s => s.status === 'error' || s.status === 'connect' || s.status === 'declined' || s.status === 'missing')) {
+      el.classList.remove('dash-skeleton');
+      const f = document.createElement('div'); f.className = 'ad-fail'; f.textContent = 'Failed to load'; el.appendChild(f);
+    } else {
+      el.classList.add('dash-skeleton');
+    }
+    return null;
+  };
+  AD.clearSvg = el => () => { el.querySelectorAll(':scope > svg').forEach(s => s.remove()); AD.hideTip(el); };
+  AD.width = el => Math.max(280, el.clientWidth || 640);
+  AD.textW = function (svg, str, cls) {
+    const t = svg.append('text').attr('class', cls || '').style('font-size', 'var(--cds-font-size-caption)').text(str);
+    const w = t.node().getComputedTextLength(); t.remove(); return w;
+  };
+  AD.pick = () => (dash.params().market || null);
+  AD.has = (codes, pick) => !pick || String(codes || '').split(',').includes(pick);
+  AD.FADE = 0.22;
+  AD.toggle = code => { if (!code) return; const cur = AD.pick(); dash.setParams({ market: cur === code ? null : code }); };
+  AD.signed = v => (v > 0 ? '+' : '') + d3.format('.1f')(v).replace('−', '-');
+  AD.num = d3.format(',');
+})();
+</script>
+
+<script>
+// Calculations shown in Sources
+dash.calc('xb_parts', {
+  inputs: ['xborder'],
+  title: '跨境分數拆解',
+  description: '四個維度分數乘上權重（台灣優勢 40%、市場吸引力 25%、執行風險 20%、法規 15%），四段加總即綜合分。',
+  fn: (xborder) => xborder.map(r => ({ code: r.code, market: r.market, T: r.T * 0.40, M: r.M * 0.25, X: r.X * 0.20, R: r.R * 0.15, score: r.score, decision: r.decision }))
+});
+dash.calc('xb_top', {
+  inputs: ['xborder'],
+  title: '跨境最高分市場',
+  description: '跨境綜合分最高的市場與分數。',
+  fn: (xborder) => { const t = xborder.reduce((a, b) => (b.score > a.score ? b : a)); return [{ market: t.market, score: t.score }]; }
+});
+dash.calc('tw_multiple', {
+  inputs: ['pricing'],
+  title: '台灣單價倍數區間',
+  description: '台灣新成屋中階單價對「低於台灣」各市場的中位數比，取最小與最大值。',
+  fn: (pricing) => { const m = pricing.filter(r => r.group === '低於台灣').map(r => r.multiple); return [{ min: Math.min(...m), max: Math.max(...m), markets: m.length }]; }
+});
+</script>
+
+<script>
+(function () {
+  const AD = window.AD;
+  const WEIGHTS = [
+    { key: 'T', name: '台灣優勢可移植性', w: '40%' },
+    { key: 'M', name: '市場吸引力', w: '25%' },
+    { key: 'X', name: '執行風險', w: '20%' },
+    { key: 'R', name: '法規可進入性', w: '15%' }
+  ];
+  const LANES = ['做', '試', '海外', '決策點', '外部時程'];
+  const VERDICT = { '領先': 'lead', '同級': 'same', '落後': 'lag', '同級～落後': 'lag2' };
+  const PILL = { '做': 'do', '試': 'try', '不做': 'no', '試點': 'do', '有條件': 'try', '不進': 'no' };
+
+  function legend(el, items) {
+    el.replaceChildren();
+    items.forEach(it => {
+      const s = document.createElement('span');
+      const i = document.createElement('i');
+      i.style.background = it.color;
+      if (it.border) i.style.border = it.border;
+      s.appendChild(i);
+      s.appendChild(document.createTextNode(it.label));
+      el.appendChild(s);
+    });
+  }
+
+  // ---------- heatmap table ----------
+  function drawHeat() {
+    const box = document.getElementById('heat-box');
+    const head = document.getElementById('heat-head');
+    const body = document.getElementById('heat-body');
+    const got = AD.ready('heat', box, () => { head.replaceChildren(); body.replaceChildren(); });
+    if (!got) return;
+    const d = dash.data('heat');
+    const cols = d.columns || Object.keys(got[0][0] || {});
+    const cs = dash.data('countries');
+    const codeOf = new Map((cs.status === 'ok' ? cs.data : []).map(c => [c.name, c.code]));
+    const pick = AD.pick();
+    const state = c => (c === '面向' || !pick) ? '' : (codeOf.get(c) === pick ? 'on' : 'dim');
+    head.replaceChildren();
+    cols.forEach(c => {
+      const th = document.createElement('th'); th.setAttribute('data-field', c); th.textContent = c;
+      const st = state(c); if (st) th.classList.add(st);
+      if (c !== '面向') th.addEventListener('click', () => AD.toggle(codeOf.get(c)));
+      head.appendChild(th);
+    });
+    body.replaceChildren();
+    got[0].forEach(r => {
+      const tr = document.createElement('tr');
+      cols.forEach(c => {
+        const td = document.createElement('td');
+        td.textContent = r[c];
+        if (c !== '面向' && VERDICT[r[c]]) td.classList.add(VERDICT[r[c]]);
+        const st = state(c); if (st) td.classList.add(st);
+        if (c !== '面向') td.addEventListener('click', () => AD.toggle(codeOf.get(c)));
+        tr.appendChild(td);
+      });
+      body.appendChild(tr);
+    });
+  }
+
+  // ---------- Taiwan signals (diverging bars) ----------
+  function drawSignals() {
+    const el = document.getElementById('signals');
+    const got = AD.ready('tw', el, AD.clearSvg(el));
+    if (!got) return;
+    const rows = got[0].filter(r => r.kind === 'change').sort((a, b) => b.value - a.value);
+    AD.clearSvg(el)();
+    const W = AD.width(el), rowH = 54, top = 4, H = top + rows.length * rowH + 8;
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('height', H);
+    const maxAbs = d3.max(rows, r => Math.abs(r.value)) * 1.25;
+    const x = d3.scaleLinear([-maxAbs, maxAbs], [0, W]);
+    svg.append('line').attr('x1', x(0)).attr('x2', x(0)).attr('y1', top).attr('y2', H - 6)
+      .style('stroke', 'var(--cds-chart-axis)').attr('stroke-width', 1);
+    const g = svg.selectAll('g.row').data(rows).join('g').attr('class', 'row')
+      .attr('transform', (r, i) => `translate(0,${top + i * rowH})`);
+    g.append('text').attr('x', 0).attr('y', 14)
+      .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg)')
+      .text(r => `${r.metric}（${r.period}）`);
+    g.append('rect')
+      .attr('x', r => Math.min(x(0), x(r.value))).attr('y', 22).attr('height', 18)
+      .attr('width', r => Math.abs(x(r.value) - x(0))).attr('rx', 4)
+      .style('fill', r => (r.value >= 0 ? dash.colors[0] : dash.colors[1]));
+    g.append('text').attr('y', 36)
+      .attr('x', r => (r.value >= 0 ? x(r.value) + 6 : x(r.value) - 6))
+      .attr('text-anchor', r => (r.value >= 0 ? 'start' : 'end'))
+      .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg)')
+      .style('font-variant-numeric', 'tabular-nums').style('font-weight', 600)
+      .text(r => AD.signed(r.value) + '%');
+    g.append('rect').attr('x', 0).attr('y', 0).attr('width', W).attr('height', rowH).style('fill', 'transparent')
+      .on('mousemove', (ev, r) => AD.showTip(el, [r.metric, `${r.period}：${AD.signed(r.value)}%`, r.note, `標籤：${r.label}`], ev))
+      .on('mouseleave', () => AD.hideTip(el));
+  }
+
+  // ---------- pricing ranges ----------
+  function drawPricing() {
+    const el = document.getElementById('pricing');
+    legend(document.getElementById('pricing-legend'), [
+      { label: '台灣（比較基準）', color: dash.colors[0] },
+      { label: '其他市場', color: 'var(--cds-chart-muted)' },
+      { label: '台灣新成屋中階區間', color: `color-mix(in srgb, ${dash.colors[0]} 16%, transparent)` }
+    ]);
+    const got = AD.ready('pricing', el, AD.clearSvg(el));
+    if (!got) return;
+    const rows = got[0].slice().sort((a, b) => (b.low + b.high) - (a.low + a.high));
+    const base = rows.find(r => r.code === 'TW');
+    AD.clearSvg(el)();
+    const W = AD.width(el), rowH = 46, top = 6, axisH = 26, H = top + rows.length * rowH + axisH;
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('height', H);
+    const x = d3.scaleLinear([0, d3.max(rows, r => r.high) * 1.04], [0, W - 4]);
+    const ticks = x.ticks(W < 480 ? 4 : 6);
+    svg.append('g').selectAll('line').data(ticks).join('line')
+      .attr('x1', d => x(d)).attr('x2', d => x(d)).attr('y1', top).attr('y2', H - axisH)
+      .style('stroke', 'var(--cds-chart-grid)').attr('stroke-width', 1);
+    svg.append('g').selectAll('text').data(ticks).join('text')
+      .attr('x', d => x(d)).attr('y', H - 8).attr('text-anchor', (d, i) => (i === 0 ? 'start' : 'middle'))
+      .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg-muted)').text(d => AD.num(d));
+    if (base) {
+      svg.append('rect').attr('x', x(base.low)).attr('width', x(base.high) - x(base.low)).attr('y', top).attr('height', H - axisH - top)
+        .style('fill', `color-mix(in srgb, ${dash.colors[0]} 16%, transparent)`);
+    }
+    const g = svg.selectAll('g.row').data(rows).join('g').attr('class', 'row')
+      .attr('transform', (r, i) => `translate(0,${top + i * rowH})`);
+    const isTW = r => r.group === '台灣';
+    const pick = AD.pick();
+    const codeP = r => (r.code === 'TW2' ? 'TW' : r.code);
+    g.style('opacity', r => (AD.has(codeP(r), pick) ? 1 : AD.FADE)).on('click', (ev, r) => AD.toggle(codeP(r)));
+    g.append('text').attr('x', 0).attr('y', 13)
+      .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg)')
+      .style('font-weight', r => (isTW(r) ? 600 : 400))
+      .text(r => {
+        const range = `${AD.num(r.low)}–${AD.num(r.high)}`;
+        if (r.group === '低於台灣') return `${r.market}　${range}　台灣為其 ${r.multiple} 倍`;
+        if (r.group === '同級') return `${r.market}　${range}　與台灣同級`;
+        if (r.group === '高於台灣') return `${r.market}　${range}　高於台灣`;
+        return `${r.market}　${range}`;
+      });
+    g.append('rect').attr('x', r => x(r.low)).attr('width', r => Math.max(4, x(r.high) - x(r.low)))
+      .attr('y', 20).attr('height', 16).attr('rx', 4)
+      .style('fill', r => (isTW(r) ? dash.colors[0] : (pick && codeP(r) === pick ? dash.colors[1] : 'var(--cds-chart-muted)')));
+    g.append('rect').attr('x', 0).attr('y', 0).attr('width', W).attr('height', rowH).style('fill', 'transparent')
+      .on('mousemove', (ev, r) => AD.showTip(el, [r.market, `${AD.num(r.low)}–${AD.num(r.high)} 美元／m²`, r.basis,
+        r.group === '低於台灣' ? `台灣新成屋中階為其 ${r.multiple} 倍` : (r.group === '高於台灣' ? `台灣約為其 ${r.multiple} 倍` : ''), `標籤：${r.label}`], ev))
+      .on('mouseleave', () => AD.hideTip(el));
+  }
+
+  // ---------- office fit-out ----------
+  function drawFitout() {
+    const el = document.getElementById('fitout');
+    const got = AD.ready('fitout', el, AD.clearSvg(el));
+    if (!got) return;
+    const rows = got[0].slice().sort((a, b) => b.high - a.high);
+    AD.clearSvg(el)();
+    const W = AD.width(el), rowH = 34, top = 4, H = top + rows.length * rowH + 4;
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('height', H);
+    const lw = d3.max(rows, r => AD.textW(svg, r.city)) + 12;
+    const vw = AD.textW(svg, '000–000') + 10;
+    const x = d3.scaleLinear([0, d3.max(rows, r => r.high)], [lw, W - vw]);
+    const pick0 = AD.pick();
+    const pick = rows.some(r => r.code === pick0) ? pick0 : null;
+    const isTP = r => (pick ? r.code === pick : r.city === '台北');
+    const g = svg.selectAll('g.row').data(rows).join('g').attr('class', 'row')
+      .attr('transform', (r, i) => `translate(0,${top + i * rowH})`)
+      .style('opacity', r => (AD.has(r.code, pick) ? 1 : AD.FADE)).on('click', (ev, r) => AD.toggle(r.code));
+    g.append('text').attr('x', lw - 10).attr('y', 20).attr('text-anchor', 'end')
+      .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg)')
+      .style('font-weight', r => (isTP(r) ? 600 : 400)).text(r => r.city);
+    g.append('rect').attr('x', lw).attr('y', 6).attr('height', 20).attr('rx', 4)
+      .attr('width', r => x(r.low) - lw)
+      .style('fill', r => (isTP(r) ? dash.colors[0] : 'var(--cds-chart-muted)'));
+    g.filter(r => r.high > r.low).append('rect').attr('x', r => x(r.low) + 2).attr('y', 6).attr('height', 20).attr('rx', 4)
+      .attr('width', r => x(r.high) - x(r.low) - 2).style('fill', 'var(--cds-chart-muted)').style('opacity', .45);
+    g.append('text').attr('x', r => x(r.high) + 6).attr('y', 20)
+      .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg)')
+      .style('font-variant-numeric', 'tabular-nums').style('font-weight', r => (isTP(r) ? 600 : 400))
+      .text(r => (r.high > r.low ? `${r.low}–${r.high}` : `${r.high}`));
+    g.append('rect').attr('x', 0).attr('y', 0).attr('width', W).attr('height', rowH).style('fill', 'transparent')
+      .on('mousemove', (ev, r) => AD.showTip(el, [r.city, `${r.high > r.low ? r.low + '–' + r.high : r.high} 美元／ft²（2026）`, r.note, `標籤：${r.label}`], ev))
+      .on('mouseleave', () => AD.hideTip(el));
+  }
+
+  // ---------- models table ----------
+  function drawModels() {
+    const box = document.getElementById('models-box');
+    const body = document.getElementById('models-body');
+    const got = AD.ready('models', box, () => body.replaceChildren());
+    if (!got) return;
+    body.replaceChildren();
+    got[0].slice().sort((a, b) => b['綜合'] - a['綜合']).forEach(r => {
+      const tr = document.createElement('tr');
+      const add = (txt, cls, s) => { const td = document.createElement('td'); td.textContent = txt; if (cls) td.className = cls; if (s != null) td.style.setProperty('--s', s); tr.appendChild(td); return td; };
+      add(r['模式']);
+      ['契合', '資本輕', 'SOP', '毛利'].forEach(k => add(String(r[k]), 's', r[k]));
+      add(String(r['L4難度']), 'l4', r['L4難度']);
+      add(d3.format('.1f')(r['綜合']), 'tot', r['綜合']);
+      const td = add('', '');
+      const p = document.createElement('span'); p.className = 'ad-pill ' + (PILL[r['建議']] || ''); p.textContent = r['建議']; td.appendChild(p);
+      add(r['條件']);
+      body.appendChild(tr);
+    });
+  }
+
+  // ---------- cross-border stacked bars ----------
+  function drawXb() {
+    const el = document.getElementById('xb');
+    legend(document.getElementById('xb-legend'), WEIGHTS.map((w, i) => ({ label: `${w.name}（權重 ${w.w}）`, color: dash.colors[i] })));
+    const got = AD.ready(['xb_parts', 'xborder'], el, AD.clearSvg(el));
+    if (!got) return;
+    const parts = got[0].slice().sort((a, b) => b.score - a.score || a.market.localeCompare(b.market));
+    const raw = new Map(got[1].map(r => [r.code, r]));
+    AD.clearSvg(el)();
+    const W = AD.width(el), rowH = 40, top = 4, axisH = 26, H = top + parts.length * rowH + axisH;
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('height', H);
+    const lw = d3.max(parts, r => AD.textW(svg, r.market)) + 14;
+    const rw = AD.textW(svg, '0.0') + AD.textW(svg, '有條件') + 44;
+    const x = d3.scaleLinear([0, 5], [lw, W - rw]);
+    const ticks = [0, 1, 2, 3, 4, 5];
+    svg.append('g').selectAll('line').data(ticks).join('line')
+      .attr('x1', d => x(d)).attr('x2', d => x(d)).attr('y1', top).attr('y2', H - axisH)
+      .style('stroke', 'var(--cds-chart-grid)').attr('stroke-width', 1);
+    svg.append('g').selectAll('text').data(ticks).join('text')
+      .attr('x', d => x(d)).attr('y', H - 8).attr('text-anchor', 'middle')
+      .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg-muted)').text(d => d);
+    const pick0 = AD.pick();
+    const pick = parts.some(r => r.code === pick0) ? pick0 : null;
+    const g = svg.selectAll('g.row').data(parts).join('g').attr('class', 'row')
+      .attr('transform', (r, i) => `translate(0,${top + i * rowH})`)
+      .style('opacity', r => (AD.has(r.code, pick) ? 1 : AD.FADE)).on('click', (ev, r) => AD.toggle(r.code));
+    g.append('text').attr('x', lw - 10).attr('y', 24).attr('text-anchor', 'end')
+      .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg)').text(r => r.market);
+    g.each(function (r) {
+      let acc = 0;
+      const sel = d3.select(this);
+      WEIGHTS.forEach((w, i) => {
+        const v = r[w.key];
+        const x0 = x(acc), x1 = x(acc + v);
+        sel.append('rect').attr('x', x0 + (i ? 1 : 0)).attr('y', 9).attr('height', 22)
+          .attr('width', Math.max(0, x1 - x0 - (i ? 1 : 0) - (i < WEIGHTS.length - 1 ? 1 : 0)))
+          .attr('rx', (i === 0 || i === WEIGHTS.length - 1) ? 4 : 0)
+          .style('fill', dash.colors[i]);
+        acc += v;
+      });
+      const xe = x(acc) + 8;
+      sel.append('text').attr('x', xe).attr('y', 24)
+        .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg)')
+        .style('font-weight', 600).style('font-variant-numeric', 'tabular-nums').text(d3.format('.1f')(r.score));
+      const pw = AD.textW(svg, r.decision) + 14;
+      const px = xe + AD.textW(svg, '0.0') + 10;
+      const tone = PILL[r.decision] === 'do' ? 'var(--color-ok)' : (PILL[r.decision] === 'no' ? 'var(--color-bad)' : 'var(--color-warn)');
+      sel.append('rect').attr('x', px).attr('y', 9).attr('width', pw).attr('height', 22).attr('rx', 11)
+        .style('fill', `color-mix(in srgb, ${tone} 14%, transparent)`);
+      sel.append('text').attr('x', px + pw / 2).attr('y', 24).attr('text-anchor', 'middle')
+        .style('font-size', 'var(--cds-font-size-caption)').style('fill', tone).style('font-weight', 600).text(r.decision);
+    });
+    g.append('rect').attr('x', 0).attr('y', 0).attr('width', W).attr('height', rowH).style('fill', 'transparent')
+      .on('mousemove', (ev, r) => {
+        const s = raw.get(r.code) || {};
+        AD.showTip(el, [`${r.market}　綜合 ${d3.format('.1f')(r.score)}（${r.decision}）`,
+          `台灣優勢 ${s.T}、市場 ${s.M}、執行風險 ${s.X}、法規 ${s.R}`, s.entry, `標籤：${s.label}`], ev);
+      })
+      .on('mouseleave', () => AD.hideTip(el));
+  }
+
+  // ---------- roadmap gantt ----------
+  function drawPlan() {
+    const el = document.getElementById('plan');
+    const laneColor = { '做': dash.colors[0], '試': dash.colors[1], '海外': dash.colors[2], '決策點': dash.colors[3], '外部時程': 'var(--cds-chart-muted)' };
+    legend(document.getElementById('plan-legend'), LANES.map(l => ({ label: l === '海外' ? '海外試點' : l, color: laneColor[l] })));
+    const got = AD.ready('roadmap', el, AD.clearSvg(el));
+    if (!got) return;
+    const parse = d3.utcParse('%Y-%m-%d');
+    const rows = got[0].map(r => ({ ...r, s: parse(r.start), e: parse(r.end) }));
+    const items = [];
+    LANES.forEach(l => { const rs = rows.filter(r => r.lane === l); if (rs.length) { items.push({ head: l }); rs.forEach(r => items.push(r)); } });
+    AD.clearSvg(el)();
+    const W = AD.width(el), axisH = 28, headH = 30, rowH = 44;
+    let y = axisH + 6;
+    items.forEach(it => { it.y = y; y += it.head ? headH : rowH; });
+    const H = y + 6;
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('height', H);
+    const minD = d3.min(rows, r => r.s), maxD = d3.max(rows, r => r.e);
+    const x = d3.scaleUtc([d3.utcMonth.floor(minD), d3.utcMonth.offset(d3.utcMonth.floor(maxD), 2)], [6, W - 6]);
+    const ticks = x.ticks(d3.utcMonth.every(W < 560 ? 6 : 3));
+    svg.append('g').selectAll('line').data(ticks).join('line')
+      .attr('x1', d => x(d)).attr('x2', d => x(d)).attr('y1', axisH).attr('y2', H)
+      .style('stroke', 'var(--cds-chart-grid)').attr('stroke-width', 1);
+    svg.append('g').selectAll('text').data(ticks).join('text')
+      .attr('x', d => x(d)).attr('y', 16).attr('text-anchor', 'middle')
+      .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg-muted)')
+      .text(d => d3.utcFormat('%Y-%m')(d));
+    const today = new Date();
+    if (today >= x.domain()[0] && today <= x.domain()[1]) {
+      svg.append('line').attr('x1', x(today)).attr('x2', x(today)).attr('y1', axisH - 4).attr('y2', H)
+        .style('stroke', 'var(--cds-chart-reference)').attr('stroke-width', 1).attr('stroke-dasharray', '4 3');
+    }
+    items.filter(it => it.head).forEach(it => {
+      svg.append('text').attr('x', 0).attr('y', it.y + 20)
+        .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg-muted)')
+        .style('font-weight', 600).style('letter-spacing', '.06em').text(it.head === '海外' ? '海外試點' : it.head);
+    });
+    const pick0 = AD.pick();
+    const pick = rows.some(r => AD.has(r.markets, pick0) && r.markets) ? pick0 : null;
+    const g = svg.selectAll('g.row').data(items.filter(it => !it.head)).join('g').attr('class', 'row')
+      .attr('transform', it => `translate(0,${it.y})`)
+      .style('opacity', it => (!pick || (it.markets && AD.has(it.markets, pick)) ? 1 : AD.FADE))
+      .on('click', (ev, it) => AD.toggle(String(it.markets || '').split(',')[0]));
+    g.append('text').attr('y', 14)
+      .style('font-size', 'var(--cds-font-size-caption)').style('fill', 'var(--color-fg)').text(it => it.item)
+      .each(function (it) { const len = this.getComputedTextLength(); d3.select(this).attr('x', Math.max(0, Math.min(x(it.s), W - len - 2))); });
+    g.filter(it => it.shape === 'bar').append('rect')
+      .attr('x', it => x(it.s)).attr('y', 21).attr('height', 14).attr('rx', 4)
+      .attr('width', it => Math.max(6, x(it.e) - x(it.s)))
+      .style('fill', it => laneColor[it.lane]);
+    g.filter(it => it.shape === 'milestone').append('rect')
+      .attr('x', -6).attr('y', -6).attr('width', 12).attr('height', 12).attr('rx', 2)
+      .attr('transform', it => `translate(${x(it.s)},28) rotate(45)`)
+      .style('fill', it => laneColor[it.lane]);
+    g.append('rect').attr('x', 0).attr('y', 0).attr('width', W).attr('height', rowH).style('fill', 'transparent')
+      .on('mousemove', (ev, it) => {
+        const f = d3.utcFormat('%Y-%m');
+        const when = it.shape === 'bar' ? `${f(it.s)} 至 ${f(it.e)}` : d3.utcFormat('%Y-%m-%d')(it.s);
+        AD.showTip(el, [it.item, when, it.note], ev);
+      })
+      .on('mouseleave', () => AD.hideTip(el));
+  }
+
+  // ---------- stop-loss table ----------
+  function drawStop() {
+    const box = document.getElementById('stop-box');
+    const body = document.getElementById('stop-body');
+    const got = AD.ready('stoploss', box, () => body.replaceChildren());
+    if (!got) return;
+    body.replaceChildren();
+    const pick = AD.pick();
+    got[0].forEach(r => {
+      const tr = document.createElement('tr');
+      const m = r['市場'];
+      const hit = !pick || (m ? AD.has(m, pick) : pick !== 'TW');
+      if (!hit) tr.className = 'dim';
+      ['項目', '停損條件', '依據'].forEach(k => { const td = document.createElement('td'); td.textContent = r[k]; tr.appendChild(td); });
+      body.appendChild(tr);
+    });
+  }
+
+  // ---------- tiles ----------
+  function drawTiles() {
+    const fill = (sel, fmt) => document.querySelectorAll(sel).forEach(el => {
+      const id = el.getAttribute('data-source');
+      const d = dash.data(id);
+      if (d.status !== 'ok') { el.textContent = '—'; if (d.status === 'loading') el.classList.add('dash-skeleton'); else el.classList.remove('dash-skeleton'); return; }
+      el.classList.remove('dash-skeleton');
+      const f = el.getAttribute('data-field');
+      let row;
+      if (el.hasAttribute('data-row')) row = d.data[Number(el.getAttribute('data-row'))];
+      else { const [k, v] = el.getAttribute('data-where').split('='); row = d.data.find(r => String(r[k]) === v); }
+      el.textContent = row ? fmt(row[f], f) : '—';
+    });
+    fill('[data-source="tw"][data-where="id=old30"]', v => String(v));
+    fill('[data-source="tw"][data-where="id=sales"]', v => AD.signed(v));
+    fill('[data-source="xb_top"]', (v, f) => (f === 'score' ? d3.format('.1f')(v) : v));
+    fill('[data-source="tw_multiple"]', v => d3.format('.1f')(v));
+  }
+
+  // ---------- market picker and focus card ----------
+  const FOCUS = ['name', 'tier', 'score', 'confidence', 'headline', 'gdp', 'renovation', 'mid_price', 'design_fee', 'old30', 'resale', 'entry', 'watch'];
+  const FID = { confidence: 'f-conf' };
+  document.getElementById('picked').addEventListener('click', () => dash.setParams({ market: null }));
+  function drawPicker() {
+    const wrap = document.getElementById('picker-chips');
+    const picked = document.getElementById('picked');
+    const focus = document.getElementById('c-focus');
+    const d = dash.data('countries');
+    const pick = AD.pick();
+    if (d.status !== 'ok') { wrap.replaceChildren(); picked.hidden = true; focus.hidden = true; return; }
+    wrap.replaceChildren(...d.data.map(c => {
+      const b = document.createElement('button');
+      b.type = 'button'; b.className = 'ad-chip'; b.textContent = c.name;
+      b.setAttribute('aria-pressed', String(c.code === pick));
+      b.addEventListener('click', () => AD.toggle(c.code));
+      return b;
+    }));
+    const row = pick ? d.data.find(c => c.code === pick) : null;
+    picked.hidden = !row;
+    picked.textContent = row ? `已聚焦：${row.name}　取消 ×` : '';
+    focus.hidden = !row;
+    FOCUS.forEach(f => {
+      const el = document.getElementById(FID[f] || ('f-' + f));
+      if (!row) { el.removeAttribute('data-source'); el.removeAttribute('data-field'); el.removeAttribute('data-where'); el.textContent = '—'; return; }
+      const v = row[f];
+      if (v == null) { el.removeAttribute('data-source'); el.removeAttribute('data-field'); el.removeAttribute('data-where'); el.textContent = '比較基準'; return; }
+      el.setAttribute('data-source', 'countries'); el.setAttribute('data-field', f); el.setAttribute('data-where', 'code=' + encodeURIComponent(row.code));
+      el.textContent = f === 'score' ? d3.format('.1f')(v) : String(v);
+    });
+  }
+
+  let first = true;
+  dash.onData(() => {
+    drawPicker(); drawTiles(); drawHeat(); drawSignals(); drawPricing(); drawFitout(); drawModels(); drawXb(); drawPlan(); drawStop();
+    if (first) {
+      first = false;
+      const named = document.getElementById(location.hash.slice(1));
+      if (named) named.scrollIntoView();
+    }
+  });
+
+  document.querySelectorAll('.ad-nav a').forEach(a => a.addEventListener('click', ev => {
+    const id = a.getAttribute('href').slice(1);
+    const t = document.getElementById(id);
+    if (t) { ev.preventDefault(); t.scrollIntoView({ behavior: 'smooth', block: 'start' }); dash.setLink(id); }
+  }));
+})();
+</script>
